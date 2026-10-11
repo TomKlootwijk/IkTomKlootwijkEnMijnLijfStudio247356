@@ -1,0 +1,52 @@
+{
+  "id": "TttoDBt4xiQ",
+  "title": "Chris the hacker goes emo",
+  "description": null,
+  "webpage_url": "https://www.youtube.com/watch?v=TttoDBt4xiQ",
+  "uploader": "666j1",
+  "uploader_id": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "upload_date": null,
+  "timestamp": null,
+  "duration": 611,
+  "tags": null,
+  "categories": null,
+  "license": null,
+  "age_limit": null,
+  "availability": null,
+  "language": null,
+  "view_count": null,
+  "like_count": null,
+  "playlist_id": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v",
+  "playlist_title": "Chris the Hacker and Tom the Fag",
+  "playlist_position": 101,
+  "archived_at": "2026-10-11T09:07:14.105673+00:00",
+  "archive_mirror": {
+    "id": "TttoDBt4xiQ",
+    "media_url": "https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/TttoDBt4xiQ",
+    "media_name": "TttoDBt4xiQ.mp4",
+    "size": 22229726,
+    "media_sha1": null,
+    "info_url": null,
+    "original_metadata": {
+      "id": "TttoDBt4xiQ",
+      "title": "Chris the hacker goes emo",
+      "duration": 611,
+      "uploader": "666j1",
+      "webpage_url": "https://www.youtube.com/watch?v=TttoDBt4xiQ"
+    },
+    "metadata_source_url": "https://web.archive.org/web/20130407221021id_/http://www.youtube.com/watch?v=TttoDBt4xiQ",
+    "verification": {
+      "http_status": 200,
+      "content_type": "video/mp4",
+      "content_length": 22229726,
+      "method": "HTTP HEAD; no media downloaded"
+    },
+    "archive_identifier": "Wayback Machine",
+    "original_saved_title": "Chris the hacker goes emo",
+    "sha1_verified": false,
+    "download_sha256": "3c3551f188f1829aff253321ef327ea59d474150896e31fe9c01a552f4bfb39a"
+  }
+}

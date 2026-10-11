@@ -1,0 +1,113 @@
+Chris the Hacker and Tom the Fag - Oct 2009 - 3/5 - "Schoolin'"
+https://www.youtube.com/watch?v=KmvmH_S32Ek
+Language: en | Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors.
+
+[00:00:00.000 --> 00:00:06.640] Oh, well, yeah, well, yeah, I don't really care. You just, uh, tell us when you're ready.
+[00:00:08.120 --> 00:00:09.720] Well, okay. Yeah, I will.
+[00:00:12.500 --> 00:00:16.320] So, how's college going for you?
+[00:00:17.080 --> 00:00:17.480] Uni.
+[00:00:19.560 --> 00:00:20.120] Uni first.
+[00:00:20.120 --> 00:00:22.560] Uni. Yeah, uni my ass.
+[00:00:23.000 --> 00:00:27.400] How can you go to uni anyway? I mean, um, don't you need college for that first?
+[00:00:27.640 --> 00:00:29.720] Yes, I did. I finished that.
+[00:00:30.840 --> 00:00:31.140] When?
+[00:00:31.860 --> 00:00:32.900] Like last year.
+[00:00:34.000 --> 00:00:34.820] Most people saw...
+[00:00:34.820 --> 00:00:36.340] Wait a minute, so what you guys...
+[00:00:36.340 --> 00:00:38.020] Wait a minute here, you guys are confusing me.
+[00:00:38.280 --> 00:00:43.220] See, over here, you really gotta work your ass off to get through college means something.
+[00:00:43.760 --> 00:00:47.640] You can't complete college by the time you're fucking 19 over here.
+[00:00:47.660 --> 00:00:48.200] Yeah, exactly.
+[00:00:48.480 --> 00:00:50.700] Uh, yes, you can, over here.
+[00:00:51.400 --> 00:00:52.560] Takes like four years, man.
+[00:00:53.100 --> 00:00:53.700] Yeah, so?
+[00:00:53.920 --> 00:00:55.100] I finished the fucking four years.
+[00:00:55.100 --> 00:00:55.920] What do you mean four years?
+[00:00:55.920 --> 00:00:58.920] You don't get out of high school here until you're 17.
+[00:01:00.000 --> 00:01:03.000] When did you get out of high school there?
+[00:01:03.000 --> 00:01:04.000] Sixteen.
+[00:01:04.000 --> 00:01:05.000] Sixteen.
+[00:01:05.000 --> 00:01:07.000] Sixteen, yeah.
+[00:01:07.000 --> 00:01:09.000] I had the whole...
+[00:01:09.000 --> 00:01:12.000] But it's two years then, you know, nineteen.
+[00:01:12.000 --> 00:01:14.000] So how long is high school over there?
+[00:01:14.000 --> 00:01:16.000] Is it four years like it is over here?
+[00:01:16.000 --> 00:01:17.000] Yeah, four years.
+[00:01:17.000 --> 00:01:18.000] Four years?
+[00:01:18.000 --> 00:01:19.000] Yes.
+[00:01:19.000 --> 00:01:20.000] Wow, okay.
+[00:01:20.000 --> 00:01:22.000] So four years, and then you get out.
+[00:01:22.000 --> 00:01:23.000] So you...
+[00:01:23.000 --> 00:01:25.000] Wait a minute here.
+[00:01:25.000 --> 00:01:29.000] It's ninth, tenth, eleventh, and twelfth.
+[00:01:30.000 --> 00:01:38.260] You go in at, typically, over here we start in September, so we'll say that you're 14 when you go into the 9th grade.
+[00:01:39.580 --> 00:01:39.780] Yeah.
+[00:01:39.840 --> 00:01:44.480] 14, you go into the 10th grade when you're 15.
+[00:01:44.660 --> 00:01:47.780] You start high school about 13 or 14.
+[00:01:48.560 --> 00:01:48.760] Yeah.
+[00:01:49.400 --> 00:01:53.360] Yeah, typically 13 when you're in 9th grade.
+[00:01:53.540 --> 00:01:55.360] Yeah, 9th grade, typically 13.
+[00:01:55.360 --> 00:01:56.360] I don't know what 9th grade is.
+[00:01:56.460 --> 00:01:57.360] We don't have that shit.
+[00:01:57.740 --> 00:01:57.900] No. [ASR uncertain: little_acoustic_speech_support]
+[00:02:00.000 --> 00:02:01.680] and then high school, college, university.
+[00:02:02.220 --> 00:02:06.660] And before that, you have like a pre-teen, like babies.
+[00:02:06.660 --> 00:02:07.440] No, you can go to uni.
+[00:02:07.720 --> 00:02:08.760] No, you can go to uni.
+[00:02:09.760 --> 00:02:12.960] Well, most people started when like 20 or something, 21,
+[00:02:13.160 --> 00:02:15.260] and then they finished when they're 30, when university.
+[00:02:15.480 --> 00:02:16.340] Well, not usually, no.
+[00:02:18.480 --> 00:02:23.080] I don't think of it as like a private school or a middle school or something.
+[00:02:23.960 --> 00:02:29.920] No, university is like after college, you know, for the really complicated.
+[00:02:30.000 --> 00:02:35.680] There you go, you go, so you've got, you, you, what, what, how old are you when you start school over there?
+[00:02:36.680 --> 00:02:37.280] Oh, which school?
+[00:02:37.440 --> 00:02:38.000] Four or something?
+[00:02:38.080 --> 00:02:40.900] Like little school, like, like, kinder, we call it kindergarten.
+[00:02:41.260 --> 00:02:43.120] Are you like two or three or four or five?
+[00:02:43.360 --> 00:02:44.180] Three or four?
+[00:02:44.960 --> 00:02:45.520] I don't know. [ASR uncertain: little_acoustic_speech_support]
+[00:02:45.900 --> 00:02:46.420] Three or four?
+[00:02:46.800 --> 00:02:47.100] Yeah.
+[00:02:47.320 --> 00:02:49.400] And then you go to that for how long?
+[00:02:50.680 --> 00:02:51.120] Depends. [ASR uncertain: little_acoustic_speech_support]
+[00:02:53.600 --> 00:02:55.780] Then you go to another school.
+[00:02:56.200 --> 00:02:57.160] When you find any...
+[00:02:57.160 --> 00:02:59.100] So like middle school and then you got high school.
+[00:03:00.000 --> 00:03:14.800] Yeah, let's see. You start, like I said, you have this really crappy school for babies, and then little school, then high school, and then college, university.
+[00:03:14.800 --> 00:03:16.680] Okay, yeah, same here over here. Same here.
+[00:03:16.900 --> 00:03:18.220] It's pretty much the same, I guess.
+[00:03:18.600 --> 00:03:22.980] You got basically synagogue, which we call, you slide right into elementary grade school.
+[00:03:23.480 --> 00:03:25.980] Fuck you, but I can't have all. Fuck you, buddy.
+[00:03:30.000 --> 00:03:35.840] finish high school when you're like 20 because I remember all the films and shit they all have
+[00:03:35.840 --> 00:03:44.120] like cars and stuff like that no they're allowed to drive when they're young yeah you can get your
+[00:03:44.120 --> 00:03:52.000] license when you're 16 so they can die sooner that's exactly right that's what happens a lot
+[00:03:52.000 --> 00:03:56.900] of times that's what happens I think it's because they get a credit card and shit like that is
+[00:04:00.000 --> 00:04:05.780] No, listen, most kids that get cars, and that isn't even the case anymore.
+[00:04:06.720 --> 00:04:09.640] Only in rural areas, do you see that?
+[00:04:10.520 --> 00:04:14.460] And that's because you don't see it in the city.
+[00:04:14.780 --> 00:04:15.860] You don't see it in the city.
+[00:04:16.480 --> 00:04:19.240] You see it in the rural, in the suburbs.
+[00:04:20.080 --> 00:04:21.600] You see kids with cars.
+[00:04:22.240 --> 00:04:23.160] And not all kids.
+[00:04:23.560 --> 00:04:27.240] There's only a percentage that have cars, and those are the kids.
+[00:04:27.240 --> 00:04:27.960] Are niggers.
+[00:04:29.100 --> 00:04:29.500] Huh?
+[00:04:30.000 --> 00:04:31.060] Those are the niggers.
+[00:04:33.340 --> 00:04:46.140] Well, quite personally, they're targeted because most people assume that they know where they're getting their money.
+[00:04:46.760 --> 00:04:49.240] And a lot of times, they are correct.
+[00:04:49.240 --> 00:04:49.820] They're black, and they steal your money.
+[00:04:51.300 --> 00:04:58.180] Hey, listen, you want to see the reality of what's going on?
+[00:04:58.560 --> 00:04:58.660] Huh? [ASR uncertain: little_acoustic_speech_support]
+[00:05:00.000 --> 00:05:03.000] No. It's like being black is cool there.
+[00:05:04.500 --> 00:05:05.120] We are here? [ASR uncertain: little_acoustic_speech_support]
+[00:05:05.760 --> 00:05:06.040] Yeah.
+[00:05:06.380 --> 00:05:06.640] No.
+[00:05:06.900 --> 00:05:07.260] No.
+[00:05:07.380 --> 00:05:09.600] Being black is a sin there.
+[00:05:09.680 --> 00:05:13.560] No, because if you look at the commercials everywhere, like in New York City,
+[00:05:14.340 --> 00:05:17.700] it's always like black guys being rappers, and there's like white sluts.
+[00:05:17.700 --> 00:05:22.940] Yeah, yeah, and see, that's been a major issue in this country.
+[00:05:23.120 --> 00:05:24.280] But at least we don't have Mexicans.
+[00:05:25.500 --> 00:05:27.440] That's pretty disgusting, to be honest.
+[00:05:27.960 --> 00:05:28.260] Oh, yeah.

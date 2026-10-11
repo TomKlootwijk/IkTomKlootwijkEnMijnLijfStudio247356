@@ -1,0 +1,276 @@
+Chris the Hacker and Tom the Fag - Oct 2009 - 1/2 - "Closing in on Tom"
+https://www.youtube.com/watch?v=Nf_PBQsbA9U
+Language: en | Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors.
+
+[00:00:00.000 --> 00:00:02.600] Uh, I'll tell me now.
+[00:00:02.600 --> 00:00:05.400] It's about 10 o'clock. It's a little after 10 over there.
+[00:00:05.400 --> 00:00:06.400] Huh?
+[00:00:06.400 --> 00:00:09.400] Yeah, yeah. Did you hear that?
+[00:00:09.400 --> 00:00:11.000] Hear what? [ASR uncertain: little_acoustic_speech_support]
+[00:00:11.000 --> 00:00:12.000] Huh? [ASR uncertain: little_acoustic_speech_support]
+[00:00:12.000 --> 00:00:15.000] The sound of you being not that awesome.
+[00:00:15.000 --> 00:00:17.000] Cause I don't hear anything.
+[00:00:17.000 --> 00:00:20.000] Did, did, did, did, did, did you hear that?
+[00:00:20.000 --> 00:00:24.000] So did you find out where Tom lives yet?
+[00:00:24.000 --> 00:00:28.000] Uh, no. I, I have a funny feeling based on,
+[00:00:30.000 --> 00:00:43.680] Okay? Now, based on a bird, a bird flew by the shop, took a shit, and lo and behold, there was a note in it.
+[00:00:44.000 --> 00:00:44.220] Really?
+[00:00:45.360 --> 00:00:49.080] Yeah, it dropped that out in front of the shop. I mean, I couldn't help but see it.
+[00:00:49.440 --> 00:00:52.860] So when it splattered, the note, it exposed the note.
+[00:00:53.560 --> 00:00:54.260] What was the note?
+[00:00:54.260 --> 00:00:59.740] Well, I took the note, I came in and washed it off, and it said,
+[00:01:00.000 --> 00:01:03.420] he lives
+[00:01:03.420 --> 00:01:05.920] on a public
+[00:01:05.920 --> 00:01:07.240] transportation route.
+[00:01:08.120 --> 00:01:08.880] I said, well,
+[00:01:08.940 --> 00:01:11.000] son of a bitch,
+[00:01:11.640 --> 00:01:14.140] it's got to be Tom, because he doesn't have a car.
+[00:01:14.580 --> 00:01:15.800] He goes to a university.
+[00:01:16.060 --> 00:01:16.900] Hey, I don't have a car.
+[00:01:16.900 --> 00:01:17.880] So there's one clue.
+[00:01:18.840 --> 00:01:19.860] So there's a clue.
+[00:01:20.780 --> 00:01:22.960] Oh, that was the note beforehand.
+[00:01:23.240 --> 00:01:24.560] It said, Tom
+[00:01:24.560 --> 00:01:26.080] lives in a house.
+[00:01:27.260 --> 00:01:28.480] I live in a house?
+[00:01:28.880 --> 00:01:29.480] Are you serious?
+[00:01:30.000 --> 00:01:33.600] What about the school, though? Have you found out the school?
+[00:01:33.600 --> 00:01:39.540] Well, see, see, there you go. I don't know what the bird considers a house. It could be a box.
+[00:01:40.300 --> 00:01:40.680] Uh-huh.
+[00:01:41.040 --> 00:01:44.180] Hell, the bird might even consider that a fucking mansion, okay?
+[00:01:44.840 --> 00:01:47.560] Oh, you got a really weird and complicated bird there, man.
+[00:01:47.720 --> 00:01:50.200] Yeah, what the fuck is it? Catch you, then. Put it on display.
+[00:01:52.120 --> 00:01:54.620] Well, what I'm going to do is catch it and cook it up.
+[00:01:55.300 --> 00:01:56.640] So, uh, did you know...
+[00:01:56.640 --> 00:01:58.860] I don't like these fucking little clues. I don't like these little clues.
+[00:02:00.000 --> 00:02:01.300] doing shit in front of my shop.
+[00:02:01.760 --> 00:02:02.380] Yeah, exactly.
+[00:02:02.380 --> 00:02:02.940] I'll get you to fuck with me.
+[00:02:03.000 --> 00:02:03.880] Well, a second, though.
+[00:02:03.980 --> 00:02:06.360] What's he doing with you, old man?
+[00:02:07.220 --> 00:02:07.580] Huh? [ASR uncertain: little_acoustic_speech_support]
+[00:02:10.200 --> 00:02:10.560] What?
+[00:02:10.580 --> 00:02:11.360] Who else is in here?
+[00:02:11.600 --> 00:02:12.800] Is Jack in here?
+[00:02:13.060 --> 00:02:13.340] Yeah.
+[00:02:13.460 --> 00:02:15.100] No, it's just me and Tom.
+[00:02:15.380 --> 00:02:16.220] No, it's Jack.
+[00:02:16.320 --> 00:02:16.760] Jack's also here.
+[00:02:16.760 --> 00:02:17.000] Yeah.
+[00:02:17.740 --> 00:02:18.420] Jack's not in here.
+[00:02:18.700 --> 00:02:19.300] Yes, he is. [ASR uncertain: little_acoustic_speech_support]
+[00:02:20.380 --> 00:02:21.480] What the fuck are you talking about?
+[00:02:22.200 --> 00:02:22.740] Jack's here.
+[00:02:24.260 --> 00:02:24.940] Now, listen.
+[00:02:25.180 --> 00:02:25.840] Check this out.
+[00:02:26.000 --> 00:02:26.900] Check this out, guys.
+[00:02:27.120 --> 00:02:27.600] Where do I live?
+[00:02:27.600 --> 00:02:29.300] If Jack...
+[00:02:30.000 --> 00:02:36.720] living in a box, and Jack was visiting, that would make Jack, Jack in the box.
+[00:02:41.600 --> 00:02:43.760] But did you find out where your school is, though?
+[00:02:45.700 --> 00:02:52.380] I know, based on the fact that it's a university, which is different from a college, okay?
+[00:02:52.860 --> 00:02:54.420] That's true. That is very true.
+[00:03:00.000 --> 00:03:08.820] universities in the Netherlands I'm narrowing see how you narrow it down
+[00:03:08.820 --> 00:03:13.140] you got it you just gotta since it's a little it's a process of elimination is
+[00:03:13.140 --> 00:03:20.340] what it is okay so but now I'm what I'm gonna wind up doing here to figure out
+[00:03:20.340 --> 00:03:25.080] what university is yeah because I'm just probably gonna I'm gonna probably take
+[00:03:25.080 --> 00:03:28.560] the list and by the way there's only there's only for my remember five
+[00:03:30.000 --> 00:03:30.440] Something like that.
+[00:03:30.440 --> 00:03:30.980] In the Netherlands.
+[00:03:31.400 --> 00:03:31.580] Yeah. [ASR uncertain: little_acoustic_speech_support]
+[00:03:32.080 --> 00:03:40.800] Now, based on the fact that I know he lives on public transportation,
+[00:03:42.020 --> 00:03:46.700] and he had also mentioned how long it takes him to get home.
+[00:03:48.400 --> 00:03:49.860] Ah, yes.
+[00:03:51.700 --> 00:03:52.800] Then you, okay.
+[00:03:53.740 --> 00:03:57.140] So now I can figure out the general, I'm saying,
+[00:04:00.000 --> 00:04:02.620] X amount of distance, this many.
+[00:04:02.900 --> 00:04:06.160] Now I just got to figure out how fast the trains go.
+[00:04:06.580 --> 00:04:08.900] Is it always a bus or is it on a train?
+[00:04:09.280 --> 00:04:11.320] You know, there's some variables there.
+[00:04:12.120 --> 00:04:12.880] But, um, huh?
+[00:04:13.300 --> 00:04:14.220] I'm on a train.
+[00:04:16.280 --> 00:04:27.420] Yeah, but, like, you can take any university and calculate the time it takes me to go home.
+[00:04:27.420 --> 00:04:28.040] Yeah, that's true.
+[00:04:28.140 --> 00:04:28.540] That's true.
+[00:04:30.000 --> 00:04:34.760] I think it's going to come down to a choice of about three.
+[00:04:35.760 --> 00:04:36.320] Three. [ASR uncertain: little_acoustic_speech_support]
+[00:04:37.140 --> 00:04:41.240] And then what we do is we flip a quarter.
+[00:04:41.240 --> 00:04:51.220] We flip a quarter 16 times, calling, assigning each flip to each university.
+[00:05:00.000 --> 00:05:01.000] Huh?
+[00:05:01.300 --> 00:05:02.520] Rape small children.
+[00:05:04.160 --> 00:05:10.440] Then what we do is we put two names in a big jar with a whole bunch of other balls of paper,
+[00:05:10.800 --> 00:05:14.300] and then we shake it up and choose ten times.
+[00:05:14.760 --> 00:05:23.900] Whichever comes out the most, there's a 50-50 chance that that could be it.
+[00:05:24.960 --> 00:05:27.320] So now I've got it narrowed down.
+[00:05:27.320 --> 00:05:29.780] So what schools do you have already?
+[00:05:30.000 --> 00:05:33.720] I have to look at the list
+[00:05:33.720 --> 00:05:34.860] and I can't pronounce those names
+[00:05:34.860 --> 00:05:37.700] so I got the university
+[00:05:37.700 --> 00:05:38.560] starts with
+[00:05:38.560 --> 00:05:39.300] let me see
+[00:05:39.300 --> 00:05:41.160] you're right in a minute
+[00:05:41.160 --> 00:05:42.380] okay
+[00:05:42.380 --> 00:05:52.880] here we go
+[00:05:52.880 --> 00:05:55.640] so [ASR uncertain: little_acoustic_speech_support]
+[00:05:55.640 --> 00:05:58.480] push the cart already [ASR uncertain: little_acoustic_speech_support]
+[00:06:00.000 --> 00:06:06.680] And then what I'll do is I'll just give you an off-the-cuff, based on just the general location.
+[00:06:06.680 --> 00:06:14.080] Now, Tom had mentioned the section of the Netherlands, which assisted.
+[00:06:14.580 --> 00:06:14.740] Okay. [ASR uncertain: little_acoustic_speech_support]
+[00:06:15.300 --> 00:06:21.800] He also mentioned that he had a relative with a dealership.
+[00:06:22.700 --> 00:06:23.000] Uh-huh. [ASR uncertain: little_acoustic_speech_support]
+[00:06:24.280 --> 00:06:24.640] Right.
+[00:06:24.720 --> 00:06:25.800] So see how this...
+[00:06:25.800 --> 00:06:27.480] That doesn't really get you anywhere.
+[00:06:27.480 --> 00:06:28.260] It's like a big puzzle.
+[00:06:28.420 --> 00:06:29.260] It's like a big puzzle.
+[00:06:30.000 --> 00:06:43.360] But now the question is, is Tom his real name?
+[00:06:44.600 --> 00:06:45.120] Is Tom what?
+[00:06:45.120 --> 00:06:49.240] So, is Tom his real name?
+[00:06:49.800 --> 00:06:51.720] That's a major factor.
+[00:06:51.720 --> 00:06:53.120] Ah, that's a major issue.
+[00:06:54.120 --> 00:06:54.340] Major factors?
+[00:06:54.340 --> 00:06:55.740] Can't trust with you, yeah.
+[00:07:00.000 --> 00:07:07.100] By the way, I'm talking to a friend who's kind of, he's into scientific experiments and he says he's got a remedy.
+[00:07:07.320 --> 00:07:08.600] I'm talking to him tomorrow.
+[00:07:09.620 --> 00:07:16.460] A remedy on that particular, a remedy on how to figure out whether that's your real name or not.
+[00:07:17.420 --> 00:07:19.620] How the fuck do you plan on doing that? [ASR uncertain: little_acoustic_speech_support]
+[00:07:21.520 --> 00:07:22.820] How the fuck do I know?
+[00:07:22.860 --> 00:07:24.380] I'm going to wait until I talk to him, okay?
+[00:07:24.940 --> 00:07:26.520] It's his idea, it's not mine.
+[00:07:27.540 --> 00:07:27.980] Right. [ASR uncertain: little_acoustic_speech_support]
+[00:07:30.000 --> 00:07:33.220] Let me just say it's a good guess that maybe that's not his real name.
+[00:07:33.440 --> 00:07:33.920] I'm just saying.
+[00:07:35.300 --> 00:07:36.280] No, that's a good guess.
+[00:07:36.520 --> 00:07:38.680] That's a good guess that it's not his real name.
+[00:07:39.040 --> 00:07:39.340] Yes.
+[00:07:40.100 --> 00:07:43.780] The only one that knows for sure is actually me,
+[00:07:44.080 --> 00:07:46.300] because you don't know if Kuhn's shitting you or not.
+[00:07:48.280 --> 00:07:48.960] That's true. [ASR uncertain: little_acoustic_speech_support]
+[00:07:51.900 --> 00:07:57.760] Now, you've got Webster University.
+[00:08:00.000 --> 00:08:10.880] You've got Leiden University, you've got, so I don't even know the Strict King.
+[00:08:10.880 --> 00:08:11.960] Wait, what was the last one?
+[00:08:11.960 --> 00:08:16.480] What was the other one that you just said?
+[00:08:19.060 --> 00:08:27.580] We got Webster University, that's in Leiden University, that looks like it's a library.
+[00:08:30.000 --> 00:08:37.000] library at Latin University, okay here we go. Now, I'm thinking in the map I'm looking
+[00:08:37.000 --> 00:08:43.000] at, others looking at it. Say what? You're at the University of Amsterdam. I'm almost
+[00:08:43.000 --> 00:08:49.000] tired of it. Don't. Let's see, that was the fucker.
+[00:08:49.000 --> 00:08:55.000] But I think that's the fucker. By the way guys, I speak fucking language. What are you
+[00:08:55.000 --> 00:08:59.000] doing? I just know exactly what you said. No you didn't.
+[00:09:00.000 --> 00:09:02.000] Yeah, I was studying it.
+[00:09:02.000 --> 00:09:04.000] What did we say then?
+[00:09:04.000 --> 00:09:08.000] What did we say?
+[00:09:08.000 --> 00:09:10.000] What did we say?
+[00:09:10.000 --> 00:09:14.000] You said something about the university.
+[00:09:14.000 --> 00:09:16.000] Yeah.
+[00:09:16.000 --> 00:09:18.000] Wow, wow.
+[00:09:18.000 --> 00:09:20.000] That sounds really close.
+[00:09:20.000 --> 00:09:24.000] By the way, you got the University of Groningen.
+[00:09:24.000 --> 00:09:26.000] No.
+[00:09:26.000 --> 00:09:28.000] You got Maastricht University.
+[00:09:30.000 --> 00:09:33.540] Actually, see, I don't know what they consider a university.
+[00:09:33.760 --> 00:09:38.720] I excluded certain things like the universe.
+[00:09:38.880 --> 00:09:41.820] I excluded religious universities, okay?
+[00:09:42.500 --> 00:09:43.220] Hey, I'm Christian.
+[00:09:43.220 --> 00:09:43.980] Right off the top.
+[00:09:45.280 --> 00:09:46.300] You ain't Christian.
+[00:09:46.800 --> 00:09:47.820] You ain't Christian shit.
+[00:09:47.840 --> 00:09:48.560] Yes, I am. I'm kosher.
+[00:09:49.780 --> 00:09:51.540] No, you aren't Christian, man.
+[00:09:51.820 --> 00:09:55.200] Listen, I think I've talked to Verdant Abyss.
+[00:09:55.660 --> 00:09:56.560] Okay, you're not Christian.
+[00:09:57.480 --> 00:09:58.120] That's right.
+[00:09:58.120 --> 00:09:59.680] He doesn't believe in God, et cetera.
+[00:10:00.000 --> 00:10:02.000] And he's not Verdant Abyss.
+[00:10:02.000 --> 00:10:03.000] No.
+[00:10:03.000 --> 00:10:06.000] And he's not Verdant Abyss, right?
+[00:10:06.000 --> 00:10:10.000] Tom, I don't think I'm really a martial club, I guess.
+[00:10:12.000 --> 00:10:16.000] That sounds really cool. You don't have to teach me how to talk like that.
+[00:10:16.000 --> 00:10:18.000] Yep, we should.
+[00:10:18.000 --> 00:10:19.000] Yeah.
+[00:10:19.000 --> 00:10:25.000] It just sounds like you just spit out a whole bunch of stuff under the influence of, like, heavy bourbon.
+[00:10:30.000 --> 00:10:35.020] Okay, so I excluded the theological universities.
+[00:10:35.240 --> 00:10:37.520] I don't think you'd be in theological universities.
+[00:10:38.080 --> 00:10:41.220] So what I did was, because there is a bunch of universities in the Netherlands,
+[00:10:41.580 --> 00:10:43.060] there's private-funded universities.
+[00:10:43.220 --> 00:10:45.480] I don't think you'd be at a privately-funded university.
+[00:10:45.640 --> 00:10:46.160] Oh, wow.
+[00:10:46.240 --> 00:10:46.720] Why not?
+[00:10:47.720 --> 00:10:48.860] Because we don't have money here? [ASR uncertain: little_acoustic_speech_support]
+[00:10:48.960 --> 00:10:51.020] Because you're fucking broke.
+[00:10:51.260 --> 00:10:52.120] That's why.
+[00:10:52.180 --> 00:10:52.620] I'm broke?
+[00:10:52.620 --> 00:10:53.880] You're fucking broke.
+[00:10:54.240 --> 00:10:54.640] Right.
+[00:10:56.460 --> 00:10:57.740] I know you're broke.
+[00:10:57.760 --> 00:10:58.140] Right.
+[00:11:00.000 --> 00:11:04.160] that's a good joke man
+[00:11:04.160 --> 00:11:06.580] he knows nothing about you
+[00:11:06.580 --> 00:11:07.520] no you're fucking broke
+[00:11:07.520 --> 00:11:12.580] tom you're fucking broke
+[00:11:12.580 --> 00:11:16.000] how the fuck do you know you're just this insane little fat
+[00:11:16.000 --> 00:11:16.980] cause you were whining
+[00:11:16.980 --> 00:11:20.340] cause you were whining over 500 dollars
+[00:11:20.340 --> 00:11:21.780] ah i like 500 dollars
+[00:11:21.780 --> 00:11:26.600] oh you don't have the 500 dollars
+[00:11:26.600 --> 00:11:28.420] exactly
+[00:11:30.000 --> 00:11:32.140] Yeah, but I wasn't whining, was I?
+[00:11:32.300 --> 00:11:33.660] I wasn't whining, and I'm not going to...
+[00:11:33.660 --> 00:11:34.140] Doesn't matter.
+[00:11:34.260 --> 00:11:36.140] That doesn't make you less or more broke.
+[00:11:37.940 --> 00:11:40.020] Oh, you're being such an asshole again, Tom.
+[00:11:41.620 --> 00:11:42.500] Hey, it's okay.
+[00:11:42.680 --> 00:11:43.100] Let him be.
+[00:11:43.360 --> 00:11:43.780] Let him be.
+[00:11:44.640 --> 00:11:45.240] It's...
+[00:11:45.240 --> 00:11:46.020] He's broke.
+[00:11:47.300 --> 00:11:48.860] He's on public transportation.
+[00:11:49.220 --> 00:11:50.160] He doesn't have a car.
+[00:11:50.220 --> 00:11:51.520] He's freaking broke.
+[00:11:52.120 --> 00:11:52.480] Okay.
+[00:11:53.060 --> 00:11:58.120] So we've assigned certain standards to having money,
+[00:12:00.000 --> 00:12:03.560] Hey, I love you, Tom.
+[00:12:03.740 --> 00:12:05.000] You're okay in my book.
+[00:12:06.220 --> 00:12:08.400] You're just an old senile faggot in my book.
+[00:12:11.400 --> 00:12:14.540] Okay, so we've narrowed the town.
+[00:12:14.740 --> 00:12:15.520] Tom's broke.
+[00:12:16.800 --> 00:12:18.100] Okay, wait a minute, wait a minute, Tom.
+[00:12:18.220 --> 00:12:19.600] I'm still narrowing this down.
+[00:12:19.880 --> 00:12:22.080] So you're not going to religious universities.
+[00:12:22.080 --> 00:12:23.020] That's a fact.
+[00:12:23.560 --> 00:12:25.780] You're broke, so you're not going to private universities.
+[00:12:30.000 --> 00:12:35.400] exist that are still listed which is really fucked up I know you're not going
+[00:12:35.400 --> 00:12:42.420] to the Islamic University of Rotterdam but but okay but so that you know that
+[00:12:42.420 --> 00:12:48.120] leaves I know you're not going to any medical universities so that leaves five
+[00:12:48.120 --> 00:12:57.100] fucking universities and out of those universities I looked at the public
+[00:13:00.000 --> 00:13:05.120] Specifically speaking, you could probably live in the vicinity of any one of those,
+[00:13:05.840 --> 00:13:10.300] but based on the fact that you said you got home in a certain period of time,
+[00:13:10.840 --> 00:13:14.080] I kind of narrowed, I took one out of the loop.
+[00:13:16.200 --> 00:13:24.440] And I figured you'd have to, it would have to be on a heavily, a heavy, well, not necessarily.
+[00:13:24.800 --> 00:13:25.800] I'm not going to take it out of the loop.
+[00:13:25.880 --> 00:13:28.240] It was going to be the University of Amsterdam I was taking out of the loop,
+[00:13:28.240 --> 00:13:29.300] but I'm going to leave that in there.
+[00:13:30.000 --> 00:13:36.680] study but technically speaking this is going to be an interesting excursion into my so which one
+[00:13:36.680 --> 00:13:43.360] uh you only have one out of the loop what you've got sherlock homes like like i'm just going to
+[00:13:43.360 --> 00:13:47.160] give me it's going to it's going to be a nice little excursion into my sherlock home abilities
+[00:13:47.160 --> 00:13:55.240] okay well it sounds like you're on a trail there it doesn't sound like you're not doing anything
+[00:14:00.000 --> 00:14:03.240] I just nailed it down from 20 freaking universities.
+[00:14:03.800 --> 00:14:04.940] Well, big fucking deal.
+[00:14:05.100 --> 00:14:06.240] To five universities.
+[00:14:06.440 --> 00:14:07.420] Big fucking deal.
+[00:14:07.860 --> 00:14:09.580] Doesn't make you a fucking rocket scientist.
+[00:14:10.520 --> 00:14:12.120] You know how many people go to that uni?
+[00:14:12.340 --> 00:14:14.000] You know why there are only so few unis?
+[00:14:14.740 --> 00:14:15.520] Because everybody goes to the same uni.
+[00:14:15.520 --> 00:14:16.900] Okay, that's another thing, too.
+[00:14:17.100 --> 00:14:17.940] The term uni.
+[00:14:18.300 --> 00:14:19.000] The term uni.
+[00:14:19.080 --> 00:14:20.440] You keep calling it uni.
+[00:14:21.260 --> 00:14:23.400] So, now that brings up a question.
+[00:14:30.000 --> 00:14:34.000] I'm public transportation from University of Uni.
+[00:14:34.000 --> 00:14:40.000] It's like 99% of the people that are in Uni go with the public transportation.
+[00:14:40.000 --> 00:14:42.000] Just a fact here.
+[00:14:42.000 --> 00:14:44.000] Okay, okay. So, so, so, so...
+[00:14:44.000 --> 00:14:47.000] Yeah, we don't all have cars when we're 16 like you guys.
+[00:14:47.000 --> 00:14:51.000] Exactly, we don't give a fuck about cars when we can travel for free.
+[00:14:51.000 --> 00:14:52.180] That's why you were all...

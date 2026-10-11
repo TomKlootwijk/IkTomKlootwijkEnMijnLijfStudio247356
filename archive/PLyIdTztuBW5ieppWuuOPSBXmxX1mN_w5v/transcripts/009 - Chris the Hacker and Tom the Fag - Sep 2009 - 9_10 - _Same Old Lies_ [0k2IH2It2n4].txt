@@ -1,0 +1,175 @@
+Chris the Hacker and Tom the Fag - Sep 2009 - 9/10 - "Same Old Lies"
+https://www.youtube.com/watch?v=0k2IH2It2n4
+Language: en | Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors.
+
+[00:00:00.000 --> 00:00:00.500] Hey, Dave.
+[00:00:24.600 --> 00:00:28.340] Well, if you're wondering what happened, you know.
+[00:00:30.000 --> 00:00:44.780] I'm self yeah yeah you that's what you call herb right oh yeah so yeah yeah so
+[00:00:44.780 --> 00:00:51.720] what's up so yeah I'm from some egg rolls are you in the mood for some egg
+[00:00:51.720 --> 00:00:56.500] rolls Chris I'm all I'm already met back here as a matter of fact I'm in the
+[00:01:30.000 --> 00:01:31.560] We got everything we got then.
+[00:01:32.680 --> 00:01:38.400] But, yeah, Tom, I'm up for some delicious egg rolls, cheese-flavored, if that's possible.
+[00:01:38.620 --> 00:01:39.600] Yeah, let's get some egg rolls.
+[00:01:39.600 --> 00:01:41.860] Oh, dude, cheese-flavored egg rolls.
+[00:01:42.080 --> 00:01:42.420] Yeah.
+[00:01:42.540 --> 00:01:43.900] Let's get some of Chris's from them.
+[00:01:44.800 --> 00:01:45.800] Yeah, Chris, you in?
+[00:01:46.020 --> 00:01:48.240] Nobody has delivered to me around here anymore.
+[00:01:48.540 --> 00:01:49.320] I wonder why that is.
+[00:01:49.780 --> 00:01:50.380] Oh, no, let's try it.
+[00:01:50.980 --> 00:01:51.800] Why is that, Chris?
+[00:01:53.400 --> 00:01:54.480] It ain't happening.
+[00:01:55.620 --> 00:01:58.560] I called up the pizza shop to get them to deliver the other night,
+[00:02:00.000 --> 00:02:01.240] 173 Bell, uh-uh.
+[00:02:02.300 --> 00:02:03.680] Oh, okay.
+[00:02:04.420 --> 00:02:06.420] Well, you got the egg rolled, didn't you?
+[00:02:07.840 --> 00:02:09.180] Oh, they showed up once.
+[00:02:10.280 --> 00:02:12.780] Yeah, but then the guy called you, right?
+[00:02:14.240 --> 00:02:14.680] Yeah.
+[00:02:15.400 --> 00:02:15.640] Yeah.
+[00:02:16.040 --> 00:02:16.900] You don't like him?
+[00:02:17.060 --> 00:02:18.040] No, no, no, no.
+[00:02:18.220 --> 00:02:21.040] In Watertown, I can't get anybody to look over to me.
+[00:02:21.380 --> 00:02:24.060] So now I've got to walk down to the supermarket to get my food.
+[00:02:25.200 --> 00:02:26.280] I see, but...
+[00:02:26.280 --> 00:02:28.820] There was a time when I didn't order.
+[00:02:30.000 --> 00:02:37.360] Do you know the guy who egg rolled you?
+[00:02:37.440 --> 00:02:38.240] Do you know who that is?
+[00:02:39.520 --> 00:02:39.800] No.
+[00:02:40.620 --> 00:02:41.920] Oh, I thought you'd see the movie.
+[00:02:42.580 --> 00:02:43.500] Yeah, it's on YouTube.
+[00:02:44.860 --> 00:02:45.560] Oh, it is?
+[00:02:46.360 --> 00:02:47.160] Yeah, where he tells.
+[00:02:47.420 --> 00:02:51.900] He says, you know, he asks if you got your egg rolls,
+[00:02:52.000 --> 00:02:54.500] and then you say, yeah, tell me where the packet is, smartass.
+[00:02:56.000 --> 00:02:57.020] You have no clue.
+[00:02:57.300 --> 00:02:58.200] You have no concept.
+[00:03:00.000 --> 00:03:03.420] No, see, you guys think this is all conversations.
+[00:03:03.640 --> 00:03:04.900] I don't understand that.
+[00:03:05.080 --> 00:03:06.780] Because you guys do it just like they do it.
+[00:03:07.080 --> 00:03:08.440] They splice conversations.
+[00:03:09.900 --> 00:03:10.380] Splice?
+[00:03:11.760 --> 00:03:12.980] Splice, splice.
+[00:03:13.100 --> 00:03:17.500] You know, like when you're editing a movie in one section to another.
+[00:03:17.600 --> 00:03:19.220] We call that splicing over here.
+[00:03:19.220 --> 00:03:26.940] Because you used to have to, at one point, take physical tape and actually cut it and put it back together.
+[00:03:27.320 --> 00:03:28.580] We call it splicing.
+[00:03:30.000 --> 00:03:34.700] But, you know, it's not really, it's just the raw recording, though.
+[00:03:35.100 --> 00:03:35.620] It's nothing.
+[00:03:35.760 --> 00:03:38.880] Yeah, I had somebody call me up and say, oh, listen to what you're saying.
+[00:03:38.980 --> 00:03:40.920] That's cool, like, yeah, listen to that.
+[00:03:41.040 --> 00:03:42.220] That's not me talking.
+[00:03:43.140 --> 00:03:45.940] That's bits and pieces of a conversation that people have.
+[00:03:45.940 --> 00:03:49.560] Oh, I know, no, I'm talking about a conversation where he calls you up, you know,
+[00:03:49.600 --> 00:03:50.840] and he put it on YouTube.
+[00:03:50.840 --> 00:03:55.500] I thought you'd seen it by now, you know, where he talks about the act roles
+[00:03:55.500 --> 00:03:58.960] and then he asks you if you know what a data packet is and you say,
+[00:04:00.000 --> 00:04:01.380] that they to peg it is more that's
+[00:04:01.380 --> 00:04:05.340] it's an actual call to you
+[00:04:05.340 --> 00:04:06.320] from another conversation
+[00:04:06.320 --> 00:04:07.840] I may not have been talking to him
+[00:04:07.840 --> 00:04:10.440] all in a linear conversation
+[00:04:10.440 --> 00:04:11.280] that's the problem
+[00:04:11.280 --> 00:04:12.600] I had somebody call me up
+[00:04:12.600 --> 00:04:13.860] when I pointed them to YouTube
+[00:04:13.860 --> 00:04:15.240] to listen to that
+[00:04:15.240 --> 00:04:16.540] and you know something
+[00:04:16.540 --> 00:04:17.400] they said
+[00:04:17.400 --> 00:04:19.880] they were like
+[00:04:19.880 --> 00:04:23.660] they were like
+[00:04:23.660 --> 00:04:25.380] hey what's up with that
+[00:04:25.380 --> 00:04:26.060] it was a chick
+[00:04:26.060 --> 00:04:28.040] and she was giving me a rash and a shit
+[00:04:28.040 --> 00:04:28.940] and I was going like hey
+[00:04:30.000 --> 00:04:33.360] Don't you understand? That is not one conversation.
+[00:04:34.860 --> 00:04:35.960] Right. Yeah.
+[00:04:36.340 --> 00:04:38.960] Some of these people are really good at doing this sort of thing.
+[00:04:40.580 --> 00:04:41.860] What do you mean? What kind of thing?
+[00:04:42.000 --> 00:04:43.860] You know, like trying to make you talk and stuff?
+[00:04:45.860 --> 00:04:49.960] Manipulating, manipulating recorded conversations.
+[00:04:50.160 --> 00:04:51.240] Right. That's true.
+[00:04:51.340 --> 00:04:54.660] But, you know, usually they just put up the recording with you
+[00:04:54.660 --> 00:04:58.200] and then they just cut out the words and they put it on the soundboard
+[00:05:00.000 --> 00:05:08.920] voice that's what usually happens yeah but i'm talking about uh if a person gets a hold of a
+[00:05:08.920 --> 00:05:16.580] couple of pieces of of tape of sound that sound very very similar extremely close they can actually
+[00:05:16.580 --> 00:05:20.620] make a conversation out of that nobody'd know it nobody'd know the difference that's true i don't
+[00:05:20.620 --> 00:05:27.880] think it happened so oh it has it has i had a chick listen to one of the conversations she she was i
+[00:05:30.000 --> 00:05:34.320] went up and she saw something. She was like, why were you talking like that? I said, what
+[00:05:34.320 --> 00:05:39.360] are you listening to? She's going like, I'm listening to this. And I'm saying, hey. And
+[00:05:39.360 --> 00:05:46.100] I went and listened to her. I said, that is not me. That is not, I'm not talking in a linear
+[00:05:46.100 --> 00:05:54.520] conversation. I said, somebody spliced that shit. Which video? She couldn't tell the
+[00:05:54.520 --> 00:05:59.680] difference. She called me a liar. Yeah, what's the video you're talking about then? She's
+[00:06:00.000 --> 00:06:02.960] fucking mind I don't know I don't care because she was out of her fucking mind
+[00:06:02.960 --> 00:06:04.400] so [ASR uncertain: little_acoustic_speech_support]
+[00:06:04.400 --> 00:06:09.460] yeah
+[00:06:09.460 --> 00:06:14.720] anyways listen um so you guys staying up all night tonight
+[00:06:14.720 --> 00:06:18.060] no no we were out to school and sleeping
+[00:06:18.060 --> 00:06:22.600] oh yeah so how'd school go today [ASR uncertain: little_acoustic_speech_support]
+[00:06:22.600 --> 00:06:25.800] as a matter of fact I was telling Tom I'm going
+[00:06:25.800 --> 00:06:28.860] I'm doing online schooling I know that you told me
+[00:06:30.000 --> 00:06:35.200] business master master degree business or something right yeah yeah yeah i'm gonna
+[00:06:35.200 --> 00:06:43.040] fucking rule the world and you guys are gonna help me oh really we're not gonna be yeah
+[00:06:43.040 --> 00:06:54.480] how are we gonna help you huh how are we gonna help you because uh well we we have a plan we
+[00:07:00.000 --> 00:07:06.780] Yeah, well, I told Tom, I'm opening up a shop over there, and, uh, in, in, in, in Switzerland.
+[00:07:07.420 --> 00:07:09.340] Yeah, yeah, I'm going to have a shop in Party City.
+[00:07:10.640 --> 00:07:11.340] Oh, what's you calling?
+[00:07:12.800 --> 00:07:14.000] But, yeah, you told me that, Chris.
+[00:07:15.120 --> 00:07:16.540] You told me that six months ago.
+[00:07:17.260 --> 00:07:19.060] Thank you for calling the Bedford Village in.
+[00:07:19.140 --> 00:07:19.620] This is Jennifer.
+[00:07:19.760 --> 00:07:20.460] How may I help you?
+[00:07:21.120 --> 00:07:23.840] Yeah, hello, um, can I order some food?
+[00:07:23.920 --> 00:07:24.780] Do you deliver at home?
+[00:07:25.840 --> 00:07:27.220] Uh, we do not deliver, no.
+[00:07:30.000 --> 00:07:36.580] Oh, um, yeah, I mean, I think it's a room that you like it. [ASR uncertain: little_acoustic_speech_support]
+[00:07:36.580 --> 00:07:42.500] Yeah, um, are you mocking me?
+[00:07:43.720 --> 00:07:44.160] No.
+[00:07:45.160 --> 00:07:46.200] Then who was laughing? [ASR uncertain: little_acoustic_speech_support]
+[00:07:48.060 --> 00:07:48.940] That wasn't me.
+[00:07:49.420 --> 00:07:53.000] Okay, well, that's really weird then, because it's only me and you there.
+[00:07:54.840 --> 00:07:57.020] Uh, if you'd like, I can transfer you over to the restaurant.
+[00:07:57.640 --> 00:07:58.580] Uh, that would be nice. [ASR uncertain: little_acoustic_speech_support]
+[00:07:59.240 --> 00:07:59.580] Thank you.
+[00:08:00.000 --> 00:08:00.500] One moment.
+[00:08:03.500 --> 00:08:04.600] And over to the left.
+[00:08:04.600 --> 00:08:05.700] Meeting Daniel, this is Ben.
+[00:08:06.020 --> 00:08:07.700] Hello, this is Chris Perron speaking.
+[00:08:08.840 --> 00:08:11.340] Just call in to ask you if you'd live in...
+[00:08:11.340 --> 00:08:11.840] Oh, wait a minute.
+[00:08:11.920 --> 00:08:13.000] I thought it was Tom.
+[00:08:14.280 --> 00:08:14.800] Hello?
+[00:08:16.160 --> 00:08:17.560] It's Tom over there.
+[00:08:18.940 --> 00:08:19.460] Hello?
+[00:08:22.520 --> 00:08:23.000] Hello? [ASR uncertain: little_acoustic_speech_support]
+[00:08:24.680 --> 00:08:27.240] Sorry to excuse my grandfather for talking.
+[00:08:27.360 --> 00:08:28.100] He's a bit senile.
+[00:08:30.000 --> 00:08:31.600] Yeah, I'm trying to keep it away from the phone.
+[00:08:32.160 --> 00:08:34.060] But, um...
+[00:08:34.060 --> 00:08:36.760] Stop it, Grandpa.
+[00:08:37.700 --> 00:08:39.020] Are you, uh...
+[00:08:39.020 --> 00:08:40.600] Stop it, Grandpa.
+[00:08:40.600 --> 00:08:41.460] Don't lick my neck.
+[00:08:42.120 --> 00:08:42.340] Oh.
+[00:08:43.660 --> 00:08:44.660] Oh, so irritating.
+[00:08:45.420 --> 00:08:48.840] So, uh, your colleague just told me you do not deliver food, right?
+[00:08:50.220 --> 00:08:50.660] Correct. [ASR uncertain: little_acoustic_speech_support]
+[00:08:51.380 --> 00:08:55.100] Okay, well, uh, can you kick something up that I'll come pick it up later?
+[00:08:56.220 --> 00:08:58.020] Uh, we actually don't do carry-out either.
+[00:08:58.880 --> 00:08:59.280] Okay.
+[00:09:00.000 --> 00:09:02.880] Well, I'd like to make a reservation for Chris Perron.
+[00:09:04.840 --> 00:09:07.280] For how many people?
+[00:09:07.740 --> 00:09:08.280] Four people.
+[00:09:09.180 --> 00:09:09.980] Four people?
+[00:09:10.360 --> 00:09:13.000] Yeah, and that's next Friday.
+[00:09:14.320 --> 00:09:16.480] Oh, you actually would want to do that next door, then.
+[00:09:17.700 --> 00:09:20.500] Okay, well then, transfer me to that department, please.
+[00:09:21.420 --> 00:09:22.920] Okay, hold on one moment, okay?
+[00:09:23.280 --> 00:09:23.520] Yep.
+[00:09:27.060 --> 00:09:27.500] Jesus. [ASR uncertain: little_acoustic_speech_support]
+[00:09:28.180 --> 00:09:29.240] Grandpa, stop it.
+[00:09:30.000 --> 00:09:34.000] There, Grandpa. Stop licking his neck.
+[00:09:34.000 --> 00:09:40.000] No, Grandpa. Not my hole. No, Grandpa. No, stop.
+
+Intervals requiring review (unreliable ASR output suppressed):
+[00:01:00.000 --> 00:01:30.000] Repetitive decoder output; speech could not be reliably recognized.

@@ -67,6 +67,26 @@ def safe_members(zipped):
     return result
 
 
+def verify_source_contents(zipped, members, source_records):
+    """Verify every uncompressed source member without a second extracted copy."""
+    source_map = {item["path"]: item for item in source_records}
+    file_members = {member.filename for member, _ in members if not member.is_dir()}
+    if set(source_map) != file_members:
+        raise ValueError("ZIP contents differ from the source file inventory")
+    for member, _ in members:
+        if member.is_dir():
+            continue
+        digest = hashlib.sha256()
+        size = 0
+        with zipped.open(member) as reader:
+            while block := reader.read(BLOCK_BYTES):
+                digest.update(block)
+                size += len(block)
+        expected = source_map[member.filename]
+        if size != expected["bytes"] or digest.hexdigest() != expected["sha256"]:
+            raise ValueError(f"ZIP source file failed SHA-256 validation: {member.filename}")
+
+
 def extract_archive(zipped, members, target, source_records):
     target = Path(target).resolve()
     if target.exists() and (not target.is_dir() or next(target.iterdir(), None) is not None):
@@ -159,6 +179,8 @@ def restore_archive(checksums_path, output, extract=None):
             members = safe_members(zipped)
             if extract is not None:
                 extract_archive(zipped, members, extract, source_records)
+            elif source_records:
+                verify_source_contents(zipped, members, source_records)
             elif zipped.testzip() is not None:
                 raise ValueError("Reconstructed ZIP failed CRC validation")
         staged_zip.replace(output)

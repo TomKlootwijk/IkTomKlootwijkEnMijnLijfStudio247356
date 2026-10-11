@@ -1,0 +1,2042 @@
+{
+  "schema_version": 1,
+  "complete": true,
+  "id": "9dt_faBAoKw",
+  "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 8/10 - \"The Koen Also Rises\"",
+  "position": 8,
+  "url": "https://www.youtube.com/watch?v=9dt_faBAoKw",
+  "audio": "audio/008 - Chris the Hacker and Tom the Fag - Sep 2009 - 8_10 - _The Koen Also Rises_ [9dt_faBAoKw].mp3",
+  "language": "en",
+  "language_probability": 0.97998046875,
+  "duration": 843.7899375,
+  "duration_after_vad": 843.7899375,
+  "model": "mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf",
+  "runtime": {
+    "engine": "faster-whisper",
+    "device": "cuda",
+    "transcription_profile": "full-audio-30s-repetition-v3",
+    "compute_type": "int8_float16",
+    "cpu_threads": 12,
+    "batch_size": 2,
+    "beam_size": 5,
+    "vad_filter": false,
+    "full_audio": true,
+    "chunk_seconds": 30,
+    "without_timestamps": false,
+    "silence_guard": "skip no_speech_prob > 0.6 and avg_logprob < -1.0",
+    "repetition_guard": "suppress chunks with compression_ratio > 3 or >=4 repeated phrases dominating a chunk",
+    "acoustic_qa": "VAD measured for QA only; long sparse output without acoustic support suppressed; low-confidence output outside acoustic speech suppressed for <1%-speech recordings",
+    "condition_on_previous_text": false,
+    "python": "3.12.10",
+    "packages": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.2",
+      "av": "18.1.0",
+      "onnxruntime": "1.31.0",
+      "nvidia-cublas-cu12": "12.9.2.10",
+      "nvidia-cudnn-cu12": "9.27.0.42",
+      "nvidia-cuda-runtime-cu12": "12.9.79"
+    },
+    "gpu_fallback_reason": null
+  },
+  "started_at": "2026-10-11T09:08:26.023956+00:00",
+  "completed_at": "2026-10-11T09:08:48.959384+00:00",
+  "processing_seconds": 22.922,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5,
+      "text": "Hey, Dave.",
+      "avg_logprob": -0.8050000190734863,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5789473684210527,
+      "acoustic_speech_overlap_seconds": 0.5,
+      "qa_flags": [
+        "low_recognition_confidence"
+      ]
+    },
+    {
+      "start": 24.6,
+      "end": 27.0,
+      "text": "Well, if you're wondering what happened...",
+      "avg_logprob": -0.8050000190734863,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8431372549019608,
+      "acoustic_speech_overlap_seconds": 1.256,
+      "qa_flags": [
+        "low_recognition_confidence"
+      ]
+    },
+    {
+      "start": 27.0,
+      "end": 29.0,
+      "text": "Thanks to Muslims.",
+      "avg_logprob": -0.8050000190734863,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7037037037037037,
+      "acoustic_speech_overlap_seconds": 1.56,
+      "qa_flags": [
+        "low_recognition_confidence"
+      ]
+    },
+    {
+      "start": 30.0,
+      "end": 39.0,
+      "text": "And eventually, a confluence of events, and this is ironic, and it's almost an impossibility",
+      "avg_logprob": -0.3244243562221527,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1341463414634145,
+      "acoustic_speech_overlap_seconds": 6.984
+    },
+    {
+      "start": 39.0,
+      "end": 46.66,
+      "text": "that both, individually and independently, would come to believe in God.",
+      "avg_logprob": -0.3244243562221527,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9864864864864865,
+      "acoustic_speech_overlap_seconds": 7.66
+    },
+    {
+      "start": 46.66,
+      "end": 52.56,
+      "text": "The God of the Bible, not the God of the Koran.",
+      "avg_logprob": -0.3244243562221527,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1428571428571428,
+      "acoustic_speech_overlap_seconds": 5.9
+    },
+    {
+      "start": 53.16,
+      "end": 55.06,
+      "text": "It's the same God.",
+      "avg_logprob": -0.3244243562221527,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7037037037037037,
+      "acoustic_speech_overlap_seconds": 1.9
+    },
+    {
+      "start": 55.84,
+      "end": 56.6,
+      "text": "No.",
+      "avg_logprob": -0.3244243562221527,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.3333333333333333,
+      "acoustic_speech_overlap_seconds": 0.76
+    },
+    {
+      "start": 57.32,
+      "end": 59.5,
+      "text": "They say, listen.",
+      "avg_logprob": -0.3244243562221527,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6923076923076923,
+      "acoustic_speech_overlap_seconds": 2.18
+    },
+    {
+      "start": 60.0,
+      "end": 75.7,
+      "text": "All these stories from every holy book on every religion, apart from some other religions, are really old stories that have been changed all the time.",
+      "avg_logprob": -0.2955907501586496,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.411214953271028,
+      "acoustic_speech_overlap_seconds": 15.7
+    },
+    {
+      "start": 76.7,
+      "end": 80.8,
+      "text": "I'm going to give you their URL. Here. You can go listen to them yourselves.",
+      "avg_logprob": -0.2955907501586496,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9871794871794872,
+      "acoustic_speech_overlap_seconds": 4.1
+    },
+    {
+      "start": 81.08,
+      "end": 82.44,
+      "text": "You go watch Side Guys 2.",
+      "avg_logprob": -0.2955907501586496,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7647058823529411,
+      "acoustic_speech_overlap_seconds": 1.36
+    },
+    {
+      "start": 84.36,
+      "end": 88.0,
+      "text": "You go watch Side Guys 2, Chris.",
+      "avg_logprob": -0.2955907501586496,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8048780487804879,
+      "acoustic_speech_overlap_seconds": 3.408
+    },
+    {
+      "start": 90.0,
+      "end": 100.56,
+      "text": "Uh, you're kidding me. You are, I don't, I don't, I'm not really into that. Especially, I mean, I was following you along until you brought up the reptile shit, okay?",
+      "avg_logprob": -0.23987068472237422,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.2846153846153847,
+      "acoustic_speech_overlap_seconds": 9.856
+    },
+    {
+      "start": 101.02,
+      "end": 102.66,
+      "text": "Uh, that's not about reptiles.",
+      "avg_logprob": -0.23987068472237422,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7948717948717948,
+      "acoustic_speech_overlap_seconds": 1.64
+    },
+    {
+      "start": 104.18,
+      "end": 105.94,
+      "text": "What? Psycheis?",
+      "avg_logprob": -0.23987068472237422,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6666666666666666,
+      "acoustic_speech_overlap_seconds": 1.76
+    },
+    {
+      "start": 107.46,
+      "end": 113.38,
+      "text": "Oh, no, no, no, that's David Icke. That's David Icke, yeah. Psycheis, Psycheis, I've heard that and I've seen that.",
+      "avg_logprob": -0.23987068472237422,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.4146341463414633,
+      "acoustic_speech_overlap_seconds": 4.02
+    },
+    {
+      "start": 113.38,
+      "end": 116.94,
+      "text": "Psycheis 2. No, wait, Psycheis 1.",
+      "avg_logprob": -0.23987068472237422,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9714285714285714,
+      "acoustic_speech_overlap_seconds": 3.56
+    },
+    {
+      "start": 117.02,
+      "end": 118.52,
+      "text": "I'll look, I'll look at it tonight.",
+      "avg_logprob": -0.23987068472237422,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0,
+      "acoustic_speech_overlap_seconds": 1.5
+    },
+    {
+      "start": 120.0,
+      "end": 124.68,
+      "text": "And at the start, they're talking about God and the stories of the Bible, etc.",
+      "avg_logprob": -0.22029532344786676,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0533333333333332,
+      "acoustic_speech_overlap_seconds": 4.68
+    },
+    {
+      "start": 125.3,
+      "end": 126.04,
+      "text": "How do you spell that?",
+      "avg_logprob": -0.22029532344786676,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7419354838709677,
+      "acoustic_speech_overlap_seconds": 0.74
+    },
+    {
+      "start": 127.78,
+      "end": 132.92,
+      "text": "Z-E-I-T-G-E-I-S-T",
+      "avg_logprob": -0.22029532344786676,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8181818181818182,
+      "acoustic_speech_overlap_seconds": 5.14
+    },
+    {
+      "start": 132.92,
+      "end": 135.96,
+      "text": "Got it. Okay. That's one.",
+      "avg_logprob": -0.22029532344786676,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7647058823529411,
+      "acoustic_speech_overlap_seconds": 3.04
+    },
+    {
+      "start": 137.1,
+      "end": 137.52,
+      "text": "Okay.",
+      "avg_logprob": -0.22029532344786676,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.42857142857142855,
+      "acoustic_speech_overlap_seconds": 0.42
+    },
+    {
+      "start": 138.64,
+      "end": 143.92,
+      "text": "You got one or two on that, but I suppose you'll have to watch the beginning of one.",
+      "avg_logprob": -0.22029532344786676,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0365853658536586,
+      "acoustic_speech_overlap_seconds": 4.256
+    },
+    {
+      "start": 146.28,
+      "end": 146.84,
+      "text": "Okay.",
+      "avg_logprob": -0.22029532344786676,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.42857142857142855,
+      "acoustic_speech_overlap_seconds": 0.56
+    },
+    {
+      "start": 150.0,
+      "end": 155.12,
+      "text": "Yeah, okay, I'll get you this link though, but you know something I mean",
+      "avg_logprob": -0.40078125335276127,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0,
+      "acoustic_speech_overlap_seconds": 5.12
+    },
+    {
+      "start": 157.26,
+      "end": 162.76,
+      "text": "We don't we don't need to argue about this anymore. It doesn't really matter. I mean you make a lot of",
+      "avg_logprob": -0.40078125335276127,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1704545454545454,
+      "acoustic_speech_overlap_seconds": 5.496
+    },
+    {
+      "start": 163.68,
+      "end": 168.14,
+      "text": "You make a lot of good points, and I understand where you're coming from I really don't",
+      "avg_logprob": -0.40078125335276127,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0476190476190477,
+      "acoustic_speech_overlap_seconds": 4.46
+    },
+    {
+      "start": 172.44,
+      "end": 174.44,
+      "text": "Sorry, I gotta find this",
+      "avg_logprob": -0.40078125335276127,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7575757575757576,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 180.0,
+      "end": 181.06,
+      "text": "Scaldy, it's 11.30.",
+      "avg_logprob": -0.3567895683453237,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7142857142857143,
+      "acoustic_speech_overlap_seconds": 1.06
+    },
+    {
+      "start": 181.16,
+      "end": 181.78,
+      "text": "Where'd he go?",
+      "avg_logprob": -0.3567895683453237,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6521739130434783,
+      "acoustic_speech_overlap_seconds": 0.62
+    },
+    {
+      "start": 181.84,
+      "end": 182.28,
+      "text": "Where'd he go out?",
+      "avg_logprob": -0.3567895683453237,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7037037037037037,
+      "acoustic_speech_overlap_seconds": 0.44
+    },
+    {
+      "start": 182.5,
+      "end": 183.48,
+      "text": "I believe Coon is there.",
+      "avg_logprob": -0.3567895683453237,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7575757575757576,
+      "acoustic_speech_overlap_seconds": 0.98
+    },
+    {
+      "start": 184.82,
+      "end": 186.08,
+      "text": "Oh, he's been listening?",
+      "avg_logprob": -0.3567895683453237,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7575757575757576,
+      "acoustic_speech_overlap_seconds": 1.26
+    },
+    {
+      "start": 186.46,
+      "end": 186.82,
+      "text": "No.",
+      "avg_logprob": -0.3567895683453237,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.3333333333333333,
+      "acoustic_speech_overlap_seconds": 0.36
+    },
+    {
+      "start": 187.24,
+      "end": 188.3,
+      "text": "No, I can call him up.",
+      "avg_logprob": -0.3567895683453237,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7931034482758621,
+      "acoustic_speech_overlap_seconds": 1.06
+    },
+    {
+      "start": 192.54,
+      "end": 193.48,
+      "text": "Okay, there he is.",
+      "avg_logprob": -0.3567895683453237,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7037037037037037,
+      "acoustic_speech_overlap_seconds": 0.94
+    },
+    {
+      "start": 194.28,
+      "end": 195.1,
+      "text": "Yeah, Coon.",
+      "avg_logprob": -0.3567895683453237,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6,
+      "acoustic_speech_overlap_seconds": 0.82
+    },
+    {
+      "start": 196.44,
+      "end": 196.84,
+      "text": "Yo.",
+      "avg_logprob": -0.3567895683453237,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.3333333333333333,
+      "acoustic_speech_overlap_seconds": 0.4
+    },
+    {
+      "start": 197.18,
+      "end": 197.38,
+      "text": "Yo.",
+      "avg_logprob": -0.3567895683453237,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.3333333333333333,
+      "acoustic_speech_overlap_seconds": 0.2,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 197.78,
+      "end": 198.48,
+      "text": "Jeez, where'd you go?",
+      "avg_logprob": -0.3567895683453237,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7333333333333333,
+      "acoustic_speech_overlap_seconds": 0.7
+    },
+    {
+      "start": 199.52,
+      "end": 200.04,
+      "text": "What's up?",
+      "avg_logprob": -0.3567895683453237,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5789473684210527,
+      "acoustic_speech_overlap_seconds": 0.52
+    },
+    {
+      "start": 200.98,
+      "end": 201.74,
+      "text": "What have you been doing?",
+      "avg_logprob": -0.3567895683453237,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7647058823529411,
+      "acoustic_speech_overlap_seconds": 0.76
+    },
+    {
+      "start": 203.06,
+      "end": 203.84,
+      "text": "Not much.",
+      "avg_logprob": -0.3567895683453237,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5555555555555556,
+      "acoustic_speech_overlap_seconds": 0.78
+    },
+    {
+      "start": 204.18,
+      "end": 204.6,
+      "text": "What about you?",
+      "avg_logprob": -0.3567895683453237,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6666666666666666,
+      "acoustic_speech_overlap_seconds": 0.42
+    },
+    {
+      "start": 205.48,
+      "end": 207.46,
+      "text": "Oh, man, you sound like you've got a buzz on.",
+      "avg_logprob": -0.3567895683453237,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9019607843137255,
+      "acoustic_speech_overlap_seconds": 1.98
+    },
+    {
+      "start": 208.26,
+      "end": 208.82,
+      "text": "A what?",
+      "avg_logprob": -0.3567895683453237,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 210.0,
+      "end": 212.0,
+      "text": "A buzz? No.",
+      "avg_logprob": -0.23684210068824,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 212.0,
+      "end": 214.0,
+      "text": "A B-U-Z-Z.",
+      "avg_logprob": -0.23684210068824,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5789473684210527,
+      "acoustic_speech_overlap_seconds": 1.488
+    },
+    {
+      "start": 214.0,
+      "end": 216.0,
+      "text": "No, I'm okay.",
+      "avg_logprob": -0.23684210068824,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6363636363636364,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 216.0,
+      "end": 218.0,
+      "text": "I'm just a little bit tired.",
+      "avg_logprob": -0.23684210068824,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7837837837837838,
+      "acoustic_speech_overlap_seconds": 1.92
+    },
+    {
+      "start": 218.0,
+      "end": 222.0,
+      "text": "Yeah. I'm just a little bit tired right now.",
+      "avg_logprob": -0.23684210068824,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8490566037735849,
+      "acoustic_speech_overlap_seconds": 4.0
+    },
+    {
+      "start": 222.0,
+      "end": 224.0,
+      "text": "Oh yeah, it's late.",
+      "avg_logprob": -0.23684210068824,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7142857142857143,
+      "acoustic_speech_overlap_seconds": 0.896
+    },
+    {
+      "start": 226.0,
+      "end": 228.0,
+      "text": "We don't need to go down that road, Tom.",
+      "avg_logprob": -0.23684210068824,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8541666666666666,
+      "acoustic_speech_overlap_seconds": 1.52
+    },
+    {
+      "start": 228.0,
+      "end": 230.0,
+      "text": "This is your faithful Christian.",
+      "avg_logprob": -0.23684210068824,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8461538461538461,
+      "acoustic_speech_overlap_seconds": 0.272
+    },
+    {
+      "start": 230.0,
+      "end": 232.0,
+      "text": "Yeah, I know.",
+      "avg_logprob": -0.23684210068824,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6363636363636364,
+      "acoustic_speech_overlap_seconds": 1.168
+    },
+    {
+      "start": 232.0,
+      "end": 234.0,
+      "text": "Hence the name Chris.",
+      "avg_logprob": -0.23684210068824,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7333333333333333,
+      "acoustic_speech_overlap_seconds": 0.24
+    },
+    {
+      "start": 234.0,
+      "end": 238.0,
+      "text": "I know he is. I've talked to him before about it and stuff.",
+      "avg_logprob": -0.23684210068824,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9523809523809523,
+      "acoustic_speech_overlap_seconds": 3.808
+    },
+    {
+      "start": 240.0,
+      "end": 242.8,
+      "text": "I got Tom wound up.",
+      "avg_logprob": -0.46326754882670285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7142857142857143,
+      "acoustic_speech_overlap_seconds": 1.792
+    },
+    {
+      "start": 246.74,
+      "end": 248.1,
+      "text": "Tom, I love you, man.",
+      "avg_logprob": -0.46326754882670285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7333333333333333,
+      "acoustic_speech_overlap_seconds": 1.36
+    },
+    {
+      "start": 248.42,
+      "end": 249.2,
+      "text": "I love you, man.",
+      "avg_logprob": -0.46326754882670285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.68,
+      "acoustic_speech_overlap_seconds": 0.78
+    },
+    {
+      "start": 249.56,
+      "end": 250.3,
+      "text": "I love you, brother.",
+      "avg_logprob": -0.46326754882670285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7241379310344828,
+      "acoustic_speech_overlap_seconds": 0.74
+    },
+    {
+      "start": 251.64,
+      "end": 252.42,
+      "text": "Chill, baby.",
+      "avg_logprob": -0.46326754882670285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6190476190476191,
+      "acoustic_speech_overlap_seconds": 0.78
+    },
+    {
+      "start": 253.22,
+      "end": 253.46,
+      "text": "What?",
+      "avg_logprob": -0.46326754882670285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.42857142857142855,
+      "acoustic_speech_overlap_seconds": 0.24
+    },
+    {
+      "start": 253.62,
+      "end": 253.82,
+      "text": "Chill?",
+      "avg_logprob": -0.46326754882670285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.4666666666666667,
+      "acoustic_speech_overlap_seconds": 0.2,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 255.02,
+      "end": 255.98,
+      "text": "Chill, chill.",
+      "avg_logprob": -0.46326754882670285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7368421052631579,
+      "acoustic_speech_overlap_seconds": 0.96
+    },
+    {
+      "start": 256.34,
+      "end": 257.7,
+      "text": "C-H-I-L-L, chill.",
+      "avg_logprob": -0.46326754882670285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6923076923076923,
+      "acoustic_speech_overlap_seconds": 1.36
+    },
+    {
+      "start": 257.94,
+      "end": 258.82,
+      "text": "Like in cold.",
+      "avg_logprob": -0.46326754882670285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6363636363636364,
+      "acoustic_speech_overlap_seconds": 0.88
+    },
+    {
+      "start": 259.3,
+      "end": 259.66,
+      "text": "Cool.",
+      "avg_logprob": -0.46326754882670285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.42857142857142855,
+      "acoustic_speech_overlap_seconds": 0.36
+    },
+    {
+      "start": 260.36,
+      "end": 261.84,
+      "text": "Mr. Cool Ice Chris.",
+      "avg_logprob": -0.46326754882670285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7142857142857143,
+      "acoustic_speech_overlap_seconds": 1.48
+    },
+    {
+      "start": 263.14,
+      "end": 264.34,
+      "text": "Ice Cold Cool.",
+      "avg_logprob": -0.46326754882670285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7142857142857143,
+      "acoustic_speech_overlap_seconds": 1.2
+    },
+    {
+      "start": 265.14,
+      "end": 266.54,
+      "text": "Mr. Cool Ice Chris.",
+      "avg_logprob": -0.46326754882670285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7142857142857143,
+      "acoustic_speech_overlap_seconds": 1.4
+    },
+    {
+      "start": 267.6,
+      "end": 268.38,
+      "text": "Air gone.",
+      "avg_logprob": -0.46326754882670285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5555555555555556,
+      "acoustic_speech_overlap_seconds": 0.78
+    },
+    {
+      "start": 268.48,
+      "end": 269.24,
+      "text": "Ice cool, Adam.",
+      "avg_logprob": -0.46326754882670285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6666666666666666,
+      "acoustic_speech_overlap_seconds": 0.76
+    },
+    {
+      "start": 270.0,
+      "end": 272.0,
+      "text": "Aragorn.",
+      "avg_logprob": -0.31443299952241566,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5294117647058824,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 272.0,
+      "end": 274.0,
+      "text": "Aragorn.",
+      "avg_logprob": -0.31443299952241566,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5294117647058824,
+      "acoustic_speech_overlap_seconds": 0.368
+    },
+    {
+      "start": 274.0,
+      "end": 276.0,
+      "text": "Aragorn.",
+      "avg_logprob": -0.31443299952241566,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5294117647058824,
+      "acoustic_speech_overlap_seconds": 0.336
+    },
+    {
+      "start": 276.0,
+      "end": 278.0,
+      "text": "Are you talking about the movie?",
+      "avg_logprob": -0.31443299952241566,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8048780487804879,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 278.0,
+      "end": 280.0,
+      "text": "With the gay ass actors?",
+      "avg_logprob": -0.31443299952241566,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7575757575757576,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 280.0,
+      "end": 282.0,
+      "text": "With the dragon?",
+      "avg_logprob": -0.31443299952241566,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.68,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 282.0,
+      "end": 284.0,
+      "text": "No, hey, you guys see the movie 300?",
+      "avg_logprob": -0.31443299952241566,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8222222222222222,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 284.0,
+      "end": 286.0,
+      "text": "No.",
+      "avg_logprob": -0.31443299952241566,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.3333333333333333,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 286.0,
+      "end": 288.0,
+      "text": "Yeah, yeah.",
+      "avg_logprob": -0.31443299952241566,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6666666666666666,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 288.0,
+      "end": 290.0,
+      "text": "This is Spider.",
+      "avg_logprob": -0.31443299952241566,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7272727272727273,
+      "acoustic_speech_overlap_seconds": 0.496
+    },
+    {
+      "start": 290.0,
+      "end": 292.0,
+      "text": "This is Spider.",
+      "avg_logprob": -0.31443299952241566,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7272727272727273,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 292.0,
+      "end": 294.0,
+      "text": "This is blasphemy.",
+      "avg_logprob": -0.31443299952241566,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.76,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 294.0,
+      "end": 296.0,
+      "text": "This is madness.",
+      "avg_logprob": -0.31443299952241566,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7391304347826086,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 296.0,
+      "end": 298.0,
+      "text": "Madness.",
+      "avg_logprob": -0.31443299952241566,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5294117647058824,
+      "acoustic_speech_overlap_seconds": 1.584
+    },
+    {
+      "start": 300.0,
+      "end": 302.78,
+      "text": "Sparta! This is bad boys.",
+      "avg_logprob": -0.36974789615438763,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8125,
+      "acoustic_speech_overlap_seconds": 2.444
+    },
+    {
+      "start": 306.72,
+      "end": 307.88,
+      "text": "Snap your carrot.",
+      "avg_logprob": -0.36974789615438763,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6923076923076923,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 309.32,
+      "end": 310.76,
+      "text": "What? Snap your carrot?",
+      "avg_logprob": -0.36974789615438763,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.75,
+      "acoustic_speech_overlap_seconds": 0.856
+    },
+    {
+      "start": 311.14,
+      "end": 312.68,
+      "text": "What are you talking about, Mr. Cool-Eyes?",
+      "avg_logprob": -0.36974789615438763,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8431372549019608,
+      "acoustic_speech_overlap_seconds": 1.54
+    },
+    {
+      "start": 313.62,
+      "end": 315.2,
+      "text": "Just look that up in Google.",
+      "avg_logprob": -0.36974789615438763,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7837837837837838,
+      "acoustic_speech_overlap_seconds": 0.656
+    },
+    {
+      "start": 315.36,
+      "end": 316.44,
+      "text": "Snap your carrot.",
+      "avg_logprob": -0.36974789615438763,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6923076923076923,
+      "acoustic_speech_overlap_seconds": 1.08
+    },
+    {
+      "start": 316.9,
+      "end": 318.12,
+      "text": "Spank your monkey.",
+      "avg_logprob": -0.36974789615438763,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7037037037037037,
+      "acoustic_speech_overlap_seconds": 1.22
+    },
+    {
+      "start": 321.48,
+      "end": 323.04,
+      "text": "My wife, Chris, do you like that movie?",
+      "avg_logprob": -0.36974789615438763,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8333333333333334,
+      "acoustic_speech_overlap_seconds": 1.56
+    },
+    {
+      "start": 323.24,
+      "end": 324.78,
+      "text": "Chris is coming into town.",
+      "avg_logprob": -0.36974789615438763,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8181818181818182,
+      "acoustic_speech_overlap_seconds": 1.54
+    },
+    {
+      "start": 324.78,
+      "end": 327.06,
+      "text": "What, 300? Yeah, I did. I really did.",
+      "avg_logprob": -0.36974789615438763,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.926829268292683,
+      "acoustic_speech_overlap_seconds": 2.28
+    },
+    {
+      "start": 327.06,
+      "end": 328.22,
+      "text": "Chris is coming into town.",
+      "avg_logprob": -0.36974789615438763,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8181818181818182,
+      "acoustic_speech_overlap_seconds": 1.16
+    },
+    {
+      "start": 328.22,
+      "end": 329.92,
+      "text": "I'm going to rip all the data packets apart.",
+      "avg_logprob": -0.36974789615438763,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8490566037735849,
+      "acoustic_speech_overlap_seconds": 1.044
+    },
+    {
+      "start": 330.0,
+      "end": 334.32,
+      "text": "Oh, Tom, Tom, calm down, man.",
+      "avg_logprob": -0.2106119808740914,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9375,
+      "acoustic_speech_overlap_seconds": 3.552
+    },
+    {
+      "start": 336.38,
+      "end": 343.3,
+      "text": "Don't be, don't be, don't be, don't be, don't be, don't be, don't be, don't be, don't be vitriolic.",
+      "avg_logprob": -0.2106119808740914,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 3.0303030303030303,
+      "acoustic_speech_overlap_seconds": 4.232,
+      "qa_flags": [
+        "possible_repetition"
+      ]
+    },
+    {
+      "start": 343.82,
+      "end": 348.34,
+      "text": "Whoa, whoa, whoa, he drew in a nice and intellectual word there.",
+      "avg_logprob": -0.2106119808740914,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0483870967741935,
+      "acoustic_speech_overlap_seconds": 0.9
+    },
+    {
+      "start": 349.34,
+      "end": 350.68,
+      "text": "Do you know what vitriolic means?",
+      "avg_logprob": -0.2106119808740914,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8095238095238095,
+      "acoustic_speech_overlap_seconds": 1.34
+    },
+    {
+      "start": 350.78,
+      "end": 352.14,
+      "text": "No, actually, I don't even.",
+      "avg_logprob": -0.2106119808740914,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7777777777777778,
+      "acoustic_speech_overlap_seconds": 1.36
+    },
+    {
+      "start": 360.0,
+      "end": 364.82,
+      "text": "Oh, but there's a storm we're talking about here, Chris.",
+      "avg_logprob": -0.3835000038146973,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9193548387096774,
+      "acoustic_speech_overlap_seconds": 4.82
+    },
+    {
+      "start": 365.02,
+      "end": 366.28,
+      "text": "I don't think that's possible.",
+      "avg_logprob": -0.3835000038146973,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8378378378378378,
+      "acoustic_speech_overlap_seconds": 1.26
+    },
+    {
+      "start": 369.2,
+      "end": 370.42,
+      "text": "No, he's a good dude.",
+      "avg_logprob": -0.3835000038146973,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7333333333333333,
+      "acoustic_speech_overlap_seconds": 1.22
+    },
+    {
+      "start": 370.5,
+      "end": 371.2,
+      "text": "He's a good dude.",
+      "avg_logprob": -0.3835000038146973,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6923076923076923,
+      "acoustic_speech_overlap_seconds": 0.7
+    },
+    {
+      "start": 373.12,
+      "end": 375.24,
+      "text": "I got a little taco cup there.",
+      "avg_logprob": -0.3835000038146973,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7948717948717948,
+      "acoustic_speech_overlap_seconds": 1.36
+    },
+    {
+      "start": 376.12,
+      "end": 376.86,
+      "text": "He knows a little.",
+      "avg_logprob": -0.3835000038146973,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7037037037037037,
+      "acoustic_speech_overlap_seconds": 0.74
+    },
+    {
+      "start": 377.4,
+      "end": 377.9,
+      "text": "Wait, what?",
+      "avg_logprob": -0.3835000038146973,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 378.6,
+      "end": 379.32,
+      "text": "In a good way.",
+      "avg_logprob": -0.3835000038146973,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6521739130434783,
+      "acoustic_speech_overlap_seconds": 0.72
+    },
+    {
+      "start": 379.44,
+      "end": 379.92,
+      "text": "In a good way.",
+      "avg_logprob": -0.3835000038146973,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6521739130434783,
+      "acoustic_speech_overlap_seconds": 0.48
+    },
+    {
+      "start": 380.58,
+      "end": 381.28,
+      "text": "In a good way.",
+      "avg_logprob": -0.3835000038146973,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6521739130434783,
+      "acoustic_speech_overlap_seconds": 0.7
+    },
+    {
+      "start": 381.3,
+      "end": 385.36,
+      "text": "What's the bad way?",
+      "avg_logprob": -0.3835000038146973,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7142857142857143,
+      "acoustic_speech_overlap_seconds": 2.172
+    },
+    {
+      "start": 385.82,
+      "end": 386.58,
+      "text": "It's the bad way.",
+      "avg_logprob": -0.3835000038146973,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6923076923076923,
+      "acoustic_speech_overlap_seconds": 0.052,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 387.3,
+      "end": 389.1,
+      "text": "Chris, you're a child molester.",
+      "avg_logprob": -0.3835000038146973,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 389.14,
+      "end": 389.68,
+      "text": "I don't know.",
+      "avg_logprob": -0.3835000038146973,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6363636363636364,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 390.0,
+      "end": 399.14,
+      "text": "No, there's some guys probably hanging out on the street down there someplace that could actually demonstrate the bad way.",
+      "avg_logprob": -0.3121936137185377,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.23,
+      "acoustic_speech_overlap_seconds": 9.108
+    },
+    {
+      "start": 400.36,
+      "end": 402.4,
+      "text": "Wait, you're going to demonstrate the bad way?",
+      "avg_logprob": -0.3121936137185377,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8545454545454545,
+      "acoustic_speech_overlap_seconds": 2.04
+    },
+    {
+      "start": 402.48,
+      "end": 403.06,
+      "text": "Was that a threat?",
+      "avg_logprob": -0.3121936137185377,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.76,
+      "acoustic_speech_overlap_seconds": 0.58
+    },
+    {
+      "start": 404.26,
+      "end": 405.9,
+      "text": "No, you didn't listen.",
+      "avg_logprob": -0.3121936137185377,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7419354838709677,
+      "acoustic_speech_overlap_seconds": 1.64
+    },
+    {
+      "start": 406.06,
+      "end": 407.78,
+      "text": "See, you got to listen, brother.",
+      "avg_logprob": -0.3121936137185377,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8048780487804879,
+      "acoustic_speech_overlap_seconds": 1.72
+    },
+    {
+      "start": 409.2,
+      "end": 410.14,
+      "text": "Hey, wait, I'm not wanting to do this.",
+      "avg_logprob": -0.3121936137185377,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8666666666666667,
+      "acoustic_speech_overlap_seconds": 0.044,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 410.14,
+      "end": 410.74,
+      "text": "I love you.",
+      "avg_logprob": -0.3121936137185377,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6,
+      "acoustic_speech_overlap_seconds": 0.6
+    },
+    {
+      "start": 412.06,
+      "end": 413.22,
+      "text": "Bend over, I'm driving.",
+      "avg_logprob": -0.3121936137185377,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.75,
+      "acoustic_speech_overlap_seconds": 1.16
+    },
+    {
+      "start": 414.36,
+      "end": 415.02,
+      "text": "Wait, what?",
+      "avg_logprob": -0.3121936137185377,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 420.0,
+      "end": 425.28,
+      "text": "that uh that beautiful boat that you uh have on youtube oh dude they only made four of those",
+      "avg_logprob": -0.27485794641754846,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.273972602739726,
+      "acoustic_speech_overlap_seconds": 5.28
+    },
+    {
+      "start": 425.28,
+      "end": 433.42,
+      "text": "oh really it looks really awesome i'm getting one of those uh the party boats the lagara",
+      "avg_logprob": -0.27485794641754846,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.2027027027027026,
+      "acoustic_speech_overlap_seconds": 8.14
+    },
+    {
+      "start": 433.42,
+      "end": 443.36,
+      "text": "oh well you can get a party van yeah i told you about the uh the reward for finding me",
+      "avg_logprob": -0.27485794641754846,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1756756756756757,
+      "acoustic_speech_overlap_seconds": 9.94
+    },
+    {
+      "start": 450.0,
+      "end": 455.7,
+      "text": "yeah yeah so i told tom too so maybe both you could put your heads together and come up with",
+      "avg_logprob": -0.17304687593132256,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.2236842105263157,
+      "acoustic_speech_overlap_seconds": 5.7
+    },
+    {
+      "start": 455.7,
+      "end": 462.62,
+      "text": "somebody well uh yeah you told us both didn't you uh clyde cash can uh probably invest in you",
+      "avg_logprob": -0.17304687593132256,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.175,
+      "acoustic_speech_overlap_seconds": 6.92
+    },
+    {
+      "start": 462.62,
+      "end": 471.32,
+      "text": "yeah clyde cash has a lot of cash who clyde cash yeah he's a rich man he's pretty rich who's clyde",
+      "avg_logprob": -0.17304687593132256,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.375,
+      "acoustic_speech_overlap_seconds": 7.292
+    },
+    {
+      "start": 480.0,
+      "end": 487.0,
+      "text": "dragon's den in london",
+      "avg_logprob": -0.5385638399327055,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7419354838709677,
+      "acoustic_speech_overlap_seconds": 4.408
+    },
+    {
+      "start": 487.62,
+      "end": 493.62,
+      "text": "you should talk with the Bilderberg group",
+      "avg_logprob": -0.5385638399327055,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.84,
+      "acoustic_speech_overlap_seconds": 2.124
+    },
+    {
+      "start": 493.62,
+      "end": 498.04,
+      "text": "but that shit was so fast",
+      "avg_logprob": -0.5385638399327055,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7647058823529411,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 498.04,
+      "end": 500.04,
+      "text": "the Bilderberg group? I've heard that",
+      "avg_logprob": -0.5385638399327055,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8260869565217391,
+      "acoustic_speech_overlap_seconds": 1.176
+    },
+    {
+      "start": 500.04,
+      "end": 506.04,
+      "text": "yeah they're very rich",
+      "avg_logprob": -0.5385638399327055,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7419354838709677,
+      "acoustic_speech_overlap_seconds": 1.256
+    },
+    {
+      "start": 510.0,
+      "end": 516.4,
+      "text": "the Rockefellers over here. Oh, the Build-a-Burgers. Yeah, yeah, yeah. Build-a-Burger. Not the Build-a-Burg,",
+      "avg_logprob": -0.2715336029269114,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.4155844155844155,
+      "acoustic_speech_overlap_seconds": 6.4
+    },
+    {
+      "start": 516.4,
+      "end": 520.08,
+      "text": "the Build-a-Burgers. Yeah, the Rockefellers are part of it, I guess.",
+      "avg_logprob": -0.2715336029269114,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9452054794520548,
+      "acoustic_speech_overlap_seconds": 3.68
+    },
+    {
+      "start": 520.08,
+      "end": 525.68,
+      "text": "The Rockefellers are part of it, yeah. And so is the Queen of Holland. Exactly.",
+      "avg_logprob": -0.2715336029269114,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.975609756097561,
+      "acoustic_speech_overlap_seconds": 3.072
+    },
+    {
+      "start": 525.68,
+      "end": 536.08,
+      "text": "Yeah, yeah, yeah. So anyways, um, no any good jokes? Yeah, so a man is recovering data packets.",
+      "avg_logprob": -0.2715336029269114,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1294117647058823,
+      "acoustic_speech_overlap_seconds": 1.984
+    },
+    {
+      "start": 540.0,
+      "end": 546.4,
+      "text": "like this guy oh hey talking about jokes did you see that ventriloquist on uh youtube which one",
+      "avg_logprob": -0.22800164787392868,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.2151898734177216,
+      "acoustic_speech_overlap_seconds": 6.4
+    },
+    {
+      "start": 546.4,
+      "end": 556.24,
+      "text": "you're not talking about uh with the one with akhmat that he's got the old man he's got uh",
+      "avg_logprob": -0.22800164787392868,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.2133333333333334,
+      "acoustic_speech_overlap_seconds": 7.056
+    },
+    {
+      "start": 556.24,
+      "end": 562.56,
+      "text": "oh my god you're talking about jeff dunham yeah yeah yeah yeah that's funny man what what are",
+      "avg_logprob": -0.22800164787392868,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.2533333333333334,
+      "acoustic_speech_overlap_seconds": 6.32
+    },
+    {
+      "start": 570.0,
+      "end": 571.28,
+      "text": "You're doing Ventrilo?",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7419354838709677,
+      "acoustic_speech_overlap_seconds": 1.28
+    },
+    {
+      "start": 571.92,
+      "end": 576.92,
+      "text": "Um, no, we're not harassing anybody right now, so we're actually only talking to you.",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0617283950617284,
+      "acoustic_speech_overlap_seconds": 2.984
+    },
+    {
+      "start": 578.42,
+      "end": 578.62,
+      "text": "Yeah.",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.42857142857142855,
+      "acoustic_speech_overlap_seconds": 0.2
+    },
+    {
+      "start": 578.74,
+      "end": 580.04,
+      "text": "So, Ventrilo, yeah.",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7692307692307693,
+      "acoustic_speech_overlap_seconds": 1.3
+    },
+    {
+      "start": 580.04,
+      "end": 581.14,
+      "text": "We're just trying to harass you.",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8048780487804879,
+      "acoustic_speech_overlap_seconds": 1.1
+    },
+    {
+      "start": 581.42,
+      "end": 581.6,
+      "text": "Ventrilo?",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5555555555555556,
+      "acoustic_speech_overlap_seconds": 0.18,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 582.08,
+      "end": 582.32,
+      "text": "Huh?",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.38461538461538464,
+      "acoustic_speech_overlap_seconds": 0.112,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 584.12,
+      "end": 584.8,
+      "text": "What'd you say?",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6666666666666666,
+      "acoustic_speech_overlap_seconds": 0.68
+    },
+    {
+      "start": 585.08,
+      "end": 586.46,
+      "text": "I'm a Ventrilo guy.",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7142857142857143,
+      "acoustic_speech_overlap_seconds": 1.38
+    },
+    {
+      "start": 587.18,
+      "end": 587.58,
+      "text": "Really?",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5,
+      "acoustic_speech_overlap_seconds": 0.4
+    },
+    {
+      "start": 587.6,
+      "end": 588.34,
+      "text": "You're a Ventrilo guy.",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7419354838709677,
+      "acoustic_speech_overlap_seconds": 0.74
+    },
+    {
+      "start": 588.46,
+      "end": 588.7,
+      "text": "Why?",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.38461538461538464,
+      "acoustic_speech_overlap_seconds": 0.24
+    },
+    {
+      "start": 589.0,
+      "end": 589.24,
+      "text": "Why?",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.38461538461538464,
+      "acoustic_speech_overlap_seconds": 0.24
+    },
+    {
+      "start": 589.3,
+      "end": 590.5,
+      "text": "You hacked the data packets.",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8529411764705882,
+      "acoustic_speech_overlap_seconds": 1.2
+    },
+    {
+      "start": 591.74,
+      "end": 592.32,
+      "text": "That's right.",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6363636363636364,
+      "acoustic_speech_overlap_seconds": 0.58
+    },
+    {
+      "start": 592.8,
+      "end": 594.2,
+      "text": "I'm more of a TeamSpeed guy.",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7837837837837838,
+      "acoustic_speech_overlap_seconds": 1.4
+    },
+    {
+      "start": 594.54,
+      "end": 595.58,
+      "text": "I'm more of a Skype guy.",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7575757575757576,
+      "acoustic_speech_overlap_seconds": 1.04
+    },
+    {
+      "start": 595.58,
+      "end": 595.96,
+      "text": "Oh, really?",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6,
+      "acoustic_speech_overlap_seconds": 0.38
+    },
+    {
+      "start": 597.22,
+      "end": 597.54,
+      "text": "Yeah.",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.42857142857142855,
+      "acoustic_speech_overlap_seconds": 0.32
+    },
+    {
+      "start": 597.98,
+      "end": 598.42,
+      "text": "You know?",
+      "avg_logprob": -0.34689465296343436,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5555555555555556,
+      "acoustic_speech_overlap_seconds": 0.44
+    },
+    {
+      "start": 600.0,
+      "end": 606.16,
+      "text": "ventrilo because it's uh more simple yeah it is i know the team speaks a bit but you could",
+      "avg_logprob": -0.11577460122235278,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1666666666666667,
+      "acoustic_speech_overlap_seconds": 6.16
+    },
+    {
+      "start": 606.16,
+      "end": 611.04,
+      "text": "unban yourself you know in previous years but they fixed that now you could just uh if you got",
+      "avg_logprob": -0.11577460122235278,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.2025316455696202,
+      "acoustic_speech_overlap_seconds": 4.88
+    },
+    {
+      "start": 611.04,
+      "end": 618.96,
+      "text": "an ip ban you could just use a proxy and then you could log in again yeah of course i do",
+      "avg_logprob": -0.11577460122235278,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.2191780821917808,
+      "acoustic_speech_overlap_seconds": 7.92
+    },
+    {
+      "start": 620.64,
+      "end": 627.44,
+      "text": "got a friend who owns proxies oh he owns every proxy no he owns some proxies yeah",
+      "avg_logprob": -0.11577460122235278,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.2615384615384615,
+      "acoustic_speech_overlap_seconds": 6.8
+    },
+    {
+      "start": 630.0,
+      "end": 640.62,
+      "text": "why don't you use tour well why don't you don't use tour Chris what did you say",
+      "avg_logprob": -0.3980978351572286,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.3333333333333333,
+      "acoustic_speech_overlap_seconds": 9.148
+    },
+    {
+      "start": 640.62,
+      "end": 650.68,
+      "text": "cool why don't you use tour tour yeah it's a prep program T O U R yeah yeah",
+      "avg_logprob": -0.3980978351572286,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0704225352112675,
+      "acoustic_speech_overlap_seconds": 8.3
+    },
+    {
+      "start": 660.0,
+      "end": 666.8,
+      "text": "You can find it at tour.on.nimp.org",
+      "avg_logprob": -0.3705658759619739,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8181818181818182,
+      "acoustic_speech_overlap_seconds": 3.456
+    },
+    {
+      "start": 666.8,
+      "end": 671.3,
+      "text": "I was going to say that",
+      "avg_logprob": -0.3705658759619739,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.75,
+      "acoustic_speech_overlap_seconds": 4.5
+    },
+    {
+      "start": 671.3,
+      "end": 672.96,
+      "text": "A few minutes ago I wanted to give him a link",
+      "avg_logprob": -0.3705658759619739,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8518518518518519,
+      "acoustic_speech_overlap_seconds": 1.66
+    },
+    {
+      "start": 672.96,
+      "end": 678.72,
+      "text": "I did it with a girl in my class today",
+      "avg_logprob": -0.3705658759619739,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8297872340425532,
+      "acoustic_speech_overlap_seconds": 2.272
+    },
+    {
+      "start": 678.72,
+      "end": 680.0,
+      "text": "Oh yeah, there it is",
+      "avg_logprob": -0.3705658759619739,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7241379310344828,
+      "acoustic_speech_overlap_seconds": 1.28
+    },
+    {
+      "start": 680.0,
+      "end": 682.7,
+      "text": "Like I made her open Google",
+      "avg_logprob": -0.3705658759619739,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7777777777777778,
+      "acoustic_speech_overlap_seconds": 2.7
+    },
+    {
+      "start": 682.7,
+      "end": 686.34,
+      "text": "Access.nimp.org",
+      "avg_logprob": -0.3705658759619739,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6666666666666666,
+      "acoustic_speech_overlap_seconds": 3.492
+    },
+    {
+      "start": 690.0,
+      "end": 694.64,
+      "text": "because control all the lead doesn't work on that well guess what guys i'm i'm here at um",
+      "avg_logprob": -0.17996161757853993,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1538461538461537,
+      "acoustic_speech_overlap_seconds": 4.64
+    },
+    {
+      "start": 695.84,
+      "end": 702.16,
+      "text": "uh well that's the directory here dot on dot nymph.org nothing's happening",
+      "avg_logprob": -0.17996161757853993,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.056338028169014,
+      "acoustic_speech_overlap_seconds": 6.32
+    },
+    {
+      "start": 703.68,
+      "end": 709.04,
+      "text": "well well the you know last time i did it here dot on dot nymph.org",
+      "avg_logprob": -0.17996161757853993,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0625,
+      "acoustic_speech_overlap_seconds": 5.36
+    },
+    {
+      "start": 709.04,
+      "end": 713.68,
+      "text": "no that doesn't work chris we're not going to go there because it doesn't work and then we'll",
+      "avg_logprob": -0.17996161757853993,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.2702702702702702,
+      "acoustic_speech_overlap_seconds": 4.64
+    },
+    {
+      "start": 713.68,
+      "end": 719.28,
+      "text": "open the site you can't really trick us with that see we're too smart we're just like you chris",
+      "avg_logprob": -0.17996161757853993,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.2151898734177216,
+      "acoustic_speech_overlap_seconds": 5.6
+    },
+    {
+      "start": 720.0,
+      "end": 729.22,
+      "text": "smart we're just so calm yeah yeah I gotta take you out for an ice cream or",
+      "avg_logprob": -0.326650932150067,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0857142857142856,
+      "acoustic_speech_overlap_seconds": 7.684
+    },
+    {
+      "start": 729.22,
+      "end": 735.56,
+      "text": "something chill you out ice cream why not candy",
+      "avg_logprob": -0.326650932150067,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9056603773584906,
+      "acoustic_speech_overlap_seconds": 3.14
+    },
+    {
+      "start": 735.56,
+      "end": 747.96,
+      "text": "coffee house you guys don't have coffee houses where you're at do you yes we do",
+      "avg_logprob": -0.326650932150067,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.2121212121212122,
+      "acoustic_speech_overlap_seconds": 7.92
+    },
+    {
+      "start": 750.0,
+      "end": 775.94,
+      "text": "were in Amsterdam? Uh, no. Really? Which one? They got me through the whole country, man. Really? Yeah. That's good to know, man. Yeah. What have you guys thought about? I just thought me and my buddy, me and my buddy were going to come over there about two years ago, so his wife passed away, and I thought we were just going to have to hang around in Amsterdam. I didn't know it was throughout the whole area.",
+      "avg_logprob": -0.250606808847594,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.73109243697479,
+      "acoustic_speech_overlap_seconds": 21.044
+    },
+    {
+      "start": 780.0,
+      "end": 781.58,
+      "text": "The only city is out of there.",
+      "avg_logprob": -0.2428495784179639,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7948717948717948,
+      "acoustic_speech_overlap_seconds": 1.58
+    },
+    {
+      "start": 782.7,
+      "end": 784.8,
+      "text": "Oh, you've been to Amsterdam, Chris?",
+      "avg_logprob": -0.2428495784179639,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8222222222222222,
+      "acoustic_speech_overlap_seconds": 2.1
+    },
+    {
+      "start": 784.92,
+      "end": 786.74,
+      "text": "I thought you only wanted to go there.",
+      "avg_logprob": -0.2428495784179639,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8478260869565217,
+      "acoustic_speech_overlap_seconds": 1.82
+    },
+    {
+      "start": 786.76,
+      "end": 786.88,
+      "text": "No, no, no.",
+      "avg_logprob": -0.2428495784179639,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.75,
+      "acoustic_speech_overlap_seconds": 0.12,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 786.94,
+      "end": 791.36,
+      "text": "I wanted to come a couple of times, but I will.",
+      "avg_logprob": -0.2428495784179639,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9056603773584906,
+      "acoustic_speech_overlap_seconds": 4.42
+    },
+    {
+      "start": 791.46,
+      "end": 795.32,
+      "text": "My first vacation, I want a lot of relaxation,",
+      "avg_logprob": -0.2428495784179639,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9215686274509803,
+      "acoustic_speech_overlap_seconds": 3.86
+    },
+    {
+      "start": 796.4,
+      "end": 802.1,
+      "text": "and I think that it would probably bode well if it's during the nice time of year to come there",
+      "avg_logprob": -0.2428495784179639,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1566265060240963,
+      "acoustic_speech_overlap_seconds": 5.7
+    },
+    {
+      "start": 802.1,
+      "end": 808.38,
+      "text": "and just feel nice and relaxed, you know, to be able to, you know, engage in some.",
+      "avg_logprob": -0.2428495784179639,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1369863013698631,
+      "acoustic_speech_overlap_seconds": 6.28
+    },
+    {
+      "start": 810.0,
+      "end": 811.44,
+      "text": "I've tried different kinds of herbs.",
+      "avg_logprob": -0.3852538999635726,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8222222222222222,
+      "acoustic_speech_overlap_seconds": 1.44
+    },
+    {
+      "start": 811.96,
+      "end": 815.0,
+      "text": "I'm really looking forward to sativa over there.",
+      "avg_logprob": -0.3852538999635726,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8596491228070176,
+      "acoustic_speech_overlap_seconds": 3.04
+    },
+    {
+      "start": 815.58,
+      "end": 816.82,
+      "text": "Sativa versus the indica.",
+      "avg_logprob": -0.3852538999635726,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7647058823529411,
+      "acoustic_speech_overlap_seconds": 1.24
+    },
+    {
+      "start": 817.12,
+      "end": 818.92,
+      "text": "You're not even going to try that one.",
+      "avg_logprob": -0.3852538999635726,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8297872340425532,
+      "acoustic_speech_overlap_seconds": 0.272
+    },
+    {
+      "start": 820.06,
+      "end": 821.02,
+      "text": "What? Not the indica?",
+      "avg_logprob": -0.3852538999635726,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7333333333333333,
+      "acoustic_speech_overlap_seconds": 0.96
+    },
+    {
+      "start": 821.78,
+      "end": 823.34,
+      "text": "I don't like indica. I like sativa.",
+      "avg_logprob": -0.3852538999635726,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9230769230769231,
+      "acoustic_speech_overlap_seconds": 1.436
+    },
+    {
+      "start": 824.58,
+      "end": 825.36,
+      "text": "Light-headed bugs.",
+      "avg_logprob": -0.3852538999635726,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7037037037037037,
+      "acoustic_speech_overlap_seconds": 0.192,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 825.52,
+      "end": 826.16,
+      "text": "And then the hash.",
+      "avg_logprob": -0.3852538999635726,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7916666666666666,
+      "acoustic_speech_overlap_seconds": 0.64
+    },
+    {
+      "start": 826.4,
+      "end": 827.26,
+      "text": "I saw the show.",
+      "avg_logprob": -0.3852538999635726,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6666666666666666,
+      "acoustic_speech_overlap_seconds": 0.86
+    },
+    {
+      "start": 828.84,
+      "end": 828.98,
+      "text": "Huh?",
+      "avg_logprob": -0.3852538999635726,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.38461538461538464,
+      "acoustic_speech_overlap_seconds": 0.14,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 829.16,
+      "end": 830.24,
+      "text": "You're going to try salvia.",
+      "avg_logprob": -0.3852538999635726,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7777777777777778,
+      "acoustic_speech_overlap_seconds": 1.08
+    },
+    {
+      "start": 832.68,
+      "end": 833.72,
+      "text": "I can't hear you.",
+      "avg_logprob": -0.3852538999635726,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6923076923076923,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 834.18,
+      "end": 834.76,
+      "text": "Never mind.",
+      "avg_logprob": -0.3852538999635726,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 835.84,
+      "end": 837.84,
+      "text": "He asked if you wanted to try salvia.",
+      "avg_logprob": -0.3852538999635726,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8636363636363636,
+      "acoustic_speech_overlap_seconds": 1.888
+    },
+    {
+      "start": 840.0,
+      "end": 842.62,
+      "text": "Yeah, South, yeah.",
+      "avg_logprob": -0.5481770833333334,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7916666666666666,
+      "acoustic_speech_overlap_seconds": 2.62
+    }
+  ],
+  "qa": {
+    "full_audio_processed": true,
+    "processed_audio_seconds": 843.7899375,
+    "flagged_segments": 24,
+    "suppressed_segments": 0,
+    "acoustic_speech_seconds": 649.39,
+    "suppressed_probable_silence_segments": 0,
+    "unreliable_intervals": [],
+    "human_reviewed": false,
+    "flags": [
+      "Contains low confidence or possible non-speech recognition."
+    ]
+  },
+  "suppressed_segments": [],
+  "notice": "Machine transcription of downloaded audio; may contain recognition errors."
+}

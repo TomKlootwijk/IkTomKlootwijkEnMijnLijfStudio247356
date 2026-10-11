@@ -1,0 +1,183 @@
+Chris the Hacker and Tom the Fag - Nov 2010 - 2/3 - "Vigilante Chris"
+https://www.youtube.com/watch?v=yTyAhp880jM
+Language: en | Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors.
+
+[00:00:00.000 --> 00:00:01.000] What?
+[00:00:01.000 --> 00:00:02.000] What?
+[00:00:02.000 --> 00:00:03.000] What are you getting?
+[00:00:03.000 --> 00:00:04.000] What are you getting?
+[00:00:04.000 --> 00:00:05.000] That's funny.
+[00:00:05.000 --> 00:00:09.000] Michael, it's fine with us.
+[00:00:09.000 --> 00:00:10.000] Yeah?
+[00:00:10.000 --> 00:00:11.000] Hello?
+[00:00:11.000 --> 00:00:12.000] Sorry. [ASR uncertain: little_acoustic_speech_support]
+[00:00:12.000 --> 00:00:15.000] Yeah, it looks like you're saying Frank calls.
+[00:00:15.000 --> 00:00:16.000] Hmm?
+[00:00:16.000 --> 00:00:17.000] No, wait.
+[00:00:17.000 --> 00:00:18.000] They hung up.
+[00:00:18.000 --> 00:00:20.000] Wait for it.
+[00:00:20.000 --> 00:00:23.000] Just go to calls.
+[00:00:23.000 --> 00:00:24.000] Wait.
+[00:00:24.000 --> 00:00:26.000] Yeah, they're on.
+[00:00:30.000 --> 00:00:32.560] Chris.
+[00:00:33.400 --> 00:00:33.880] Yeah.
+[00:00:34.800 --> 00:00:36.840] You're supposed to say something to them.
+[00:00:37.720 --> 00:00:39.040] We're trying to get you help, man.
+[00:00:44.540 --> 00:00:45.020] Chris?
+[00:00:46.460 --> 00:00:47.800] Oh, I got an incoming. [ASR uncertain: little_acoustic_speech_support]
+[00:00:47.940 --> 00:00:48.580] That might be you. [ASR uncertain: little_acoustic_speech_support]
+[00:00:48.940 --> 00:00:49.600] Hold on for a second. [ASR uncertain: little_acoustic_speech_support]
+[00:00:55.540 --> 00:00:57.280] Yeah, Monster 1200.
+[00:01:00.000 --> 00:01:07.000] get some monster 1200s
+[00:01:22.680 --> 00:01:27.160] you want some monster 1200s
+[00:01:30.000 --> 00:01:36.660] Are you into stolen credit cards, too, there, Tommy Boy?
+[00:01:37.600 --> 00:01:39.260] Oh, into stolen credit cards.
+[00:01:39.780 --> 00:01:40.720] What figures?
+[00:01:45.720 --> 00:01:46.840] Say that again?
+[00:01:47.520 --> 00:01:48.200] What figures?
+[00:01:51.120 --> 00:01:52.140] What do you mean? [ASR uncertain: little_acoustic_speech_support]
+[00:01:53.740 --> 00:01:56.220] Well, why are you figuring about...
+[00:01:56.220 --> 00:01:56.580] What?
+[00:01:58.160 --> 00:01:59.180] You're not figuring anything.
+[00:02:00.000 --> 00:02:09.040] So, I said, the Monster 1200s that Kuhn ordered for me, he ran through about eight credit cards before one took.
+[00:02:09.680 --> 00:02:12.900] So, it kind of tells me he had access to stolen credit cards.
+[00:02:13.880 --> 00:02:16.360] So, do you have access to stolen credit cards, too?
+[00:02:18.420 --> 00:02:18.940] Yeah.
+[00:02:21.040 --> 00:02:22.000] Oh, you do?
+[00:02:22.340 --> 00:02:27.360] So, you're going to put in an order for Monster 1200s for me as well, or is that just a gig?
+[00:02:30.000 --> 00:02:38.880] Oh, so in other words, you look up stolen credit cards in Google?
+[00:02:46.020 --> 00:02:46.620] Oh. [ASR uncertain: little_acoustic_speech_support]
+[00:02:50.700 --> 00:02:54.120] So test numbers from Google, how does that work?
+[00:02:56.240 --> 00:02:57.780] One of them took time.
+[00:02:58.020 --> 00:02:59.520] They couldn't have been test numbers.
+[00:03:00.000 --> 00:03:01.820] How the hell are you going to get test numbers from Google?
+[00:03:04.120 --> 00:03:05.480] You just search for them.
+[00:03:06.800 --> 00:03:08.040] Oh, you search for them.
+[00:03:08.200 --> 00:03:08.820] I get it.
+[00:03:09.680 --> 00:03:10.140] Mm-hmm.
+[00:03:11.140 --> 00:03:12.060] Well, it makes sense.
+[00:03:12.460 --> 00:03:14.880] So you got some Monster 1200s delivered.
+[00:03:15.820 --> 00:03:16.560] Oh, no.
+[00:03:17.780 --> 00:03:23.100] So did you get a call like 20 minutes ago from the wedding planner?
+[00:03:24.480 --> 00:03:24.880] No.
+[00:03:25.760 --> 00:03:27.200] No wedding planner here.
+[00:03:27.740 --> 00:03:28.300] Damn it.
+[00:03:28.360 --> 00:03:29.900] Why, did you make a call to the wedding planner?
+[00:03:30.000 --> 00:03:38.240] yeah what wedding planner uh fiva las vegas where they're not around here are they no no
+[00:03:38.240 --> 00:03:43.020] no but they were going to call you back because uh you were interested in the elvis hound dog
+[00:03:43.020 --> 00:03:52.600] package as uh oh you called the el you called las vegas yeah ah you know on the strip right
+[00:04:00.000 --> 00:04:03.320] Oh, man. Not even close.
+[00:04:04.400 --> 00:04:08.100] No, probably not. So did you take down that personal website of yours?
+[00:04:09.540 --> 00:04:15.300] Oh, yes, I did. So, listen, so, uh, I had been drinking tonight?
+[00:04:16.020 --> 00:04:17.160] No, not really. Why?
+[00:04:18.160 --> 00:04:21.440] So, you're just making the prank calls for the hell of it?
+[00:04:22.480 --> 00:04:26.940] Of course, like I've always been. It's not really a prank call, I'm just bored.
+[00:04:30.000 --> 00:04:32.280] I'm tormenting people when you're bored.
+[00:04:33.220 --> 00:04:34.400] It's not really tormenting.
+[00:04:34.480 --> 00:04:35.360] You're talking to me.
+[00:04:36.340 --> 00:04:38.800] Well, no, no, no, of course, but I know who you are.
+[00:04:38.860 --> 00:04:40.280] I'm talking about other people.
+[00:04:42.000 --> 00:04:42.200] Hmm? [ASR uncertain: little_acoustic_speech_support]
+[00:04:42.780 --> 00:04:44.120] Oh, yeah, kind of.
+[00:04:45.080 --> 00:04:46.040] Yeah, yeah, kind of.
+[00:04:46.860 --> 00:04:51.220] So I know you're recording this, so it doesn't really matter, Chris.
+[00:04:51.860 --> 00:04:53.400] How do you know I'm recording this?
+[00:04:53.400 --> 00:04:57.760] Because you're asking me clearly for answers to confess my crimes.
+[00:05:00.000 --> 00:05:07.980] i can say anything i want now like oh i'm i'm the leader of a criminal conspiracy against you chris
+[00:05:07.980 --> 00:05:13.500] yeah you could and you know something
+[00:05:13.500 --> 00:05:23.440] i know something from last year you have been you've been staying under the radar
+[00:05:30.000 --> 00:05:34.780] servers. I know Coon's been to his website, his channel on YouTube.
+[00:05:40.780 --> 00:05:44.440] Yeah, right. We're not really in a criminal circle, Chris.
+[00:05:45.660 --> 00:05:50.160] You're an international. Well, you know something? You're labeled as an international criminal ring
+[00:05:50.160 --> 00:05:55.780] over here. Yeah? Seriously? Listen, I got Coon ordering
+[00:06:00.000 --> 00:06:02.520] While the police were standing, and I got that all recorded.
+[00:06:06.340 --> 00:06:07.700] You got it all recorded?
+[00:06:07.820 --> 00:06:08.880] Can you play it back for me?
+[00:06:09.700 --> 00:06:14.360] And that was the time when you were calling up and harassing the shit out of me.
+[00:06:16.520 --> 00:06:17.800] You're such a victim.
+[00:06:18.420 --> 00:06:19.800] Oh, you're such a victim.
+[00:06:21.420 --> 00:06:23.460] You don't know what a victim is.
+[00:06:23.820 --> 00:06:26.280] I'm just a fool in love.
+[00:06:30.000 --> 00:06:34.580] you're looking for a long-term relationship you're drinking socially your marital status is
+[00:06:34.580 --> 00:06:41.000] divorce your profession is data recovery service your education is some college but mostly self
+[00:06:41.000 --> 00:06:45.580] taught do you want children does not want children do you have children all my kids are
+[00:06:45.580 --> 00:06:54.260] over 18 do you have a car yes and what interest journey with a partner through the excitement of
+[00:07:00.000 --> 00:07:01.200] It's on the internet.
+[00:07:02.100 --> 00:07:03.840] It's on the internet, yeah.
+[00:07:03.980 --> 00:07:08.000] It's in a dating site, and I got it under a heterosexual...
+[00:07:08.920 --> 00:07:11.360] No, it's not on a dating site.
+[00:07:11.480 --> 00:07:13.460] It was on your local cache of your website.
+[00:07:14.160 --> 00:07:15.760] Oh, that's true.
+[00:07:15.840 --> 00:07:16.700] You ripped it off.
+[00:07:16.800 --> 00:07:18.320] I forgot about that.
+[00:07:21.620 --> 00:07:23.140] So, anyway.
+[00:07:27.560 --> 00:07:29.200] You're looking for a partner.
+[00:07:30.000 --> 00:07:35.780] So, let's see. You just decided to call me up out of the blue, and you've been calling all damn day long. Why?
+[00:07:38.040 --> 00:07:39.260] All damn day.
+[00:07:40.220 --> 00:07:46.640] Oh, excuse me. I tried to. You're five hours ahead. I'm sorry. All evening.
+[00:07:47.560 --> 00:07:49.080] All evening? I've been...
+[00:07:49.080 --> 00:07:49.520] All evening.
+[00:07:49.640 --> 00:07:51.700] I called you, like, twice before this.
+[00:07:53.260 --> 00:07:53.740] Twice?
+[00:07:54.260 --> 00:07:54.640] Mm-hmm.
+[00:08:00.000 --> 00:08:08.780] a little bit better so but anyways so i i i'm i'm having a just a little bit of a uh an aggravating
+[00:08:08.780 --> 00:08:14.800] time with you because you keep calling in on my other line and i know it's you because you were
+[00:08:14.800 --> 00:08:22.200] asking me about religion dude it's not me god keep me on the line then keep me on the line i
+[00:08:22.200 --> 00:08:28.980] can't be that i cannot really using skype dude so why are you doing that because i can't talk with
+[00:08:30.000 --> 00:08:34.760] voice two times at the same time god you're such a moron on the other side
+[00:08:34.760 --> 00:08:41.160] dude it's on your side such a goddamn moron seriously you think everything is
+[00:08:41.160 --> 00:08:45.780] a conspiracy that we're fucking out to get you all the time you need to see a
+[00:08:45.780 --> 00:08:52.560] mental doctor or something a psychiatric god so I kind of something I'm not the
+[00:08:52.560 --> 00:08:59.340] one that's making the prank calls okay no but you are the one being being totally
+[00:09:00.000 --> 00:09:02.380] conspiracy theories that everybody's out to get to you,
+[00:09:02.420 --> 00:09:07.520] that there's a secret ring of international prank callers getting down on you.
+[00:09:07.900 --> 00:09:10.720] Middle East, even the Taliban is helping us.
+[00:09:12.620 --> 00:09:17.580] So, anyway, point is, let's skip that stuff.
+[00:09:17.980 --> 00:09:20.680] Let's get back to saxophones and chicks.
+[00:09:20.840 --> 00:09:21.400] How's that?
+[00:09:22.380 --> 00:09:23.400] That's a good idea.
+[00:09:24.220 --> 00:09:24.480] Yeah.
+[00:09:24.500 --> 00:09:28.120] So you want to put your dick in the saxophone, her saxophone, right?
+[00:09:30.000 --> 00:09:37.920] Uh, you know, the saxophones in me just don't seem to get along, unless I'm playing one.
+[00:09:37.980 --> 00:09:39.260] I played one in high school.
+[00:09:41.340 --> 00:09:45.360] So, anyway, let me see.
+[00:09:46.760 --> 00:09:56.540] I am looking for females in bands in the Netherlands.
+[00:10:00.000 --> 00:10:15.160] And lo and behold, so you're actually in, uh, you're actually in Rotterdam, right?
+[00:10:17.660 --> 00:10:19.220] Now you're just guessing.
+[00:10:20.100 --> 00:10:21.840] Now you're just guessing, man.
+[00:10:22.940 --> 00:10:24.320] I already know.
+[00:10:25.600 --> 00:10:29.500] Now you're guessing in the hope that I reveal something to you.
+[00:10:30.000 --> 00:10:33.560] I'm playing with your head, I'm playing with your head, you know I know.
+[00:10:36.860 --> 00:10:39.940] So, you must feel really powerless.
+[00:10:41.740 --> 00:10:44.180] So your business is going under because of us?
+[00:10:44.180 --> 00:10:47.960] You blame us for actually your business going that bad?
+[00:10:49.600 --> 00:10:54.540] Dude, you know where Kuhn lives? [ASR uncertain: little_acoustic_speech_support]
+[00:10:54.640 --> 00:10:55.440] Of course you do.
+[00:10:55.800 --> 00:10:56.600] Well, so don't I.
+[00:10:57.020 --> 00:10:58.680] You don't live very far from him, dude.
+[00:11:00.000 --> 00:11:04.000] You don't even know what Coonley is.
+[00:11:04.860 --> 00:11:05.480] Yes, I do.
+[00:11:06.100 --> 00:11:06.860] Not really.
+[00:11:07.760 --> 00:11:08.280] Yeah, really.
+[00:11:08.600 --> 00:11:09.960] You and I both know you don't know.
+[00:11:11.160 --> 00:11:12.020] No, I do know.
+[00:11:12.540 --> 00:11:13.020] Yeah, right.
+[00:11:14.240 --> 00:11:14.580] Right. [ASR uncertain: little_acoustic_speech_support]
+[00:11:19.860 --> 00:11:20.300] So?
+[00:11:21.760 --> 00:11:22.940] When are you coming over?
+[00:11:27.220 --> 00:11:28.660] Why don't you call his parents?
+[00:11:30.000 --> 00:11:32.180] I don't know when I'm coming over. [ASR uncertain: little_acoustic_speech_support]
+[00:11:33.200 --> 00:11:34.260] One of these days. [ASR uncertain: little_acoustic_speech_support]
+[00:11:34.440 --> 00:11:36.120] Why don't you just give the address?
+[00:11:36.260 --> 00:11:36.960] You never did.
+[00:11:38.900 --> 00:11:40.120] Why do you want to know?
+[00:11:40.200 --> 00:11:41.380] You already know where you live.
+[00:11:42.280 --> 00:11:43.840] Yeah, but you don't know.
+[00:11:44.460 --> 00:11:45.940] You just don't know.
+[00:11:46.180 --> 00:11:48.020] You just don't know.
+[00:11:48.140 --> 00:11:49.760] Just confess that you don't know.
+[00:11:50.380 --> 00:11:51.340] Okay, I don't know.
+[00:11:52.280 --> 00:11:52.760] You happy?
+[00:11:53.720 --> 00:11:55.220] I'm pretty happy right now.
+[00:11:55.320 --> 00:11:57.200] You finally acted like a man.

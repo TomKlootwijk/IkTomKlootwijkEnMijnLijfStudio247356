@@ -1,0 +1,997 @@
+{
+  "schema_version": 1,
+  "complete": true,
+  "id": "0UceOMudoDE",
+  "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 3/8 - \"Tales of Rick and Hack\"",
+  "position": 34,
+  "url": "https://www.youtube.com/watch?v=0UceOMudoDE",
+  "audio": "audio/034 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_8 - _Tales of Rick and Hack_ [0UceOMudoDE].mp3",
+  "language": "en",
+  "language_probability": 0.9990234375,
+  "duration": 429.395,
+  "duration_after_vad": 429.395,
+  "model": "mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf",
+  "runtime": {
+    "engine": "faster-whisper",
+    "device": "cuda",
+    "transcription_profile": "full-audio-30s-repetition-v3",
+    "compute_type": "int8_float16",
+    "cpu_threads": 12,
+    "batch_size": 2,
+    "beam_size": 5,
+    "vad_filter": false,
+    "full_audio": true,
+    "chunk_seconds": 30,
+    "without_timestamps": false,
+    "silence_guard": "skip no_speech_prob > 0.6 and avg_logprob < -1.0",
+    "repetition_guard": "suppress chunks with compression_ratio > 3 or >=4 repeated phrases dominating a chunk",
+    "acoustic_qa": "VAD measured for QA only; long sparse output without acoustic support suppressed; low-confidence output outside acoustic speech suppressed for <1%-speech recordings",
+    "condition_on_previous_text": false,
+    "python": "3.12.10",
+    "packages": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.2",
+      "av": "18.1.0",
+      "onnxruntime": "1.31.0",
+      "nvidia-cublas-cu12": "12.9.2.10",
+      "nvidia-cudnn-cu12": "9.27.0.42",
+      "nvidia-cuda-runtime-cu12": "12.9.79"
+    },
+    "gpu_fallback_reason": null
+  },
+  "started_at": "2026-10-11T09:17:11.131409+00:00",
+  "completed_at": "2026-10-11T09:17:22.072991+00:00",
+  "processing_seconds": 10.953,
+  "segments": [
+    {
+      "start": 0,
+      "end": 24.0,
+      "text": "I'm quitting. Technically speaking, technically speaking, and I told Rufus, I'm not doing this because I enjoy this. I told her that I am doing this specifically for you guys. I could be anywhere else. I'm not. I'm not deserving you. I'm making this work for you guys.",
+      "avg_logprob": -0.19678441337917163,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.713375796178344,
+      "acoustic_speech_overlap_seconds": 16.944
+    },
+    {
+      "start": 30.0,
+      "end": 31.86,
+      "text": "I own making this work.",
+      "avg_logprob": -0.33661416055649285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.75,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 32.52,
+      "end": 34.9,
+      "text": "You guys would not have done what you've done.",
+      "avg_logprob": -0.33661416055649285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.94,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 34.9,
+      "end": 35.82,
+      "text": "I'd love to see it work.",
+      "avg_logprob": -0.33661416055649285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7575757575757576,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 35.92,
+      "end": 37.1,
+      "text": "See, I'd love to see it work.",
+      "avg_logprob": -0.33661416055649285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7894736842105263,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 37.4,
+      "end": 39.34,
+      "text": "I'd love to see it work, too.",
+      "avg_logprob": -0.33661416055649285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8333333333333334,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 40.34,
+      "end": 41.38,
+      "text": "It's going to work.",
+      "avg_logprob": -0.33661416055649285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7142857142857143,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 41.62,
+      "end": 42.36,
+      "text": "Yeah, it will work.",
+      "avg_logprob": -0.33661416055649285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7142857142857143,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 43.8,
+      "end": 44.72,
+      "text": "I'm patient enough.",
+      "avg_logprob": -0.33661416055649285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7142857142857143,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 45.1,
+      "end": 47.24,
+      "text": "But it's not about our patience, too.",
+      "avg_logprob": -0.33661416055649285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8636363636363636,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 47.6,
+      "end": 49.38,
+      "text": "You've got to keep me in a prayer group.",
+      "avg_logprob": -0.33661416055649285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8367346938775511,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 49.66,
+      "end": 53.62,
+      "text": "I've got to be on that prayer group for every week and week.",
+      "avg_logprob": -0.33661416055649285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.953125,
+      "acoustic_speech_overlap_seconds": 1.076
+    },
+    {
+      "start": 54.46,
+      "end": 55.9,
+      "text": "I need prayer.",
+      "avg_logprob": -0.33661416055649285,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6521739130434783,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 120.0,
+      "end": 121.84,
+      "text": "Well, I don't want to listen.",
+      "avg_logprob": -0.41262134938564116,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7894736842105263,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 122.66,
+      "end": 127.66,
+      "text": "You know, obviously women are different than a prize.",
+      "avg_logprob": -0.41262134938564116,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8852459016393442,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 128.92,
+      "end": 130.94,
+      "text": "And she should know.",
+      "avg_logprob": -0.41262134938564116,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7777777777777778,
+      "acoustic_speech_overlap_seconds": 0.108,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 131.18,
+      "end": 132.2,
+      "text": "That's what I was telling her.",
+      "avg_logprob": -0.41262134938564116,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8378378378378378,
+      "acoustic_speech_overlap_seconds": 1.02
+    },
+    {
+      "start": 132.46,
+      "end": 134.82,
+      "text": "And she goes, you said, I know, you're not doing it for you.",
+      "avg_logprob": -0.41262134938564116,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9682539682539683,
+      "acoustic_speech_overlap_seconds": 2.36
+    },
+    {
+      "start": 135.3,
+      "end": 137.14,
+      "text": "I said, I'm not doing it for you.",
+      "avg_logprob": -0.41262134938564116,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8095238095238095,
+      "acoustic_speech_overlap_seconds": 1.84
+    },
+    {
+      "start": 137.76,
+      "end": 141.36,
+      "text": "She doesn't really understand that.",
+      "avg_logprob": -0.41262134938564116,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8181818181818182,
+      "acoustic_speech_overlap_seconds": 3.6
+    },
+    {
+      "start": 144.18,
+      "end": 149.44,
+      "text": "I could say today, I could say, call my brother Evan, call Rick.",
+      "avg_logprob": -0.41262134938564116,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1016949152542372,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 150.0,
+      "end": 150.94,
+      "text": "Rick's got another place.",
+      "avg_logprob": -0.2583333474894365,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7647058823529411,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 151.04,
+      "end": 152.66,
+      "text": "Rick's just moved into another place.",
+      "avg_logprob": -0.2583333474894365,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8260869565217391,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 152.96,
+      "end": 153.3,
+      "text": "Oh, yeah?",
+      "avg_logprob": -0.2583333474894365,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5555555555555556,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 153.68,
+      "end": 155.8,
+      "text": "Well, they foreclosed on his home.",
+      "avg_logprob": -0.2583333474894365,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.813953488372093,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 156.44,
+      "end": 157.12,
+      "text": "The one down there?",
+      "avg_logprob": -0.2583333474894365,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7142857142857143,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 157.36,
+      "end": 158.14,
+      "text": "The one down there.",
+      "avg_logprob": -0.2583333474894365,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7142857142857143,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 158.62,
+      "end": 163.92,
+      "text": "And I told him, I just, see, Rick's got a problem with he doesn't like to deal with anything.",
+      "avg_logprob": -0.2583333474894365,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0444444444444445,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 164.88,
+      "end": 166.56,
+      "text": "And they were foreclosing on his home.",
+      "avg_logprob": -0.2583333474894365,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8297872340425532,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 166.56,
+      "end": 177.92,
+      "text": "I told him, Rick, and by the way, I just found out most people that go into court that are foreclosing,",
+      "avg_logprob": -0.2583333474894365,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1555555555555554,
+      "acoustic_speech_overlap_seconds": 2.976
+    },
+    {
+      "start": 180.0,
+      "end": 196.24,
+      "text": "Right now, a Supreme Court justice just ruled, it's a crazy rule, it's kind of convoluted,",
+      "avg_logprob": -0.31770833969116213,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0705882352941176,
+      "acoustic_speech_overlap_seconds": 5.408
+    },
+    {
+      "start": 196.24,
+      "end": 200.76,
+      "text": "but now, so if they can't prove that there's a mortgage holder, and most mortgage holders",
+      "avg_logprob": -0.31770833969116213,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.2328767123287672,
+      "acoustic_speech_overlap_seconds": 1.12
+    },
+    {
+      "start": 200.76,
+      "end": 208.0,
+      "text": "can't prove that there's a mortgage holder, believe it or not, I don't know what, why,",
+      "avg_logprob": -0.31770833969116213,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0875,
+      "acoustic_speech_overlap_seconds": 0.112,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 210.0,
+      "end": 217.0,
+      "text": "holders don't go into court with all the paperwork and all the proof.",
+      "avg_logprob": -0.31525735673951166,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0769230769230769,
+      "acoustic_speech_overlap_seconds": 1.944
+    },
+    {
+      "start": 217.0,
+      "end": 224.0,
+      "text": "The paperwork, yeah. Right. So if they can't prove that the, now this is, I heard this",
+      "avg_logprob": -0.31525735673951166,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0609756097560976,
+      "acoustic_speech_overlap_seconds": 2.328
+    },
+    {
+      "start": 224.0,
+      "end": 230.0,
+      "text": "on WRT this morning, if they can't prove that the mortgage holder, what about the people",
+      "avg_logprob": -0.31525735673951166,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0987654320987654,
+      "acoustic_speech_overlap_seconds": 3.504
+    },
+    {
+      "start": 230.0,
+      "end": 233.0,
+      "text": "that just bought the foreclosed home? Are they the owners?",
+      "avg_logprob": -0.31525735673951166,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9672131147540983,
+      "acoustic_speech_overlap_seconds": 3.0
+    },
+    {
+      "start": 233.0,
+      "end": 238.0,
+      "text": "Yeah, that's another thing I mean. And if they can't prove that the mortgage",
+      "avg_logprob": -0.31525735673951166,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0,
+      "acoustic_speech_overlap_seconds": 2.696
+    },
+    {
+      "start": 240.0,
+      "end": 245.56,
+      "text": "on the people. See, there's a whole bunch of canned ones being open right now. So I told",
+      "avg_logprob": -0.2569616431056863,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0987654320987654,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 245.56,
+      "end": 251.92,
+      "text": "Rick, I said, don't move. Hunker down. He wouldn't listen. Somebody came in and bought",
+      "avg_logprob": -0.2569616431056863,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0357142857142858,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 251.92,
+      "end": 257.72,
+      "text": "the house. They could not have gotten him out of that place for another freaking year.",
+      "avg_logprob": -0.2569616431056863,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1153846153846154,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 257.72,
+      "end": 265.56,
+      "text": "No, but the point I'm saying is, Rick, his big, beautiful home, I told him, I said, Rick,",
+      "avg_logprob": -0.2569616431056863,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0714285714285714,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 270.0,
+      "end": 276.58,
+      "text": "He always keeps the pay up, people start bitching at him, except me, he listens to everybody else.",
+      "avg_logprob": -0.2532169146865022,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1511627906976745,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 277.58,
+      "end": 284.74,
+      "text": "So now, he went out, he stayed put, there was a problem with the sale,",
+      "avg_logprob": -0.2532169146865022,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0441176470588236,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 285.32,
+      "end": 290.4,
+      "text": "so he didn't have to move into the place that he had put a deposit on that he had been starting to pay rent on.",
+      "avg_logprob": -0.2532169146865022,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.302325581395349,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 290.64,
+      "end": 297.06,
+      "text": "Three months earlier, he was, that's right, I said, Rick, what the fuck are you doing?",
+      "avg_logprob": -0.2532169146865022,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0357142857142858,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 300.0,
+      "end": 304.42,
+      "text": "Well, you could stay in that fucking house for another year.",
+      "avg_logprob": -0.42524511147947874,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.953125,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 306.1,
+      "end": 307.94,
+      "text": "Oh, it wouldn't be fair for this one.",
+      "avg_logprob": -0.42524511147947874,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8260869565217391,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 308.0,
+      "end": 308.46,
+      "text": "It wouldn't be fair.",
+      "avg_logprob": -0.42524511147947874,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7241379310344828,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 308.62,
+      "end": 311.38,
+      "text": "They don't give a fuck about you.",
+      "avg_logprob": -0.42524511147947874,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8095238095238095,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 312.08,
+      "end": 313.64,
+      "text": "You're talking fair.",
+      "avg_logprob": -0.42524511147947874,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7241379310344828,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 314.0,
+      "end": 315.8,
+      "text": "They don't give a fuck about you.",
+      "avg_logprob": -0.42524511147947874,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8095238095238095,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 316.4,
+      "end": 319.28,
+      "text": "How about housing around this is growing?",
+      "avg_logprob": -0.42524511147947874,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8936170212765957,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 320.58,
+      "end": 321.34,
+      "text": "Like this guy.",
+      "avg_logprob": -0.42524511147947874,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6521739130434783,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 321.42,
+      "end": 322.94,
+      "text": "Oh, the community.",
+      "avg_logprob": -0.42524511147947874,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7037037037037037,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 324.32,
+      "end": 329.54,
+      "text": "First off, you know in Florida, the contractors.",
+      "avg_logprob": -0.42524511147947874,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8596491228070176,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 330.0,
+      "end": 331.92,
+      "text": "They do, it's beautiful.",
+      "avg_logprob": -0.5006443298969072,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7575757575757576,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 332.2,
+      "end": 340.64,
+      "text": "I know they have these, I've seen you get to do this now, For Love, LA, you know, for the next time.",
+      "avg_logprob": -0.5006443298969072,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1348314606741574,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 340.88,
+      "end": 341.94,
+      "text": "Those are beautiful.",
+      "avg_logprob": -0.5006443298969072,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7241379310344828,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 342.76,
+      "end": 345.02,
+      "text": "They're just, that's a beautiful thing.",
+      "avg_logprob": -0.5006443298969072,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.851063829787234,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 345.1,
+      "end": 345.72,
+      "text": "They look beautiful.",
+      "avg_logprob": -0.5006443298969072,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7241379310344828,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 346.1,
+      "end": 346.98,
+      "text": "They're shoddy.",
+      "avg_logprob": -0.5006443298969072,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6666666666666666,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 346.98,
+      "end": 353.54,
+      "text": "You know, again, within six months, the tiles in the backroom started falling off the wall.",
+      "avg_logprob": -0.5006443298969072,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.108433734939759,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 360.0,
+      "end": 365.0,
+      "text": "Now, I wonder if the property has something to do with that property.",
+      "avg_logprob": -0.4041666587193807,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0144927536231885,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 365.0,
+      "end": 368.0,
+      "text": "Well, the contractor should know that.",
+      "avg_logprob": -0.4041666587193807,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8478260869565217,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 368.0,
+      "end": 371.0,
+      "text": "The contractor should know and should know how to cover it and how to avoid that.",
+      "avg_logprob": -0.4041666587193807,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.2058823529411764,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 371.0,
+      "end": 372.0,
+      "text": "Yeah, that's right.",
+      "avg_logprob": -0.4041666587193807,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7142857142857143,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 372.0,
+      "end": 373.0,
+      "text": "What's the property?",
+      "avg_logprob": -0.4041666587193807,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7241379310344828,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 373.0,
+      "end": 374.0,
+      "text": "That's right.",
+      "avg_logprob": -0.4041666587193807,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6363636363636364,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 374.0,
+      "end": 384.0,
+      "text": "But one day I found that the property was that in January, I had a leather wash paint",
+      "avg_logprob": -0.4041666587193807,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0886075949367089,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 390.0,
+      "end": 397.0,
+      "text": "The watch fan came apart, and I looked at him, I watched him, they didn't fall.",
+      "avg_logprob": -0.5440705235187824,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0526315789473684,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 397.0,
+      "end": 401.0,
+      "text": "Because humidity...",
+      "avg_logprob": -0.5440705235187824,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7142857142857143,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 401.0,
+      "end": 405.0,
+      "text": "But you are calling, it's temporary.",
+      "avg_logprob": -0.5440705235187824,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8222222222222222,
+      "acoustic_speech_overlap_seconds": 1.696
+    },
+    {
+      "start": 405.0,
+      "end": 408.0,
+      "text": "I guess people have to be careful.",
+      "avg_logprob": -0.5440705235187824,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.813953488372093,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 408.0,
+      "end": 410.0,
+      "text": "The glue, the glue on the watch fan...",
+      "avg_logprob": -0.5440705235187824,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0263157894736843,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 410.0,
+      "end": 413.0,
+      "text": "The glue on the watch fan gave way.",
+      "avg_logprob": -0.5440705235187824,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 413.0,
+      "end": 415.0,
+      "text": "Yep.",
+      "avg_logprob": -0.5440705235187824,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.38461538461538464,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 420.0,
+      "end": 425.36,
+      "text": "No, but they should know I mean they've been doing it long enough. That's right. If you live there, they should know.",
+      "avg_logprob": -0.5269886450334029,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.2291666666666667,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 425.36,
+      "end": 429.24,
+      "text": "In the sense, Rick said, I'm glad I left the house. It was a power issue.",
+      "avg_logprob": -0.5269886450334029,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    }
+  ],
+  "qa": {
+    "full_audio_processed": true,
+    "processed_audio_seconds": 429.395,
+    "flagged_segments": 64,
+    "suppressed_segments": 2,
+    "acoustic_speech_seconds": 59.024,
+    "suppressed_probable_silence_segments": 0,
+    "unreliable_intervals": [
+      {
+        "start": 60.0,
+        "end": 89.98,
+        "reason": "Sparse decoder output over a long interval without acoustic speech support."
+      },
+      {
+        "start": 90.0,
+        "end": 119.98,
+        "reason": "Sparse decoder output over a long interval without acoustic speech support."
+      }
+    ],
+    "human_reviewed": false,
+    "flags": [
+      "Contains low confidence or possible non-speech recognition."
+    ]
+  },
+  "suppressed_segments": [
+    {
+      "start": 60.0,
+      "end": 89.98,
+      "text": "Thank you.",
+      "avg_logprob": -0.4150390625,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5789473684210527,
+      "acoustic_speech_overlap_seconds": 0,
+      "reason": "Sparse decoder output over a long interval without acoustic speech support."
+    },
+    {
+      "start": 90.0,
+      "end": 119.98,
+      "text": "Thank you.",
+      "avg_logprob": -0.3776041666666667,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5789473684210527,
+      "acoustic_speech_overlap_seconds": 0,
+      "reason": "Sparse decoder output over a long interval without acoustic speech support."
+    }
+  ],
+  "notice": "Machine transcription of downloaded audio; may contain recognition errors."
+}

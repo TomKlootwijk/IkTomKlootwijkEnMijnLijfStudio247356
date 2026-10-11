@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "complete": true,
+  "id": "KGHMpnibonc",
+  "title": "Chris the Hacker and Tom the Fag - Oct 2009 - \"WUZZAP TOM\"",
+  "position": 51,
+  "url": "https://www.youtube.com/watch?v=KGHMpnibonc",
+  "audio": "audio/051 - Chris the Hacker and Tom the Fag - Oct 2009 - _WUZZAP TOM_ [KGHMpnibonc].mp3",
+  "language": "en",
+  "language_probability": 0.99755859375,
+  "duration": 73.3983125,
+  "duration_after_vad": 73.3983125,
+  "model": "mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf",
+  "runtime": {
+    "engine": "faster-whisper",
+    "device": "cuda",
+    "transcription_profile": "full-audio-30s-repetition-v3",
+    "compute_type": "int8_float16",
+    "cpu_threads": 12,
+    "batch_size": 2,
+    "beam_size": 5,
+    "vad_filter": false,
+    "full_audio": true,
+    "chunk_seconds": 30,
+    "without_timestamps": false,
+    "silence_guard": "skip no_speech_prob > 0.6 and avg_logprob < -1.0",
+    "repetition_guard": "suppress chunks with compression_ratio > 3 or >=4 repeated phrases dominating a chunk",
+    "acoustic_qa": "VAD measured for QA only; long sparse output without acoustic support suppressed; low-confidence output outside acoustic speech suppressed for <1%-speech recordings",
+    "condition_on_previous_text": false,
+    "python": "3.12.10",
+    "packages": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.2",
+      "av": "18.1.0",
+      "onnxruntime": "1.31.0",
+      "nvidia-cublas-cu12": "12.9.2.10",
+      "nvidia-cudnn-cu12": "9.27.0.42",
+      "nvidia-cuda-runtime-cu12": "12.9.79"
+    },
+    "gpu_fallback_reason": null
+  },
+  "started_at": "2026-10-11T09:22:10.110351+00:00",
+  "completed_at": "2026-10-11T09:22:12.504647+00:00",
+  "processing_seconds": 2.391,
+  "segments": [
+    {
+      "start": 0,
+      "end": 6.28,
+      "text": "What's up, boys?",
+      "avg_logprob": -0.42340686566689434,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.68,
+      "acoustic_speech_overlap_seconds": 0.76
+    },
+    {
+      "start": 6.6,
+      "end": 8.06,
+      "text": "Hey, Chris. What's up?",
+      "avg_logprob": -0.42340686566689434,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7419354838709677,
+      "acoustic_speech_overlap_seconds": 1.46
+    },
+    {
+      "start": 9.42,
+      "end": 10.78,
+      "text": "What's up, Tom?",
+      "avg_logprob": -0.42340686566689434,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6666666666666666,
+      "acoustic_speech_overlap_seconds": 1.36
+    },
+    {
+      "start": 11.52,
+      "end": 12.16,
+      "text": "What's up?",
+      "avg_logprob": -0.42340686566689434,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5789473684210527,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 14.7,
+      "end": 17.3,
+      "text": "Yeah, I thought we'd not jump by my anatomy, man.",
+      "avg_logprob": -0.42340686566689434,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8620689655172413,
+      "acoustic_speech_overlap_seconds": 2.34
+    },
+    {
+      "start": 17.4,
+      "end": 18.08,
+      "text": "Oh, yeah.",
+      "avg_logprob": -0.42340686566689434,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5555555555555556,
+      "acoustic_speech_overlap_seconds": 0.68
+    },
+    {
+      "start": 18.2,
+      "end": 18.94,
+      "text": "We'd be happy.",
+      "avg_logprob": -0.42340686566689434,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6521739130434783,
+      "acoustic_speech_overlap_seconds": 0.74
+    },
+    {
+      "start": 20.54,
+      "end": 21.36,
+      "text": "Anyway, listen.",
+      "avg_logprob": -0.42340686566689434,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6666666666666666,
+      "acoustic_speech_overlap_seconds": 0.82
+    },
+    {
+      "start": 21.64,
+      "end": 25.72,
+      "text": "I'm taking a friend through Ubuntu Linux, okay?",
+      "avg_logprob": -0.42340686566689434,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8571428571428571,
+      "acoustic_speech_overlap_seconds": 2.312
+    },
+    {
+      "start": 25.96,
+      "end": 26.62,
+      "text": "Oh, right.",
+      "avg_logprob": -0.42340686566689434,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5789473684210527,
+      "acoustic_speech_overlap_seconds": 0.14,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 26.62,
+      "end": 29.02,
+      "text": "On the same line as L. Ron Hubbard.",
+      "avg_logprob": -0.42340686566689434,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8181818181818182,
+      "acoustic_speech_overlap_seconds": 2.4
+    },
+    {
+      "start": 30.0,
+      "end": 37.2,
+      "text": "as an operating system call me back in about a half an hour oh by the way yeah um actually uh",
+      "avg_logprob": -0.15898436829447746,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.205128205128205,
+      "acoustic_speech_overlap_seconds": 6.272
+    },
+    {
+      "start": 38.32,
+      "end": 42.08,
+      "text": "i'm gonna have the calls forwarded because i'm taking a computer out of here and i'm going to",
+      "avg_logprob": -0.15898436829447746,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1898734177215189,
+      "acoustic_speech_overlap_seconds": 2.384
+    },
+    {
+      "start": 42.08,
+      "end": 47.12,
+      "text": "be installing somebody's home so yeah you're gonna be leaving about a half an hour and then",
+      "avg_logprob": -0.15898436829447746,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1645569620253164,
+      "acoustic_speech_overlap_seconds": 5.04
+    },
+    {
+      "start": 47.12,
+      "end": 51.04,
+      "text": "no they'll be over here in about 20 minutes yeah about a half an hour and then uh give me another",
+      "avg_logprob": -0.15898436829447746,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1666666666666667,
+      "acoustic_speech_overlap_seconds": 3.92
+    },
+    {
+      "start": 51.04,
+      "end": 55.68,
+      "text": "half an hour okay so we'll talk to you later what the do you mean we'll call you back in an hour",
+      "avg_logprob": -0.15898436829447746,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.2435897435897436,
+      "acoustic_speech_overlap_seconds": 4.64
+    },
+    {
+      "start": 60.0,
+      "end": 61.44,
+      "text": "you can just",
+      "avg_logprob": -0.40081521998281067,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6190476190476191,
+      "acoustic_speech_overlap_seconds": 0.528
+    },
+    {
+      "start": 61.44,
+      "end": 66.64,
+      "text": "alright good luck Chris",
+      "avg_logprob": -0.40081521998281067,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.75,
+      "acoustic_speech_overlap_seconds": 3.44
+    },
+    {
+      "start": 66.64,
+      "end": 67.46,
+      "text": "have fun fapping",
+      "avg_logprob": -0.40081521998281067,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.68,
+      "acoustic_speech_overlap_seconds": 0.82
+    },
+    {
+      "start": 67.46,
+      "end": 71.08,
+      "text": "see you Chris",
+      "avg_logprob": -0.40081521998281067,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6363636363636364,
+      "acoustic_speech_overlap_seconds": 3.62
+    }
+  ],
+  "qa": {
+    "full_audio_processed": true,
+    "processed_audio_seconds": 73.3983125,
+    "flagged_segments": 2,
+    "suppressed_segments": 0,
+    "acoustic_speech_seconds": 52.512,
+    "suppressed_probable_silence_segments": 0,
+    "unreliable_intervals": [],
+    "human_reviewed": false,
+    "flags": [
+      "Contains low confidence or possible non-speech recognition."
+    ]
+  },
+  "suppressed_segments": [],
+  "notice": "Machine transcription of downloaded audio; may contain recognition errors."
+}

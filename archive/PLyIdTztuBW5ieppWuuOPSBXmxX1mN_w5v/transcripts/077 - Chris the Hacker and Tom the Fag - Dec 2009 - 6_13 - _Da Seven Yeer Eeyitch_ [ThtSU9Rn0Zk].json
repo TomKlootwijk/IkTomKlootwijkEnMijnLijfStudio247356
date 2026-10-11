@@ -1,0 +1,285 @@
+{
+  "schema_version": 1,
+  "complete": true,
+  "id": "ThtSU9Rn0Zk",
+  "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 6/13 - \"Da Seven Yeer Eeyitch\"",
+  "position": 77,
+  "url": "https://www.youtube.com/watch?v=ThtSU9Rn0Zk",
+  "audio": "audio/077 - Chris the Hacker and Tom the Fag - Dec 2009 - 6_13 - _Da Seven Yeer Eeyitch_ [ThtSU9Rn0Zk].mp3",
+  "language": "en",
+  "language_probability": 0.99560546875,
+  "duration": 95.7823125,
+  "duration_after_vad": 95.7823125,
+  "model": "mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf",
+  "runtime": {
+    "engine": "faster-whisper",
+    "device": "cuda",
+    "transcription_profile": "full-audio-30s-repetition-v3",
+    "compute_type": "int8_float16",
+    "cpu_threads": 12,
+    "batch_size": 2,
+    "beam_size": 5,
+    "vad_filter": false,
+    "full_audio": true,
+    "chunk_seconds": 30,
+    "without_timestamps": false,
+    "silence_guard": "skip no_speech_prob > 0.6 and avg_logprob < -1.0",
+    "repetition_guard": "suppress chunks with compression_ratio > 3 or >=4 repeated phrases dominating a chunk",
+    "acoustic_qa": "VAD measured for QA only; long sparse output without acoustic support suppressed; low-confidence output outside acoustic speech suppressed for <1%-speech recordings",
+    "condition_on_previous_text": false,
+    "python": "3.12.10",
+    "packages": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.2",
+      "av": "18.1.0",
+      "onnxruntime": "1.31.0",
+      "nvidia-cublas-cu12": "12.9.2.10",
+      "nvidia-cudnn-cu12": "9.27.0.42",
+      "nvidia-cuda-runtime-cu12": "12.9.79"
+    },
+    "gpu_fallback_reason": null
+  },
+  "started_at": "2026-10-11T09:29:40.183341+00:00",
+  "completed_at": "2026-10-11T09:29:43.190569+00:00",
+  "processing_seconds": 3.0,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.0,
+      "text": "Probably the ugliest woman I've ever seen in my entire life.",
+      "avg_logprob": -0.24679815952406556,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9242424242424242,
+      "acoustic_speech_overlap_seconds": 3.0
+    },
+    {
+      "start": 3.0,
+      "end": 9.0,
+      "text": "I'll tell you a minute, I was in love with some German chicks when I was over there.",
+      "avg_logprob": -0.24679815952406556,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0625,
+      "acoustic_speech_overlap_seconds": 4.464
+    },
+    {
+      "start": 9.0,
+      "end": 13.0,
+      "text": "I was 17. I was 17, 18, almost 18 when I hit Germany.",
+      "avg_logprob": -0.24679815952406556,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0188679245283019,
+      "acoustic_speech_overlap_seconds": 4.0
+    },
+    {
+      "start": 13.0,
+      "end": 16.0,
+      "text": "They have some good-looking chicks in Germany.",
+      "avg_logprob": -0.24679815952406556,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8545454545454545,
+      "acoustic_speech_overlap_seconds": 3.0
+    },
+    {
+      "start": 16.0,
+      "end": 19.0,
+      "text": "I know, especially at Oktoberfest.",
+      "avg_logprob": -0.24679815952406556,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.813953488372093,
+      "acoustic_speech_overlap_seconds": 3.0
+    },
+    {
+      "start": 19.0,
+      "end": 21.0,
+      "text": "Oh yeah.",
+      "avg_logprob": -0.24679815952406556,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5294117647058824,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "text": "Oktoberfest?",
+      "avg_logprob": -0.24679815952406556,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6190476190476191,
+      "acoustic_speech_overlap_seconds": 1.0
+    },
+    {
+      "start": 22.0,
+      "end": 27.0,
+      "text": "Well, do you know they've got this thing called Fosching over there where they take off their rings for a week?",
+      "avg_logprob": -0.24679815952406556,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.2173913043478262,
+      "acoustic_speech_overlap_seconds": 5.0
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "Right. Bullshit.",
+      "avg_logprob": -0.2411151887739406,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.68,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 32.0,
+      "end": 34.0,
+      "text": "I'm serious.",
+      "avg_logprob": -0.2411151887739406,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6190476190476191,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 34.0,
+      "end": 38.0,
+      "text": "That's pretty shit. I want my wife to do that.",
+      "avg_logprob": -0.2411151887739406,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8703703703703703,
+      "acoustic_speech_overlap_seconds": 4.0
+    },
+    {
+      "start": 38.0,
+      "end": 40.0,
+      "text": "No, it's to keep...",
+      "avg_logprob": -0.2411151887739406,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7142857142857143,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 40.0,
+      "end": 44.0,
+      "text": "Because there's a time in a lot of relationships when people...",
+      "avg_logprob": -0.2411151887739406,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9696969696969697,
+      "acoustic_speech_overlap_seconds": 4.0
+    },
+    {
+      "start": 44.0,
+      "end": 46.0,
+      "text": "They're bored.",
+      "avg_logprob": -0.2411151887739406,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6521739130434783,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 46.0,
+      "end": 48.0,
+      "text": "They're getting what's called a seven-year itch.",
+      "avg_logprob": -0.2411151887739406,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8596491228070176,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 48.0,
+      "end": 54.0,
+      "text": "And they're going to break up the relationship for no fucking good reason whatsoever.",
+      "avg_logprob": -0.2411151887739406,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.075,
+      "acoustic_speech_overlap_seconds": 6.0
+    },
+    {
+      "start": 54.0,
+      "end": 56.0,
+      "text": "And it doesn't make sense.",
+      "avg_logprob": -0.2411151887739406,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7714285714285715,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 60.0,
+      "end": 65.12,
+      "text": "For a week, you guys can take off your rings and fuck around, get it out of your systems.",
+      "avg_logprob": -0.20185810757112932,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1111111111111112,
+      "acoustic_speech_overlap_seconds": 5.12
+    },
+    {
+      "start": 65.68,
+      "end": 68.5,
+      "text": "But usually, from what I was told when I was over there,",
+      "avg_logprob": -0.20185810757112932,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9827586206896551,
+      "acoustic_speech_overlap_seconds": 2.82
+    },
+    {
+      "start": 68.5,
+      "end": 74.18,
+      "text": "that married couples are right around the seven-year mark, ten-year mark,",
+      "avg_logprob": -0.20185810757112932,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1044776119402986,
+      "acoustic_speech_overlap_seconds": 5.68
+    },
+    {
+      "start": 74.48,
+      "end": 81.02,
+      "text": "will do that once and realize, yeah, this isn't all it's cracked up to be,",
+      "avg_logprob": -0.20185810757112932,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0416666666666667,
+      "acoustic_speech_overlap_seconds": 6.54
+    },
+    {
+      "start": 81.14,
+      "end": 84.46,
+      "text": "so I'm not doing it no more.",
+      "avg_logprob": -0.20185810757112932,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8285714285714286,
+      "acoustic_speech_overlap_seconds": 3.32
+    },
+    {
+      "start": 84.6,
+      "end": 85.34,
+      "text": "That's pretty good.",
+      "avg_logprob": -0.20185810757112932,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7142857142857143,
+      "acoustic_speech_overlap_seconds": 0.74
+    },
+    {
+      "start": 85.6,
+      "end": 86.88,
+      "text": "That's a cool story, bro.",
+      "avg_logprob": -0.20185810757112932,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7647058823529411,
+      "acoustic_speech_overlap_seconds": 1.28
+    },
+    {
+      "start": 90.0,
+      "end": 94.5,
+      "text": "What the fuck is he talking about? Get the fuck out of here.",
+      "avg_logprob": -0.3921441088120143,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0892857142857142,
+      "acoustic_speech_overlap_seconds": 0.992
+    }
+  ],
+  "qa": {
+    "full_audio_processed": true,
+    "processed_audio_seconds": 95.7823125,
+    "flagged_segments": 0,
+    "suppressed_segments": 0,
+    "acoustic_speech_seconds": 89.296,
+    "suppressed_probable_silence_segments": 0,
+    "unreliable_intervals": [],
+    "human_reviewed": false,
+    "flags": []
+  },
+  "suppressed_segments": [],
+  "notice": "Machine transcription of downloaded audio; may contain recognition errors."
+}

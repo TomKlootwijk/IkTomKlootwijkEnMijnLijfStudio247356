@@ -1,0 +1,272 @@
+Chris the Hacker and Tom the Fag - Sep 2009 - 1/10 - "The Conspiracy of Kai Kunz"
+https://www.youtube.com/watch?v=2MJuvHcpytM
+Language: en | Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors.
+
+[00:00:00.000 --> 00:00:22.940] it's a bit cold out here but uh that's yeah your father northern us your father northern us so
+[00:00:22.940 --> 00:00:28.880] it's gonna be cold it's got like almost winter up there um no no it's not it's not uh it's not that
+[00:00:30.000 --> 00:00:32.920] during the day you can still walk in your t-shirt and shit.
+[00:00:34.060 --> 00:00:34.540] Oh, no shit? [ASR uncertain: little_acoustic_speech_support]
+[00:00:35.000 --> 00:00:35.280] Yeah. [ASR uncertain: little_acoustic_speech_support]
+[00:00:35.800 --> 00:00:36.820] So what are you looking at? [ASR uncertain: little_acoustic_speech_support]
+[00:00:36.820 --> 00:00:37.560] Looks like 70s.
+[00:00:38.840 --> 00:00:40.260] So just a lot of crap, [ASR uncertain: little_acoustic_speech_support]
+[00:00:40.460 --> 00:00:42.700] a lot of trying to get a job done that's...
+[00:00:42.700 --> 00:00:43.700] I hate Mac drives.
+[00:00:43.860 --> 00:00:44.200] I hate them.
+[00:00:44.780 --> 00:00:45.140] Why? [ASR uncertain: little_acoustic_speech_support]
+[00:00:45.560 --> 00:00:48.360] This one's got a lot of bad sectors, so...
+[00:00:48.360 --> 00:00:50.260] Ah, so what do you have to do all day
+[00:00:50.260 --> 00:00:52.720] besides running the programs? [ASR uncertain: little_acoustic_speech_support]
+[00:00:53.540 --> 00:00:55.060] Well, I'm going to school, too, online.
+[00:00:55.400 --> 00:00:55.840] Oh, yeah. [ASR uncertain: little_acoustic_speech_support]
+[00:00:55.880 --> 00:00:56.900] How's that working out for you? [ASR uncertain: little_acoustic_speech_support]
+[00:00:58.120 --> 00:00:59.520] That's going to work out real well. [ASR uncertain: little_acoustic_speech_support]
+[00:01:00.000 --> 00:01:04.340] or are you going to be the businessman, the big businessman, Donald Prant?
+[00:01:05.280 --> 00:01:06.720] I should have done this a long time ago.
+[00:01:07.700 --> 00:01:08.000] Okay.
+[00:01:08.140 --> 00:01:11.540] I would suggest anybody going to school, they should go to school for business.
+[00:01:12.260 --> 00:01:12.500] Why?
+[00:01:12.940 --> 00:01:14.580] Business is a minor.
+[00:01:15.540 --> 00:01:16.460] Why is that a minor?
+[00:01:16.640 --> 00:01:18.160] And by the way, you talk really good English.
+[00:01:18.280 --> 00:01:19.620] I cannot believe you're from the Netherlands.
+[00:01:20.240 --> 00:01:21.360] I think you're from, like, Canada.
+[00:01:22.120 --> 00:01:23.320] I'm Canadian. [ASR uncertain: little_acoustic_speech_support]
+[00:01:23.320 --> 00:01:26.280] Well, my head doesn't move really weird when I talk, though. [ASR uncertain: little_acoustic_speech_support]
+[00:01:27.640 --> 00:01:27.980] Say what? [ASR uncertain: little_acoustic_speech_support]
+[00:01:28.900 --> 00:01:29.580] Nah, never mind. [ASR uncertain: little_acoustic_speech_support]
+[00:01:30.000 --> 00:01:32.360] Yeah, it does move really weird, all the Canadians.
+[00:01:32.680 --> 00:01:33.540] Yeah, exactly. [ASR uncertain: little_acoustic_speech_support]
+[00:01:37.040 --> 00:01:39.120] So why have you been working since 4 in the morning, man?
+[00:01:40.700 --> 00:01:42.120] Because I've got a lot to do.
+[00:01:42.420 --> 00:01:47.260] And this job and this one drive is just giving me a big pain in the butt.
+[00:01:47.260 --> 00:01:54.260] Right now I'm spinning through it with the program and locating files
+[00:01:54.260 --> 00:01:57.820] and bumping into a hell of a lot of bad sectors.
+[00:02:00.000 --> 00:02:03.740] And you've got to answer, when you're doing data recovery, you've got to answer questions.
+[00:02:04.880 --> 00:02:08.260] Certain software gives you certain questions, certain parameters.
+[00:02:08.420 --> 00:02:10.740] You've got to fix certain crap, certain headers.
+[00:02:11.060 --> 00:02:11.700] It's just crazy. [ASR uncertain: little_acoustic_speech_support]
+[00:02:12.280 --> 00:02:14.100] That's why all my partners quit.
+[00:02:15.360 --> 00:02:17.800] And that's why it takes a special person to be able to do this.
+[00:02:19.920 --> 00:02:22.040] But I would like to have a shop over there.
+[00:02:22.620 --> 00:02:25.160] So Switzerland and Amsterdam.
+[00:02:26.020 --> 00:02:27.100] Switzerland and Amsterdam. [ASR uncertain: little_acoustic_speech_support]
+[00:02:27.280 --> 00:02:27.980] Why Switzerland? [ASR uncertain: little_acoustic_speech_support]
+[00:02:30.000 --> 00:02:31.000] Switzerland.
+[00:02:31.000 --> 00:02:33.000] But to Amsterdam, what the hell?
+[00:02:33.000 --> 00:02:34.000] I mean, geez.
+[00:02:34.000 --> 00:02:35.000] Come on. [ASR uncertain: little_acoustic_speech_support]
+[00:02:35.000 --> 00:02:36.000] Yeah. [ASR uncertain: little_acoustic_speech_support]
+[00:02:36.000 --> 00:02:37.000] You've got the coffee shops there, huh? [ASR uncertain: little_acoustic_speech_support]
+[00:02:37.000 --> 00:02:38.000] Yeah.
+[00:02:38.000 --> 00:02:41.760] They could go over there, it'd be business and it'd be pleasure.
+[00:02:41.760 --> 00:02:48.120] So as long as you do half a day in business, the rest of the day is, I mean, the whole trip
+[00:02:48.120 --> 00:02:49.120] is a write-off.
+[00:02:49.120 --> 00:02:50.120] Yeah. [ASR uncertain: little_acoustic_speech_support]
+[00:02:50.120 --> 00:02:52.120] Well, you have to leave that.
+[00:02:52.120 --> 00:02:57.240] Actually, you've got to spend the money, so that money isn't counted.
+[00:03:00.000 --> 00:03:02.400] towards taxes. You're not taxed
+[00:03:02.400 --> 00:03:03.840] on that money that you've spent.
+[00:03:05.160 --> 00:03:05.880] So in other words, [ASR uncertain: little_acoustic_speech_support]
+[00:03:06.120 --> 00:03:08.300] that's taken off of the top
+[00:03:08.300 --> 00:03:09.440] of what's taxable.
+[00:03:11.040 --> 00:03:12.280] Well, that sounds pretty good, [ASR uncertain: little_acoustic_speech_support]
+[00:03:12.320 --> 00:03:12.580] actually. [ASR uncertain: little_acoustic_speech_support]
+[00:03:13.600 --> 00:03:16.020] Well, actually, you had to spend it
+[00:03:16.020 --> 00:03:17.740] so, you know,
+[00:03:18.200 --> 00:03:20.260] it's not like you're getting a credit for it
+[00:03:20.260 --> 00:03:21.820] or anything, or you're getting it back.
+[00:03:22.700 --> 00:03:24.180] But it's
+[00:03:24.180 --> 00:03:26.200] well worth spent. It's well worth spent,
+[00:03:26.320 --> 00:03:27.680] you know? Yeah, that's true.
+[00:03:28.120 --> 00:03:28.680] But what do you... [ASR uncertain: little_acoustic_speech_support]
+[00:03:30.000 --> 00:03:31.460] What do you want us to do again?
+[00:03:31.960 --> 00:03:35.700] Because you told Koon something, track something, or whatever.
+[00:03:35.700 --> 00:03:36.100] Oh, yeah.
+[00:03:36.580 --> 00:03:42.940] I want you to find out about Tycoons, Chris Santos, if there's a connection there.
+[00:03:43.660 --> 00:03:44.180] Uh-huh. [ASR uncertain: little_acoustic_speech_support]
+[00:03:44.320 --> 00:03:45.020] You've got some links.
+[00:03:45.060 --> 00:03:46.440] An Epic Video Compiler.
+[00:03:46.560 --> 00:03:48.700] See, Epic Video Compiler started this.
+[00:03:49.200 --> 00:03:51.380] An Epic Video Compiler knows Chris Santos.
+[00:03:51.380 --> 00:03:56.040] Now, whether Chris Santos knows Tycoons, that's the key.
+[00:04:00.000 --> 00:04:00.880] properties
+[00:04:00.880 --> 00:04:04.240] and he was a former
+[00:04:04.240 --> 00:04:04.660] partner
+[00:04:04.660 --> 00:04:07.880] because
+[00:04:07.880 --> 00:04:10.220] Kai Koons probably
+[00:04:10.220 --> 00:04:11.900] bitched about me
+[00:04:11.900 --> 00:04:13.940] and Chris Santos
+[00:04:13.940 --> 00:04:15.560] I'm envisioning Chris Santos
+[00:04:15.560 --> 00:04:16.240] think about it
+[00:04:16.240 --> 00:04:18.120] you got a maniacal
+[00:04:18.120 --> 00:04:18.720] remember
+[00:04:18.720 --> 00:04:20.820] not everybody has got
+[00:04:20.820 --> 00:04:22.040] this fucking shame
+[00:04:22.040 --> 00:04:24.740] and this Kai W. Koons
+[00:04:24.740 --> 00:04:25.540] go check him out
+[00:04:25.540 --> 00:04:26.400] so somebody actually
+[00:04:26.400 --> 00:04:27.160] took the
+[00:04:27.160 --> 00:04:28.180] wait
+[00:04:28.180 --> 00:04:29.600] where do I check him out [ASR uncertain: little_acoustic_speech_support]
+[00:04:30.000 --> 00:04:32.980] Kai W Coons
+[00:04:32.980 --> 00:04:34.880] K-A-I-W
+[00:04:34.880 --> 00:04:35.620] Coons [ASR uncertain: little_acoustic_speech_support]
+[00:04:35.620 --> 00:04:37.800] Do a Google on him [ASR uncertain: little_acoustic_speech_support]
+[00:04:37.800 --> 00:04:38.900] And you'll see [ASR uncertain: little_acoustic_speech_support]
+[00:04:38.900 --> 00:04:42.480] K-U-N-Z [ASR uncertain: little_acoustic_speech_support]
+[00:04:42.480 --> 00:04:43.700] K-U-N-Z [ASR uncertain: little_acoustic_speech_support]
+[00:04:43.700 --> 00:04:45.280] Kai W
+[00:04:45.280 --> 00:04:47.920] Kai W
+[00:04:47.920 --> 00:04:50.480] Yeah [ASR uncertain: little_acoustic_speech_support]
+[00:04:50.480 --> 00:04:51.520] Kai Coons
+[00:04:51.520 --> 00:04:53.320] One to three people
+[00:04:53.320 --> 00:04:55.280] Wait, it's Facebook
+[00:04:55.280 --> 00:04:57.180] It's Facebook
+[00:05:00.000 --> 00:05:11.820] account I'm assuming maybe he does I don't know no it's k-u-n-z kai k-a-i and then if you do this
+[00:05:11.820 --> 00:05:27.000] put it in google w-k-u-n-z um the he should be the first link telegram telegramming yep
+[00:05:30.000 --> 00:05:33.960] absentee landlord is charged
+[00:05:33.960 --> 00:05:35.820] say what
+[00:05:35.820 --> 00:05:37.880] well according to
+[00:05:37.880 --> 00:05:39.160] yep yep yep that's him
+[00:05:39.160 --> 00:05:40.840] that's him that's him
+[00:05:40.840 --> 00:05:43.180] the point is is that all he did was
+[00:05:43.180 --> 00:05:45.340] take from me he was supposed to give
+[00:05:45.340 --> 00:05:47.160] to dat boys but all he did was
+[00:05:47.160 --> 00:05:49.260] take and when I booted him when he
+[00:05:49.260 --> 00:05:51.340] went behind my back and blew a four million
+[00:05:51.340 --> 00:05:53.180] dollar deal we had I had
+[00:05:53.180 --> 00:05:54.520] an investor lined up
+[00:05:54.520 --> 00:05:57.080] private party and
+[00:05:57.080 --> 00:05:58.980] when he called this person
+[00:06:00.000 --> 00:06:07.180] back and called this person at that point um and everybody that he's ever screwed i didn't ever
+[00:06:07.180 --> 00:06:12.280] think he'd screw me because i kind of adopted him as my my little brother because he had some
+[00:06:12.280 --> 00:06:17.540] serious issues and he grew up with a with a miserable bitch mother and some daughter and
+[00:06:17.540 --> 00:06:24.100] some sisters that that treated him rudely but i understand why they treated him rudely because he
+[00:06:30.000 --> 00:06:34.320] comes in touch with. I booted him. I put up with a lot of shit. I kept his ass out of
+[00:06:34.320 --> 00:06:40.420] jail a couple of times for him screwing up and mediated between a friend. He took a friend
+[00:06:40.420 --> 00:06:46.120] of mine, 13-year friend, almost to the cleaners, screwed him and his mother out of $100,000.
+[00:06:47.280 --> 00:06:53.160] Now, everybody he's ever touched, he screwed them out of money, some fashion. Okay, he
+[00:07:00.000 --> 00:07:00.440] You know something?
+[00:07:00.720 --> 00:07:07.000] I'll email you what I emailed the cops about the connection, the connection between the two.
+[00:07:07.080 --> 00:07:08.020] Give me an email address.
+[00:07:08.120 --> 00:07:08.500] I don't care.
+[00:07:08.560 --> 00:07:09.380] Any email address.
+[00:07:12.600 --> 00:07:13.320] WNXDuck. [ASR uncertain: little_acoustic_speech_support]
+[00:07:14.560 --> 00:07:15.200] Say what?
+[00:07:15.740 --> 00:07:19.300] W-N-X-Duck.
+[00:07:19.780 --> 00:07:20.580] Like you duck. [ASR uncertain: little_acoustic_speech_support]
+[00:07:20.980 --> 00:07:21.500] I'm ducking. [ASR uncertain: little_acoustic_speech_support]
+[00:07:21.620 --> 00:07:21.800] Yep. [ASR uncertain: little_acoustic_speech_support]
+[00:07:22.620 --> 00:07:23.700] At gmail.com.
+[00:07:25.780 --> 00:07:26.900] WNXDuck at gmail.
+[00:07:27.040 --> 00:07:27.800] I'll send it right now.
+[00:07:28.300 --> 00:07:29.700] You can take a look right now.
+[00:07:30.000 --> 00:07:33.000] All right, I'll load up my Gmail account. [ASR uncertain: little_acoustic_speech_support]
+[00:07:35.360 --> 00:07:36.500] PureNudism.com. [ASR uncertain: little_acoustic_speech_support]
+[00:07:37.120 --> 00:07:37.820] That's not you. [ASR uncertain: little_acoustic_speech_support]
+[00:07:38.660 --> 00:07:40.820] Now, everybody thinks...
+[00:07:40.820 --> 00:07:45.240] Now, everybody and their brother thinks that I shouldn't be talking to you guys.
+[00:07:45.780 --> 00:07:50.640] And technically speaking, technically speaking, everybody's going to be proven wrong.
+[00:07:51.260 --> 00:07:52.720] Because if anybody can...
+[00:07:52.720 --> 00:07:58.980] As far as I can tell, of all the shitheads out there, in the prayer calling world,
+[00:08:00.000 --> 00:08:02.620] You guys appear to be the only guys that can get something done.
+[00:08:03.180 --> 00:08:04.520] Well, it's not really...
+[00:08:04.520 --> 00:08:06.780] We know just about all those people there.
+[00:08:06.940 --> 00:08:07.800] That doesn't matter.
+[00:08:08.200 --> 00:08:11.960] But we also have, like, yeah, sense of...
+[00:08:11.960 --> 00:08:13.980] Some of the people are just ruining it.
+[00:08:14.080 --> 00:08:18.220] Like, they're actually only being rude and just scolding everybody.
+[00:08:19.020 --> 00:08:20.460] And that's not really the way to go, man.
+[00:08:20.480 --> 00:08:23.280] You have to make fun of people and not really ruin them.
+[00:08:24.680 --> 00:08:26.220] Okay, let me see. [ASR uncertain: little_acoustic_speech_support]
+[00:08:26.620 --> 00:08:27.380] Stay fun.
+[00:08:30.000 --> 00:08:32.740] You didn't send it yet, or what?
+[00:08:33.840 --> 00:08:35.480] No, no, no. I'm looking for it.
+[00:08:35.600 --> 00:08:37.880] I sent out a lot of crap.
+[00:08:38.000 --> 00:08:39.180] There's Cheater X. [ASR uncertain: little_acoustic_speech_support]
+[00:08:40.860 --> 00:08:42.240] Oh, you can have a real email [ASR uncertain: little_acoustic_speech_support]
+[00:08:42.240 --> 00:08:43.680] if you have MSN or whatever. [ASR uncertain: little_acoustic_speech_support]
+[00:08:45.080 --> 00:08:46.180] Yeah, I got MSN.
+[00:08:46.580 --> 00:08:46.960] Oh, yeah.
+[00:08:47.080 --> 00:08:50.340] Well, it's a really hard one
+[00:08:50.340 --> 00:08:51.280] to pronounce in English. [ASR uncertain: little_acoustic_speech_support]
+[00:08:53.920 --> 00:08:55.620] Can you get on Skype?
+[00:08:57.980 --> 00:08:58.380] Yeah.
+[00:09:00.000 --> 00:09:03.200] What, Skype?
+[00:09:03.740 --> 00:09:04.460] Yeah, I can go Skype.
+[00:09:04.460 --> 00:09:05.360] I can chat.
+[00:09:05.660 --> 00:09:06.480] Oh, more information.
+[00:09:06.700 --> 00:09:09.020] Here's more information connecting the dots.
+[00:09:09.460 --> 00:09:09.880] Okay.
+[00:09:10.320 --> 00:09:10.720] Okay.
+[00:09:11.160 --> 00:09:12.340] So here we go.
+[00:09:13.060 --> 00:09:14.020] So here we go.
+[00:09:14.300 --> 00:09:15.120] I found it.
+[00:09:15.220 --> 00:09:16.240] I'll just send it to that one.
+[00:09:16.320 --> 00:09:16.900] That's just fine.
+[00:09:17.240 --> 00:09:17.620] Okay. [ASR uncertain: little_acoustic_speech_support]
+[00:09:21.620 --> 00:09:25.000] What time is it?
+[00:09:25.020 --> 00:09:26.360] It's about 1 o'clock over there.
+[00:09:26.680 --> 00:09:27.220] No, man.
+[00:09:27.440 --> 00:09:27.940] No, it's 10.
+[00:09:27.940 --> 00:09:28.840] It's about 10.
+[00:09:30.000 --> 00:09:41.000] I got a shitload of e-mails here, spam e-mails on Instacom.
+[00:09:41.000 --> 00:09:47.000] Okay, there's people connected to Docs. I removed who I sent this to, because I sent it to the cops.
+[00:09:47.000 --> 00:09:50.000] So, I'll just send it to the computer. [ASR uncertain: little_acoustic_speech_support]
+[00:09:50.000 --> 00:09:59.000] Now, you'll see, you'll see, you'll see. You'll see everything in there. Okay. [ASR uncertain: little_acoustic_speech_support]
+[00:10:00.000 --> 00:10:09.000] okay [ASR uncertain: little_acoustic_speech_support]
+[00:10:09.000 --> 00:10:12.900] did you send it
+[00:10:12.900 --> 00:10:16.400] sending it right now
+[00:10:16.400 --> 00:10:20.180] oh okay great
+[00:10:20.180 --> 00:10:22.480] I forgot to put the recipient in that's you
+[00:10:22.480 --> 00:10:23.560] okay [ASR uncertain: little_acoustic_speech_support]
+[00:10:23.560 --> 00:10:27.620] WNXDUCK [ASR uncertain: little_acoustic_speech_support]
+[00:10:30.000 --> 00:10:34.000] gmail.com [ASR uncertain: little_acoustic_speech_support]
+[00:10:34.000 --> 00:10:38.000] send [ASR uncertain: little_acoustic_speech_support]
+[00:10:38.000 --> 00:10:42.000] out [ASR uncertain: little_acoustic_speech_support]
+[00:10:42.000 --> 00:10:44.000] send all [ASR uncertain: little_acoustic_speech_support]
+[00:10:44.000 --> 00:10:46.000] great, it's going out [ASR uncertain: little_acoustic_speech_support]
+[00:10:46.000 --> 00:10:48.000] just went out
+[00:10:48.000 --> 00:10:50.000] let me just check my
+[00:10:50.000 --> 00:10:52.000] it's got embedded pictures in it
+[00:10:54.000 --> 00:10:56.000] ok [ASR uncertain: little_acoustic_speech_support]
+[00:10:56.000 --> 00:10:58.000] well I have to
+[00:11:00.000 --> 00:11:22.040] WNXDUCK at gmail.com
+[00:11:30.000 --> 00:11:32.680] D-U-C-K at gmail.com.
+[00:11:33.120 --> 00:11:33.400] Yeah.
+[00:11:34.840 --> 00:11:36.140] Then you should be getting it.
+[00:11:36.380 --> 00:11:39.740] But then again, Gmail, it doesn't necessarily always, you know,
+[00:11:39.760 --> 00:11:43.260] they've got a lot of shit in queue, and they scan their shit.
+[00:11:43.260 --> 00:11:48.540] So I've noticed that not everything always comes quickly with any of the live,
+[00:11:48.920 --> 00:11:54.760] Yahoo, Gmail, Hotmail, Mail.com, it don't matter.
+[00:11:55.500 --> 00:11:58.040] Mail.com, why don't we use that for some stuff? [ASR uncertain: little_acoustic_speech_support]
+[00:12:00.000 --> 00:12:02.800] We use that for some stuff.
+[00:12:03.800 --> 00:12:04.780] Oh yeah, no doubt.
+[00:12:07.280 --> 00:12:10.100] That's a definitely disposable kind of email address.
+[00:12:12.080 --> 00:12:16.560] Yeah, and it's at USA.com, so it sounds really official.
+[00:12:17.180 --> 00:12:23.400] So, do you guys care about your futures?
+[00:12:24.380 --> 00:12:26.060] Yeah, we're working on our futures.
+[00:12:26.060 --> 00:12:28.920] Right now I'm studying application programming.
+[00:12:30.000 --> 00:12:48.380] Yeah, I know that. But what I'm saying is, is remember this, and I can absolutely tell you 100% it's true, that what we do when we're your age can come back to haunt us down the fucking road.
+[00:13:00.880 --> 00:13:05.480] Remember, negative energy you put out into the universe, it comes back.
+[00:13:06.480 --> 00:13:07.820] There's a saying in this country.
+[00:13:08.780 --> 00:13:11.480] Oh, actually, there's a religious saying in this country.
+[00:13:11.480 --> 00:13:16.720] It's do unto others as you would want them to do unto you.
+[00:13:17.140 --> 00:13:20.560] Now, let's update that to the 20th century.
+[00:13:21.160 --> 00:13:22.780] Wait, wait, wait, wait.
+[00:13:22.860 --> 00:13:24.660] We got a saying like that in the Dutch.
+[00:13:30.000 --> 00:13:31.980] the water. Like, don't do shit
+[00:13:31.980 --> 00:13:33.960] to other people that you don't want happening
+[00:13:33.960 --> 00:13:34.340] to you.
+[00:13:36.120 --> 00:13:37.860] Yeah, well, now we have,
+[00:13:38.020 --> 00:13:39.780] yeah, it's similar to what
+[00:13:39.780 --> 00:13:42.080] we say today. It's what goes around
+[00:13:42.080 --> 00:13:43.060] comes around.
+[00:13:45.800 --> 00:13:48.040] It's amazing that you guys speak the English
+[00:13:48.040 --> 00:13:48.480] you do.
+[00:13:49.860 --> 00:13:50.300] Huh? [ASR uncertain: little_acoustic_speech_support]
+[00:13:50.540 --> 00:13:51.680] That's not always true, though. [ASR uncertain: little_acoustic_speech_support]
+[00:13:52.420 --> 00:13:54.280] No, it is always true,
+[00:13:54.360 --> 00:13:55.140] but listen to this.

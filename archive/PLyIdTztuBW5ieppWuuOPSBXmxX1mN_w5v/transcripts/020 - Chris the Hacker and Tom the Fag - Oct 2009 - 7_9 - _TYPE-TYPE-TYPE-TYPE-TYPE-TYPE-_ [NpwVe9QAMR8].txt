@@ -1,0 +1,21 @@
+Chris the Hacker and Tom the Fag - Oct 2009 - 7/9 - "TYPE-TYPE-TYPE-TYPE-TYPE-TYPE-"
+https://www.youtube.com/watch?v=NpwVe9QAMR8
+Language: en | Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors.
+
+[00:00:00.000 --> 00:00:08.000] Let's find out the connections to find out the connections.
+
+Intervals requiring review (unreliable ASR output suppressed):
+[00:00:30.000 --> 00:00:59.980] Sparse decoder output over a long interval without acoustic speech support.
+[00:01:00.000 --> 00:01:25.640] Low-confidence decoding without acoustic speech support in an almost non-speech recording.
+[00:01:30.000 --> 00:01:59.980] Sparse decoder output over a long interval without acoustic speech support.
+[00:02:00.000 --> 00:02:29.980] Sparse decoder output over a long interval without acoustic speech support.
+[00:02:30.000 --> 00:02:33.400] Low-confidence decoding without acoustic speech support in an almost non-speech recording.
+[00:03:00.000 --> 00:03:02.000] Low-confidence decoding without acoustic speech support in an almost non-speech recording.
+[00:03:30.000 --> 00:03:40.000] Low-confidence decoding without acoustic speech support in an almost non-speech recording.
+[00:03:48.000 --> 00:03:53.000] Low-confidence decoding without acoustic speech support in an almost non-speech recording.
+[00:04:00.000 --> 00:04:09.000] Low-confidence decoding without acoustic speech support in an almost non-speech recording.
+[00:04:30.000 --> 00:04:59.980] Sparse decoder output over a long interval without acoustic speech support.
+[00:05:00.000 --> 00:05:20.500] Sparse decoder output over a long interval without acoustic speech support.
+[00:05:21.500 --> 00:05:22.400] Low-confidence decoding without acoustic speech support in an almost non-speech recording.
+[00:05:22.400 --> 00:05:23.160] Low-confidence decoding without acoustic speech support in an almost non-speech recording.

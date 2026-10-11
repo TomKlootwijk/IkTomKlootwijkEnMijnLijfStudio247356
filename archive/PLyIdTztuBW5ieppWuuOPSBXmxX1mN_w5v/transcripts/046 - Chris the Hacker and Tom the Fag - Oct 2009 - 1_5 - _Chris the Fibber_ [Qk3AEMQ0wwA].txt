@@ -1,0 +1,83 @@
+Chris the Hacker and Tom the Fag - Oct 2009 - 1/5 - "Chris the Fibber"
+https://www.youtube.com/watch?v=Qk3AEMQ0wwA
+Language: en | Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors.
+
+[00:00:00.000 --> 00:00:04.760] Now, this is stuff I've known about since the last time I Googled.
+[00:00:05.220 --> 00:00:05.580] Okay?
+[00:00:05.660 --> 00:00:06.420] That's pretty cool.
+[00:00:06.540 --> 00:00:07.440] I didn't know this existed.
+[00:00:09.200 --> 00:00:12.340] Okay, so you're going to the University of Rotterdam?
+[00:00:13.060 --> 00:00:13.660] Why is this?
+[00:00:13.740 --> 00:00:14.460] Why are you guessing?
+[00:00:14.800 --> 00:00:15.640] How far do you...
+[00:00:15.640 --> 00:00:16.580] Let me ask you this.
+[00:00:16.840 --> 00:00:17.640] Okay, give me a clue.
+[00:00:17.860 --> 00:00:19.440] How far do you have to travel to go to school?
+[00:00:20.420 --> 00:00:21.260] Why do I have to give you a clue?
+[00:00:21.260 --> 00:00:23.180] Why do you have to give you a clue if you're already new?
+[00:00:23.380 --> 00:00:24.520] Where do you go to school?
+[00:00:24.640 --> 00:00:25.240] That's what you said.
+[00:00:25.940 --> 00:00:27.360] Because I just want to make sure that I'm right.
+[00:00:27.360 --> 00:00:29.100] Why don't you just admit that you're always lying?
+[00:00:29.240 --> 00:00:29.980] Yeah, why the fuck?
+[00:00:30.000 --> 00:00:36.880] I'm not worrying even if you're cornered like really badly. I'm gilding the lily. It's called gilding the lily.
+[00:00:37.880 --> 00:00:42.880] It's called being a liar. Why don't you come over here and go to the university? Why don't you go to MIT over here?
+[00:00:43.200 --> 00:00:46.380] Oh, whoa, whoa, whoa. Why is MIT lying?
+[00:00:46.440 --> 00:00:49.300] Hey, I'll tell you what. Why don't you be a foreign exchange student? I'll put you up.
+[00:00:49.560 --> 00:00:50.360] Why are you lying?
+[00:00:52.060 --> 00:00:52.900] I'll put you up.
+[00:00:53.040 --> 00:00:54.040] Why do you keep on lying?
+[00:01:00.000 --> 00:01:02.180] Hey, how do you pronounce this?
+[00:01:02.340 --> 00:01:04.040] N-A-R-I-G-I-N
+[00:01:04.040 --> 00:01:05.820] Why are you lying? [ASR uncertain: little_acoustic_speech_support]
+[00:01:06.880 --> 00:01:08.460] Okay, okay, okay, I'm fibbing.
+[00:01:09.200 --> 00:01:10.180] Admit it, that you're lying.
+[00:01:10.280 --> 00:01:10.700] You're always lying.
+[00:01:10.880 --> 00:01:12.040] You say plain and clear.
+[00:01:12.420 --> 00:01:14.020] You say that you're lying.
+[00:01:15.080 --> 00:01:15.780] No, I can't.
+[00:01:15.880 --> 00:01:18.200] I can't say I'm lying, because I'm fibbing.
+[00:01:18.720 --> 00:01:19.280] I'm fibbing.
+[00:01:19.380 --> 00:01:20.760] I'm just kind of playing with you guys.
+[00:01:21.780 --> 00:01:22.740] Yeah, sure, Chris.
+[00:01:23.300 --> 00:01:26.920] Okay, so, you've been going to the University of Groningen.
+[00:01:28.660 --> 00:01:29.060] No. [ASR uncertain: little_acoustic_speech_support]
+[00:01:30.000 --> 00:01:33.380] what the fuck are you talking about [ASR uncertain: little_acoustic_speech_support]
+[00:01:33.380 --> 00:01:35.040] no you could
+[00:01:35.040 --> 00:01:37.580] you could pinpoint every school there is
+[00:01:37.580 --> 00:01:39.640] and you still wouldn't find me
+[00:01:39.640 --> 00:01:41.760] because you don't know what the correct school is
+[00:01:41.760 --> 00:01:43.300] you can't find my correct school
+[00:01:43.300 --> 00:01:44.480] you're googling it now
+[00:01:44.480 --> 00:01:47.800] but the school
+[00:01:47.800 --> 00:01:49.180] isn't very far from you
+[00:01:49.180 --> 00:01:50.620] it's within an hour
+[00:01:50.620 --> 00:01:54.040] I know where you're located
+[00:01:54.040 --> 00:01:55.800] right where am I located
+[00:01:55.800 --> 00:01:57.060] because we told
+[00:01:57.060 --> 00:01:58.040] we could have told you
+[00:02:00.000 --> 00:02:02.120] only told them the region. Yeah, of course.
+[00:02:02.220 --> 00:02:03.740] That's right. You told me the region.
+[00:02:04.740 --> 00:02:06.180] So there's only so many schools
+[00:02:06.180 --> 00:02:08.100] within that region. It doesn't say
+[00:02:08.100 --> 00:02:10.460] you're playing a game, Coen. It only says Team Fortress 2.
+[00:02:10.560 --> 00:02:11.860] Yeah, I know. I can't
+[00:02:11.860 --> 00:02:14.180] fucking join any serve
+[00:02:14.180 --> 00:02:14.760] with Dust Bowl.
+[00:02:17.760 --> 00:02:20.100] Wait a minute. Thomas, here you
+[00:02:20.100 --> 00:02:21.900] are. K-L-O-O.
+[00:02:22.020 --> 00:02:23.460] You know what the rest of the word is?
+[00:02:24.140 --> 00:02:25.340] It says you're president. [ASR uncertain: little_acoustic_speech_support]
+[00:02:26.920 --> 00:02:27.960] The student
+[00:02:27.960 --> 00:02:29.000] chapters are
+[00:02:30.000 --> 00:02:34.500] You are. You are president in the student chapter.
+[00:02:35.900 --> 00:02:40.160] And this is a newsletter from 2008.
+[00:02:41.920 --> 00:02:43.440] Oh, you should have said that, correct, man.
+[00:02:44.860 --> 00:02:45.260] Huh? [ASR uncertain: little_acoustic_speech_support]
+[00:02:45.760 --> 00:02:46.720] You need help, man.
+[00:02:48.440 --> 00:02:50.780] Let's call some AA for you.
+[00:02:50.800 --> 00:02:54.820] I need a freaking coffee house.
+[00:02:55.260 --> 00:02:57.040] I need a freaking coffee house.
+[00:02:57.520 --> 00:02:58.260] You're in Craig again.
+[00:03:00.000 --> 00:03:00.303] Thank you.

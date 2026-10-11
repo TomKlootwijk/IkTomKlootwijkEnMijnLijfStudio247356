@@ -1,0 +1,4111 @@
+{
+  "schema_version": 1,
+  "playlist_id": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v",
+  "started_at": "2026-10-11T09:11:02.470194+00:00",
+  "complete": true,
+  "passed": true,
+  "workers": 2,
+  "duration_tolerance_seconds": 3.0,
+  "manifest_sha256": "9e2e05869f62c3fffdbfa742ef2406a053efbae3c60c4ba4ed05e5c8a7e05752",
+  "ffmpeg": "C:\\Users\\ietsm\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Gyan.FFmpeg.Shared_Microsoft.Winget.Source_8wekyb3d8bbwe\\ffmpeg-9.0.2-full_build-shared\\bin\\ffmpeg.EXE",
+  "checks": {
+    "file_exists": {
+      "passed": 101,
+      "failed": 0
+    },
+    "filename_id": {
+      "passed": 101,
+      "failed": 0
+    },
+    "byte_count": {
+      "passed": 101,
+      "failed": 0
+    },
+    "metadata_id_title": {
+      "passed": 101,
+      "failed": 0
+    },
+    "id3_title": {
+      "passed": 101,
+      "failed": 0
+    },
+    "id3_track_position": {
+      "passed": 101,
+      "failed": 0
+    },
+    "duration": {
+      "passed": 101,
+      "failed": 0
+    },
+    "full_decode": {
+      "passed": 101,
+      "failed": 0
+    },
+    "stable_source": {
+      "passed": 101,
+      "failed": 0
+    }
+  },
+  "errors": [],
+  "entries": [
+    {
+      "position": 1,
+      "id": "2MJuvHcpytM",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 1/10 - \"The Conspiracy of Kai Kunz\"",
+      "audio": "audio/001 - Chris the Hacker and Tom the Fag - Sep 2009 - 1_10 - _The Conspiracy of Kai Kunz_ [2MJuvHcpytM].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10045229,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Sep 2009 - 1/10 - \"The Conspiracy of Kai Kunz\""
+      ],
+      "id3_track_position": [
+        "1"
+      ],
+      "duration_seconds": 836.127347,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 836.080907,
+          "delta_seconds": 0.04644
+        },
+        "duration": {
+          "expected_seconds": 836,
+          "delta_seconds": 0.127347
+        }
+      },
+      "sha256": "b5c61ea76e7b1e3db7bf8eaf623a4c08248af6f47f3c8919dc9948e0ce7c4119",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 2,
+      "id": "MblmIjIakqQ",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 2/10 - \"The 30 Million Dollar Datboys\"",
+      "audio": "audio/002 - Chris the Hacker and Tom the Fag - Sep 2009 - 2_10 - _The 30 Million Dollar Datboys_ [MblmIjIakqQ].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 9856672,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Sep 2009 - 2/10 - \"The 30 Million Dollar Datboys\""
+      ],
+      "id3_track_position": [
+        "2"
+      ],
+      "duration_seconds": 820.44,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 820.416,
+          "delta_seconds": 0.024
+        },
+        "duration": {
+          "expected_seconds": 820,
+          "delta_seconds": 0.44
+        }
+      },
+      "sha256": "b3ed353bc47ad63bca0b9fe60ca171bc8409195cca006a5f6434af57fea09aec",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 3,
+      "id": "e4Rg90AvVnM",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 3/10 - \"TRUE and HONEST science\"",
+      "audio": "audio/003 - Chris the Hacker and Tom the Fag - Sep 2009 - 3_10 - _TRUE and HONEST science_ [e4Rg90AvVnM].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10385675,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Sep 2009 - 3/10 - \"TRUE and HONEST science\""
+      ],
+      "id3_track_position": [
+        "3"
+      ],
+      "duration_seconds": 864.48,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 864.448,
+          "delta_seconds": 0.032
+        },
+        "duration": {
+          "expected_seconds": 865,
+          "delta_seconds": -0.52
+        }
+      },
+      "sha256": "0ffa8557cbd770cd7114c96739273ef8a45d533b13e4ce7c25e500f4dc37f7bb",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 4,
+      "id": "MhyKbXC0NCE",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 4/10 - \"Watching Roswell stuff\"",
+      "audio": "audio/004 - Chris the Hacker and Tom the Fag - Sep 2009 - 4_10 - _Watching Roswell stuff_ [MhyKbXC0NCE].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 9557134,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Sep 2009 - 4/10 - \"Watching Roswell stuff\""
+      ],
+      "id3_track_position": [
+        "4"
+      ],
+      "duration_seconds": 795.504,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 795.477333,
+          "delta_seconds": 0.026667
+        },
+        "duration": {
+          "expected_seconds": 796,
+          "delta_seconds": -0.496
+        }
+      },
+      "sha256": "bf4716609c4b7af4b561fd63bb3657da408cb43bb02b5dd7ff435444916b0edc",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 5,
+      "id": "dte5y8dLov8",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 5/10 - \"MEN OF SCIENCE, MEN OF GAAD\"",
+      "audio": "audio/005 - Chris the Hacker and Tom the Fag - Sep 2009 - 5_10 - _MEN OF SCIENCE, MEN OF GAAD_ [dte5y8dLov8].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 9207116,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Sep 2009 - 5/10 - \"MEN OF SCIENCE, MEN OF GAAD\""
+      ],
+      "id3_track_position": [
+        "5"
+      ],
+      "duration_seconds": 766.354286,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 766.328163,
+          "delta_seconds": 0.026123
+        },
+        "duration": {
+          "expected_seconds": 766,
+          "delta_seconds": 0.354286
+        }
+      },
+      "sha256": "e9a24c1bb6506615db344173faf97def66da0b4c0a8a89093c451650662b855a",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 6,
+      "id": "pmnqnaRj4T8",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 6/10 - \"Put on Earth to harass Chris\"",
+      "audio": "audio/006 - Chris the Hacker and Tom the Fag - Sep 2009 - 6_10 - _Put on Earth to harass Chris_ [pmnqnaRj4T8].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10198292,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Sep 2009 - 6/10 - \"Put on Earth to harass Chris\""
+      ],
+      "id3_track_position": [
+        "6"
+      ],
+      "duration_seconds": 848.88,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 848.851896,
+          "delta_seconds": 0.028104
+        },
+        "duration": {
+          "expected_seconds": 849,
+          "delta_seconds": -0.12
+        }
+      },
+      "sha256": "ef60de90a3f4657e07d2b644cbff673c0b117d75728639677740092093c6d406",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 7,
+      "id": "qbGVeGmuK-Q",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 7/10 - \"Eeyanimals are not Meeyammals\"",
+      "audio": "audio/007 - Chris the Hacker and Tom the Fag - Sep 2009 - 7_10 - _Eeyanimals are not Meeyammals_ [qbGVeGmuK-Q].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10458617,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Sep 2009 - 7/10 - \"Eeyanimals are not Meeyammals\""
+      ],
+      "id3_track_position": [
+        "7"
+      ],
+      "duration_seconds": 870.552,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 870.516104,
+          "delta_seconds": 0.035896
+        },
+        "duration": {
+          "expected_seconds": 871,
+          "delta_seconds": -0.448
+        }
+      },
+      "sha256": "313b19405dbb1036e154670ad9aa1496f27184628be1b16b88cc23bcd445229f",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 8,
+      "id": "9dt_faBAoKw",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 8/10 - \"The Koen Also Rises\"",
+      "audio": "audio/008 - Chris the Hacker and Tom the Fag - Sep 2009 - 8_10 - _The Koen Also Rises_ [9dt_faBAoKw].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10137455,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Sep 2009 - 8/10 - \"The Koen Also Rises\""
+      ],
+      "id3_track_position": [
+        "8"
+      ],
+      "duration_seconds": 843.816,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 843.789938,
+          "delta_seconds": 0.026062
+        },
+        "duration": {
+          "expected_seconds": 844,
+          "delta_seconds": -0.184
+        }
+      },
+      "sha256": "0d9b01db3e70d96a0e33ce05859c311051be1a66f23bca2771a82754c5a06caa",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 9,
+      "id": "0k2IH2It2n4",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 9/10 - \"Same Old Lies\"",
+      "audio": "audio/009 - Chris the Hacker and Tom the Fag - Sep 2009 - 9_10 - _Same Old Lies_ [0k2IH2It2n4].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 6981848,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Sep 2009 - 9/10 - \"Same Old Lies\""
+      ],
+      "id3_track_position": [
+        "9"
+      ],
+      "duration_seconds": 581.112,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 581.079375,
+          "delta_seconds": 0.032625
+        },
+        "duration": {
+          "expected_seconds": 581,
+          "delta_seconds": 0.112
+        }
+      },
+      "sha256": "b27824a23081880a53e779f62c56eca34392c9ace9c04752925122c3bc848420",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 10,
+      "id": "KN5glJj6VtE",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 10/10 - \"PRANK FOOKIN CALLS\"",
+      "audio": "audio/010 - Chris the Hacker and Tom the Fag - Sep 2009 - 10_10 - _PRANK FOOKIN CALLS_ [KN5glJj6VtE].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 8017097,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Sep 2009 - 10/10 - \"PRANK FOOKIN CALLS\""
+      ],
+      "id3_track_position": [
+        "10"
+      ],
+      "duration_seconds": 667.296,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 667.271854,
+          "delta_seconds": 0.024146
+        },
+        "duration": {
+          "expected_seconds": 667,
+          "delta_seconds": 0.296
+        }
+      },
+      "sha256": "5e3eb4936ad49c96d388a2d276a473a063a121a5506bc1fb00ade4cc6125091b",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 11,
+      "id": "N4we-4AT4FQ",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 1/3 - \"Chris watches his own Youtube stuff\"",
+      "audio": "audio/011 - Chris the Hacker and Tom the Fag - Sep 2009 - 1_3 - _Chris watches his own Youtube stuff_ [N4we-4AT4FQ].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 8097833,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Sep 2009 - 1/3 - \"Chris watches his own Youtube stuff\""
+      ],
+      "id3_track_position": [
+        "11"
+      ],
+      "duration_seconds": 674.016,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 673.982417,
+          "delta_seconds": 0.033583
+        },
+        "duration": {
+          "expected_seconds": 674,
+          "delta_seconds": 0.016
+        }
+      },
+      "sha256": "8ec1ec467c6536bef93971f2c96903617d9f19a6df4b04ead0c9c3dcad652a01",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 12,
+      "id": "mgV0pd_OCSg",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 2/3 - \"Chris the Genius\"",
+      "audio": "audio/012 - Chris the Hacker and Tom the Fag - Sep 2009 - 2_3 - _Chris the Genius_ [mgV0pd_OCSg].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10596118,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Sep 2009 - 2/3 - \"Chris the Genius\""
+      ],
+      "id3_track_position": [
+        "12"
+      ],
+      "duration_seconds": 882.0,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 881.963542,
+          "delta_seconds": 0.036458
+        },
+        "duration": {
+          "expected_seconds": 882,
+          "delta_seconds": 0.0
+        }
+      },
+      "sha256": "f9d30836593ff9284af746d00b02c5bd2673bd206e5a8fa999c2f7c2ede1c006",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 13,
+      "id": "sBYA78QC7-s",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 3/3 - \"Leather Belt?\"",
+      "audio": "audio/013 - Chris the Hacker and Tom the Fag - Sep 2009 - 3_3 - _Leather Belt__ [sBYA78QC7-s].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 8628549,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Sep 2009 - 3/3 - \"Leather Belt?\""
+      ],
+      "id3_track_position": [
+        "13"
+      ],
+      "duration_seconds": 718.2,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 718.169979,
+          "delta_seconds": 0.030021
+        },
+        "duration": {
+          "expected_seconds": 718,
+          "delta_seconds": 0.2
+        }
+      },
+      "sha256": "b8f057a9c1c25dd3af1c985de2bdea268312731de35a21b5e0c6a171f5360616",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 14,
+      "id": "UxJrkPS_99w",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 1/9 - \"Chris watches NASCAR\"",
+      "audio": "audio/014 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_9 - _Chris watches NASCAR_ [UxJrkPS_99w].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 9882684,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 1/9 - \"Chris watches NASCAR\""
+      ],
+      "id3_track_position": [
+        "14"
+      ],
+      "duration_seconds": 822.595918,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 822.566893,
+          "delta_seconds": 0.029025
+        },
+        "duration": {
+          "expected_seconds": 823,
+          "delta_seconds": -0.404082
+        }
+      },
+      "sha256": "37318a40ec995057531ebb89f6b5e2a1b72eb638250201c1a1e643ffce630894",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 15,
+      "id": "aLIE2fhvGRU",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 2/9 - \"Chris loves Koen and Tom\"",
+      "audio": "audio/015 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_9 - _Chris loves Koen and Tom_ [aLIE2fhvGRU].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 8380344,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 2/9 - \"Chris loves Koen and Tom\""
+      ],
+      "id3_track_position": [
+        "15"
+      ],
+      "duration_seconds": 697.536,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 697.504229,
+          "delta_seconds": 0.031771
+        },
+        "duration": {
+          "expected_seconds": 698,
+          "delta_seconds": -0.464
+        }
+      },
+      "sha256": "4f99b1620cfae9d0f6549854db649c78c94bed9e187fbdd9402c2e9321ebc55d",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 16,
+      "id": "Vdz8VlzpFXc",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 3/9 - \"Where's the money, Perronski?\"",
+      "audio": "audio/016 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_9 - _Where's the money, Perronski__ [Vdz8VlzpFXc].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 9556359,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 3/9 - \"Where's the money, Perronski?\""
+      ],
+      "id3_track_position": [
+        "16"
+      ],
+      "duration_seconds": 795.428571,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 795.399546,
+          "delta_seconds": 0.029025
+        },
+        "duration": {
+          "expected_seconds": 795,
+          "delta_seconds": 0.428571
+        }
+      },
+      "sha256": "ab4d2ee2c6339f806db7402073091dc582c14898af05ec8f7b1ee5ef9e959786",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 17,
+      "id": "-3BNlziFGmI",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 4/9 - \"What're your crimes?\"",
+      "audio": "audio/017 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_9 - _What're your crimes__ [-3BNlziFGmI].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 9623726,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 4/9 - \"What're your crimes?\""
+      ],
+      "id3_track_position": [
+        "17"
+      ],
+      "duration_seconds": 801.048,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 801.007167,
+          "delta_seconds": 0.040833
+        },
+        "duration": {
+          "expected_seconds": 801,
+          "delta_seconds": 0.048
+        }
+      },
+      "sha256": "1e89da5c6944252560e5a9566a94e2fcfec4c8f79bea4012225c2ef121162cfc",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 18,
+      "id": "8jSxOnwIE_g",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 5/9 - \"PHILIP GLASS\"",
+      "audio": "audio/018 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_9 - _PHILIP GLASS_ [8jSxOnwIE_g].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10815352,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 5/9 - \"PHILIP GLASS\""
+      ],
+      "id3_track_position": [
+        "18"
+      ],
+      "duration_seconds": 900.075102,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 900.028662,
+          "delta_seconds": 0.04644
+        },
+        "duration": {
+          "expected_seconds": 900,
+          "delta_seconds": 0.075102
+        }
+      },
+      "sha256": "5a7a291a7aa4390feb7097887afe625e720cc98e0ed89fe6a2ab0e1f6fb93fc5",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 19,
+      "id": "_lWLgaHUHmc",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 6/9 - \"Let me go back to my regular typing\"",
+      "audio": "audio/019 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_9 - _Let me go back to my regular typing_ [_lWLgaHUHmc].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 6782663,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 6/9 - \"Let me go back to my regular typing\""
+      ],
+      "id3_track_position": [
+        "19"
+      ],
+      "duration_seconds": 564.528,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 564.500333,
+          "delta_seconds": 0.027667
+        },
+        "duration": {
+          "expected_seconds": 565,
+          "delta_seconds": -0.472
+        }
+      },
+      "sha256": "90a22d3ab7516a3cb4d5d5db16edebc500238a581807ca652a9ff81a62cb7241",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 20,
+      "id": "NpwVe9QAMR8",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 7/9 - \"TYPE-TYPE-TYPE-TYPE-TYPE-TYPE-\"",
+      "audio": "audio/020 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_9 - _TYPE-TYPE-TYPE-TYPE-TYPE-TYPE-_ [NpwVe9QAMR8].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 3885652,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 7/9 - \"TYPE-TYPE-TYPE-TYPE-TYPE-TYPE-\""
+      ],
+      "id3_track_position": [
+        "20"
+      ],
+      "duration_seconds": 323.352,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 323.314667,
+          "delta_seconds": 0.037333
+        },
+        "duration": {
+          "expected_seconds": 323,
+          "delta_seconds": 0.352
+        }
+      },
+      "sha256": "2875d088c2016c605a38095b633ee171b2095ecdb20ad17ab1892669a4ec1fa3",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 21,
+      "id": "A68aiY4MoUw",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 8/9 - \"Chris and the Phallusy\"",
+      "audio": "audio/021 - Chris the Hacker and Tom the Fag - Oct 2009 - 8_9 - _Chris and the Phallusy_ [A68aiY4MoUw].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10806574,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 8/9 - \"Chris and the Phallusy\""
+      ],
+      "id3_track_position": [
+        "21"
+      ],
+      "duration_seconds": 899.52,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 899.483,
+          "delta_seconds": 0.037
+        },
+        "duration": {
+          "expected_seconds": 900,
+          "delta_seconds": -0.48
+        }
+      },
+      "sha256": "62cb65161bb9cedc78570a7311bff6fc013e283bbe91a048d1e235c0f00bb20d",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 22,
+      "id": "suzi0JQRCjo",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 9/9 - \"The Plan\"",
+      "audio": "audio/022 - Chris the Hacker and Tom the Fag - Oct 2009 - 9_9 - _The Plan_ [suzi0JQRCjo].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10807390,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 9/9 - \"The Plan\""
+      ],
+      "id3_track_position": [
+        "22"
+      ],
+      "duration_seconds": 899.578776,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 899.541043,
+          "delta_seconds": 0.037733
+        },
+        "duration": {
+          "expected_seconds": 900,
+          "delta_seconds": -0.421224
+        }
+      },
+      "sha256": "b17ae0d48b66d5036cfb4afced577263b960601fe4c4bb3a289b96e2cdf924a5",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 23,
+      "id": "e-Stjk6XTV0",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 1/7 - \"No Information No Big Bang\"",
+      "audio": "audio/023 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_7 - _No Information No Big Bang_ [e-Stjk6XTV0].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10792452,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 1/7 - \"No Information No Big Bang\""
+      ],
+      "id3_track_position": [
+        "23"
+      ],
+      "duration_seconds": 898.344,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 898.298792,
+          "delta_seconds": 0.045208
+        },
+        "duration": {
+          "expected_seconds": 898,
+          "delta_seconds": 0.344
+        }
+      },
+      "sha256": "e57ac3a229ee84a144bdcee5dd4a6ed0af130e0cfe0111dc249e32300c432428",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 24,
+      "id": "yemW-I74EGw",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 2/7 - \"Kai Kunz and the Mason Conspiracy\"",
+      "audio": "audio/024 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_7 - _Kai Kunz and the Mason Conspiracy_ [yemW-I74EGw].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 5606778,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 2/7 - \"Kai Kunz and the Mason Conspiracy\""
+      ],
+      "id3_track_position": [
+        "24"
+      ],
+      "duration_seconds": 466.625306,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 466.581769,
+          "delta_seconds": 0.043537
+        },
+        "duration": {
+          "expected_seconds": 467,
+          "delta_seconds": -0.374694
+        }
+      },
+      "sha256": "db985ecbf0b942979e33ed0097a9a5528b116564ebbcf871d62d4168436b3466",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 25,
+      "id": "CFrhXnJ3t_Q",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 3/7 - \"Chris the Knight Templar\"",
+      "audio": "audio/025 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_7 - _Chris the Knight Templar_ [CFrhXnJ3t_Q].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 6394268,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 3/7 - \"Chris the Knight Templar\""
+      ],
+      "id3_track_position": [
+        "25"
+      ],
+      "duration_seconds": 532.152,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 532.1085,
+          "delta_seconds": 0.0435
+        },
+        "duration": {
+          "expected_seconds": 532,
+          "delta_seconds": 0.152
+        }
+      },
+      "sha256": "4360239858d1d5c549328d989e95752cd033611460fd0fa29807e28fbc80a497",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 26,
+      "id": "ANVwqCW8erk",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 4/7 - \"Troll King\"",
+      "audio": "audio/026 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_7 - _Troll King_ [ANVwqCW8erk].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 6770576,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 4/7 - \"Troll King\""
+      ],
+      "id3_track_position": [
+        "26"
+      ],
+      "duration_seconds": 563.513469,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 563.478639,
+          "delta_seconds": 0.03483
+        },
+        "duration": {
+          "expected_seconds": 563,
+          "delta_seconds": 0.513469
+        }
+      },
+      "sha256": "e74480830fa36e003ba3cfc5f7ad08a346b2f3c5ed61eaab5d6a96b7e21378ea",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 27,
+      "id": "oBOTHgEAeZw",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 5/7 - \"Chris Does Youtube\"",
+      "audio": "audio/027 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_7 - _Chris Does Youtube_ [oBOTHgEAeZw].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 9545598,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 5/7 - \"Chris Does Youtube\""
+      ],
+      "id3_track_position": [
+        "27"
+      ],
+      "duration_seconds": 794.544,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 794.517208,
+          "delta_seconds": 0.026792
+        },
+        "duration": {
+          "expected_seconds": 795,
+          "delta_seconds": -0.456
+        }
+      },
+      "sha256": "b51365f4483d6915f7ac2236073b62d465770118d5622b2972ea2332f0d5f020",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 28,
+      "id": "0W3fxyRC_3Q",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 6/7 - \"We're All Fictitious\"",
+      "audio": "audio/028 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_7 - _We're All Fictitious_ [0W3fxyRC_3Q].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10245852,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 6/7 - \"We're All Fictitious\""
+      ],
+      "id3_track_position": [
+        "28"
+      ],
+      "duration_seconds": 852.84,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 852.810896,
+          "delta_seconds": 0.029104
+        },
+        "duration": {
+          "expected_seconds": 853,
+          "delta_seconds": -0.16
+        }
+      },
+      "sha256": "674a797e899129bf78424c4ba4acf6fd6f9a226c1ec1f68bceef9cc808b51df1",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 29,
+      "id": "hSmv7R5eyNo",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 7/7 - \"nWo\"",
+      "audio": "audio/029 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_7 - _nWo_ [hSmv7R5eyNo].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 2192728,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 7/7 - \"nWo\""
+      ],
+      "id3_track_position": [
+        "29"
+      ],
+      "duration_seconds": 182.304,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 182.276646,
+          "delta_seconds": 0.027354
+        },
+        "duration": {
+          "expected_seconds": 182,
+          "delta_seconds": 0.304
+        }
+      },
+      "sha256": "37fad1e274206ceaf52742a2fd5112f345d8b5785604a09ae663185af1d81c03",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 30,
+      "id": "IeV7QeWvkV8",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 1/2 - \"Chris has a Customer!\"",
+      "audio": "audio/030 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _Chris has a Customer!_ [IeV7QeWvkV8].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10812915,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 1/2 - \"Chris has a Customer!\""
+      ],
+      "id3_track_position": [
+        "30"
+      ],
+      "duration_seconds": 900.048,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 900.005458,
+          "delta_seconds": 0.042542
+        },
+        "duration": {
+          "expected_seconds": 900,
+          "delta_seconds": 0.048
+        }
+      },
+      "sha256": "afbd23b176616ac88f2332b6ad5d1cc7ca35c61a7f39c2f12a8d7531f451a7c8",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 31,
+      "id": "ubg9LCWla3g",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 2/2 - \"Chris Serenades Tom\"",
+      "audio": "audio/031 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _Chris Serenades Tom_ [ubg9LCWla3g].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10804265,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 2/2 - \"Chris Serenades Tom\""
+      ],
+      "id3_track_position": [
+        "31"
+      ],
+      "duration_seconds": 899.328,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 899.285625,
+          "delta_seconds": 0.042375
+        },
+        "duration": {
+          "expected_seconds": 899,
+          "delta_seconds": 0.328
+        }
+      },
+      "sha256": "ae2d2b1b2ae721370035c0281817d3f6745f47ceac998e090d4d3fa8a8e9a387",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 32,
+      "id": "EvhDw2rd7lM",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 1/8 - \"Full Retard\"",
+      "audio": "audio/032 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_8 - _Full Retard_ [EvhDw2rd7lM].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 8194674,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 1/8 - \"Full Retard\""
+      ],
+      "id3_track_position": [
+        "32"
+      ],
+      "duration_seconds": 682.08,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 682.039729,
+          "delta_seconds": 0.040271
+        },
+        "duration": {
+          "expected_seconds": 682,
+          "delta_seconds": 0.08
+        }
+      },
+      "sha256": "a127eca5ab77703b9903b00e676fa5bfd4f5f8cbb1d31a9cecff694612859867",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 33,
+      "id": "tvgL2eoX3NQ",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 2/8 - \"The Kunz Konnection\"",
+      "audio": "audio/033 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_8 - _The Kunz Konnection_ [tvgL2eoX3NQ].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 9394825,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 2/8 - \"The Kunz Konnection\""
+      ],
+      "id3_track_position": [
+        "33"
+      ],
+      "duration_seconds": 781.992,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 781.955208,
+          "delta_seconds": 0.036792
+        },
+        "duration": {
+          "expected_seconds": 782,
+          "delta_seconds": -0.008
+        }
+      },
+      "sha256": "3f340208ca70907b8a20297fc993b811d7a6a6969419b5da3e87165fb89927c7",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 34,
+      "id": "0UceOMudoDE",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 3/8 - \"Tales of Rick and Hack\"",
+      "audio": "audio/034 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_8 - _Tales of Rick and Hack_ [0UceOMudoDE].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 5159877,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 3/8 - \"Tales of Rick and Hack\""
+      ],
+      "id3_track_position": [
+        "34"
+      ],
+      "duration_seconds": 429.432,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 429.395021,
+          "delta_seconds": 0.036979
+        },
+        "duration": {
+          "expected_seconds": 429,
+          "delta_seconds": 0.432
+        }
+      },
+      "sha256": "a5d85c72c39111e205744251735c43f9943c56d47034f92a40e29a4c711370fc",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 35,
+      "id": "rUBcani00zo",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 4/8 - \"The Source of Chris's High Phone Bills\"",
+      "audio": "audio/035 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_8 - _The Source of Chris's High Phone Bills_ [rUBcani00zo].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 5592197,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 4/8 - \"The Source of Chris's High Phone Bills\""
+      ],
+      "id3_track_position": [
+        "35"
+      ],
+      "duration_seconds": 465.288,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 465.25825,
+          "delta_seconds": 0.02975
+        },
+        "duration": {
+          "expected_seconds": 465,
+          "delta_seconds": 0.288
+        }
+      },
+      "sha256": "4da1cc8e8ef873c6d625e24059a80652743e10c6f18350efdc8698424e4a1fc7",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 36,
+      "id": "x6s7mo219Bs",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 5/8 - \"Guitar Hero Chris\"",
+      "audio": "audio/036 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_8 - _Guitar Hero Chris_ [x6s7mo219Bs].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10729884,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 5/8 - \"Guitar Hero Chris\""
+      ],
+      "id3_track_position": [
+        "36"
+      ],
+      "duration_seconds": 893.136,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 893.109125,
+          "delta_seconds": 0.026875
+        },
+        "duration": {
+          "expected_seconds": 893,
+          "delta_seconds": 0.136
+        }
+      },
+      "sha256": "ab17eaff0f0e02d03106d8e1ec657ae50fa7e153a059baf7f08cb51461afdce8",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 37,
+      "id": "_CHuyd_SFs0",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 6/8 - \"Love is in the Packets\"",
+      "audio": "audio/037 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_8 - _Love is in the Packets_ [_CHuyd_SFs0].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 3627111,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 6/8 - \"Love is in the Packets\""
+      ],
+      "id3_track_position": [
+        "37"
+      ],
+      "duration_seconds": 301.818776,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 301.789751,
+          "delta_seconds": 0.029025
+        },
+        "duration": {
+          "expected_seconds": 302,
+          "delta_seconds": -0.181224
+        }
+      },
+      "sha256": "a0e96e50b9af022f198798d92b82dbd8f9f3d3e979da5116cc16838faceb120c",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 38,
+      "id": "pQ4JW22LEws",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 7/8 - \"Chris is a Full-Grown Train\"",
+      "audio": "audio/038 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_8 - _Chris is a Full-Grown Train_ [pQ4JW22LEws].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10747192,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 7/8 - \"Chris is a Full-Grown Train\""
+      ],
+      "id3_track_position": [
+        "38"
+      ],
+      "duration_seconds": 894.576,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 894.548771,
+          "delta_seconds": 0.027229
+        },
+        "duration": {
+          "expected_seconds": 895,
+          "delta_seconds": -0.424
+        }
+      },
+      "sha256": "4b8dbb1800c8902051c102d05ddd9d492a5f4e12623d689c76646c6917e39fb7",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 39,
+      "id": "is8QVJUQ994",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 8/8 - \"If Chris was on a Train...\"",
+      "audio": "audio/039 - Chris the Hacker and Tom the Fag - Oct 2009 - 8_8 - _If Chris was on a Train..._ [is8QVJUQ994].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10792164,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 8/8 - \"If Chris was on a Train...\""
+      ],
+      "id3_track_position": [
+        "39"
+      ],
+      "duration_seconds": 898.32,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 898.287167,
+          "delta_seconds": 0.032833
+        },
+        "duration": {
+          "expected_seconds": 898,
+          "delta_seconds": 0.32
+        }
+      },
+      "sha256": "adaa952d2de2f53ccf9ea7c7bd35a48dbd48ffaa0fa85d470fddddba1961e44f",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 40,
+      "id": "t0Nkpnhiw7Q",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 1/2 - \"The Chris Perron Show 1\"",
+      "audio": "audio/040 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _The Chris Perron Show 1_ [t0Nkpnhiw7Q].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 5995859,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 1/2 - \"The Chris Perron Show 1\""
+      ],
+      "id3_track_position": [
+        "40"
+      ],
+      "duration_seconds": 499.017143,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 498.973605,
+          "delta_seconds": 0.043538
+        },
+        "duration": {
+          "expected_seconds": 499,
+          "delta_seconds": 0.017143
+        }
+      },
+      "sha256": "42698d64903cd93d5521adb0a9ca88b64a0ea8ac7735741a91c5cdf3cc76f4ac",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 41,
+      "id": "UE_1pIg8ps4",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 2/2 - \"The Chris Perron Show 2\"",
+      "audio": "audio/041 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _The Chris Perron Show 2_ [UE_1pIg8ps4].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 1754620,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 2/2 - \"The Chris Perron Show 2\""
+      ],
+      "id3_track_position": [
+        "41"
+      ],
+      "duration_seconds": 145.944,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 145.914208,
+          "delta_seconds": 0.029792
+        },
+        "duration": {
+          "expected_seconds": 146,
+          "delta_seconds": -0.056
+        }
+      },
+      "sha256": "565fbeee4cfcc27f5b7bfd88ee28e93958bc8df9a11d89377211c920d6542d85",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 42,
+      "id": "IPfxBPNw4Rk",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 1/4 - \"Chris Loves the Cock\"",
+      "audio": "audio/042 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_4 - _Chris Loves the Cock_ [IPfxBPNw4Rk].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10737095,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 1/4 - \"Chris Loves the Cock\""
+      ],
+      "id3_track_position": [
+        "42"
+      ],
+      "duration_seconds": 893.736,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 893.689625,
+          "delta_seconds": 0.046375
+        },
+        "duration": {
+          "expected_seconds": 894,
+          "delta_seconds": -0.264
+        }
+      },
+      "sha256": "262dc283ada4abac292a166a0d73d6e2013c3cfc37e77c470d957cbde99eaab7",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 43,
+      "id": "tlUi3DCialU",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 2/4 - \"Bald Like Chris\"",
+      "audio": "audio/043 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_4 - _Bald Like Chris_ [tlUi3DCialU].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10769666,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 2/4 - \"Bald Like Chris\""
+      ],
+      "id3_track_position": [
+        "43"
+      ],
+      "duration_seconds": 896.448,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 896.406354,
+          "delta_seconds": 0.041646
+        },
+        "duration": {
+          "expected_seconds": 896,
+          "delta_seconds": 0.448
+        }
+      },
+      "sha256": "faeeba2cced5ae8f8ba0e949df25fc0eb94454c9488959b4ca94a832e5e232d0",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 44,
+      "id": "9jFYQHo2I70",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 3/4 - \"Chris's Chicks\"",
+      "audio": "audio/044 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_4 - _Chris's Chicks_ [9jFYQHo2I70].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 8156911,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 3/4 - \"Chris's Chicks\""
+      ],
+      "id3_track_position": [
+        "44"
+      ],
+      "duration_seconds": 678.936,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 678.893438,
+          "delta_seconds": 0.042562
+        },
+        "duration": {
+          "expected_seconds": 679,
+          "delta_seconds": -0.064
+        }
+      },
+      "sha256": "015828fba2fe0410838cde1414e587a320c41eeeb4a0b592b6925e3e9a4d58dd",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 45,
+      "id": "Fpo629OmNEo",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 4/4 - \"Chris Jibbers, Thinks he Knows\"",
+      "audio": "audio/045 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_4 - _Chris Jibbers, Thinks he Knows_ [Fpo629OmNEo].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 6276136,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 4/4 - \"Chris Jibbers, Thinks he Knows\""
+      ],
+      "id3_track_position": [
+        "45"
+      ],
+      "duration_seconds": 522.36,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 522.321271,
+          "delta_seconds": 0.038729
+        },
+        "duration": {
+          "expected_seconds": 522,
+          "delta_seconds": 0.36
+        }
+      },
+      "sha256": "f1dfa7f3d7aa9fb23171cddb314673704147f0f9be87bd450fea83e19e9a8ae7",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 46,
+      "id": "Qk3AEMQ0wwA",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 1/5 - \"Chris the Fibber\"",
+      "audio": "audio/046 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_5 - _Chris the Fibber_ [Qk3AEMQ0wwA].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 2167730,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 1/5 - \"Chris the Fibber\""
+      ],
+      "id3_track_position": [
+        "46"
+      ],
+      "duration_seconds": 180.336,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 180.302958,
+          "delta_seconds": 0.033042
+        },
+        "duration": {
+          "expected_seconds": 180,
+          "delta_seconds": 0.336
+        }
+      },
+      "sha256": "1b80fe13e9fa125b2f714aa3cbc932fd6cbc6f7446f8ec41a8e77975d5db5beb",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 47,
+      "id": "MHBJc1YFuaY",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 2/5 - \"Chris the Drunk\"",
+      "audio": "audio/047 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_5 - _Chris the Drunk_ [MHBJc1YFuaY].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 6872012,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 2/5 - \"Chris the Drunk\""
+      ],
+      "id3_track_position": [
+        "47"
+      ],
+      "duration_seconds": 571.968,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 571.930708,
+          "delta_seconds": 0.037292
+        },
+        "duration": {
+          "expected_seconds": 572,
+          "delta_seconds": -0.032
+        }
+      },
+      "sha256": "87ea6216e04dea21da82150c825133e651db69879334bc2dc7c6ec60ad1d80df",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 48,
+      "id": "L8jZ0cfXzuI",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 3/5 - \"You Don't Really Know what Hate is, Tom\"",
+      "audio": "audio/048 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_5 - _You Don't Really Know what Hate is, Tom_ [L8jZ0cfXzuI].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 6181635,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 3/5 - \"You Don't Really Know what Hate is, Tom\""
+      ],
+      "id3_track_position": [
+        "48"
+      ],
+      "duration_seconds": 514.481633,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 514.438095,
+          "delta_seconds": 0.043538
+        },
+        "duration": {
+          "expected_seconds": 514,
+          "delta_seconds": 0.481633
+        }
+      },
+      "sha256": "51263f4e3534a2ac17e98a8f858592e71d8c79344d070937ed3316b2d6b95494",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 49,
+      "id": "Y7jBreAaLH4",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 4/5 - \"Family Man at 19\"",
+      "audio": "audio/049 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_5 - _Family Man at 19_ [Y7jBreAaLH4].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 7040950,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 4/5 - \"Family Man at 19\""
+      ],
+      "id3_track_position": [
+        "49"
+      ],
+      "duration_seconds": 586.032,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 586.002,
+          "delta_seconds": 0.03
+        },
+        "duration": {
+          "expected_seconds": 586,
+          "delta_seconds": 0.032
+        }
+      },
+      "sha256": "57c16efe1f6afde1d95b2eb432ffdbcf1505afead3741b8c250f0f1dbb752e8d",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 50,
+      "id": "Hi0no837orI",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 5/5 - \"Chris Scares a Teenage Girl\"",
+      "audio": "audio/050 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_5 - _Chris Scares a Teenage Girl_ [Hi0no837orI].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 4819702,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 5/5 - \"Chris Scares a Teenage Girl\""
+      ],
+      "id3_track_position": [
+        "50"
+      ],
+      "duration_seconds": 401.112,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 401.066667,
+          "delta_seconds": 0.045333
+        },
+        "duration": {
+          "expected_seconds": 401,
+          "delta_seconds": 0.112
+        }
+      },
+      "sha256": "3135647f87d11041e59f6818c9d40eb6daca882095a8f89de6dd9513b3f269b6",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 51,
+      "id": "KGHMpnibonc",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - \"WUZZAP TOM\"",
+      "audio": "audio/051 - Chris the Hacker and Tom the Fag - Oct 2009 - _WUZZAP TOM_ [KGHMpnibonc].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 884072,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - \"WUZZAP TOM\""
+      ],
+      "id3_track_position": [
+        "51"
+      ],
+      "duration_seconds": 73.44,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 73.398292,
+          "delta_seconds": 0.041708
+        },
+        "duration": {
+          "expected_seconds": 73,
+          "delta_seconds": 0.44
+        }
+      },
+      "sha256": "d5337129e8e9157e16b0e80b1a1a22e118483cf161f9dd01b4ce7e439606dcde",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 52,
+      "id": "Nf_PBQsbA9U",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 1/2 - \"Closing in on Tom\"",
+      "audio": "audio/052 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _Closing in on Tom_ [Nf_PBQsbA9U].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10718930,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 1/2 - \"Closing in on Tom\""
+      ],
+      "id3_track_position": [
+        "52"
+      ],
+      "duration_seconds": 892.224,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 892.180333,
+          "delta_seconds": 0.043667
+        },
+        "duration": {
+          "expected_seconds": 892,
+          "delta_seconds": 0.224
+        }
+      },
+      "sha256": "d0177fd18ad76b63d5cf4c274427102dc76ec2e93255721c47c7193a0c529a78",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 53,
+      "id": "fm2fdcIniw4",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 2/2 - \"Marcel the Fag\"",
+      "audio": "audio/053 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _Marcel the Fag_ [fm2fdcIniw4].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 8412410,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 2/2 - \"Marcel the Fag\""
+      ],
+      "id3_track_position": [
+        "53"
+      ],
+      "duration_seconds": 700.152,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 700.104979,
+          "delta_seconds": 0.047021
+        },
+        "duration": {
+          "expected_seconds": 700,
+          "delta_seconds": 0.152
+        }
+      },
+      "sha256": "404880353c0245edef02c4047c594e05c2b146814221b1605d911f724c403341",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 54,
+      "id": "Xv8o0hDxLKU",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 1/5 - \"When Chris met Frank\"",
+      "audio": "audio/054 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_5 - _When Chris met Frank_ [Xv8o0hDxLKU].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 5760091,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 1/5 - \"When Chris met Frank\""
+      ],
+      "id3_track_position": [
+        "54"
+      ],
+      "duration_seconds": 479.4,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 479.375979,
+          "delta_seconds": 0.024021
+        },
+        "duration": {
+          "expected_seconds": 479,
+          "delta_seconds": 0.4
+        }
+      },
+      "sha256": "3d7a61f38a259f683658e244221c3ca9007426f3cb0e09c768b0f8681415bd32",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 55,
+      "id": "Bzqg9Wua_lM",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 2/5 - \"Chris the Movie!\"",
+      "audio": "audio/055 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_5 - _Chris the Movie!_ [Bzqg9Wua_lM].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 4353529,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 2/5 - \"Chris the Movie!\""
+      ],
+      "id3_track_position": [
+        "55"
+      ],
+      "duration_seconds": 362.304,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 362.266125,
+          "delta_seconds": 0.037875
+        },
+        "duration": {
+          "expected_seconds": 362,
+          "delta_seconds": 0.304
+        }
+      },
+      "sha256": "ef88f93ecbc62a52b32f3038f798b484789d1eb2aa487267be418675765e79ba",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 56,
+      "id": "KmvmH_S32Ek",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 3/5 - \"Schoolin'\"",
+      "audio": "audio/056 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_5 - _Schoolin'_ [KmvmH_S32Ek].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 3960009,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 3/5 - \"Schoolin'\""
+      ],
+      "id3_track_position": [
+        "56"
+      ],
+      "duration_seconds": 329.544,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 329.514396,
+          "delta_seconds": 0.029604
+        },
+        "duration": {
+          "expected_seconds": 330,
+          "delta_seconds": -0.456
+        }
+      },
+      "sha256": "9b7a39c7d2c9637d0343db17af819d6c56de99bbb826ef9fe959c87689f61c79",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 57,
+      "id": "slHCPGzuhWc",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 4/5 - \"Racism!\"",
+      "audio": "audio/057 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_5 - _Racism!_ [slHCPGzuhWc].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10779556,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 4/5 - \"Racism!\""
+      ],
+      "id3_track_position": [
+        "57"
+      ],
+      "duration_seconds": 897.24,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 897.195833,
+          "delta_seconds": 0.044167
+        },
+        "duration": {
+          "expected_seconds": 897,
+          "delta_seconds": 0.24
+        }
+      },
+      "sha256": "ab84907e75b15a0dc5e57faac186624c11101d1f12677f399d07a2ef8e62b11a",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 58,
+      "id": "LBRRnoweZuE",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 5/5 - \"FAPFAPFAPFAPFAPFAPFAPFAPFAP\"",
+      "audio": "audio/058 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_5 - _FAPFAPFAPFAPFAPFAPFAPFAPFAP_ [LBRRnoweZuE].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 897832,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2009 - 5/5 - \"FAPFAPFAPFAPFAPFAPFAPFAPFAP\""
+      ],
+      "id3_track_position": [
+        "58"
+      ],
+      "duration_seconds": 74.616,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 74.5825,
+          "delta_seconds": 0.0335
+        },
+        "duration": {
+          "expected_seconds": 75,
+          "delta_seconds": -0.384
+        }
+      },
+      "sha256": "c5b9b08df036df1b4b8f9466ddeb7f837ddac839b4ac47b6ed1f0b3586e2ca54",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 59,
+      "id": "xVgRNYzu84w",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 1/9 - \"Jeremy the Not-Chris\"",
+      "audio": "audio/059 - Chris the Hacker and Tom the Fag - Nov 2009 - 1_9 - _Jeremy the Not-Chris_ [xVgRNYzu84w].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 9056952,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2009 - 1/9 - \"Jeremy the Not-Chris\""
+      ],
+      "id3_track_position": [
+        "59"
+      ],
+      "duration_seconds": 753.864,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 753.835833,
+          "delta_seconds": 0.028167
+        },
+        "duration": {
+          "expected_seconds": 754,
+          "delta_seconds": -0.136
+        }
+      },
+      "sha256": "dfa0a018f03aaa1b696571e0c2fd7c0d99e36809a89d71d4187791d48e7b5e96",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 60,
+      "id": "-TGxoANMkxI",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 2/9 - \"Happy Brithday, Chris! Happy Birthday, KOOOON!\"",
+      "audio": "audio/060 - Chris the Hacker and Tom the Fag - Nov 2009 - 2_9 - _Happy Brithday, Chris! Happy Birthday, KOOOON!_ [-TGxoANMkxI].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 8639825,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2009 - 2/9 - \"Happy Brithday, Chris! Happy Birthday, KOOOON!\""
+      ],
+      "id3_track_position": [
+        "60"
+      ],
+      "duration_seconds": 719.136,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 719.098792,
+          "delta_seconds": 0.037208
+        },
+        "duration": {
+          "expected_seconds": 719,
+          "delta_seconds": 0.136
+        }
+      },
+      "sha256": "a5759e76aeda8510b9eaf8eb0c7245255c9765686eb7453aab968ffe04b4712e",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 61,
+      "id": "JGrNipu0Dhk",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 3/9 - \"Chris wouldn't fugg Beatrix w/ Koen's Dick\"",
+      "audio": "audio/061 - Chris the Hacker and Tom the Fag - Nov 2009 - 3_9 - _Chris wouldn't fugg Beatrix w_ Koen's Dick_ [JGrNipu0Dhk].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 8736686,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2009 - 3/9 - \"Chris wouldn't fugg Beatrix w/ Koen's Dick\""
+      ],
+      "id3_track_position": [
+        "61"
+      ],
+      "duration_seconds": 727.2,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 727.156104,
+          "delta_seconds": 0.043896
+        },
+        "duration": {
+          "expected_seconds": 727,
+          "delta_seconds": 0.2
+        }
+      },
+      "sha256": "3410a53efa2ee8a1867d845985332d1d263b7d9f8b1a271e8b5a2108b03f8b2c",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 62,
+      "id": "WuzTPGG8xro",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 4/9 - \"Chris's Daughters will Drop Tom",
+      "audio": "audio/062 - Chris the Hacker and Tom the Fag - Nov 2009 - 4_9 - _Chris's Daughters will Drop Tom [WuzTPGG8xro].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 7140512,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2009 - 4/9 - \"Chris's Daughters will Drop Tom"
+      ],
+      "id3_track_position": [
+        "62"
+      ],
+      "duration_seconds": 594.288,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 594.245083,
+          "delta_seconds": 0.042917
+        },
+        "duration": {
+          "expected_seconds": 594,
+          "delta_seconds": 0.288
+        }
+      },
+      "sha256": "a6d7367e3a734999d40e3af837a47e1f365f788adcbd338ac1e2e0f0836b4c8e",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 63,
+      "id": "clD-ro10iBM",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 5/9 - \"Chris has a Certain Set of Skills\"",
+      "audio": "audio/063 - Chris the Hacker and Tom the Fag - Nov 2009 - 5_9 - _Chris has a Certain Set of Skills_ [clD-ro10iBM].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 8629448,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2009 - 5/9 - \"Chris has a Certain Set of Skills\""
+      ],
+      "id3_track_position": [
+        "63"
+      ],
+      "duration_seconds": 718.262857,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 718.216417,
+          "delta_seconds": 0.04644
+        },
+        "duration": {
+          "expected_seconds": 718,
+          "delta_seconds": 0.262857
+        }
+      },
+      "sha256": "9c38de7666b16c41bca96a8ea5234cf62e57b9019c6680b1f8118b56eb774604",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 64,
+      "id": "Y84ehI42y6o",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 6/9 - \"Steaming Piles of Stupid\"",
+      "audio": "audio/064 - Chris the Hacker and Tom the Fag - Nov 2009 - 6_9 - _Steaming Piles of Stupid_ [Y84ehI42y6o].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 7239058,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2009 - 6/9 - \"Steaming Piles of Stupid\""
+      ],
+      "id3_track_position": [
+        "64"
+      ],
+      "duration_seconds": 602.472,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 602.441729,
+          "delta_seconds": 0.030271
+        },
+        "duration": {
+          "expected_seconds": 602,
+          "delta_seconds": 0.472
+        }
+      },
+      "sha256": "d88a413f63b26806e8c5be9f622fcab23d6501e093654bb845ce26f8324aa7eb",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 65,
+      "id": "gCLoUSiSxiA",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 7/9 - \"Da Hyoomin Race = Gawd\"",
+      "audio": "audio/065 - Chris the Hacker and Tom the Fag - Nov 2009 - 7_9 - _Da Hyoomin Race = Gawd_ [gCLoUSiSxiA].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 2068853,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2009 - 7/9 - \"Da Hyoomin Race = Gawd\""
+      ],
+      "id3_track_position": [
+        "65"
+      ],
+      "duration_seconds": 172.104,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 172.059875,
+          "delta_seconds": 0.044125
+        },
+        "duration": {
+          "expected_seconds": 172,
+          "delta_seconds": 0.104
+        }
+      },
+      "sha256": "d3d16aa0d770bd390797e18110ec9095058b90c82db7f3025afa49de97b500c0",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 66,
+      "id": "I41abOfyjEg",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 8/9 - \"Teabagger Chris\"",
+      "audio": "audio/066 - Chris the Hacker and Tom the Fag - Nov 2009 - 8_9 - _Teabagger Chris_ [I41abOfyjEg].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 8138750,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2009 - 8/9 - \"Teabagger Chris\""
+      ],
+      "id3_track_position": [
+        "66"
+      ],
+      "duration_seconds": 677.424,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 677.39575,
+          "delta_seconds": 0.02825
+        },
+        "duration": {
+          "expected_seconds": 677,
+          "delta_seconds": 0.424
+        }
+      },
+      "sha256": "739e10267f93e193a9a05a01a58064d9c09a2e14622e357af8609aaccbf5161f",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 67,
+      "id": "XbdT2jVMwMI",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 9/9 - \"Goodnight\"",
+      "audio": "audio/067 - Chris the Hacker and Tom the Fag - Nov 2009 - 9_9 - _Goodnight_ [XbdT2jVMwMI].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 805850,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2009 - 9/9 - \"Goodnight\""
+      ],
+      "id3_track_position": [
+        "67"
+      ],
+      "duration_seconds": 66.96,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 66.919917,
+          "delta_seconds": 0.040083
+        },
+        "duration": {
+          "expected_seconds": 67,
+          "delta_seconds": -0.04
+        }
+      },
+      "sha256": "28d7e0db04952e43d44b413c258cd1a6dd2966da27f31023273f6ed1e9d45853",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 68,
+      "id": "jRitIRjjjg4",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 1/3 - \"Can't Hear Reptilian Tom\"",
+      "audio": "audio/068 - Chris the Hacker and Tom the Fag - Nov 2009 - 1_3 - _Can't Hear Reptilian Tom_ [jRitIRjjjg4].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10791009,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2009 - 1/3 - \"Can't Hear Reptilian Tom\""
+      ],
+      "id3_track_position": [
+        "68"
+      ],
+      "duration_seconds": 898.224,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 898.194292,
+          "delta_seconds": 0.029708
+        },
+        "duration": {
+          "expected_seconds": 898,
+          "delta_seconds": 0.224
+        }
+      },
+      "sha256": "1bbb9799a65fc1b3894f96c5597565e11470e53a33ed53a700d69a34060c11e0",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 69,
+      "id": "J9bLjA3qMCs",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 2/3 - \"Everyone's a Child like Chris\"",
+      "audio": "audio/069 - Chris the Hacker and Tom the Fag - Nov 2009 - 2_3 - _Everyone's a Child like Chris_ [J9bLjA3qMCs].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10783230,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2009 - 2/3 - \"Everyone's a Child like Chris\""
+      ],
+      "id3_track_position": [
+        "69"
+      ],
+      "duration_seconds": 897.576,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 897.544146,
+          "delta_seconds": 0.031854
+        },
+        "duration": {
+          "expected_seconds": 898,
+          "delta_seconds": -0.424
+        }
+      },
+      "sha256": "7a1de0ed9fc2ca3ca2cf7d87f7f5c0c93eaef8b7c9a8166ebcdf32bfe38870d4",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 70,
+      "id": "L5KDoO4_a38",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 3/3 - \"AA Refuses to fix COD World at War\"",
+      "audio": "audio/070 - Chris the Hacker and Tom the Fag - Nov 2009 - 3_3 - _AA Refuses to fix COD World at War_ [L5KDoO4_a38].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 7806373,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2009 - 3/3 - \"AA Refuses to fix COD World at War\""
+      ],
+      "id3_track_position": [
+        "70"
+      ],
+      "duration_seconds": 649.752,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 649.717563,
+          "delta_seconds": 0.034437
+        },
+        "duration": {
+          "expected_seconds": 650,
+          "delta_seconds": -0.248
+        }
+      },
+      "sha256": "71ca8ada371fb8c12c3c8da435304dbd562739043a532680c6711ac36d74b4a9",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 71,
+      "id": "mQm1XvVc2jw",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 -",
+      "audio": "audio/071 - Chris the Hacker and Tom the Fag - Nov 2009 - [mQm1XvVc2jw].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10778579,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2009 -"
+      ],
+      "id3_track_position": [
+        "71"
+      ],
+      "duration_seconds": 897.192,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 897.149396,
+          "delta_seconds": 0.042604
+        },
+        "duration": {
+          "expected_seconds": 897,
+          "delta_seconds": 0.192
+        }
+      },
+      "sha256": "b60f014c42b3c53174ca847b669965a0e6bc9ff3d829d9131f463b4fc7f42d30",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 72,
+      "id": "ZDccKQSidhU",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 1/13 - \"Chris gets Masonic Funding(???)\"",
+      "audio": "audio/072 - Chris the Hacker and Tom the Fag - Dec 2009 - 1_13 - _Chris gets Masonic Funding(___)_ [ZDccKQSidhU].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 8667199,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Dec 2009 - 1/13 - \"Chris gets Masonic Funding(???)\""
+      ],
+      "id3_track_position": [
+        "72"
+      ],
+      "duration_seconds": 721.416,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 721.374333,
+          "delta_seconds": 0.041667
+        },
+        "duration": {
+          "expected_seconds": 721,
+          "delta_seconds": 0.416
+        }
+      },
+      "sha256": "500b4d3ae8c1f4be305c86747aa232e08044cf8379177dbe45e1407cb88cdedd",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 73,
+      "id": "6yrKcLLWgOQ",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 2/13 - \"Get High with the Hacker\"",
+      "audio": "audio/073 - Chris the Hacker and Tom the Fag - Dec 2009 - 2_13 - _Get High with the Hacker_ [6yrKcLLWgOQ].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 7141860,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Dec 2009 - 2/13 - \"Get High with the Hacker\""
+      ],
+      "id3_track_position": [
+        "73"
+      ],
+      "duration_seconds": 594.432,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 594.407625,
+          "delta_seconds": 0.024375
+        },
+        "duration": {
+          "expected_seconds": 594,
+          "delta_seconds": 0.432
+        }
+      },
+      "sha256": "2fab20af6c69af4f5075a4c2791d8968e229158594ba709b2f7587495243b585",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 74,
+      "id": "02o6-_A918I",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 3/13 - \"Koen has no Friends\"",
+      "audio": "audio/074 - Chris the Hacker and Tom the Fag - Dec 2009 - 3_13 - _Koen has no Friends_ [02o6-_A918I].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 8051404,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Dec 2009 - 3/13 - \"Koen has no Friends\""
+      ],
+      "id3_track_position": [
+        "74"
+      ],
+      "duration_seconds": 670.152,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 670.104979,
+          "delta_seconds": 0.047021
+        },
+        "duration": {
+          "expected_seconds": 670,
+          "delta_seconds": 0.152
+        }
+      },
+      "sha256": "ad8dd93a9e762fdedf99eb6b64d026200ee701405a7ef5ad760decb4008d0c89",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 75,
+      "id": "4yxX20mbXak",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 4/13 - \"Chris's Internet Conspiracy Theory\"",
+      "audio": "audio/075 - Chris the Hacker and Tom the Fag - Dec 2009 - 4_13 - _Chris's Internet Conspiracy Theory_ [4yxX20mbXak].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 9244354,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Dec 2009 - 4/13 - \"Chris's Internet Conspiracy Theory\""
+      ],
+      "id3_track_position": [
+        "75"
+      ],
+      "duration_seconds": 769.464,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 769.439646,
+          "delta_seconds": 0.024354
+        },
+        "duration": {
+          "expected_seconds": 769,
+          "delta_seconds": 0.464
+        }
+      },
+      "sha256": "3fbc5c57871696aa8faf8369165d9dae5cf9f5dd5ab36d4144ba4bde66cb2af8",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 76,
+      "id": "Phgy3gX6hPQ",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 5/13 - \"What's a Chris Call without...",
+      "audio": "audio/076 - Chris the Hacker and Tom the Fag - Dec 2009 - 5_13 - _What's a Chris Call without [Phgy3gX6hPQ].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10428925,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Dec 2009 - 5/13 - \"What's a Chris Call without..."
+      ],
+      "id3_track_position": [
+        "76"
+      ],
+      "duration_seconds": 868.08,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 868.054792,
+          "delta_seconds": 0.025208
+        },
+        "duration": {
+          "expected_seconds": 868,
+          "delta_seconds": 0.08
+        }
+      },
+      "sha256": "1ce0a47501cbe9623a6e5e5b4d8023d06e7ef5f866b2035981c0fab3d8ebbda0",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 77,
+      "id": "ThtSU9Rn0Zk",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 6/13 - \"Da Seven Yeer Eeyitch\"",
+      "audio": "audio/077 - Chris the Hacker and Tom the Fag - Dec 2009 - 6_13 - _Da Seven Yeer Eeyitch_ [ThtSU9Rn0Zk].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 1152386,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Dec 2009 - 6/13 - \"Da Seven Yeer Eeyitch\""
+      ],
+      "id3_track_position": [
+        "77"
+      ],
+      "duration_seconds": 95.808,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 95.782333,
+          "delta_seconds": 0.025667
+        },
+        "duration": {
+          "expected_seconds": 96,
+          "delta_seconds": -0.192
+        }
+      },
+      "sha256": "975648fb23c49d273ae308d1a8e5f71aad4095a7822d114fed93ebcc544cc9b9",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 78,
+      "id": "nqjcmtTBx48",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 7/13 - \"'Flaminko Chicks'\"",
+      "audio": "audio/078 - Chris the Hacker and Tom the Fag - Dec 2009 - 7_13 - _'Flaminko Chicks'_ [nqjcmtTBx48].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 8883113,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Dec 2009 - 7/13 - \"'Flaminko Chicks'\""
+      ],
+      "id3_track_position": [
+        "78"
+      ],
+      "duration_seconds": 739.392,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 739.358188,
+          "delta_seconds": 0.033812
+        },
+        "duration": {
+          "expected_seconds": 739,
+          "delta_seconds": 0.392
+        }
+      },
+      "sha256": "50aef373f042371d64a042923bf03aa77567975c80ef0aa5a6e84b1c4ab84651",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 79,
+      "id": "uRHSdOUdfiU",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 8/13 - \"GIVE ME YA ADDRESS DEYUH\"",
+      "audio": "audio/079 - Chris the Hacker and Tom the Fag - Dec 2009 - 8_13 - _GIVE ME YA ADDRESS DEYUH_ [uRHSdOUdfiU].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 8534291,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Dec 2009 - 8/13 - \"GIVE ME YA ADDRESS DEYUH\""
+      ],
+      "id3_track_position": [
+        "79"
+      ],
+      "duration_seconds": 710.352,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 710.321646,
+          "delta_seconds": 0.030354
+        },
+        "duration": {
+          "expected_seconds": 710,
+          "delta_seconds": 0.352
+        }
+      },
+      "sha256": "b907c34f591cbe55575e4be93e9acd43e9cece99ce5a09bba56e1f5c33153059",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 80,
+      "id": "Xu3gqB4HEpU",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 9/13 - \"Chris the Not for Profit Weed Man\"",
+      "audio": "audio/080 - Chris the Hacker and Tom the Fag - Dec 2009 - 9_13 - _Chris the Not for Profit Weed Man_ [Xu3gqB4HEpU].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 9887812,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Dec 2009 - 9/13 - \"Chris the Not for Profit Weed Man\""
+      ],
+      "id3_track_position": [
+        "80"
+      ],
+      "duration_seconds": 823.032,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 822.984979,
+          "delta_seconds": 0.047021
+        },
+        "duration": {
+          "expected_seconds": 823,
+          "delta_seconds": 0.032
+        }
+      },
+      "sha256": "0418aa126e89b73838ea56feda506e5a19d1168bd6efc5766239b636d3940e99",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 81,
+      "id": "3k0O0fR5d5o",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 10/13 - \"Angry Monkey\"",
+      "audio": "audio/081 - Chris the Hacker and Tom the Fag - Dec 2009 - 10_13 - _Angry Monkey_ [3k0O0fR5d5o].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 9043973,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Dec 2009 - 10/13 - \"Angry Monkey\""
+      ],
+      "id3_track_position": [
+        "81"
+      ],
+      "duration_seconds": 752.784,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 752.7445,
+          "delta_seconds": 0.0395
+        },
+        "duration": {
+          "expected_seconds": 753,
+          "delta_seconds": -0.216
+        }
+      },
+      "sha256": "d43d71048f691db739f6c03dc5dc0e88d17cec04efd8b5b96dfdf35e67beaa66",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 82,
+      "id": "6rqiiuTcvx8",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 11/13 - \"Men of Soiens Men of Gaad\"",
+      "audio": "audio/082 - Chris the Hacker and Tom the Fag - Dec 2009 - 11_13 - _Men of Soiens Men of Gaad_ [6rqiiuTcvx8].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 2040029,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Dec 2009 - 11/13 - \"Men of Soiens Men of Gaad\""
+      ],
+      "id3_track_position": [
+        "82"
+      ],
+      "duration_seconds": 169.704,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 169.668229,
+          "delta_seconds": 0.035771
+        },
+        "duration": {
+          "expected_seconds": 170,
+          "delta_seconds": -0.296
+        }
+      },
+      "sha256": "bb938b4a9cd4951a183af937bf9ba8a0721b531816ccbe16cc6531491f73b42f",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 83,
+      "id": "rLEP3ojB4qw",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 12/13 - \"Bring the Trash Home (ie, Chris)\"",
+      "audio": "audio/083 - Chris the Hacker and Tom the Fag - Dec 2009 - 12_13 - _Bring the Trash Home (ie, Chris)_ [rLEP3ojB4qw].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 8611273,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Dec 2009 - 12/13 - \"Bring the Trash Home (ie, Chris)\""
+      ],
+      "id3_track_position": [
+        "83"
+      ],
+      "duration_seconds": 716.76,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 716.730354,
+          "delta_seconds": 0.029646
+        },
+        "duration": {
+          "expected_seconds": 717,
+          "delta_seconds": -0.24
+        }
+      },
+      "sha256": "4d29880824024ac584bcac0a398e8a5f47dd00f9e61aa789347939502c623052",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 84,
+      "id": "BLbPrI1hGCs",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 13/13 - \"Chris Will Believe Any Lies on Youtube\"",
+      "audio": "audio/084 - Chris the Hacker and Tom the Fag - Dec 2009 - 13_13 - _Chris Will Believe Any Lies on Youtube_ [BLbPrI1hGCs].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 4733805,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Dec 2009 - 13/13 - \"Chris Will Believe Any Lies on Youtube\""
+      ],
+      "id3_track_position": [
+        "84"
+      ],
+      "duration_seconds": 393.96,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 393.926542,
+          "delta_seconds": 0.033458
+        },
+        "duration": {
+          "expected_seconds": 394,
+          "delta_seconds": -0.04
+        }
+      },
+      "sha256": "bcc9d133243ef4dd394a52101cd5f1d466415a34fad9ca45769bfd64b16dc8ec",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 85,
+      "id": "WkNrZM7UBq4",
+      "title": "Chris the Hacker and Tom the Fag - Feb 2010 - 1/5 - \"FAIR GAME\"",
+      "audio": "audio/085 - Chris the Hacker and Tom the Fag - Feb 2010 - 1_5 - _FAIR GAME_ [WkNrZM7UBq4].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10447066,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Feb 2010 - 1/5 - \"FAIR GAME\""
+      ],
+      "id3_track_position": [
+        "85"
+      ],
+      "duration_seconds": 869.592,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 869.552479,
+          "delta_seconds": 0.039521
+        },
+        "duration": {
+          "expected_seconds": 870,
+          "delta_seconds": -0.408
+        }
+      },
+      "sha256": "5fdb9723c08f9dbffe6d11a8c9d4b8bbf0fba3f2ced257e3ba34add9b79c8f90",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 86,
+      "id": "akjYnBhdOnk",
+      "title": "Chris the Hacker and Tom the Fag - Feb 2010 - 2/5 - \"Office Space\"",
+      "audio": "audio/086 - Chris the Hacker and Tom the Fag - Feb 2010 - 2_5 - _Office Space_ [akjYnBhdOnk].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10146568,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Feb 2010 - 2/5 - \"Office Space\""
+      ],
+      "id3_track_position": [
+        "86"
+      ],
+      "duration_seconds": 844.564898,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 844.532971,
+          "delta_seconds": 0.031927
+        },
+        "duration": {
+          "expected_seconds": 845,
+          "delta_seconds": -0.435102
+        }
+      },
+      "sha256": "2ee5bb01833631a093793daf6c8843b2fa9bbdd56f26fb73371158bc902c7084",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 87,
+      "id": "uQdJigxI6Pk",
+      "title": "Chris the Hacker and Tom the Fag - Feb 2010 - 3/5 - \"Chris the Deadbeat Pedo\"",
+      "audio": "audio/087 - Chris the Hacker and Tom the Fag - Feb 2010 - 3_5 - _Chris the Deadbeat Pedo_ [uQdJigxI6Pk].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10827620,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Feb 2010 - 3/5 - \"Chris the Deadbeat Pedo\""
+      ],
+      "id3_track_position": [
+        "87"
+      ],
+      "duration_seconds": 901.272,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 901.224979,
+          "delta_seconds": 0.047021
+        },
+        "duration": {
+          "expected_seconds": 901,
+          "delta_seconds": 0.272
+        }
+      },
+      "sha256": "ca2486e33948c8e8d9df956734864e1fd3ab0dafa6cc187bf677794cfbf441e6",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 88,
+      "id": "8QtSVdjT0I8",
+      "title": "Chris the Hacker and Tom the Fag - Feb 2010 - 4/5 - \"Crackin 40 on an Ostrich\"",
+      "audio": "audio/088 - Chris the Hacker and Tom the Fag - Feb 2010 - 4_5 - _Crackin 40 on an Ostrich_ [8QtSVdjT0I8].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 4427339,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Feb 2010 - 4/5 - \"Crackin 40 on an Ostrich\""
+      ],
+      "id3_track_position": [
+        "88"
+      ],
+      "duration_seconds": 368.448,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 368.419417,
+          "delta_seconds": 0.028583
+        },
+        "duration": {
+          "expected_seconds": 368,
+          "delta_seconds": 0.448
+        }
+      },
+      "sha256": "70b61d249274542ca741952743c95d1f907f4f8fc0cbd31f98692357a1df1c82",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 89,
+      "id": "VdmvisNvwGU",
+      "title": "Chris the Hacker and Tom the Fag - Feb 2010 - 5/5 - \"3 Degrees of Masonry\"",
+      "audio": "audio/089 - Chris the Hacker and Tom the Fag - Feb 2010 - 5_5 - _3 Degrees of Masonry_ [VdmvisNvwGU].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10407293,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Feb 2010 - 5/5 - \"3 Degrees of Masonry\""
+      ],
+      "id3_track_position": [
+        "89"
+      ],
+      "duration_seconds": 866.28,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 866.25525,
+          "delta_seconds": 0.02475
+        },
+        "duration": {
+          "expected_seconds": 866,
+          "delta_seconds": 0.28
+        }
+      },
+      "sha256": "e1efd91bbd13181a235822ceecbe2322c36b93aa7635f9aa645767f95d8b4e18",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 90,
+      "id": "ZC-fbIGOg04",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2010 - 1/3 - \"Somebody Like Chris\"",
+      "audio": "audio/090 - Chris the Hacker and Tom the Fag - Oct 2010 - 1_3 - _Somebody Like Chris_ [ZC-fbIGOg04].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10801958,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Oct 2010 - 1/3 - \"Somebody Like Chris\""
+      ],
+      "id3_track_position": [
+        "90"
+      ],
+      "duration_seconds": 899.136,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 899.111479,
+          "delta_seconds": 0.024521
+        },
+        "duration": {
+          "expected_seconds": 899,
+          "delta_seconds": 0.136
+        }
+      },
+      "sha256": "373e246a24f92f68f11cb5300d55d80862ea5bd54cb0eaebbe6b5a5c099aff48",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 91,
+      "id": "z4KyguLFvXU",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2010 - 2/3 - \"The Bane of the Spoof\"",
+      "audio": "audio/091 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _The Bane of the Spoof_ [z4KyguLFvXU].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10392880,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2010 - 2/3 - \"The Bane of the Spoof\""
+      ],
+      "id3_track_position": [
+        "91"
+      ],
+      "duration_seconds": 865.08,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 865.047813,
+          "delta_seconds": 0.032187
+        },
+        "duration": {
+          "expected_seconds": 865,
+          "delta_seconds": 0.08
+        }
+      },
+      "sha256": "9f466aaf18bbb958d75220692e7c13fa3dbcd6d4260c34e51061cd802a076a99",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 92,
+      "id": "LPzTMYeHtvE",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2010 - 3/3 - \"Going to Florida\"",
+      "audio": "audio/092 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _Going to Florida_ [LPzTMYeHtvE].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10808010,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2010 - 3/3 - \"Going to Florida\""
+      ],
+      "id3_track_position": [
+        "92"
+      ],
+      "duration_seconds": 899.64,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 899.599104,
+          "delta_seconds": 0.040896
+        },
+        "duration": {
+          "expected_seconds": 900,
+          "delta_seconds": -0.36
+        }
+      },
+      "sha256": "4241c4e6c2f7ceb474adc281b24960e00b9702d363e2cb13926a72f5e7f7ce6f",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 93,
+      "id": "8-7IW4-v7qU",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2010 - 1/3 - \"Chris the Homophobe\"",
+      "audio": "audio/093 - Chris the Hacker and Tom the Fag - Nov 2010 - 1_3 - _Chris the Homophobe_ [8-7IW4-v7qU].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10808877,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2010 - 1/3 - \"Chris the Homophobe\""
+      ],
+      "id3_track_position": [
+        "93"
+      ],
+      "duration_seconds": 899.712,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 899.680375,
+          "delta_seconds": 0.031625
+        },
+        "duration": {
+          "expected_seconds": 900,
+          "delta_seconds": -0.288
+        }
+      },
+      "sha256": "5c461b26cf401875cd85cacf879fbcd182d8660e0f00a8cef0638327da0dd39c",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 94,
+      "id": "yTyAhp880jM",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2010 - 2/3 - \"Vigilante Chris\"",
+      "audio": "audio/094 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _Vigilante Chris_ [yTyAhp880jM].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 8617885,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2010 - 2/3 - \"Vigilante Chris\""
+      ],
+      "id3_track_position": [
+        "94"
+      ],
+      "duration_seconds": 717.312,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 717.264979,
+          "delta_seconds": 0.047021
+        },
+        "duration": {
+          "expected_seconds": 717,
+          "delta_seconds": 0.312
+        }
+      },
+      "sha256": "fc1bb04a0399466948baa629ff0e6d559c43591daf1a905a02399f1adccdef51",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 95,
+      "id": "H1v-hPPuZ14",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2010 - 3/3 - \"THE STONE COLD pooper\"",
+      "audio": "audio/095 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _THE STONE COLD pooper_ [H1v-hPPuZ14].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 1050331,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2010 - 3/3 - \"THE STONE COLD pooper\""
+      ],
+      "id3_track_position": [
+        "95"
+      ],
+      "duration_seconds": 87.312,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 87.283813,
+          "delta_seconds": 0.028187
+        },
+        "duration": {
+          "expected_seconds": 87,
+          "delta_seconds": 0.312
+        }
+      },
+      "sha256": "cbd8754dc744289949395e84a85349c4f83f67b60b9f425b0c97c44fe580fe7c",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 96,
+      "id": "zBblBHuSjIM",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2010 - 1/3 - \"Business in the Toilet\"",
+      "audio": "audio/096 - Chris the Hacker and Tom the Fag - Nov 2010 - 1_3 - _Business in the Toilet_ [zBblBHuSjIM].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10809169,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2010 - 1/3 - \"Business in the Toilet\""
+      ],
+      "id3_track_position": [
+        "96"
+      ],
+      "duration_seconds": 899.736,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 899.691979,
+          "delta_seconds": 0.044021
+        },
+        "duration": {
+          "expected_seconds": 900,
+          "delta_seconds": -0.264
+        }
+      },
+      "sha256": "59b1d58a69f60e843b2b07256a90198b6da749b4471f3768d1961e9b78687186",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 97,
+      "id": "MiQEC-D6mXo",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2010 - 2/3 - \"Itchin fer a Snitch\"",
+      "audio": "audio/097 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _Itchin fer a Snitch_ [MiQEC-D6mXo].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10807436,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2010 - 2/3 - \"Itchin fer a Snitch\""
+      ],
+      "id3_track_position": [
+        "97"
+      ],
+      "duration_seconds": 899.592,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 899.564271,
+          "delta_seconds": 0.027729
+        },
+        "duration": {
+          "expected_seconds": 900,
+          "delta_seconds": -0.408
+        }
+      },
+      "sha256": "0954d8f5141a233c92b9c7f8038f7d9e9b28c3e7d36c032cc08714d062a58b31",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 98,
+      "id": "UjP1HA2kVIs",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2010 - 3/3 - \"DatboysDataRecovery!\"",
+      "audio": "audio/098 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _DatboysDataRecovery!_ [UjP1HA2kVIs].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10278717,
+      "id3_title": [
+        "Chris the Hacker and Tom the Fag - Nov 2010 - 3/3 - \"DatboysDataRecovery!\""
+      ],
+      "id3_track_position": [
+        "98"
+      ],
+      "duration_seconds": 855.576,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 855.550854,
+          "delta_seconds": 0.025146
+        },
+        "duration": {
+          "expected_seconds": 856,
+          "delta_seconds": -0.424
+        }
+      },
+      "sha256": "dbd2b92d98f92f9cb39665bc81198fadf3382b93aa3dfbe34a3d71b250102f90",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 99,
+      "id": "qOymgEa74C8",
+      "title": null,
+      "audio": "audio/099 - Unavailable video [qOymgEa74C8].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 10823340,
+      "id3_title": [
+        "Title unavailable [qOymgEa74C8]"
+      ],
+      "id3_track_position": [
+        "99"
+      ],
+      "duration_seconds": 900.91102,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 900.86458,
+          "delta_seconds": 0.04644
+        },
+        "duration": {
+          "expected_seconds": 900.86458,
+          "delta_seconds": 0.04644
+        }
+      },
+      "sha256": "6c96848d1c494e49cc18b9dbeeb80efc959208cf0193580883d779fffdaa11eb",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 100,
+      "id": "Tf7TuPkis2A",
+      "title": "Chris the hacker gives an update part 2",
+      "audio": "audio/100 - Chris the hacker gives an update part 2 [Tf7TuPkis2A].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 4574039,
+      "id3_title": [
+        "Chris the hacker gives an update part 2"
+      ],
+      "id3_track_position": [
+        "100"
+      ],
+      "duration_seconds": 380.656327,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 380.621497,
+          "delta_seconds": 0.03483
+        },
+        "duration": {
+          "expected_seconds": 381,
+          "delta_seconds": -0.343673
+        }
+      },
+      "sha256": "9b604ea25233df0b95a160c15ab5e8b327e236b55c20009791fb35cc2104450c",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    },
+    {
+      "position": 101,
+      "id": "TttoDBt4xiQ",
+      "title": "Chris the hacker goes emo",
+      "audio": "audio/101 - Chris the hacker goes emo [TttoDBt4xiQ].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 7331858,
+      "id3_title": [
+        "Chris the hacker goes emo"
+      ],
+      "id3_track_position": [
+        "101"
+      ],
+      "duration_seconds": 610.246531,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 610.197188,
+          "delta_seconds": 0.049343
+        },
+        "duration": {
+          "expected_seconds": 611,
+          "delta_seconds": -0.753469
+        }
+      },
+      "sha256": "33ea2170bdda90fa47df5a68977d3d8cfb869bcda9c2a378b29a8b8fb0348552",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
+    }
+  ],
+  "unavailable": [
+    {
+      "position": 102,
+      "id": "MYuB75Nb2gw",
+      "title": null,
+      "reason": "ERROR: [youtube] MYuB75Nb2gw: Private video"
+    }
+  ],
+  "summary": {
+    "listed_entries": 102,
+    "downloaded_audio": 101,
+    "audited_audio": 101,
+    "passed_audio": 101,
+    "failed_audio": 0,
+    "unavailable_entries": 1,
+    "audio_bytes": 807046415,
+    "audio_duration_seconds": 67172.93
+  },
+  "finished_at": "2026-10-11T09:11:41.427593+00:00"
+}

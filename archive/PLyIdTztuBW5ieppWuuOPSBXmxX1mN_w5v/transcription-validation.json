@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "validated_at": "2026-10-11T09:39:21.140785+00:00",
+  "valid": true,
+  "scope": "Structural and sampled machine QA; not a human accuracy review. Recognition errors and omissions may remain.",
+  "human_reviewed": false,
+  "playlist_id": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v",
+  "counts": {
+    "listed_entries": 102,
+    "completed": 101,
+    "unavailable": 1,
+    "final_run_failures": 0,
+    "transcript_json_files": 101,
+    "transcript_text_files": 101
+  },
+  "unavailable": [
+    {
+      "id": "MYuB75Nb2gw",
+      "title": null,
+      "reason": "ERROR: [youtube] MYuB75Nb2gw: Private video"
+    }
+  ],
+  "checks": {
+    "transcript_pairs": 101,
+    "matching_id": 101,
+    "matching_title": 101,
+    "matching_url": 101,
+    "matching_audio": 101,
+    "matching_position": 101,
+    "full_audio_flags": 101,
+    "full_audio_duration_matches": 101,
+    "speech_segment_timestamp_bounds_and_order": true,
+    "uncertainty_interval_bounds_and_order": true
+  },
+  "null_titles_preserved": [
+    {
+      "id": "qOymgEa74C8",
+      "manifest_title": null,
+      "transcript_title": null,
+      "txt_heading": "[Original title unavailable] qOymgEa74C8"
+    }
+  ],
+  "model": {
+    "source": "mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf",
+    "weights_sha256": "e76620f83d5f5b69efd3d87e3dc180c1bd21df9fbebacfd4335e5e1efcc018da",
+    "weights_checksum_previously_verified": true
+  },
+  "runtime": {
+    "profile": "full-audio-30s-repetition-v3",
+    "device_counts": {
+      "cuda": 101
+    },
+    "compute_type_counts": {
+      "int8_float16": 101
+    },
+    "batch_size": 2,
+    "cpu_threads": 12,
+    "packages": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.2",
+      "av": "18.1.0",
+      "onnxruntime": "1.31.0",
+      "nvidia-cublas-cu12": "12.9.2.10",
+      "nvidia-cudnn-cu12": "9.27.0.42",
+      "nvidia-cuda-runtime-cu12": "12.9.79"
+    },
+    "worker_exit_code": 0,
+    "worker_processes_running": 0,
+    "gpu_memory_after_exit_mib": 0
+  },
+  "detected_language_counts": {
+    "en": 100,
+    "nl": 1
+  },
+  "language_review": [
+    {
+      "position": 71,
+      "id": "mQm1XvVc2jw",
+      "detected_language": "nl",
+      "language_probability": 0.71240234375,
+      "review": "Opening transcript includes Dutch Hallo/Ja; sampled middle and final sections are coherent English with occasional Dutch words. Appears mixed/intro-dependent automatic detection; raw language label and mixed transcription preserved, without forced-English rerun."
+    }
+  ],
+  "totals": {
+    "speech_segments": 18317,
+    "words": 130037,
+    "flagged_speech_segments": 1529,
+    "uncertainty_intervals": 78,
+    "suppressed_candidates": 168,
+    "files_with_uncertainty": 99,
+    "empty_speech_transcripts": 0,
+    "audio_seconds": 67169.36137500001,
+    "processing_seconds": 1892.1360000000002,
+    "audio_hours": 18.658156,
+    "processing_minutes": 31.536
+  },
+  "qa_samples": [
+    {
+      "position": 20,
+      "id": "NpwVe9QAMR8",
+      "duration": 323.3146875,
+      "words": 10,
+      "speech_segments": 1,
+      "uncertainty_intervals": 13,
+      "finding": "Almost non-speech recording: unsupported decoder candidates suppressed with explicit timed markers."
+    },
+    {
+      "position": 34,
+      "id": "0UceOMudoDE",
+      "duration": 429.395,
+      "words": 785,
+      "speech_segments": 79,
+      "uncertainty_intervals": 2,
+      "finding": "Quiet phone conversation retained throughout full audio; uncertain speech and suspect intervals explicitly marked."
+    }
+  ],
+  "errors": []
+}

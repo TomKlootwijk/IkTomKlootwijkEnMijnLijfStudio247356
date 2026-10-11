@@ -1,0 +1,858 @@
+{
+  "schema_version": 1,
+  "started_at": "2026-10-11T09:05:59.667766+00:00",
+  "updated_at": "2026-10-11T09:37:40.340750+00:00",
+  "complete": true,
+  "current": null,
+  "entries": {
+    "aLIE2fhvGRU": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 2/9 - \"Chris loves Koen and Tom\"",
+      "segments": 214,
+      "transcript_json": "transcripts/015 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_9 - _Chris loves Koen and Tom_ [aLIE2fhvGRU].json",
+      "transcript_text": "transcripts/015 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_9 - _Chris loves Koen and Tom_ [aLIE2fhvGRU].txt",
+      "completed_at": "2026-10-11T09:11:10.651282+00:00"
+    },
+    "Vdz8VlzpFXc": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 3/9 - \"Where's the money, Perronski?\"",
+      "segments": 260,
+      "transcript_json": "transcripts/016 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_9 - _Where's the money, Perronski__ [Vdz8VlzpFXc].json",
+      "transcript_text": "transcripts/016 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_9 - _Where's the money, Perronski__ [Vdz8VlzpFXc].txt",
+      "completed_at": "2026-10-11T09:11:36.543891+00:00"
+    },
+    "-3BNlziFGmI": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 4/9 - \"What're your crimes?\"",
+      "segments": 202,
+      "transcript_json": "transcripts/017 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_9 - _What're your crimes__ [-3BNlziFGmI].json",
+      "transcript_text": "transcripts/017 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_9 - _What're your crimes__ [-3BNlziFGmI].txt",
+      "completed_at": "2026-10-11T09:12:00.321248+00:00"
+    },
+    "8jSxOnwIE_g": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 5/9 - \"PHILIP GLASS\"",
+      "segments": 258,
+      "transcript_json": "transcripts/018 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_9 - _PHILIP GLASS_ [8jSxOnwIE_g].json",
+      "transcript_text": "transcripts/018 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_9 - _PHILIP GLASS_ [8jSxOnwIE_g].txt",
+      "completed_at": "2026-10-11T09:12:25.097446+00:00"
+    },
+    "_lWLgaHUHmc": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 6/9 - \"Let me go back to my regular typing\"",
+      "segments": 86,
+      "transcript_json": "transcripts/019 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_9 - _Let me go back to my regular typing_ [_lWLgaHUHmc].json",
+      "transcript_text": "transcripts/019 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_9 - _Let me go back to my regular typing_ [_lWLgaHUHmc].txt",
+      "completed_at": "2026-10-11T09:12:37.715834+00:00"
+    },
+    "NpwVe9QAMR8": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 7/9 - \"TYPE-TYPE-TYPE-TYPE-TYPE-TYPE-\"",
+      "segments": 1,
+      "transcript_json": "transcripts/020 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_9 - _TYPE-TYPE-TYPE-TYPE-TYPE-TYPE-_ [NpwVe9QAMR8].json",
+      "transcript_text": "transcripts/020 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_9 - _TYPE-TYPE-TYPE-TYPE-TYPE-TYPE-_ [NpwVe9QAMR8].txt",
+      "completed_at": "2026-10-11T09:12:42.008350+00:00"
+    },
+    "A68aiY4MoUw": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 8/9 - \"Chris and the Phallusy\"",
+      "segments": 179,
+      "transcript_json": "transcripts/021 - Chris the Hacker and Tom the Fag - Oct 2009 - 8_9 - _Chris and the Phallusy_ [A68aiY4MoUw].json",
+      "transcript_text": "transcripts/021 - Chris the Hacker and Tom the Fag - Oct 2009 - 8_9 - _Chris and the Phallusy_ [A68aiY4MoUw].txt",
+      "completed_at": "2026-10-11T09:13:03.772138+00:00"
+    },
+    "suzi0JQRCjo": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 9/9 - \"The Plan\"",
+      "segments": 281,
+      "transcript_json": "transcripts/022 - Chris the Hacker and Tom the Fag - Oct 2009 - 9_9 - _The Plan_ [suzi0JQRCjo].json",
+      "transcript_text": "transcripts/022 - Chris the Hacker and Tom the Fag - Oct 2009 - 9_9 - _The Plan_ [suzi0JQRCjo].txt",
+      "completed_at": "2026-10-11T09:13:30.167340+00:00"
+    },
+    "e-Stjk6XTV0": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 1/7 - \"No Information No Big Bang\"",
+      "segments": 155,
+      "transcript_json": "transcripts/023 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_7 - _No Information No Big Bang_ [e-Stjk6XTV0].json",
+      "transcript_text": "transcripts/023 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_7 - _No Information No Big Bang_ [e-Stjk6XTV0].txt",
+      "completed_at": "2026-10-11T09:13:49.797895+00:00"
+    },
+    "yemW-I74EGw": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 2/7 - \"Kai Kunz and the Mason Conspiracy\"",
+      "segments": 225,
+      "transcript_json": "transcripts/024 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_7 - _Kai Kunz and the Mason Conspiracy_ [yemW-I74EGw].json",
+      "transcript_text": "transcripts/024 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_7 - _Kai Kunz and the Mason Conspiracy_ [yemW-I74EGw].txt",
+      "completed_at": "2026-10-11T09:14:08.632358+00:00"
+    },
+    "CFrhXnJ3t_Q": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 3/7 - \"Chris the Knight Templar\"",
+      "segments": 173,
+      "transcript_json": "transcripts/025 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_7 - _Chris the Knight Templar_ [CFrhXnJ3t_Q].json",
+      "transcript_text": "transcripts/025 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_7 - _Chris the Knight Templar_ [CFrhXnJ3t_Q].txt",
+      "completed_at": "2026-10-11T09:14:26.554646+00:00"
+    },
+    "ANVwqCW8erk": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 4/7 - \"Troll King\"",
+      "segments": 149,
+      "transcript_json": "transcripts/026 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_7 - _Troll King_ [ANVwqCW8erk].json",
+      "transcript_text": "transcripts/026 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_7 - _Troll King_ [ANVwqCW8erk].txt",
+      "completed_at": "2026-10-11T09:14:43.863343+00:00"
+    },
+    "oBOTHgEAeZw": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 5/7 - \"Chris Does Youtube\"",
+      "segments": 211,
+      "transcript_json": "transcripts/027 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_7 - _Chris Does Youtube_ [oBOTHgEAeZw].json",
+      "transcript_text": "transcripts/027 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_7 - _Chris Does Youtube_ [oBOTHgEAeZw].txt",
+      "completed_at": "2026-10-11T09:15:07.708403+00:00"
+    },
+    "0W3fxyRC_3Q": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 6/7 - \"We're All Fictitious\"",
+      "segments": 205,
+      "transcript_json": "transcripts/028 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_7 - _We're All Fictitious_ [0W3fxyRC_3Q].json",
+      "transcript_text": "transcripts/028 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_7 - _We're All Fictitious_ [0W3fxyRC_3Q].txt",
+      "completed_at": "2026-10-11T09:15:34.080931+00:00"
+    },
+    "hSmv7R5eyNo": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 7/7 - \"nWo\"",
+      "segments": 50,
+      "transcript_json": "transcripts/029 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_7 - _nWo_ [hSmv7R5eyNo].json",
+      "transcript_text": "transcripts/029 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_7 - _nWo_ [hSmv7R5eyNo].txt",
+      "completed_at": "2026-10-11T09:15:39.460987+00:00"
+    },
+    "IeV7QeWvkV8": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 1/2 - \"Chris has a Customer!\"",
+      "segments": 149,
+      "transcript_json": "transcripts/030 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _Chris has a Customer!_ [IeV7QeWvkV8].json",
+      "transcript_text": "transcripts/030 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _Chris has a Customer!_ [IeV7QeWvkV8].txt",
+      "completed_at": "2026-10-11T09:15:57.357111+00:00"
+    },
+    "ubg9LCWla3g": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 2/2 - \"Chris Serenades Tom\"",
+      "segments": 262,
+      "transcript_json": "transcripts/031 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _Chris Serenades Tom_ [ubg9LCWla3g].json",
+      "transcript_text": "transcripts/031 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _Chris Serenades Tom_ [ubg9LCWla3g].txt",
+      "completed_at": "2026-10-11T09:16:25.196161+00:00"
+    },
+    "EvhDw2rd7lM": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 1/8 - \"Full Retard\"",
+      "segments": 238,
+      "transcript_json": "transcripts/032 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_8 - _Full Retard_ [EvhDw2rd7lM].json",
+      "transcript_text": "transcripts/032 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_8 - _Full Retard_ [EvhDw2rd7lM].txt",
+      "completed_at": "2026-10-11T09:16:49.544857+00:00"
+    },
+    "tvgL2eoX3NQ": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 2/8 - \"The Kunz Konnection\"",
+      "segments": 189,
+      "transcript_json": "transcripts/033 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_8 - _The Kunz Konnection_ [tvgL2eoX3NQ].json",
+      "transcript_text": "transcripts/033 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_8 - _The Kunz Konnection_ [tvgL2eoX3NQ].txt",
+      "completed_at": "2026-10-11T09:17:11.057250+00:00"
+    },
+    "0UceOMudoDE": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 3/8 - \"Tales of Rick and Hack\"",
+      "segments": 79,
+      "transcript_json": "transcripts/034 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_8 - _Tales of Rick and Hack_ [0UceOMudoDE].json",
+      "transcript_text": "transcripts/034 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_8 - _Tales of Rick and Hack_ [0UceOMudoDE].txt",
+      "completed_at": "2026-10-11T09:17:22.072991+00:00"
+    },
+    "rUBcani00zo": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 4/8 - \"The Source of Chris's High Phone Bills\"",
+      "segments": 74,
+      "transcript_json": "transcripts/035 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_8 - _The Source of Chris's High Phone Bills_ [rUBcani00zo].json",
+      "transcript_text": "transcripts/035 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_8 - _The Source of Chris's High Phone Bills_ [rUBcani00zo].txt",
+      "completed_at": "2026-10-11T09:17:32.675452+00:00"
+    },
+    "x6s7mo219Bs": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 5/8 - \"Guitar Hero Chris\"",
+      "segments": 247,
+      "transcript_json": "transcripts/036 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_8 - _Guitar Hero Chris_ [x6s7mo219Bs].json",
+      "transcript_text": "transcripts/036 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_8 - _Guitar Hero Chris_ [x6s7mo219Bs].txt",
+      "completed_at": "2026-10-11T09:18:00.932604+00:00"
+    },
+    "_CHuyd_SFs0": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 6/8 - \"Love is in the Packets\"",
+      "segments": 120,
+      "transcript_json": "transcripts/037 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_8 - _Love is in the Packets_ [_CHuyd_SFs0].json",
+      "transcript_text": "transcripts/037 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_8 - _Love is in the Packets_ [_CHuyd_SFs0].txt",
+      "completed_at": "2026-10-11T09:18:11.616472+00:00"
+    },
+    "pQ4JW22LEws": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 7/8 - \"Chris is a Full-Grown Train\"",
+      "segments": 255,
+      "transcript_json": "transcripts/038 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_8 - _Chris is a Full-Grown Train_ [pQ4JW22LEws].json",
+      "transcript_text": "transcripts/038 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_8 - _Chris is a Full-Grown Train_ [pQ4JW22LEws].txt",
+      "completed_at": "2026-10-11T09:18:38.589546+00:00"
+    },
+    "is8QVJUQ994": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 8/8 - \"If Chris was on a Train...\"",
+      "segments": 254,
+      "transcript_json": "transcripts/039 - Chris the Hacker and Tom the Fag - Oct 2009 - 8_8 - _If Chris was on a Train..._ [is8QVJUQ994].json",
+      "transcript_text": "transcripts/039 - Chris the Hacker and Tom the Fag - Oct 2009 - 8_8 - _If Chris was on a Train..._ [is8QVJUQ994].txt",
+      "completed_at": "2026-10-11T09:19:03.526788+00:00"
+    },
+    "t0Nkpnhiw7Q": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 1/2 - \"The Chris Perron Show 1\"",
+      "segments": 180,
+      "transcript_json": "transcripts/040 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _The Chris Perron Show 1_ [t0Nkpnhiw7Q].json",
+      "transcript_text": "transcripts/040 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _The Chris Perron Show 1_ [t0Nkpnhiw7Q].txt",
+      "completed_at": "2026-10-11T09:19:18.486038+00:00"
+    },
+    "UE_1pIg8ps4": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 2/2 - \"The Chris Perron Show 2\"",
+      "segments": 35,
+      "transcript_json": "transcripts/041 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _The Chris Perron Show 2_ [UE_1pIg8ps4].json",
+      "transcript_text": "transcripts/041 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _The Chris Perron Show 2_ [UE_1pIg8ps4].txt",
+      "completed_at": "2026-10-11T09:19:23.109032+00:00"
+    },
+    "IPfxBPNw4Rk": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 1/4 - \"Chris Loves the Cock\"",
+      "segments": 301,
+      "transcript_json": "transcripts/042 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_4 - _Chris Loves the Cock_ [IPfxBPNw4Rk].json",
+      "transcript_text": "transcripts/042 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_4 - _Chris Loves the Cock_ [IPfxBPNw4Rk].txt",
+      "completed_at": "2026-10-11T09:19:51.136430+00:00"
+    },
+    "tlUi3DCialU": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 2/4 - \"Bald Like Chris\"",
+      "segments": 296,
+      "transcript_json": "transcripts/043 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_4 - _Bald Like Chris_ [tlUi3DCialU].json",
+      "transcript_text": "transcripts/043 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_4 - _Bald Like Chris_ [tlUi3DCialU].txt",
+      "completed_at": "2026-10-11T09:20:19.825755+00:00"
+    },
+    "9jFYQHo2I70": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 3/4 - \"Chris's Chicks\"",
+      "segments": 208,
+      "transcript_json": "transcripts/044 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_4 - _Chris's Chicks_ [9jFYQHo2I70].json",
+      "transcript_text": "transcripts/044 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_4 - _Chris's Chicks_ [9jFYQHo2I70].txt",
+      "completed_at": "2026-10-11T09:20:39.497929+00:00"
+    },
+    "Fpo629OmNEo": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 4/4 - \"Chris Jibbers, Thinks he Knows\"",
+      "segments": 168,
+      "transcript_json": "transcripts/045 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_4 - _Chris Jibbers, Thinks he Knows_ [Fpo629OmNEo].json",
+      "transcript_text": "transcripts/045 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_4 - _Chris Jibbers, Thinks he Knows_ [Fpo629OmNEo].txt",
+      "completed_at": "2026-10-11T09:20:54.413377+00:00"
+    },
+    "Qk3AEMQ0wwA": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 1/5 - \"Chris the Fibber\"",
+      "segments": 78,
+      "transcript_json": "transcripts/046 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_5 - _Chris the Fibber_ [Qk3AEMQ0wwA].json",
+      "transcript_text": "transcripts/046 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_5 - _Chris the Fibber_ [Qk3AEMQ0wwA].txt",
+      "completed_at": "2026-10-11T09:21:01.247024+00:00"
+    },
+    "MHBJc1YFuaY": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 2/5 - \"Chris the Drunk\"",
+      "segments": 216,
+      "transcript_json": "transcripts/047 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_5 - _Chris the Drunk_ [MHBJc1YFuaY].json",
+      "transcript_text": "transcripts/047 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_5 - _Chris the Drunk_ [MHBJc1YFuaY].txt",
+      "completed_at": "2026-10-11T09:21:20.562369+00:00"
+    },
+    "L8jZ0cfXzuI": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 3/5 - \"You Don't Really Know what Hate is, Tom\"",
+      "segments": 208,
+      "transcript_json": "transcripts/048 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_5 - _You Don't Really Know what Hate is, Tom_ [L8jZ0cfXzuI].json",
+      "transcript_text": "transcripts/048 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_5 - _You Don't Really Know what Hate is, Tom_ [L8jZ0cfXzuI].txt",
+      "completed_at": "2026-10-11T09:21:39.202002+00:00"
+    },
+    "Y7jBreAaLH4": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 4/5 - \"Family Man at 19\"",
+      "segments": 194,
+      "transcript_json": "transcripts/049 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_5 - _Family Man at 19_ [Y7jBreAaLH4].json",
+      "transcript_text": "transcripts/049 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_5 - _Family Man at 19_ [Y7jBreAaLH4].txt",
+      "completed_at": "2026-10-11T09:21:57.780068+00:00"
+    },
+    "Hi0no837orI": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 5/5 - \"Chris Scares a Teenage Girl\"",
+      "segments": 123,
+      "transcript_json": "transcripts/050 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_5 - _Chris Scares a Teenage Girl_ [Hi0no837orI].json",
+      "transcript_text": "transcripts/050 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_5 - _Chris Scares a Teenage Girl_ [Hi0no837orI].txt",
+      "completed_at": "2026-10-11T09:22:10.030751+00:00"
+    },
+    "KGHMpnibonc": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - \"WUZZAP TOM\"",
+      "segments": 20,
+      "transcript_json": "transcripts/051 - Chris the Hacker and Tom the Fag - Oct 2009 - _WUZZAP TOM_ [KGHMpnibonc].json",
+      "transcript_text": "transcripts/051 - Chris the Hacker and Tom the Fag - Oct 2009 - _WUZZAP TOM_ [KGHMpnibonc].txt",
+      "completed_at": "2026-10-11T09:22:12.504647+00:00"
+    },
+    "Nf_PBQsbA9U": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 1/2 - \"Closing in on Tom\"",
+      "segments": 271,
+      "transcript_json": "transcripts/052 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _Closing in on Tom_ [Nf_PBQsbA9U].json",
+      "transcript_text": "transcripts/052 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _Closing in on Tom_ [Nf_PBQsbA9U].txt",
+      "completed_at": "2026-10-11T09:22:40.041906+00:00"
+    },
+    "fm2fdcIniw4": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 2/2 - \"Marcel the Fag\"",
+      "segments": 223,
+      "transcript_json": "transcripts/053 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _Marcel the Fag_ [fm2fdcIniw4].json",
+      "transcript_text": "transcripts/053 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _Marcel the Fag_ [fm2fdcIniw4].txt",
+      "completed_at": "2026-10-11T09:23:02.831808+00:00"
+    },
+    "Xv8o0hDxLKU": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 1/5 - \"When Chris met Frank\"",
+      "segments": 152,
+      "transcript_json": "transcripts/054 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_5 - _When Chris met Frank_ [Xv8o0hDxLKU].json",
+      "transcript_text": "transcripts/054 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_5 - _When Chris met Frank_ [Xv8o0hDxLKU].txt",
+      "completed_at": "2026-10-11T09:23:17.717334+00:00"
+    },
+    "Bzqg9Wua_lM": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 2/5 - \"Chris the Movie!\"",
+      "segments": 112,
+      "transcript_json": "transcripts/055 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_5 - _Chris the Movie!_ [Bzqg9Wua_lM].json",
+      "transcript_text": "transcripts/055 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_5 - _Chris the Movie!_ [Bzqg9Wua_lM].txt",
+      "completed_at": "2026-10-11T09:23:28.553225+00:00"
+    },
+    "KmvmH_S32Ek": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 3/5 - \"Schoolin'\"",
+      "segments": 108,
+      "transcript_json": "transcripts/056 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_5 - _Schoolin'_ [KmvmH_S32Ek].json",
+      "transcript_text": "transcripts/056 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_5 - _Schoolin'_ [KmvmH_S32Ek].txt",
+      "completed_at": "2026-10-11T09:23:38.698304+00:00"
+    },
+    "slHCPGzuhWc": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 4/5 - \"Racism!\"",
+      "segments": 144,
+      "transcript_json": "transcripts/057 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_5 - _Racism!_ [slHCPGzuhWc].json",
+      "transcript_text": "transcripts/057 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_5 - _Racism!_ [slHCPGzuhWc].txt",
+      "completed_at": "2026-10-11T09:23:56.601797+00:00"
+    },
+    "LBRRnoweZuE": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 5/5 - \"FAPFAPFAPFAPFAPFAPFAPFAPFAP\"",
+      "segments": 37,
+      "transcript_json": "transcripts/058 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_5 - _FAPFAPFAPFAPFAPFAPFAPFAPFAP_ [LBRRnoweZuE].json",
+      "transcript_text": "transcripts/058 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_5 - _FAPFAPFAPFAPFAPFAPFAPFAPFAP_ [LBRRnoweZuE].txt",
+      "completed_at": "2026-10-11T09:23:59.397070+00:00"
+    },
+    "xVgRNYzu84w": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 1/9 - \"Jeremy the Not-Chris\"",
+      "segments": 260,
+      "transcript_json": "transcripts/059 - Chris the Hacker and Tom the Fag - Nov 2009 - 1_9 - _Jeremy the Not-Chris_ [xVgRNYzu84w].json",
+      "transcript_text": "transcripts/059 - Chris the Hacker and Tom the Fag - Nov 2009 - 1_9 - _Jeremy the Not-Chris_ [xVgRNYzu84w].txt",
+      "completed_at": "2026-10-11T09:24:24.161340+00:00"
+    },
+    "-TGxoANMkxI": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 2/9 - \"Happy Brithday, Chris! Happy Birthday, KOOOON!\"",
+      "segments": 270,
+      "transcript_json": "transcripts/060 - Chris the Hacker and Tom the Fag - Nov 2009 - 2_9 - _Happy Brithday, Chris! Happy Birthday, KOOOON!_ [-TGxoANMkxI].json",
+      "transcript_text": "transcripts/060 - Chris the Hacker and Tom the Fag - Nov 2009 - 2_9 - _Happy Brithday, Chris! Happy Birthday, KOOOON!_ [-TGxoANMkxI].txt",
+      "completed_at": "2026-10-11T09:24:48.444417+00:00"
+    },
+    "JGrNipu0Dhk": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 3/9 - \"Chris wouldn't fugg Beatrix w/ Koen's Dick\"",
+      "segments": 239,
+      "transcript_json": "transcripts/061 - Chris the Hacker and Tom the Fag - Nov 2009 - 3_9 - _Chris wouldn't fugg Beatrix w_ Koen's Dick_ [JGrNipu0Dhk].json",
+      "transcript_text": "transcripts/061 - Chris the Hacker and Tom the Fag - Nov 2009 - 3_9 - _Chris wouldn't fugg Beatrix w_ Koen's Dick_ [JGrNipu0Dhk].txt",
+      "completed_at": "2026-10-11T09:25:12.026177+00:00"
+    },
+    "WuzTPGG8xro": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 4/9 - \"Chris's Daughters will Drop Tom",
+      "segments": 142,
+      "transcript_json": "transcripts/062 - Chris the Hacker and Tom the Fag - Nov 2009 - 4_9 - _Chris's Daughters will Drop Tom [WuzTPGG8xro].json",
+      "transcript_text": "transcripts/062 - Chris the Hacker and Tom the Fag - Nov 2009 - 4_9 - _Chris's Daughters will Drop Tom [WuzTPGG8xro].txt",
+      "completed_at": "2026-10-11T09:25:28.309085+00:00"
+    },
+    "clD-ro10iBM": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 5/9 - \"Chris has a Certain Set of Skills\"",
+      "segments": 238,
+      "transcript_json": "transcripts/063 - Chris the Hacker and Tom the Fag - Nov 2009 - 5_9 - _Chris has a Certain Set of Skills_ [clD-ro10iBM].json",
+      "transcript_text": "transcripts/063 - Chris the Hacker and Tom the Fag - Nov 2009 - 5_9 - _Chris has a Certain Set of Skills_ [clD-ro10iBM].txt",
+      "completed_at": "2026-10-11T09:25:53.510336+00:00"
+    },
+    "Y84ehI42y6o": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 6/9 - \"Steaming Piles of Stupid\"",
+      "segments": 136,
+      "transcript_json": "transcripts/064 - Chris the Hacker and Tom the Fag - Nov 2009 - 6_9 - _Steaming Piles of Stupid_ [Y84ehI42y6o].json",
+      "transcript_text": "transcripts/064 - Chris the Hacker and Tom the Fag - Nov 2009 - 6_9 - _Steaming Piles of Stupid_ [Y84ehI42y6o].txt",
+      "completed_at": "2026-10-11T09:26:09.420952+00:00"
+    },
+    "gCLoUSiSxiA": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 7/9 - \"Da Hyoomin Race = Gawd\"",
+      "segments": 53,
+      "transcript_json": "transcripts/065 - Chris the Hacker and Tom the Fag - Nov 2009 - 7_9 - _Da Hyoomin Race = Gawd_ [gCLoUSiSxiA].json",
+      "transcript_text": "transcripts/065 - Chris the Hacker and Tom the Fag - Nov 2009 - 7_9 - _Da Hyoomin Race = Gawd_ [gCLoUSiSxiA].txt",
+      "completed_at": "2026-10-11T09:26:14.323046+00:00"
+    },
+    "I41abOfyjEg": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 8/9 - \"Teabagger Chris\"",
+      "segments": 138,
+      "transcript_json": "transcripts/066 - Chris the Hacker and Tom the Fag - Nov 2009 - 8_9 - _Teabagger Chris_ [I41abOfyjEg].json",
+      "transcript_text": "transcripts/066 - Chris the Hacker and Tom the Fag - Nov 2009 - 8_9 - _Teabagger Chris_ [I41abOfyjEg].txt",
+      "completed_at": "2026-10-11T09:26:30.984715+00:00"
+    },
+    "XbdT2jVMwMI": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 9/9 - \"Goodnight\"",
+      "segments": 20,
+      "transcript_json": "transcripts/067 - Chris the Hacker and Tom the Fag - Nov 2009 - 9_9 - _Goodnight_ [XbdT2jVMwMI].json",
+      "transcript_text": "transcripts/067 - Chris the Hacker and Tom the Fag - Nov 2009 - 9_9 - _Goodnight_ [XbdT2jVMwMI].txt",
+      "completed_at": "2026-10-11T09:26:33.351406+00:00"
+    },
+    "jRitIRjjjg4": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 1/3 - \"Can't Hear Reptilian Tom\"",
+      "segments": 184,
+      "transcript_json": "transcripts/068 - Chris the Hacker and Tom the Fag - Nov 2009 - 1_3 - _Can't Hear Reptilian Tom_ [jRitIRjjjg4].json",
+      "transcript_text": "transcripts/068 - Chris the Hacker and Tom the Fag - Nov 2009 - 1_3 - _Can't Hear Reptilian Tom_ [jRitIRjjjg4].txt",
+      "completed_at": "2026-10-11T09:26:55.580505+00:00"
+    },
+    "J9bLjA3qMCs": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 2/3 - \"Everyone's a Child like Chris\"",
+      "segments": 213,
+      "transcript_json": "transcripts/069 - Chris the Hacker and Tom the Fag - Nov 2009 - 2_3 - _Everyone's a Child like Chris_ [J9bLjA3qMCs].json",
+      "transcript_text": "transcripts/069 - Chris the Hacker and Tom the Fag - Nov 2009 - 2_3 - _Everyone's a Child like Chris_ [J9bLjA3qMCs].txt",
+      "completed_at": "2026-10-11T09:27:19.508016+00:00"
+    },
+    "L5KDoO4_a38": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 3/3 - \"AA Refuses to fix COD World at War\"",
+      "segments": 83,
+      "transcript_json": "transcripts/070 - Chris the Hacker and Tom the Fag - Nov 2009 - 3_3 - _AA Refuses to fix COD World at War_ [L5KDoO4_a38].json",
+      "transcript_text": "transcripts/070 - Chris the Hacker and Tom the Fag - Nov 2009 - 3_3 - _AA Refuses to fix COD World at War_ [L5KDoO4_a38].txt",
+      "completed_at": "2026-10-11T09:27:30.797248+00:00"
+    },
+    "mQm1XvVc2jw": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2009 -",
+      "segments": 200,
+      "transcript_json": "transcripts/071 - Chris the Hacker and Tom the Fag - Nov 2009 - [mQm1XvVc2jw].json",
+      "transcript_text": "transcripts/071 - Chris the Hacker and Tom the Fag - Nov 2009 - [mQm1XvVc2jw].txt",
+      "completed_at": "2026-10-11T09:27:55.395139+00:00"
+    },
+    "ZDccKQSidhU": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 1/13 - \"Chris gets Masonic Funding(???)\"",
+      "segments": 204,
+      "transcript_json": "transcripts/072 - Chris the Hacker and Tom the Fag - Dec 2009 - 1_13 - _Chris gets Masonic Funding(___)_ [ZDccKQSidhU].json",
+      "transcript_text": "transcripts/072 - Chris the Hacker and Tom the Fag - Dec 2009 - 1_13 - _Chris gets Masonic Funding(___)_ [ZDccKQSidhU].txt",
+      "completed_at": "2026-10-11T09:28:17.894004+00:00"
+    },
+    "6yrKcLLWgOQ": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 2/13 - \"Get High with the Hacker\"",
+      "segments": 172,
+      "transcript_json": "transcripts/073 - Chris the Hacker and Tom the Fag - Dec 2009 - 2_13 - _Get High with the Hacker_ [6yrKcLLWgOQ].json",
+      "transcript_text": "transcripts/073 - Chris the Hacker and Tom the Fag - Dec 2009 - 2_13 - _Get High with the Hacker_ [6yrKcLLWgOQ].txt",
+      "completed_at": "2026-10-11T09:28:34.836208+00:00"
+    },
+    "02o6-_A918I": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 3/13 - \"Koen has no Friends\"",
+      "segments": 172,
+      "transcript_json": "transcripts/074 - Chris the Hacker and Tom the Fag - Dec 2009 - 3_13 - _Koen has no Friends_ [02o6-_A918I].json",
+      "transcript_text": "transcripts/074 - Chris the Hacker and Tom the Fag - Dec 2009 - 3_13 - _Koen has no Friends_ [02o6-_A918I].txt",
+      "completed_at": "2026-10-11T09:28:53.056480+00:00"
+    },
+    "4yxX20mbXak": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 4/13 - \"Chris's Internet Conspiracy Theory\"",
+      "segments": 198,
+      "transcript_json": "transcripts/075 - Chris the Hacker and Tom the Fag - Dec 2009 - 4_13 - _Chris's Internet Conspiracy Theory_ [4yxX20mbXak].json",
+      "transcript_text": "transcripts/075 - Chris the Hacker and Tom the Fag - Dec 2009 - 4_13 - _Chris's Internet Conspiracy Theory_ [4yxX20mbXak].txt",
+      "completed_at": "2026-10-11T09:29:14.936295+00:00"
+    },
+    "Phgy3gX6hPQ": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 5/13 - \"What's a Chris Call without...",
+      "segments": 262,
+      "transcript_json": "transcripts/076 - Chris the Hacker and Tom the Fag - Dec 2009 - 5_13 - _What's a Chris Call without [Phgy3gX6hPQ].json",
+      "transcript_text": "transcripts/076 - Chris the Hacker and Tom the Fag - Dec 2009 - 5_13 - _What's a Chris Call without [Phgy3gX6hPQ].txt",
+      "completed_at": "2026-10-11T09:29:40.095622+00:00"
+    },
+    "ThtSU9Rn0Zk": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 6/13 - \"Da Seven Yeer Eeyitch\"",
+      "segments": 25,
+      "transcript_json": "transcripts/077 - Chris the Hacker and Tom the Fag - Dec 2009 - 6_13 - _Da Seven Yeer Eeyitch_ [ThtSU9Rn0Zk].json",
+      "transcript_text": "transcripts/077 - Chris the Hacker and Tom the Fag - Dec 2009 - 6_13 - _Da Seven Yeer Eeyitch_ [ThtSU9Rn0Zk].txt",
+      "completed_at": "2026-10-11T09:29:43.190569+00:00"
+    },
+    "nqjcmtTBx48": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 7/13 - \"'Flaminko Chicks'\"",
+      "segments": 145,
+      "transcript_json": "transcripts/078 - Chris the Hacker and Tom the Fag - Dec 2009 - 7_13 - _'Flaminko Chicks'_ [nqjcmtTBx48].json",
+      "transcript_text": "transcripts/078 - Chris the Hacker and Tom the Fag - Dec 2009 - 7_13 - _'Flaminko Chicks'_ [nqjcmtTBx48].txt",
+      "completed_at": "2026-10-11T09:30:03.612162+00:00"
+    },
+    "uRHSdOUdfiU": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 8/13 - \"GIVE ME YA ADDRESS DEYUH\"",
+      "segments": 169,
+      "transcript_json": "transcripts/079 - Chris the Hacker and Tom the Fag - Dec 2009 - 8_13 - _GIVE ME YA ADDRESS DEYUH_ [uRHSdOUdfiU].json",
+      "transcript_text": "transcripts/079 - Chris the Hacker and Tom the Fag - Dec 2009 - 8_13 - _GIVE ME YA ADDRESS DEYUH_ [uRHSdOUdfiU].txt",
+      "completed_at": "2026-10-11T09:30:22.607019+00:00"
+    },
+    "Xu3gqB4HEpU": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 9/13 - \"Chris the Not for Profit Weed Man\"",
+      "segments": 243,
+      "transcript_json": "transcripts/080 - Chris the Hacker and Tom the Fag - Dec 2009 - 9_13 - _Chris the Not for Profit Weed Man_ [Xu3gqB4HEpU].json",
+      "transcript_text": "transcripts/080 - Chris the Hacker and Tom the Fag - Dec 2009 - 9_13 - _Chris the Not for Profit Weed Man_ [Xu3gqB4HEpU].txt",
+      "completed_at": "2026-10-11T09:30:47.623474+00:00"
+    },
+    "3k0O0fR5d5o": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 10/13 - \"Angry Monkey\"",
+      "segments": 164,
+      "transcript_json": "transcripts/081 - Chris the Hacker and Tom the Fag - Dec 2009 - 10_13 - _Angry Monkey_ [3k0O0fR5d5o].json",
+      "transcript_text": "transcripts/081 - Chris the Hacker and Tom the Fag - Dec 2009 - 10_13 - _Angry Monkey_ [3k0O0fR5d5o].txt",
+      "completed_at": "2026-10-11T09:31:08.788398+00:00"
+    },
+    "6rqiiuTcvx8": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 11/13 - \"Men of Soiens Men of Gaad\"",
+      "segments": 47,
+      "transcript_json": "transcripts/082 - Chris the Hacker and Tom the Fag - Dec 2009 - 11_13 - _Men of Soiens Men of Gaad_ [6rqiiuTcvx8].json",
+      "transcript_text": "transcripts/082 - Chris the Hacker and Tom the Fag - Dec 2009 - 11_13 - _Men of Soiens Men of Gaad_ [6rqiiuTcvx8].txt",
+      "completed_at": "2026-10-11T09:31:13.698657+00:00"
+    },
+    "rLEP3ojB4qw": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 12/13 - \"Bring the Trash Home (ie, Chris)\"",
+      "segments": 171,
+      "transcript_json": "transcripts/083 - Chris the Hacker and Tom the Fag - Dec 2009 - 12_13 - _Bring the Trash Home (ie, Chris)_ [rLEP3ojB4qw].json",
+      "transcript_text": "transcripts/083 - Chris the Hacker and Tom the Fag - Dec 2009 - 12_13 - _Bring the Trash Home (ie, Chris)_ [rLEP3ojB4qw].txt",
+      "completed_at": "2026-10-11T09:31:33.826512+00:00"
+    },
+    "BLbPrI1hGCs": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 13/13 - \"Chris Will Believe Any Lies on Youtube\"",
+      "segments": 88,
+      "transcript_json": "transcripts/084 - Chris the Hacker and Tom the Fag - Dec 2009 - 13_13 - _Chris Will Believe Any Lies on Youtube_ [BLbPrI1hGCs].json",
+      "transcript_text": "transcripts/084 - Chris the Hacker and Tom the Fag - Dec 2009 - 13_13 - _Chris Will Believe Any Lies on Youtube_ [BLbPrI1hGCs].txt",
+      "completed_at": "2026-10-11T09:31:44.170067+00:00"
+    },
+    "WkNrZM7UBq4": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Feb 2010 - 1/5 - \"FAIR GAME\"",
+      "segments": 220,
+      "transcript_json": "transcripts/085 - Chris the Hacker and Tom the Fag - Feb 2010 - 1_5 - _FAIR GAME_ [WkNrZM7UBq4].json",
+      "transcript_text": "transcripts/085 - Chris the Hacker and Tom the Fag - Feb 2010 - 1_5 - _FAIR GAME_ [WkNrZM7UBq4].txt",
+      "completed_at": "2026-10-11T09:32:05.902031+00:00"
+    },
+    "akjYnBhdOnk": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Feb 2010 - 2/5 - \"Office Space\"",
+      "segments": 328,
+      "transcript_json": "transcripts/086 - Chris the Hacker and Tom the Fag - Feb 2010 - 2_5 - _Office Space_ [akjYnBhdOnk].json",
+      "transcript_text": "transcripts/086 - Chris the Hacker and Tom the Fag - Feb 2010 - 2_5 - _Office Space_ [akjYnBhdOnk].txt",
+      "completed_at": "2026-10-11T09:32:35.970970+00:00"
+    },
+    "uQdJigxI6Pk": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Feb 2010 - 3/5 - \"Chris the Deadbeat Pedo\"",
+      "segments": 280,
+      "transcript_json": "transcripts/087 - Chris the Hacker and Tom the Fag - Feb 2010 - 3_5 - _Chris the Deadbeat Pedo_ [uQdJigxI6Pk].json",
+      "transcript_text": "transcripts/087 - Chris the Hacker and Tom the Fag - Feb 2010 - 3_5 - _Chris the Deadbeat Pedo_ [uQdJigxI6Pk].txt",
+      "completed_at": "2026-10-11T09:33:04.526094+00:00"
+    },
+    "8QtSVdjT0I8": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Feb 2010 - 4/5 - \"Crackin 40 on an Ostrich\"",
+      "segments": 131,
+      "transcript_json": "transcripts/088 - Chris the Hacker and Tom the Fag - Feb 2010 - 4_5 - _Crackin 40 on an Ostrich_ [8QtSVdjT0I8].json",
+      "transcript_text": "transcripts/088 - Chris the Hacker and Tom the Fag - Feb 2010 - 4_5 - _Crackin 40 on an Ostrich_ [8QtSVdjT0I8].txt",
+      "completed_at": "2026-10-11T09:33:17.104739+00:00"
+    },
+    "VdmvisNvwGU": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Feb 2010 - 5/5 - \"3 Degrees of Masonry\"",
+      "segments": 272,
+      "transcript_json": "transcripts/089 - Chris the Hacker and Tom the Fag - Feb 2010 - 5_5 - _3 Degrees of Masonry_ [VdmvisNvwGU].json",
+      "transcript_text": "transcripts/089 - Chris the Hacker and Tom the Fag - Feb 2010 - 5_5 - _3 Degrees of Masonry_ [VdmvisNvwGU].txt",
+      "completed_at": "2026-10-11T09:33:42.722644+00:00"
+    },
+    "ZC-fbIGOg04": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2010 - 1/3 - \"Somebody Like Chris\"",
+      "segments": 156,
+      "transcript_json": "transcripts/090 - Chris the Hacker and Tom the Fag - Oct 2010 - 1_3 - _Somebody Like Chris_ [ZC-fbIGOg04].json",
+      "transcript_text": "transcripts/090 - Chris the Hacker and Tom the Fag - Oct 2010 - 1_3 - _Somebody Like Chris_ [ZC-fbIGOg04].txt",
+      "completed_at": "2026-10-11T09:34:02.946914+00:00"
+    },
+    "z4KyguLFvXU": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2010 - 2/3 - \"The Bane of the Spoof\"",
+      "segments": 182,
+      "transcript_json": "transcripts/091 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _The Bane of the Spoof_ [z4KyguLFvXU].json",
+      "transcript_text": "transcripts/091 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _The Bane of the Spoof_ [z4KyguLFvXU].txt",
+      "completed_at": "2026-10-11T09:34:23.400306+00:00"
+    },
+    "LPzTMYeHtvE": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2010 - 3/3 - \"Going to Florida\"",
+      "segments": 228,
+      "transcript_json": "transcripts/092 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _Going to Florida_ [LPzTMYeHtvE].json",
+      "transcript_text": "transcripts/092 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _Going to Florida_ [LPzTMYeHtvE].txt",
+      "completed_at": "2026-10-11T09:34:48.465119+00:00"
+    },
+    "8-7IW4-v7qU": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2010 - 1/3 - \"Chris the Homophobe\"",
+      "segments": 224,
+      "transcript_json": "transcripts/093 - Chris the Hacker and Tom the Fag - Nov 2010 - 1_3 - _Chris the Homophobe_ [8-7IW4-v7qU].json",
+      "transcript_text": "transcripts/093 - Chris the Hacker and Tom the Fag - Nov 2010 - 1_3 - _Chris the Homophobe_ [8-7IW4-v7qU].txt",
+      "completed_at": "2026-10-11T09:35:12.486381+00:00"
+    },
+    "yTyAhp880jM": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2010 - 2/3 - \"Vigilante Chris\"",
+      "segments": 178,
+      "transcript_json": "transcripts/094 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _Vigilante Chris_ [yTyAhp880jM].json",
+      "transcript_text": "transcripts/094 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _Vigilante Chris_ [yTyAhp880jM].txt",
+      "completed_at": "2026-10-11T09:35:31.661079+00:00"
+    },
+    "H1v-hPPuZ14": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2010 - 3/3 - \"THE STONE COLD pooper\"",
+      "segments": 26,
+      "transcript_json": "transcripts/095 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _THE STONE COLD pooper_ [H1v-hPPuZ14].json",
+      "transcript_text": "transcripts/095 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _THE STONE COLD pooper_ [H1v-hPPuZ14].txt",
+      "completed_at": "2026-10-11T09:35:34.484584+00:00"
+    },
+    "zBblBHuSjIM": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2010 - 1/3 - \"Business in the Toilet\"",
+      "segments": 238,
+      "transcript_json": "transcripts/096 - Chris the Hacker and Tom the Fag - Nov 2010 - 1_3 - _Business in the Toilet_ [zBblBHuSjIM].json",
+      "transcript_text": "transcripts/096 - Chris the Hacker and Tom the Fag - Nov 2010 - 1_3 - _Business in the Toilet_ [zBblBHuSjIM].txt",
+      "completed_at": "2026-10-11T09:35:58.786309+00:00"
+    },
+    "MiQEC-D6mXo": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2010 - 2/3 - \"Itchin fer a Snitch\"",
+      "segments": 222,
+      "transcript_json": "transcripts/097 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _Itchin fer a Snitch_ [MiQEC-D6mXo].json",
+      "transcript_text": "transcripts/097 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _Itchin fer a Snitch_ [MiQEC-D6mXo].txt",
+      "completed_at": "2026-10-11T09:36:20.832105+00:00"
+    },
+    "UjP1HA2kVIs": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Nov 2010 - 3/3 - \"DatboysDataRecovery!\"",
+      "segments": 219,
+      "transcript_json": "transcripts/098 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _DatboysDataRecovery!_ [UjP1HA2kVIs].json",
+      "transcript_text": "transcripts/098 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _DatboysDataRecovery!_ [UjP1HA2kVIs].txt",
+      "completed_at": "2026-10-11T09:36:43.070366+00:00"
+    },
+    "qOymgEa74C8": {
+      "status": "completed",
+      "title": null,
+      "segments": 277,
+      "transcript_json": "transcripts/099 - Unavailable video [qOymgEa74C8].json",
+      "transcript_text": "transcripts/099 - Unavailable video [qOymgEa74C8].txt",
+      "completed_at": "2026-10-11T09:37:10.261307+00:00"
+    },
+    "Tf7TuPkis2A": {
+      "status": "completed",
+      "title": "Chris the hacker gives an update part 2",
+      "segments": 93,
+      "transcript_json": "transcripts/100 - Chris the hacker gives an update part 2 [Tf7TuPkis2A].json",
+      "transcript_text": "transcripts/100 - Chris the hacker gives an update part 2 [Tf7TuPkis2A].txt",
+      "completed_at": "2026-10-11T09:37:20.702215+00:00"
+    },
+    "TttoDBt4xiQ": {
+      "status": "completed",
+      "title": "Chris the hacker goes emo",
+      "segments": 240,
+      "transcript_json": "transcripts/101 - Chris the hacker goes emo [TttoDBt4xiQ].json",
+      "transcript_text": "transcripts/101 - Chris the hacker goes emo [TttoDBt4xiQ].txt",
+      "completed_at": "2026-10-11T09:37:40.186980+00:00"
+    },
+    "MYuB75Nb2gw": {
+      "status": "unavailable",
+      "title": null,
+      "reason": "ERROR: [youtube] MYuB75Nb2gw: Private video"
+    },
+    "2MJuvHcpytM": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 1/10 - \"The Conspiracy of Kai Kunz\"",
+      "segments": 267,
+      "transcript_json": "transcripts/001 - Chris the Hacker and Tom the Fag - Sep 2009 - 1_10 - _The Conspiracy of Kai Kunz_ [2MJuvHcpytM].json",
+      "transcript_text": "transcripts/001 - Chris the Hacker and Tom the Fag - Sep 2009 - 1_10 - _The Conspiracy of Kai Kunz_ [2MJuvHcpytM].txt",
+      "completed_at": "2026-10-11T09:06:31.405717+00:00"
+    },
+    "MblmIjIakqQ": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 2/10 - \"The 30 Million Dollar Datboys\"",
+      "segments": 167,
+      "transcript_json": "transcripts/002 - Chris the Hacker and Tom the Fag - Sep 2009 - 2_10 - _The 30 Million Dollar Datboys_ [MblmIjIakqQ].json",
+      "transcript_text": "transcripts/002 - Chris the Hacker and Tom the Fag - Sep 2009 - 2_10 - _The 30 Million Dollar Datboys_ [MblmIjIakqQ].txt",
+      "completed_at": "2026-10-11T09:06:48.356651+00:00"
+    },
+    "e4Rg90AvVnM": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 3/10 - \"TRUE and HONEST science\"",
+      "segments": 200,
+      "transcript_json": "transcripts/003 - Chris the Hacker and Tom the Fag - Sep 2009 - 3_10 - _TRUE and HONEST science_ [e4Rg90AvVnM].json",
+      "transcript_text": "transcripts/003 - Chris the Hacker and Tom the Fag - Sep 2009 - 3_10 - _TRUE and HONEST science_ [e4Rg90AvVnM].txt",
+      "completed_at": "2026-10-11T09:07:07.419275+00:00"
+    },
+    "MhyKbXC0NCE": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 4/10 - \"Watching Roswell stuff\"",
+      "segments": 140,
+      "transcript_json": "transcripts/004 - Chris the Hacker and Tom the Fag - Sep 2009 - 4_10 - _Watching Roswell stuff_ [MhyKbXC0NCE].json",
+      "transcript_text": "transcripts/004 - Chris the Hacker and Tom the Fag - Sep 2009 - 4_10 - _Watching Roswell stuff_ [MhyKbXC0NCE].txt",
+      "completed_at": "2026-10-11T09:07:23.139166+00:00"
+    },
+    "dte5y8dLov8": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 5/10 - \"MEN OF SCIENCE, MEN OF GAAD\"",
+      "segments": 231,
+      "transcript_json": "transcripts/005 - Chris the Hacker and Tom the Fag - Sep 2009 - 5_10 - _MEN OF SCIENCE, MEN OF GAAD_ [dte5y8dLov8].json",
+      "transcript_text": "transcripts/005 - Chris the Hacker and Tom the Fag - Sep 2009 - 5_10 - _MEN OF SCIENCE, MEN OF GAAD_ [dte5y8dLov8].txt",
+      "completed_at": "2026-10-11T09:07:42.528697+00:00"
+    },
+    "pmnqnaRj4T8": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 6/10 - \"Put on Earth to harass Chris\"",
+      "segments": 271,
+      "transcript_json": "transcripts/006 - Chris the Hacker and Tom the Fag - Sep 2009 - 6_10 - _Put on Earth to harass Chris_ [pmnqnaRj4T8].json",
+      "transcript_text": "transcripts/006 - Chris the Hacker and Tom the Fag - Sep 2009 - 6_10 - _Put on Earth to harass Chris_ [pmnqnaRj4T8].txt",
+      "completed_at": "2026-10-11T09:08:04.630135+00:00"
+    },
+    "qbGVeGmuK-Q": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 7/10 - \"Eeyanimals are not Meeyammals\"",
+      "segments": 253,
+      "transcript_json": "transcripts/007 - Chris the Hacker and Tom the Fag - Sep 2009 - 7_10 - _Eeyanimals are not Meeyammals_ [qbGVeGmuK-Q].json",
+      "transcript_text": "transcripts/007 - Chris the Hacker and Tom the Fag - Sep 2009 - 7_10 - _Eeyanimals are not Meeyammals_ [qbGVeGmuK-Q].txt",
+      "completed_at": "2026-10-11T09:08:25.997595+00:00"
+    },
+    "9dt_faBAoKw": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 8/10 - \"The Koen Also Rises\"",
+      "segments": 212,
+      "transcript_json": "transcripts/008 - Chris the Hacker and Tom the Fag - Sep 2009 - 8_10 - _The Koen Also Rises_ [9dt_faBAoKw].json",
+      "transcript_text": "transcripts/008 - Chris the Hacker and Tom the Fag - Sep 2009 - 8_10 - _The Koen Also Rises_ [9dt_faBAoKw].txt",
+      "completed_at": "2026-10-11T09:08:48.959384+00:00"
+    },
+    "0k2IH2It2n4": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 9/10 - \"Same Old Lies\"",
+      "segments": 167,
+      "transcript_json": "transcripts/009 - Chris the Hacker and Tom the Fag - Sep 2009 - 9_10 - _Same Old Lies_ [0k2IH2It2n4].json",
+      "transcript_text": "transcripts/009 - Chris the Hacker and Tom the Fag - Sep 2009 - 9_10 - _Same Old Lies_ [0k2IH2It2n4].txt",
+      "completed_at": "2026-10-11T09:09:05.660866+00:00"
+    },
+    "KN5glJj6VtE": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 10/10 - \"PRANK FOOKIN CALLS\"",
+      "segments": 175,
+      "transcript_json": "transcripts/010 - Chris the Hacker and Tom the Fag - Sep 2009 - 10_10 - _PRANK FOOKIN CALLS_ [KN5glJj6VtE].json",
+      "transcript_text": "transcripts/010 - Chris the Hacker and Tom the Fag - Sep 2009 - 10_10 - _PRANK FOOKIN CALLS_ [KN5glJj6VtE].txt",
+      "completed_at": "2026-10-11T09:09:22.707992+00:00"
+    },
+    "N4we-4AT4FQ": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 1/3 - \"Chris watches his own Youtube stuff\"",
+      "segments": 142,
+      "transcript_json": "transcripts/011 - Chris the Hacker and Tom the Fag - Sep 2009 - 1_3 - _Chris watches his own Youtube stuff_ [N4we-4AT4FQ].json",
+      "transcript_text": "transcripts/011 - Chris the Hacker and Tom the Fag - Sep 2009 - 1_3 - _Chris watches his own Youtube stuff_ [N4we-4AT4FQ].txt",
+      "completed_at": "2026-10-11T09:09:40.469323+00:00"
+    },
+    "mgV0pd_OCSg": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 2/3 - \"Chris the Genius\"",
+      "segments": 253,
+      "transcript_json": "transcripts/012 - Chris the Hacker and Tom the Fag - Sep 2009 - 2_3 - _Chris the Genius_ [mgV0pd_OCSg].json",
+      "transcript_text": "transcripts/012 - Chris the Hacker and Tom the Fag - Sep 2009 - 2_3 - _Chris the Genius_ [mgV0pd_OCSg].txt",
+      "completed_at": "2026-10-11T09:10:03.665255+00:00"
+    },
+    "sBYA78QC7-s": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Sep 2009 - 3/3 - \"Leather Belt?\"",
+      "segments": 172,
+      "transcript_json": "transcripts/013 - Chris the Hacker and Tom the Fag - Sep 2009 - 3_3 - _Leather Belt__ [sBYA78QC7-s].json",
+      "transcript_text": "transcripts/013 - Chris the Hacker and Tom the Fag - Sep 2009 - 3_3 - _Leather Belt__ [sBYA78QC7-s].txt",
+      "completed_at": "2026-10-11T09:10:22.507022+00:00"
+    },
+    "UxJrkPS_99w": {
+      "status": "completed",
+      "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 1/9 - \"Chris watches NASCAR\"",
+      "segments": 327,
+      "transcript_json": "transcripts/014 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_9 - _Chris watches NASCAR_ [UxJrkPS_99w].json",
+      "transcript_text": "transcripts/014 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_9 - _Chris watches NASCAR_ [UxJrkPS_99w].txt",
+      "completed_at": "2026-10-11T09:10:48.707601+00:00"
+    }
+  },
+  "playlist_id": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v",
+  "listed_entries": 102,
+  "model": "mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf",
+  "runtime": {
+    "engine": "faster-whisper",
+    "device": "cuda",
+    "transcription_profile": "full-audio-30s-repetition-v3",
+    "compute_type": "int8_float16",
+    "cpu_threads": 12,
+    "batch_size": 2,
+    "beam_size": 5,
+    "vad_filter": false,
+    "full_audio": true,
+    "chunk_seconds": 30,
+    "without_timestamps": false,
+    "silence_guard": "skip no_speech_prob > 0.6 and avg_logprob < -1.0",
+    "repetition_guard": "suppress chunks with compression_ratio > 3 or >=4 repeated phrases dominating a chunk",
+    "acoustic_qa": "VAD measured for QA only; long sparse output without acoustic support suppressed; low-confidence output outside acoustic speech suppressed for <1%-speech recordings",
+    "condition_on_previous_text": false,
+    "python": "3.12.10",
+    "packages": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.2",
+      "av": "18.1.0",
+      "onnxruntime": "1.31.0",
+      "nvidia-cublas-cu12": "12.9.2.10",
+      "nvidia-cudnn-cu12": "9.27.0.42",
+      "nvidia-cuda-runtime-cu12": "12.9.79"
+    },
+    "gpu_fallback_reason": null
+  },
+  "counts": {
+    "completed": 101,
+    "unavailable": 1
+  },
+  "completed_at": "2026-10-11T09:37:40.340750+00:00"
+}

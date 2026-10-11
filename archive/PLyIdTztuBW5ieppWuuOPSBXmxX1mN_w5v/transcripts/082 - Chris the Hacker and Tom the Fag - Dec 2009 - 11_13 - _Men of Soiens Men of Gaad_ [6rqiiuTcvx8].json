@@ -1,0 +1,491 @@
+{
+  "schema_version": 1,
+  "complete": true,
+  "id": "6rqiiuTcvx8",
+  "title": "Chris the Hacker and Tom the Fag - Dec 2009 - 11/13 - \"Men of Soiens Men of Gaad\"",
+  "position": 82,
+  "url": "https://www.youtube.com/watch?v=6rqiiuTcvx8",
+  "audio": "audio/082 - Chris the Hacker and Tom the Fag - Dec 2009 - 11_13 - _Men of Soiens Men of Gaad_ [6rqiiuTcvx8].mp3",
+  "language": "en",
+  "language_probability": 0.99951171875,
+  "duration": 169.66825,
+  "duration_after_vad": 169.66825,
+  "model": "mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf",
+  "runtime": {
+    "engine": "faster-whisper",
+    "device": "cuda",
+    "transcription_profile": "full-audio-30s-repetition-v3",
+    "compute_type": "int8_float16",
+    "cpu_threads": 12,
+    "batch_size": 2,
+    "beam_size": 5,
+    "vad_filter": false,
+    "full_audio": true,
+    "chunk_seconds": 30,
+    "without_timestamps": false,
+    "silence_guard": "skip no_speech_prob > 0.6 and avg_logprob < -1.0",
+    "repetition_guard": "suppress chunks with compression_ratio > 3 or >=4 repeated phrases dominating a chunk",
+    "acoustic_qa": "VAD measured for QA only; long sparse output without acoustic support suppressed; low-confidence output outside acoustic speech suppressed for <1%-speech recordings",
+    "condition_on_previous_text": false,
+    "python": "3.12.10",
+    "packages": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.2",
+      "av": "18.1.0",
+      "onnxruntime": "1.31.0",
+      "nvidia-cublas-cu12": "12.9.2.10",
+      "nvidia-cudnn-cu12": "9.27.0.42",
+      "nvidia-cuda-runtime-cu12": "12.9.79"
+    },
+    "gpu_fallback_reason": null
+  },
+  "started_at": "2026-10-11T09:31:08.880024+00:00",
+  "completed_at": "2026-10-11T09:31:13.698657+00:00",
+  "processing_seconds": 4.828,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.14,
+      "text": "In one and only one place.",
+      "avg_logprob": -0.2458243502368187,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9,
+      "acoustic_speech_overlap_seconds": 2.14
+    },
+    {
+      "start": 3.16,
+      "end": 3.66,
+      "text": "And where's that?",
+      "avg_logprob": -0.2458243502368187,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6923076923076923,
+      "acoustic_speech_overlap_seconds": 0.5
+    },
+    {
+      "start": 3.74,
+      "end": 5.34,
+      "text": "We'll see if it comes to pass.",
+      "avg_logprob": -0.2458243502368187,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7948717948717948,
+      "acoustic_speech_overlap_seconds": 1.6
+    },
+    {
+      "start": 5.78,
+      "end": 8.96,
+      "text": "And by the way, if it comes to pass, it isn't a self-fulfilling prophecy,",
+      "avg_logprob": -0.2458243502368187,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0,
+      "acoustic_speech_overlap_seconds": 3.18
+    },
+    {
+      "start": 9.46,
+      "end": 15.52,
+      "text": "because a lot of the people that are going to fulfill it don't believe in God.",
+      "avg_logprob": -0.2458243502368187,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.082191780821918,
+      "acoustic_speech_overlap_seconds": 6.06
+    },
+    {
+      "start": 16.66,
+      "end": 19.96,
+      "text": "And God wanted it that way to show people...",
+      "avg_logprob": -0.2458243502368187,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8823529411764706,
+      "acoustic_speech_overlap_seconds": 3.3
+    },
+    {
+      "start": 19.96,
+      "end": 26.48,
+      "text": "That we can't have another mind, and that we always have to be close-minded and follow one religion.",
+      "avg_logprob": -0.2458243502368187,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1744186046511629,
+      "acoustic_speech_overlap_seconds": 6.52
+    },
+    {
+      "start": 27.84,
+      "end": 28.32,
+      "text": "That's right.",
+      "avg_logprob": -0.2458243502368187,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6363636363636364,
+      "acoustic_speech_overlap_seconds": 0.48
+    },
+    {
+      "start": 30.0,
+      "end": 35.32,
+      "text": "That way, obviously, because those that are on the border of believe in him or not believe in him",
+      "avg_logprob": -0.22583007393404841,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.240506329113924,
+      "acoustic_speech_overlap_seconds": 5.32
+    },
+    {
+      "start": 35.32,
+      "end": 38.78,
+      "text": "will probably fall to the side of believing in him.",
+      "avg_logprob": -0.22583007393404841,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.896551724137931,
+      "acoustic_speech_overlap_seconds": 3.46
+    },
+    {
+      "start": 39.7,
+      "end": 44.68,
+      "text": "Because if it's only written in one place and it comes to pass, it wasn't made up.",
+      "avg_logprob": -0.22583007393404841,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0506329113924051,
+      "acoustic_speech_overlap_seconds": 4.98
+    },
+    {
+      "start": 45.08,
+      "end": 49.0,
+      "text": "Well, you know, people have said this in the past, right, that the world is going to end.",
+      "avg_logprob": -0.22583007393404841,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1111111111111112,
+      "acoustic_speech_overlap_seconds": 3.92
+    },
+    {
+      "start": 49.1,
+      "end": 50.58,
+      "text": "It's like pretty much every year.",
+      "avg_logprob": -0.22583007393404841,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8095238095238095,
+      "acoustic_speech_overlap_seconds": 1.48
+    },
+    {
+      "start": 51.12,
+      "end": 54.02,
+      "text": "No, Shaddam was pretty much all the prophets.",
+      "avg_logprob": -0.22583007393404841,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8679245283018868,
+      "acoustic_speech_overlap_seconds": 1.44
+    },
+    {
+      "start": 55.48,
+      "end": 58.72,
+      "text": "I mean, since day one, there was prophets of the end of time.",
+      "avg_logprob": -0.22583007393404841,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.96875,
+      "acoustic_speech_overlap_seconds": 3.24
+    },
+    {
+      "start": 60.0,
+      "end": 62.52,
+      "text": "Do you know the fucking Genesis?",
+      "avg_logprob": -0.31996267500208386,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8048780487804879,
+      "acoustic_speech_overlap_seconds": 2.52
+    },
+    {
+      "start": 63.98,
+      "end": 65.38,
+      "text": "Oh yeah, but guess what?",
+      "avg_logprob": -0.31996267500208386,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7575757575757576,
+      "acoustic_speech_overlap_seconds": 1.4
+    },
+    {
+      "start": 66.02,
+      "end": 69.12,
+      "text": "Even Jesus said no man knows the day or the hour.",
+      "avg_logprob": -0.31996267500208386,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9259259259259259,
+      "acoustic_speech_overlap_seconds": 3.1
+    },
+    {
+      "start": 70.68,
+      "end": 73.3,
+      "text": "A man can say whatever he wants.",
+      "avg_logprob": -0.31996267500208386,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8461538461538461,
+      "acoustic_speech_overlap_seconds": 2.62
+    },
+    {
+      "start": 73.3,
+      "end": 75.08,
+      "text": "Jesus never existed.",
+      "avg_logprob": -0.31996267500208386,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7241379310344828,
+      "acoustic_speech_overlap_seconds": 0.22
+    },
+    {
+      "start": 79.76,
+      "end": 83.68,
+      "text": "Don't you fucking wrap your finger on the fact that Jesus never existed.",
+      "avg_logprob": -0.31996267500208386,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0,
+      "acoustic_speech_overlap_seconds": 2.784
+    },
+    {
+      "start": 90.0,
+      "end": 95.46,
+      "text": "story that was written back in the day, like thousands of versions.",
+      "avg_logprob": -0.22693452002510192,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0,
+      "acoustic_speech_overlap_seconds": 5.46
+    },
+    {
+      "start": 97.0,
+      "end": 98.02,
+      "text": "You know what's amazing, guys?",
+      "avg_logprob": -0.22693452002510192,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7948717948717948,
+      "acoustic_speech_overlap_seconds": 1.02
+    },
+    {
+      "start": 98.1,
+      "end": 100.16,
+      "text": "You guys, you know what's amazing, guys?",
+      "avg_logprob": -0.22693452002510192,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9318181818181818,
+      "acoustic_speech_overlap_seconds": 2.06
+    },
+    {
+      "start": 100.16,
+      "end": 115.52,
+      "text": "It's that people are willing to believe other individuals about God and not believe what's",
+      "avg_logprob": -0.22693452002510192,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1518987341772151,
+      "acoustic_speech_overlap_seconds": 9.2
+    },
+    {
+      "start": 115.52,
+      "end": 116.02,
+      "text": "evident.",
+      "avg_logprob": -0.22693452002510192,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5294117647058824,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 120.0,
+      "end": 122.04,
+      "text": "know, gentlemen, is that before",
+      "avg_logprob": -0.19655987069386394,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8,
+      "acoustic_speech_overlap_seconds": 0.456
+    },
+    {
+      "start": 122.04,
+      "end": 124.08,
+      "text": "the Big Bang, there was",
+      "avg_logprob": -0.19655987069386394,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8,
+      "acoustic_speech_overlap_seconds": 0.664
+    },
+    {
+      "start": 124.08,
+      "end": 126.16,
+      "text": "information that needed the Big Bang",
+      "avg_logprob": -0.19655987069386394,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8604651162790697,
+      "acoustic_speech_overlap_seconds": 1.376
+    },
+    {
+      "start": 126.16,
+      "end": 127.66,
+      "text": "to happen. Scientists",
+      "avg_logprob": -0.19655987069386394,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7333333333333333,
+      "acoustic_speech_overlap_seconds": 1.5
+    },
+    {
+      "start": 127.66,
+      "end": 129.9,
+      "text": "are even calling",
+      "avg_logprob": -0.19655987069386394,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.68,
+      "acoustic_speech_overlap_seconds": 1.54
+    },
+    {
+      "start": 129.9,
+      "end": 131.4,
+      "text": "God",
+      "avg_logprob": -0.19655987069386394,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.3333333333333333,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 131.4,
+      "end": 133.64,
+      "text": "a grand designer.",
+      "avg_logprob": -0.19655987069386394,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6923076923076923,
+      "acoustic_speech_overlap_seconds": 0.696
+    },
+    {
+      "start": 133.94,
+      "end": 135.82,
+      "text": "Those are their words, not mine.",
+      "avg_logprob": -0.19655987069386394,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8048780487804879,
+      "acoustic_speech_overlap_seconds": 1.88
+    },
+    {
+      "start": 136.76,
+      "end": 138.1,
+      "text": "Even science is coming",
+      "avg_logprob": -0.19655987069386394,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7419354838709677,
+      "acoustic_speech_overlap_seconds": 1.34
+    },
+    {
+      "start": 138.1,
+      "end": 140.2,
+      "text": "to the realization there had",
+      "avg_logprob": -0.19655987069386394,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8529411764705882,
+      "acoustic_speech_overlap_seconds": 2.1
+    },
+    {
+      "start": 140.2,
+      "end": 141.32,
+      "text": "to be something.",
+      "avg_logprob": -0.19655987069386394,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.68,
+      "acoustic_speech_overlap_seconds": 1.12
+    },
+    {
+      "start": 141.7,
+      "end": 143.5,
+      "text": "Why do you always think that science",
+      "avg_logprob": -0.19655987069386394,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8604651162790697,
+      "acoustic_speech_overlap_seconds": 1.8
+    },
+    {
+      "start": 143.5,
+      "end": 145.3,
+      "text": "doesn't like religion?",
+      "avg_logprob": -0.19655987069386394,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7419354838709677,
+      "acoustic_speech_overlap_seconds": 1.8
+    },
+    {
+      "start": 145.84,
+      "end": 146.78,
+      "text": "That's not true at all.",
+      "avg_logprob": -0.19655987069386394,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.75,
+      "acoustic_speech_overlap_seconds": 0.94
+    },
+    {
+      "start": 147.68,
+      "end": 149.78,
+      "text": "No, that's not true because I've got a book in the shop.",
+      "avg_logprob": -0.19655987069386394,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9047619047619048,
+      "acoustic_speech_overlap_seconds": 2.1
+    },
+    {
+      "start": 150.0,
+      "end": 151.7,
+      "text": "It's called men of science, men of God.",
+      "avg_logprob": -0.32321429678371977,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.975609756097561,
+      "acoustic_speech_overlap_seconds": 1.7
+    },
+    {
+      "start": 151.96,
+      "end": 154.56,
+      "text": "Chris, science is trying to back up religion.",
+      "avg_logprob": -0.32321429678371977,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8518518518518519,
+      "acoustic_speech_overlap_seconds": 2.6
+    },
+    {
+      "start": 156.24,
+      "end": 159.94,
+      "text": "Oh, it just tries to examine what we see every day.",
+      "avg_logprob": -0.32321429678371977,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.896551724137931,
+      "acoustic_speech_overlap_seconds": 3.7
+    },
+    {
+      "start": 159.94,
+      "end": 162.46,
+      "text": "Science is trying to back up religion.",
+      "avg_logprob": -0.32321429678371977,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8297872340425532,
+      "acoustic_speech_overlap_seconds": 1.676
+    },
+    {
+      "start": 163.66,
+      "end": 166.36,
+      "text": "I just think it's so weird that every Christian...",
+      "avg_logprob": -0.32321429678371977,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8793103448275862,
+      "acoustic_speech_overlap_seconds": 2.7
+    },
+    {
+      "start": 166.36,
+      "end": 166.74,
+      "text": "Oh, shit.",
+      "avg_logprob": -0.32321429678371977,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5555555555555556,
+      "acoustic_speech_overlap_seconds": 0.38
+    }
+  ],
+  "qa": {
+    "full_audio_processed": true,
+    "processed_audio_seconds": 169.66825,
+    "flagged_segments": 2,
+    "suppressed_segments": 0,
+    "acoustic_speech_seconds": 135.28,
+    "suppressed_probable_silence_segments": 0,
+    "unreliable_intervals": [],
+    "human_reviewed": false,
+    "flags": [
+      "Contains low confidence or possible non-speech recognition."
+    ]
+  },
+  "suppressed_segments": [],
+  "notice": "Machine transcription of downloaded audio; may contain recognition errors."
+}

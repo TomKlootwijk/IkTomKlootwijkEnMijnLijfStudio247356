@@ -1,0 +1,40 @@
+Chris the Hacker and Tom the Fag - Oct 2009 - 2/2 - "The Chris Perron Show 2"
+https://www.youtube.com/watch?v=UE_1pIg8ps4
+Language: en | Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors.
+
+[00:00:00.000 --> 00:00:07.080] Well, I'd like to find out a little bit about the weddings and what kind of, if there's any themes, that sort of thing.
+[00:00:07.820 --> 00:00:10.300] Okay. Well, we do have several kind of things.
+[00:00:11.520 --> 00:00:14.960] There's, you know, not just one or two. We have about 45 different packages.
+[00:00:16.220 --> 00:00:17.280] 45? Wow.
+[00:00:17.980 --> 00:00:21.740] Yeah. And we do Elvis ceremonies and we do special themed ceremonies.
+[00:00:30.000 --> 00:00:34.480] of the opera. There's a lot to choose from in that area. Have you visited our website
+[00:00:34.480 --> 00:00:40.880] before? No, in fact, I haven't. But, you know, well, let me ask you this. If I choose a theme,
+[00:00:41.220 --> 00:00:48.040] we'll say that I choose an Egyptian theme, right? Okay. People will be dressed in Egyptian
+[00:00:48.040 --> 00:00:53.940] garb. Well, we do provide the characters. Like, we do have these slave boys that will
+[00:01:00.000 --> 00:01:02.780] Now, where did you get my bride from?
+[00:01:04.700 --> 00:01:08.000] Well, in the same packages comes a limo.
+[00:01:08.120 --> 00:01:12.640] So a limo will pick you guys up from any hotel that's on the strip or downtown area,
+[00:01:12.740 --> 00:01:14.000] but we can get here and take you back.
+[00:01:15.580 --> 00:01:16.020] Okay.
+[00:01:16.460 --> 00:01:19.520] Well, pick me up in a strip.
+[00:01:19.640 --> 00:01:20.540] Did you say a stripper?
+[00:01:20.980 --> 00:01:22.380] Pick me up in a stripper?
+[00:01:23.080 --> 00:01:23.440] No.
+[00:01:24.320 --> 00:01:25.000] Oh, what did you say?
+[00:01:25.000 --> 00:01:26.440] We pick you up from any hotels on the strip.
+[00:01:27.400 --> 00:01:28.740] Oh, on the strip.
+[00:01:28.740 --> 00:01:29.740] I get it.
+[00:01:30.000 --> 00:01:37.000] Yeah. Okay. How much do the packages run?
+[00:01:37.000 --> 00:01:43.000] They can run from $199 to $1,200. Like I said, there's a lot to choose from. You might want to look at them on our website.
+[00:01:43.000 --> 00:01:48.000] Okay. So we do the $1,200. We, you know, splurge.
+[00:01:48.000 --> 00:01:56.000] Okay. If I throw in an extra grand, can you also provide the bride?
+[00:01:56.000 --> 00:01:58.000] No.
+[00:02:00.000 --> 00:02:07.380] I don't seem like a real good service, I don't have a bride, I'm not engaged, I mean, why don't you have an engagement ceremony too?
+[00:02:08.380 --> 00:02:13.000] I'd do that, I'd spend an extra $1,500 for an engagement ceremony and a bride.
+[00:02:14.440 --> 00:02:15.000] Cheer her up.
+[00:02:15.080 --> 00:02:15.960] That's what I think about.
+[00:02:18.600 --> 00:02:19.600] Cheer her up, man.
+[00:02:20.420 --> 00:02:20.920] Oh, she did?
+[00:02:21.260 --> 00:02:21.580] Yeah. [ASR uncertain: little_acoustic_speech_support]
+[00:02:22.200 --> 00:02:24.380] Oh, amazing, Chris, we need to do some more.

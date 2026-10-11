@@ -1,0 +1,52 @@
+{
+  "id": "Tf7TuPkis2A",
+  "title": "Chris the hacker gives an update part 2",
+  "description": null,
+  "webpage_url": "https://www.youtube.com/watch?v=Tf7TuPkis2A",
+  "uploader": "wnxeagle2",
+  "uploader_id": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "upload_date": null,
+  "timestamp": null,
+  "duration": 381,
+  "tags": null,
+  "categories": null,
+  "license": null,
+  "age_limit": null,
+  "availability": null,
+  "language": null,
+  "view_count": null,
+  "like_count": null,
+  "playlist_id": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v",
+  "playlist_title": "Chris the Hacker and Tom the Fag",
+  "playlist_position": 100,
+  "archived_at": "2026-10-11T09:05:53.594580+00:00",
+  "archive_mirror": {
+    "id": "Tf7TuPkis2A",
+    "media_url": "https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/Tf7TuPkis2A",
+    "media_name": "Tf7TuPkis2A.mp4",
+    "size": 11035091,
+    "media_sha1": null,
+    "info_url": null,
+    "original_metadata": {
+      "id": "Tf7TuPkis2A",
+      "title": "Chris the hacker gives an update part 2",
+      "duration": 381,
+      "uploader": "wnxeagle2",
+      "webpage_url": "https://www.youtube.com/watch?v=Tf7TuPkis2A"
+    },
+    "metadata_source_url": "https://web.archive.org/web/20130822142409id_/http://www.youtube.com/watch?v=Tf7TuPkis2A",
+    "verification": {
+      "http_status": 200,
+      "content_type": "video/mp4",
+      "content_length": 11035091,
+      "method": "HTTP HEAD; no media downloaded"
+    },
+    "archive_identifier": "Wayback Machine",
+    "original_saved_title": "Chris the hacker gives an update part 2",
+    "sha1_verified": false,
+    "download_sha256": "afe91a22d3b8289ae110e8291c6271c95c3dde041e7b74a4b59b2c6cc792973c"
+  }
+}

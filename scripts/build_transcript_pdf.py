@@ -280,7 +280,7 @@ def transcript_provenance(transcript: Transcript) -> str:
     data = transcript.data or {}
     details = []
     if data.get("language"):
-        details.append("Language: " + clean(data["language"]))
+        details.append("Automatic language detection: " + clean(data["language"]))
     model = data.get("model") or data.get("transcription_model")
     if model:
         details.append("Model: " + clean(model))

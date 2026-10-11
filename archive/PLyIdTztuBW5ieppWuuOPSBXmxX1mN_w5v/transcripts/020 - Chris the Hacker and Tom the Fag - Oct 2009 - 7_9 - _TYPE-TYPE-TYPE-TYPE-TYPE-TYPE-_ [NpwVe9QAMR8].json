@@ -1,0 +1,266 @@
+{
+  "schema_version": 1,
+  "complete": true,
+  "id": "NpwVe9QAMR8",
+  "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 7/9 - \"TYPE-TYPE-TYPE-TYPE-TYPE-TYPE-\"",
+  "position": 20,
+  "url": "https://www.youtube.com/watch?v=NpwVe9QAMR8",
+  "audio": "audio/020 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_9 - _TYPE-TYPE-TYPE-TYPE-TYPE-TYPE-_ [NpwVe9QAMR8].mp3",
+  "language": "en",
+  "language_probability": 0.9638671875,
+  "duration": 323.3146875,
+  "duration_after_vad": 323.3146875,
+  "model": "mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf",
+  "runtime": {
+    "engine": "faster-whisper",
+    "device": "cuda",
+    "transcription_profile": "full-audio-30s-repetition-v3",
+    "compute_type": "int8_float16",
+    "cpu_threads": 12,
+    "batch_size": 2,
+    "beam_size": 5,
+    "vad_filter": false,
+    "full_audio": true,
+    "chunk_seconds": 30,
+    "without_timestamps": false,
+    "silence_guard": "skip no_speech_prob > 0.6 and avg_logprob < -1.0",
+    "repetition_guard": "suppress chunks with compression_ratio > 3 or >=4 repeated phrases dominating a chunk",
+    "acoustic_qa": "VAD measured for QA only; long sparse output without acoustic support suppressed; low-confidence output outside acoustic speech suppressed for <1%-speech recordings",
+    "condition_on_previous_text": false,
+    "python": "3.12.10",
+    "packages": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.2",
+      "av": "18.1.0",
+      "onnxruntime": "1.31.0",
+      "nvidia-cublas-cu12": "12.9.2.10",
+      "nvidia-cudnn-cu12": "9.27.0.42",
+      "nvidia-cuda-runtime-cu12": "12.9.79"
+    },
+    "gpu_fallback_reason": null
+  },
+  "started_at": "2026-10-11T09:12:37.750385+00:00",
+  "completed_at": "2026-10-11T09:12:42.008350+00:00",
+  "processing_seconds": 4.265,
+  "segments": [
+    {
+      "start": 0,
+      "end": 8.0,
+      "text": "Let's find out the connections to find out the connections.",
+      "avg_logprob": -0.7140625158945719,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.3333333333333333,
+      "acoustic_speech_overlap_seconds": 2.336
+    }
+  ],
+  "qa": {
+    "full_audio_processed": true,
+    "processed_audio_seconds": 323.3146875,
+    "flagged_segments": 0,
+    "suppressed_segments": 13,
+    "acoustic_speech_seconds": 2.336,
+    "suppressed_probable_silence_segments": 0,
+    "unreliable_intervals": [
+      {
+        "start": 30.0,
+        "end": 59.98,
+        "reason": "Sparse decoder output over a long interval without acoustic speech support."
+      },
+      {
+        "start": 60.0,
+        "end": 85.64,
+        "reason": "Low-confidence decoding without acoustic speech support in an almost non-speech recording."
+      },
+      {
+        "start": 90.0,
+        "end": 119.98,
+        "reason": "Sparse decoder output over a long interval without acoustic speech support."
+      },
+      {
+        "start": 120.0,
+        "end": 149.98,
+        "reason": "Sparse decoder output over a long interval without acoustic speech support."
+      },
+      {
+        "start": 150.0,
+        "end": 153.4,
+        "reason": "Low-confidence decoding without acoustic speech support in an almost non-speech recording."
+      },
+      {
+        "start": 180.0,
+        "end": 182.0,
+        "reason": "Low-confidence decoding without acoustic speech support in an almost non-speech recording."
+      },
+      {
+        "start": 210.0,
+        "end": 220.0,
+        "reason": "Low-confidence decoding without acoustic speech support in an almost non-speech recording."
+      },
+      {
+        "start": 228.0,
+        "end": 233.0,
+        "reason": "Low-confidence decoding without acoustic speech support in an almost non-speech recording."
+      },
+      {
+        "start": 240.0,
+        "end": 249.0,
+        "reason": "Low-confidence decoding without acoustic speech support in an almost non-speech recording."
+      },
+      {
+        "start": 270.0,
+        "end": 299.98,
+        "reason": "Sparse decoder output over a long interval without acoustic speech support."
+      },
+      {
+        "start": 300.0,
+        "end": 320.5,
+        "reason": "Sparse decoder output over a long interval without acoustic speech support."
+      },
+      {
+        "start": 321.5,
+        "end": 322.4,
+        "reason": "Low-confidence decoding without acoustic speech support in an almost non-speech recording."
+      },
+      {
+        "start": 322.4,
+        "end": 323.16,
+        "reason": "Low-confidence decoding without acoustic speech support in an almost non-speech recording."
+      }
+    ],
+    "human_reviewed": false,
+    "flags": []
+  },
+  "suppressed_segments": [
+    {
+      "start": 30.0,
+      "end": 59.98,
+      "text": "Thank you.",
+      "avg_logprob": -0.4505208134651184,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5789473684210527,
+      "acoustic_speech_overlap_seconds": 0,
+      "reason": "Sparse decoder output over a long interval without acoustic speech support."
+    },
+    {
+      "start": 60.0,
+      "end": 85.64,
+      "text": "2, B, A, and H.",
+      "avg_logprob": -0.7343750099341074,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6666666666666666,
+      "acoustic_speech_overlap_seconds": 0,
+      "reason": "Low-confidence decoding without acoustic speech support in an almost non-speech recording."
+    },
+    {
+      "start": 90.0,
+      "end": 119.98,
+      "text": "Thank you.",
+      "avg_logprob": -0.7350260516007742,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5789473684210527,
+      "acoustic_speech_overlap_seconds": 0,
+      "reason": "Sparse decoder output over a long interval without acoustic speech support."
+    },
+    {
+      "start": 120.0,
+      "end": 149.98,
+      "text": "Thank you.",
+      "avg_logprob": -0.3378906349341075,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5789473684210527,
+      "acoustic_speech_overlap_seconds": 0,
+      "reason": "Sparse decoder output over a long interval without acoustic speech support."
+    },
+    {
+      "start": 150.0,
+      "end": 153.4,
+      "text": "Yeah.",
+      "avg_logprob": -1.065625,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.42857142857142855,
+      "acoustic_speech_overlap_seconds": 0,
+      "reason": "Low-confidence decoding without acoustic speech support in an almost non-speech recording."
+    },
+    {
+      "start": 180.0,
+      "end": 182.0,
+      "text": "Great.",
+      "avg_logprob": -0.88515625,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.4666666666666667,
+      "acoustic_speech_overlap_seconds": 0,
+      "reason": "Low-confidence decoding without acoustic speech support in an almost non-speech recording."
+    },
+    {
+      "start": 210.0,
+      "end": 220.0,
+      "text": "You can make sure that you have the people in the inside.",
+      "avg_logprob": -1.0998883928571428,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9830508474576272,
+      "acoustic_speech_overlap_seconds": 0,
+      "reason": "Low-confidence decoding without acoustic speech support in an almost non-speech recording."
+    },
+    {
+      "start": 228.0,
+      "end": 233.0,
+      "text": "And you can have the people in the inside.",
+      "avg_logprob": -1.0998883928571428,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9148936170212766,
+      "acoustic_speech_overlap_seconds": 0,
+      "reason": "Low-confidence decoding without acoustic speech support in an almost non-speech recording."
+    },
+    {
+      "start": 240.0,
+      "end": 249.0,
+      "text": "I think it's the thing that you have reached for work.",
+      "avg_logprob": -0.791015625,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9649122807017544,
+      "acoustic_speech_overlap_seconds": 0,
+      "reason": "Low-confidence decoding without acoustic speech support in an almost non-speech recording."
+    },
+    {
+      "start": 270.0,
+      "end": 299.98,
+      "text": "Thank you.",
+      "avg_logprob": -0.2970377604166667,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5789473684210527,
+      "acoustic_speech_overlap_seconds": 0,
+      "reason": "Sparse decoder output over a long interval without acoustic speech support."
+    },
+    {
+      "start": 300.0,
+      "end": 320.5,
+      "text": "Oh, I'm back.",
+      "avg_logprob": -0.74665177436102,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6363636363636364,
+      "acoustic_speech_overlap_seconds": 0,
+      "reason": "Sparse decoder output over a long interval without acoustic speech support."
+    },
+    {
+      "start": 321.5,
+      "end": 322.4,
+      "text": "Welcome back.",
+      "avg_logprob": -0.74665177436102,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6363636363636364,
+      "acoustic_speech_overlap_seconds": 0,
+      "reason": "Low-confidence decoding without acoustic speech support in an almost non-speech recording."
+    },
+    {
+      "start": 322.4,
+      "end": 323.16,
+      "text": "How was this world?",
+      "avg_logprob": -0.74665177436102,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7142857142857143,
+      "acoustic_speech_overlap_seconds": 0,
+      "reason": "Low-confidence decoding without acoustic speech support in an almost non-speech recording."
+    }
+  ],
+  "notice": "Machine transcription of downloaded audio; may contain recognition errors."
+}

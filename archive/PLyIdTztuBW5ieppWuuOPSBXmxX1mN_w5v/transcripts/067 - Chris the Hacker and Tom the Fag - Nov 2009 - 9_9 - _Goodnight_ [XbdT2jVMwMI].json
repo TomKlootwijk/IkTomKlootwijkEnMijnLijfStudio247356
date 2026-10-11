@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "complete": true,
+  "id": "XbdT2jVMwMI",
+  "title": "Chris the Hacker and Tom the Fag - Nov 2009 - 9/9 - \"Goodnight\"",
+  "position": 67,
+  "url": "https://www.youtube.com/watch?v=XbdT2jVMwMI",
+  "audio": "audio/067 - Chris the Hacker and Tom the Fag - Nov 2009 - 9_9 - _Goodnight_ [XbdT2jVMwMI].mp3",
+  "language": "en",
+  "language_probability": 1.0,
+  "duration": 66.9199375,
+  "duration_after_vad": 66.9199375,
+  "model": "mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf",
+  "runtime": {
+    "engine": "faster-whisper",
+    "device": "cuda",
+    "transcription_profile": "full-audio-30s-repetition-v3",
+    "compute_type": "int8_float16",
+    "cpu_threads": 12,
+    "batch_size": 2,
+    "beam_size": 5,
+    "vad_filter": false,
+    "full_audio": true,
+    "chunk_seconds": 30,
+    "without_timestamps": false,
+    "silence_guard": "skip no_speech_prob > 0.6 and avg_logprob < -1.0",
+    "repetition_guard": "suppress chunks with compression_ratio > 3 or >=4 repeated phrases dominating a chunk",
+    "acoustic_qa": "VAD measured for QA only; long sparse output without acoustic support suppressed; low-confidence output outside acoustic speech suppressed for <1%-speech recordings",
+    "condition_on_previous_text": false,
+    "python": "3.12.10",
+    "packages": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.2",
+      "av": "18.1.0",
+      "onnxruntime": "1.31.0",
+      "nvidia-cublas-cu12": "12.9.2.10",
+      "nvidia-cudnn-cu12": "9.27.0.42",
+      "nvidia-cuda-runtime-cu12": "12.9.79"
+    },
+    "gpu_fallback_reason": null
+  },
+  "started_at": "2026-10-11T09:26:31.100998+00:00",
+  "completed_at": "2026-10-11T09:26:33.351406+00:00",
+  "processing_seconds": 2.25,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.16,
+      "text": "Those drawings are also proven fake.",
+      "avg_logprob": -0.31781249195337297,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8222222222222222,
+      "acoustic_speech_overlap_seconds": 2.16
+    },
+    {
+      "start": 3.38,
+      "end": 7.86,
+      "text": "You know, I know what you're talking about, the ancient Egyptian drawings.",
+      "avg_logprob": -0.31781249195337297,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9615384615384616,
+      "acoustic_speech_overlap_seconds": 4.48
+    },
+    {
+      "start": 8.84,
+      "end": 14.72,
+      "text": "I don't know. Can you send me a link so I can do the research on that?",
+      "avg_logprob": -0.31781249195337297,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9861111111111112,
+      "acoustic_speech_overlap_seconds": 5.88
+    },
+    {
+      "start": 15.28,
+      "end": 17.62,
+      "text": "Can you do some research?",
+      "avg_logprob": -0.31781249195337297,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7647058823529411,
+      "acoustic_speech_overlap_seconds": 2.34
+    },
+    {
+      "start": 18.14,
+      "end": 20.64,
+      "text": "Actually, most of those represent God.",
+      "avg_logprob": -0.31781249195337297,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8297872340425532,
+      "acoustic_speech_overlap_seconds": 2.5
+    },
+    {
+      "start": 22.48,
+      "end": 26.7,
+      "text": "Usually it's not UFOs or the spacecraft kind of guys.",
+      "avg_logprob": -0.31781249195337297,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8709677419354839,
+      "acoustic_speech_overlap_seconds": 4.22
+    },
+    {
+      "start": 26.7,
+      "end": 28.48,
+      "text": "I know what you're talking about, it's all the drawings.",
+      "avg_logprob": -0.31781249195337297,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.890625,
+      "acoustic_speech_overlap_seconds": 1.78
+    },
+    {
+      "start": 30.0,
+      "end": 34.14,
+      "text": "Guys, when this conversation disconnects again, I'm going to bed.",
+      "avg_logprob": -0.3230932084685665,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9428571428571428,
+      "acoustic_speech_overlap_seconds": 0.768
+    },
+    {
+      "start": 35.74,
+      "end": 37.16,
+      "text": "Hey, yeah, okay.",
+      "avg_logprob": -0.3230932084685665,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.68,
+      "acoustic_speech_overlap_seconds": 0.916
+    },
+    {
+      "start": 37.44,
+      "end": 38.66,
+      "text": "Why, it's late over there now, huh?",
+      "avg_logprob": -0.3230932084685665,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8181818181818182,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 38.76,
+      "end": 42.56,
+      "text": "It's quarter to four, but I'm just really tired because I was sick in two days.",
+      "avg_logprob": -0.3230932084685665,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0526315789473684,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 45.46,
+      "end": 46.88,
+      "text": "Mike, what do you have?",
+      "avg_logprob": -0.3230932084685665,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.75,
+      "acoustic_speech_overlap_seconds": 1.42
+    },
+    {
+      "start": 48.16,
+      "end": 48.86,
+      "text": "I have the flu.",
+      "avg_logprob": -0.3230932084685665,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6666666666666666,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 50.14,
+      "end": 50.94,
+      "text": "Oh, swine flu.",
+      "avg_logprob": -0.3230932084685665,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6521739130434783,
+      "acoustic_speech_overlap_seconds": 0.716
+    },
+    {
+      "start": 51.48,
+      "end": 52.2,
+      "text": "Not really.",
+      "avg_logprob": -0.3230932084685665,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 53.78,
+      "end": 55.26,
+      "text": "How can you tell the difference anyway?",
+      "avg_logprob": -0.3230932084685665,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8333333333333334,
+      "acoustic_speech_overlap_seconds": 1.356
+    },
+    {
+      "start": 55.26,
+      "end": 59.54,
+      "text": "I've had the flu like two to three times in about four weeks now.",
+      "avg_logprob": -0.3230932084685665,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9705882352941176,
+      "acoustic_speech_overlap_seconds": 0.5
+    },
+    {
+      "start": 60.0,
+      "end": 63.0,
+      "text": "Oh, and I think he just hung up or something.",
+      "avg_logprob": -0.3543346639602415,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8846153846153846,
+      "acoustic_speech_overlap_seconds": 1.64
+    },
+    {
+      "start": 63.0,
+      "end": 65.0,
+      "text": "Yeah, he just hung up.",
+      "avg_logprob": -0.3543346639602415,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7419354838709677,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 65.0,
+      "end": 66.92,
+      "text": "Oh, goodnight.",
+      "avg_logprob": -0.3543346639602415,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6521739130434783,
+      "acoustic_speech_overlap_seconds": 1.92
+    }
+  ],
+  "qa": {
+    "full_audio_processed": true,
+    "processed_audio_seconds": 66.9199375,
+    "flagged_segments": 4,
+    "suppressed_segments": 0,
+    "acoustic_speech_seconds": 42.408,
+    "suppressed_probable_silence_segments": 0,
+    "unreliable_intervals": [],
+    "human_reviewed": false,
+    "flags": [
+      "Contains low confidence or possible non-speech recognition."
+    ]
+  },
+  "suppressed_segments": [],
+  "notice": "Machine transcription of downloaded audio; may contain recognition errors."
+}

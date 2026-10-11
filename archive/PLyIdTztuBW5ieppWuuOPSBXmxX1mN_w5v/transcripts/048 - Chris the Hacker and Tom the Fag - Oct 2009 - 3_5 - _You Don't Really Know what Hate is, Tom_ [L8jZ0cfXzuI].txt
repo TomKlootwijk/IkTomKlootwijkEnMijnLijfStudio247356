@@ -1,0 +1,213 @@
+Chris the Hacker and Tom the Fag - Oct 2009 - 3/5 - "You Don't Really Know what Hate is, Tom"
+https://www.youtube.com/watch?v=L8jZ0cfXzuI
+Language: en | Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors.
+
+[00:00:00.440 --> 00:00:04.120] Well, you're doing pretty good at school there, bud.
+[00:00:04.780 --> 00:00:04.980] Me?
+[00:00:06.080 --> 00:00:06.920] Yeah, yeah. [ASR uncertain: little_acoustic_speech_support]
+[00:00:07.260 --> 00:00:07.780] No, I don't. [ASR uncertain: little_acoustic_speech_support]
+[00:00:08.820 --> 00:00:09.740] I know, I know. [ASR uncertain: little_acoustic_speech_support]
+[00:00:10.120 --> 00:00:10.560] No, you don't. [ASR uncertain: little_acoustic_speech_support]
+[00:00:11.040 --> 00:00:12.660] No, you don't know. You're just guessing.
+[00:00:14.360 --> 00:00:18.460] I don't guess. I can't guess. I don't know. How can I guess if I don't know?
+[00:00:20.720 --> 00:00:22.100] Are you still playing T of 2, Chris?
+[00:00:22.760 --> 00:00:24.000] Yeah, I'm starting it up again.
+[00:00:24.800 --> 00:00:25.200] Alright. [ASR uncertain: little_acoustic_speech_support]
+[00:00:30.000 --> 00:00:34.540] Are you related, Tom, are you related to the Big Scooter Magnet?
+[00:00:35.500 --> 00:00:35.800] No. [ASR uncertain: little_acoustic_speech_support]
+[00:00:37.140 --> 00:00:38.360] The Big Scooter Company?
+[00:00:38.720 --> 00:00:40.200] Oh, I can give you a clue.
+[00:00:41.860 --> 00:00:44.940] One of my family members has a TV show.
+[00:00:47.760 --> 00:00:48.760] You shouldn't have said that.
+[00:00:48.780 --> 00:00:49.520] I have a what?
+[00:00:50.840 --> 00:00:51.640] Never mind. [ASR uncertain: little_acoustic_speech_support]
+[00:00:52.200 --> 00:00:54.900] One of his family members has a TV show.
+[00:00:54.920 --> 00:00:55.780] TV show.
+[00:00:55.780 --> 00:00:56.980] You shouldn't have said that.
+[00:01:00.000 --> 00:01:02.840] He tries to talk English sometimes a little too fast.
+[00:01:08.020 --> 00:01:09.680] Oh, man, I can't believe this. [ASR uncertain: little_acoustic_speech_support]
+[00:01:10.720 --> 00:01:11.240] Is that Oprah?
+[00:01:11.240 --> 00:01:14.780] Well, they start changing and all of a sudden start talking their brains out.
+[00:01:16.580 --> 00:01:20.660] Yeah, well, they don't have the same last name as you, that's for sure.
+[00:01:21.240 --> 00:01:21.920] Is that Oprah?
+[00:01:21.920 --> 00:01:23.920] No, he's married to...
+[00:01:23.920 --> 00:01:25.920] He's married to...
+[00:01:25.920 --> 00:01:27.040] How do you call that?
+[00:01:28.440 --> 00:01:28.980] Whoops, thanks.
+[00:01:30.900 --> 00:01:33.440] He's added to the family as an unwanted Jew.
+[00:01:35.280 --> 00:01:36.820] You have a Jewish family member?
+[00:01:36.960 --> 00:01:37.140] No. [ASR uncertain: little_acoustic_speech_support]
+[00:01:37.740 --> 00:01:39.160] Hey, hey, hey, hey.
+[00:01:39.320 --> 00:01:40.420] Be easy with that.
+[00:01:40.520 --> 00:01:42.360] They've gone through a lot of crap, you know?
+[00:01:42.360 --> 00:01:43.280] I don't give a fuck. [ASR uncertain: little_acoustic_speech_support]
+[00:01:44.640 --> 00:01:46.340] You know how many people are Jewish?
+[00:01:46.340 --> 00:01:47.000] What have they ever done to you?
+[00:01:47.000 --> 00:01:48.780] You know how many people are Jewish?
+[00:01:50.160 --> 00:01:50.560] Exactly.
+[00:01:50.760 --> 00:01:51.880] What have they ever done to you?
+[00:01:52.500 --> 00:01:53.620] What have they ever done to you?
+[00:01:53.740 --> 00:01:55.680] Well, they're running the government right now.
+[00:01:55.940 --> 00:01:56.240] That's why.
+[00:01:56.800 --> 00:01:57.500] Your government?
+[00:02:00.000 --> 00:02:01.900] no they're not
+[00:02:01.900 --> 00:02:03.360] Obama
+[00:02:03.360 --> 00:02:03.980] we got
+[00:02:03.980 --> 00:02:04.320] we got
+[00:02:04.320 --> 00:02:04.700] we got
+[00:02:04.700 --> 00:02:04.720] we got [ASR uncertain: little_acoustic_speech_support]
+[00:02:04.720 --> 00:02:06.780] we got
+[00:02:06.780 --> 00:02:07.720] we got
+[00:02:07.720 --> 00:02:07.740] we got [ASR uncertain: little_acoustic_speech_support]
+[00:02:07.740 --> 00:02:09.620] why do you think
+[00:02:09.620 --> 00:02:10.260] when Obama
+[00:02:10.260 --> 00:02:10.880] tried to
+[00:02:10.880 --> 00:02:11.860] run for president
+[00:02:11.860 --> 00:02:12.740] he went to Israel
+[00:02:12.740 --> 00:02:13.300] and like
+[00:02:13.300 --> 00:02:14.340] kiss the Jewish
+[00:02:14.340 --> 00:02:14.780] cock
+[00:02:14.780 --> 00:02:17.000] cause the Jews
+[00:02:17.000 --> 00:02:17.360] own
+[00:02:17.360 --> 00:02:17.980] your fucking
+[00:02:17.980 --> 00:02:18.360] government
+[00:02:18.360 --> 00:02:18.860] that's why
+[00:02:18.860 --> 00:02:19.500] exactly
+[00:02:19.500 --> 00:02:20.260] Roman manual
+[00:02:20.260 --> 00:02:21.240] yeah
+[00:02:21.240 --> 00:02:22.660] yeah
+[00:02:22.660 --> 00:02:23.360] yeah [ASR uncertain: little_acoustic_speech_support]
+[00:02:23.360 --> 00:02:27.620] yep [ASR uncertain: little_acoustic_speech_support]
+[00:02:27.620 --> 00:02:28.780] yep [ASR uncertain: little_acoustic_speech_support]
+[00:02:28.780 --> 00:02:29.620] TV rage
+[00:02:30.000 --> 00:02:31.160] You know what they're saying.
+[00:02:32.960 --> 00:02:33.780] Fuck the Jews.
+[00:02:34.420 --> 00:02:35.260] Oh, I'm banned there.
+[00:02:35.420 --> 00:02:36.000] Fucking hell.
+[00:02:36.920 --> 00:02:37.200] Oh, yeah.
+[00:02:37.260 --> 00:02:38.140] Put away, Chris.
+[00:02:38.420 --> 00:02:38.960] You're a liar.
+[00:02:40.660 --> 00:02:41.020] Wooter.
+[00:02:42.940 --> 00:02:44.220] You're a freelooter.
+[00:02:45.580 --> 00:02:46.020] Wooter? [ASR uncertain: little_acoustic_speech_support]
+[00:02:46.260 --> 00:02:46.900] You're a bigot.
+[00:02:48.400 --> 00:02:48.840] Wooter?
+[00:02:49.080 --> 00:02:50.180] You're a religious bigot.
+[00:02:50.700 --> 00:02:53.260] No, I go to school in Utrecht.
+[00:02:53.540 --> 00:02:53.900] Wooter?
+[00:02:54.180 --> 00:02:54.540] Wooter?
+[00:02:55.080 --> 00:02:56.780] You know where I go to school, Chris?
+[00:02:58.180 --> 00:02:58.660] Uooter.
+[00:02:58.900 --> 00:02:59.300] Uooter.
+[00:03:00.000 --> 00:03:00.400] Utrecht.
+[00:03:01.180 --> 00:03:01.460] No.
+[00:03:01.640 --> 00:03:02.040] Utrecht.
+[00:03:02.700 --> 00:03:02.920] Yep.
+[00:03:03.340 --> 00:03:03.860] No, I don't.
+[00:03:03.880 --> 00:03:05.280] That's where my family comes from, actually.
+[00:03:07.900 --> 00:03:09.180] It's a little nice town.
+[00:03:09.560 --> 00:03:10.880] Well, city, I guess.
+[00:03:11.100 --> 00:03:12.660] It's pretty irritating, huh, Chris?
+[00:03:12.720 --> 00:03:15.140] You've been talking to us this long, but you can't find us.
+[00:03:15.400 --> 00:03:19.200] And you're trying to social engineer your way into finding us, but it won't ever work.
+[00:03:20.260 --> 00:03:21.200] Social engineer?
+[00:03:23.020 --> 00:03:24.600] Yeah, you're laughing because...
+[00:03:24.600 --> 00:03:24.980] I'm not going to comment.
+[00:03:25.380 --> 00:03:26.220] You are funny.
+[00:03:30.000 --> 00:03:30.720] hate you?
+[00:03:32.080 --> 00:03:35.000] You know, you're just...
+[00:03:35.000 --> 00:03:36.280] How can I hate you?
+[00:03:37.660 --> 00:03:38.980] You can't hate really.
+[00:03:39.520 --> 00:03:41.080] You don't really know what hate is, Tom.
+[00:03:41.400 --> 00:03:42.720] You really don't know what hate is.
+[00:03:42.940 --> 00:03:44.960] You're full of love and you don't even realize it.
+[00:03:45.800 --> 00:03:46.760] You love me.
+[00:03:48.120 --> 00:03:49.540] Tom is full of love.
+[00:03:49.540 --> 00:03:51.120] How many kinds of love are there, Tom?
+[00:03:53.100 --> 00:03:54.300] There's three kinds.
+[00:03:54.660 --> 00:03:55.660] There's brotherly love.
+[00:03:55.920 --> 00:03:57.260] You got my kind of love,
+[00:03:57.400 --> 00:03:59.520] which is really hate for everything.
+[00:04:00.000 --> 00:04:22.000] No, you've got brotherly love, and see, that's what I've got for you. Brotherly love. And then you've got agape love, which is love for God. And then you've got, well, first off, you've got phileo love, which is brotherly love. You've got agape love, which is, and brotherly love also carries over to...
+[00:04:30.000 --> 00:04:31.940] Yes, you already told me.
+[00:04:33.000 --> 00:04:34.220] No, I never told you that.
+[00:04:35.360 --> 00:04:36.400] You told me something.
+[00:04:36.580 --> 00:04:39.400] You told me something.
+[00:04:39.600 --> 00:04:40.440] I don't remember what it was.
+[00:04:40.440 --> 00:04:41.380] You told me a bunch of shit.
+[00:04:42.160 --> 00:04:43.100] It doesn't really matter.
+[00:04:43.680 --> 00:04:44.080] I don't care.
+[00:04:46.320 --> 00:04:48.580] I hate everybody. [ASR uncertain: little_acoustic_speech_support]
+[00:04:49.340 --> 00:04:50.820] I'm always mean to everybody.
+[00:04:51.100 --> 00:04:52.040] It's just who I am.
+[00:04:52.120 --> 00:04:55.360] When I get over there, buddy, you know, I grew up with all brothers.
+[00:04:55.780 --> 00:04:56.660] I'm not like you guys.
+[00:04:56.660 --> 00:04:58.360] How many brothers you got, Tom?
+[00:04:58.720 --> 00:04:59.000] One. [ASR uncertain: little_acoustic_speech_support]
+[00:05:00.000 --> 00:05:01.360] You got one brother.
+[00:05:01.460 --> 00:05:02.140] You're older or younger?
+[00:05:02.580 --> 00:05:03.000] Older. [ASR uncertain: little_acoustic_speech_support]
+[00:05:03.680 --> 00:05:04.600] He's older? [ASR uncertain: little_acoustic_speech_support]
+[00:05:04.900 --> 00:05:05.220] Okay. [ASR uncertain: little_acoustic_speech_support]
+[00:05:05.580 --> 00:05:10.060] So, you guys, because of your age, you don't really get along.
+[00:05:10.500 --> 00:05:13.520] You don't say, I love you, to each other.
+[00:05:13.580 --> 00:05:13.940] Yes, I do.
+[00:05:13.940 --> 00:05:15.400] Because that wouldn't be cool.
+[00:05:16.040 --> 00:05:16.200] Huh? [ASR uncertain: little_acoustic_speech_support]
+[00:05:16.420 --> 00:05:17.060] Yes, I do.
+[00:05:17.320 --> 00:05:18.860] How the fuck do you know, Dr. Phil?
+[00:05:19.640 --> 00:05:20.320] Oh, really?
+[00:05:20.700 --> 00:05:21.100] Yes, I do.
+[00:05:21.100 --> 00:05:21.860] Because you're a young guy.
+[00:05:24.040 --> 00:05:28.460] So, when you talk to your brother on the phone, like, when I talk to my brothers on the phone,
+[00:05:30.000 --> 00:05:32.080] We say, love you, just like that.
+[00:05:32.180 --> 00:05:33.180] Love you, talk to you later.
+[00:05:33.920 --> 00:05:34.980] That's pretty gay, actually.
+[00:05:35.160 --> 00:05:37.020] I never talk that way too long.
+[00:05:37.960 --> 00:05:39.220] Sorry, because guess what?
+[00:05:39.320 --> 00:05:41.120] You don't know when you're going to drop dead.
+[00:05:41.760 --> 00:05:45.300] And the last thing I ever want to do is talk to my brothers without letting them know,
+[00:05:45.780 --> 00:05:47.420] I love them.
+[00:05:49.800 --> 00:05:51.360] Yeah, so, anyway. [ASR uncertain: little_acoustic_speech_support]
+[00:05:52.420 --> 00:05:55.000] But, long story short, is that it's too bad.
+[00:05:55.020 --> 00:05:56.220] See, I grew up with all brothers.
+[00:06:00.000 --> 00:06:05.780] other no how about beating the shit out of each other how about beating the shit out of anybody
+[00:06:05.780 --> 00:06:10.520] that got between anybody that stuck their nose between me and my other brothers that were beating
+[00:06:10.520 --> 00:06:14.440] the shit out of each other we beat the shit out of them and then went back to beating the shit
+[00:06:14.440 --> 00:06:23.380] out of each other okay i grew up in a violent family right when you were young that's for sure
+[00:06:30.420 --> 00:06:32.400] We've got no problems hugging each other in public.
+[00:06:32.540 --> 00:06:34.800] We used to get the shit out of each other in public.
+[00:06:34.920 --> 00:06:35.540] Now you love each other.
+[00:06:35.540 --> 00:06:42.160] Okay, so now, when I get over there, I'm going to give you a big brotherly hug.
+[00:06:42.460 --> 00:06:42.760] Right. [ASR uncertain: little_acoustic_speech_support]
+[00:06:43.580 --> 00:06:44.220] Fuck no.
+[00:06:44.620 --> 00:06:45.180] Fuck no.
+[00:06:45.300 --> 00:06:46.560] I'm never going to meet you.
+[00:06:49.720 --> 00:06:50.680] Fuck that, man.
+[00:06:52.320 --> 00:06:52.760] Yeah.
+[00:06:53.480 --> 00:06:53.880] No. [ASR uncertain: little_acoustic_speech_support]
+[00:06:54.220 --> 00:06:55.580] Then you'll know what it's like. [ASR uncertain: little_acoustic_speech_support]
+[00:06:56.340 --> 00:06:56.960] To be raped?
+[00:06:56.960 --> 00:06:58.040] To be raped.
+[00:06:58.120 --> 00:06:58.860] To be hugged. [ASR uncertain: little_acoustic_speech_support]
+[00:07:00.000 --> 00:07:07.360] with the hug of a brotherly hug right join my cervical um i'm playing uh tropical three
+[00:07:08.480 --> 00:07:20.480] why it's a fun game man oh yeah by the way so yes what's my school your school is uh oh
+[00:07:30.000 --> 00:07:30.520] I'll rape your mother.
+[00:07:30.520 --> 00:07:31.140] You mess.
+[00:07:31.280 --> 00:07:31.800] I'll rape your mother. [ASR uncertain: little_acoustic_speech_support]
+[00:07:31.800 --> 00:07:32.220] I'll rape your mother. [ASR uncertain: little_acoustic_speech_support]
+[00:07:32.460 --> 00:07:34.160] I'll rape your mother.
+[00:07:34.160 --> 00:07:35.040] I have a cap.
+[00:07:35.120 --> 00:07:36.280] You know what the cap says?
+[00:07:36.620 --> 00:07:37.640] You know what the cap says?
+[00:07:37.820 --> 00:07:40.680] It says, I'll rape your mother, you fucking religious pig.
+[00:07:41.880 --> 00:07:45.320] It says, it says, unlicus.
+[00:07:45.620 --> 00:07:51.440] You know what the, you know how they got, their meritus, they got this Greek shit on school insignias?
+[00:07:52.080 --> 00:07:54.660] My school insignias is just a joke, obviously.
+[00:07:54.660 --> 00:07:58.980] But it says, people say, because I wear it sometimes, and people say, oh, where'd you go to school?
+[00:08:00.000 --> 00:08:09.360] read it. What is the insignia? It says, P-I-S-S-O-N-U. Piss on you. Where's that? I was going like,
+[00:08:10.420 --> 00:08:16.340] and they said, would you graduate? I say, well, it says it right on the cap. Unlicus
+[00:08:16.340 --> 00:08:22.660] honest yous. They start laughing. They realized it says, Piss on you. Get it? Unlicus. We
+[00:08:22.660 --> 00:08:28.280] call it piss and leaking sometimes. We call pissing leaking sometimes. So it's unlicus
+[00:08:30.000 --> 00:08:33.840] That sounds pretty lame.

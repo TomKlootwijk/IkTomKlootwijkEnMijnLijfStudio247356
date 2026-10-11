@@ -1,0 +1,404 @@
+{
+  "schema_version": 1,
+  "complete": true,
+  "id": "LBRRnoweZuE",
+  "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 5/5 - \"FAPFAPFAPFAPFAPFAPFAPFAPFAP\"",
+  "position": 58,
+  "url": "https://www.youtube.com/watch?v=LBRRnoweZuE",
+  "audio": "audio/058 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_5 - _FAPFAPFAPFAPFAPFAPFAPFAPFAP_ [LBRRnoweZuE].mp3",
+  "language": "en",
+  "language_probability": 0.98974609375,
+  "duration": 74.5825,
+  "duration_after_vad": 74.5825,
+  "model": "mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf",
+  "runtime": {
+    "engine": "faster-whisper",
+    "device": "cuda",
+    "transcription_profile": "full-audio-30s-repetition-v3",
+    "compute_type": "int8_float16",
+    "cpu_threads": 12,
+    "batch_size": 2,
+    "beam_size": 5,
+    "vad_filter": false,
+    "full_audio": true,
+    "chunk_seconds": 30,
+    "without_timestamps": false,
+    "silence_guard": "skip no_speech_prob > 0.6 and avg_logprob < -1.0",
+    "repetition_guard": "suppress chunks with compression_ratio > 3 or >=4 repeated phrases dominating a chunk",
+    "acoustic_qa": "VAD measured for QA only; long sparse output without acoustic support suppressed; low-confidence output outside acoustic speech suppressed for <1%-speech recordings",
+    "condition_on_previous_text": false,
+    "python": "3.12.10",
+    "packages": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.2",
+      "av": "18.1.0",
+      "onnxruntime": "1.31.0",
+      "nvidia-cublas-cu12": "12.9.2.10",
+      "nvidia-cudnn-cu12": "9.27.0.42",
+      "nvidia-cuda-runtime-cu12": "12.9.79"
+    },
+    "gpu_fallback_reason": null
+  },
+  "started_at": "2026-10-11T09:23:56.696099+00:00",
+  "completed_at": "2026-10-11T09:23:59.397070+00:00",
+  "processing_seconds": 2.687,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.0,
+      "text": "Sup",
+      "avg_logprob": -0.25235616143733736,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.3333333333333333,
+      "acoustic_speech_overlap_seconds": 1.792
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Sup",
+      "avg_logprob": -0.25235616143733736,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.3333333333333333,
+      "acoustic_speech_overlap_seconds": 1.0
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Music, music",
+      "avg_logprob": -0.25235616143733736,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7222222222222222,
+      "acoustic_speech_overlap_seconds": 1.0
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Sup",
+      "avg_logprob": -0.25235616143733736,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.3333333333333333,
+      "acoustic_speech_overlap_seconds": 1.0
+    },
+    {
+      "start": 5.0,
+      "end": 9.0,
+      "text": "But, gentlemen, I'm in the middle of trying to make some money here",
+      "avg_logprob": -0.25235616143733736,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9714285714285714,
+      "acoustic_speech_overlap_seconds": 4.0
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Yeah, right, yeah, right",
+      "avg_logprob": -0.25235616143733736,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0416666666666667,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 11.0,
+      "end": 15.0,
+      "text": "The time now over there is almost 4 o'clock, 4, 6, 8 o'clock",
+      "avg_logprob": -0.25235616143733736,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9682539682539683,
+      "acoustic_speech_overlap_seconds": 4.0
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "No, it's 7 o'clock",
+      "avg_logprob": -0.25235616143733736,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7037037037037037,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 17.0,
+      "end": 19.0,
+      "text": "So nobody hears your fap",
+      "avg_logprob": -0.25235616143733736,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7575757575757576,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 19.0,
+      "end": 20.0,
+      "text": "7 o'clock",
+      "avg_logprob": -0.25235616143733736,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5555555555555556,
+      "acoustic_speech_overlap_seconds": 1.0
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "Nobody hears your fap, Chris",
+      "avg_logprob": -0.25235616143733736,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7837837837837838,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "That's why you're playing the music so hard",
+      "avg_logprob": -0.25235616143733736,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8461538461538461,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": "So nobody hears your fap, Chris",
+      "avg_logprob": -0.25235616143733736,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "7 o'clock",
+      "avg_logprob": -0.25235616143733736,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5555555555555556,
+      "acoustic_speech_overlap_seconds": 2.0
+    },
+    {
+      "start": 30.0,
+      "end": 31.78,
+      "text": "Fap",
+      "avg_logprob": -0.25279851925017227,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.3333333333333333,
+      "acoustic_speech_overlap_seconds": 1.78
+    },
+    {
+      "start": 31.78,
+      "end": 32.7,
+      "text": "Fap, yeah",
+      "avg_logprob": -0.25279851925017227,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5555555555555556,
+      "acoustic_speech_overlap_seconds": 0.92
+    },
+    {
+      "start": 32.7,
+      "end": 33.32,
+      "text": "Masturbate",
+      "avg_logprob": -0.25279851925017227,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5789473684210527,
+      "acoustic_speech_overlap_seconds": 0.62
+    },
+    {
+      "start": 33.32,
+      "end": 34.6,
+      "text": "Resurrection, please",
+      "avg_logprob": -0.25279851925017227,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7241379310344828,
+      "acoustic_speech_overlap_seconds": 1.28
+    },
+    {
+      "start": 34.6,
+      "end": 35.52,
+      "text": "Masturbate",
+      "avg_logprob": -0.25279851925017227,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5789473684210527,
+      "acoustic_speech_overlap_seconds": 0.92
+    },
+    {
+      "start": 35.52,
+      "end": 36.8,
+      "text": "That boy needs therapy",
+      "avg_logprob": -0.25279851925017227,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7419354838709677,
+      "acoustic_speech_overlap_seconds": 1.28
+    },
+    {
+      "start": 36.8,
+      "end": 38.08,
+      "text": "Oh, okay, fap",
+      "avg_logprob": -0.25279851925017227,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6363636363636364,
+      "acoustic_speech_overlap_seconds": 1.28
+    },
+    {
+      "start": 38.08,
+      "end": 39.26,
+      "text": "I like that",
+      "avg_logprob": -0.25279851925017227,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6,
+      "acoustic_speech_overlap_seconds": 1.18
+    },
+    {
+      "start": 39.26,
+      "end": 40.24,
+      "text": "Fap",
+      "avg_logprob": -0.25279851925017227,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.3333333333333333,
+      "acoustic_speech_overlap_seconds": 0.98
+    },
+    {
+      "start": 40.24,
+      "end": 40.78,
+      "text": "Fapping",
+      "avg_logprob": -0.25279851925017227,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5,
+      "acoustic_speech_overlap_seconds": 0.54
+    },
+    {
+      "start": 40.78,
+      "end": 44.04,
+      "text": "Fap, fap, fap, fap, fap, fap, fap, fap, fap",
+      "avg_logprob": -0.25279851925017227,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 2.588235294117647,
+      "acoustic_speech_overlap_seconds": 3.26,
+      "qa_flags": [
+        "possible_repetition"
+      ]
+    },
+    {
+      "start": 44.04,
+      "end": 44.36,
+      "text": "Yes",
+      "avg_logprob": -0.25279851925017227,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.3333333333333333,
+      "acoustic_speech_overlap_seconds": 0.32
+    },
+    {
+      "start": 44.36,
+      "end": 48.1,
+      "text": "I guess that would be the sound sometimes it would make",
+      "avg_logprob": -0.25279851925017227,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.018181818181818,
+      "acoustic_speech_overlap_seconds": 3.74
+    },
+    {
+      "start": 48.1,
+      "end": 49.56,
+      "text": "Yeah, okay",
+      "avg_logprob": -0.25279851925017227,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5789473684210527,
+      "acoustic_speech_overlap_seconds": 1.46
+    },
+    {
+      "start": 49.56,
+      "end": 51.1,
+      "text": "That's what we call it, fap",
+      "avg_logprob": -0.25279851925017227,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8235294117647058,
+      "acoustic_speech_overlap_seconds": 1.54
+    },
+    {
+      "start": 51.1,
+      "end": 53.38,
+      "text": "Fap, got it",
+      "avg_logprob": -0.25279851925017227,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6,
+      "acoustic_speech_overlap_seconds": 2.28
+    },
+    {
+      "start": 53.38,
+      "end": 55.18,
+      "text": "Anyway",
+      "avg_logprob": -0.25279851925017227,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.4666666666666667,
+      "acoustic_speech_overlap_seconds": 1.8
+    },
+    {
+      "start": 55.18,
+      "end": 57.38,
+      "text": "Listen, call me back",
+      "avg_logprob": -0.25279851925017227,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7241379310344828,
+      "acoustic_speech_overlap_seconds": 2.2
+    },
+    {
+      "start": 60.0,
+      "end": 61.32,
+      "text": "or just give me about an hour or so.",
+      "avg_logprob": -0.5194128787878788,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8409090909090909,
+      "acoustic_speech_overlap_seconds": 1.32
+    },
+    {
+      "start": 61.94,
+      "end": 62.24,
+      "text": "Okay.",
+      "avg_logprob": -0.5194128787878788,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.42857142857142855,
+      "acoustic_speech_overlap_seconds": 0.3
+    },
+    {
+      "start": 63.24,
+      "end": 63.48,
+      "text": "Bye.",
+      "avg_logprob": -0.5194128787878788,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.38461538461538464,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 63.88,
+      "end": 64.14,
+      "text": "All right.",
+      "avg_logprob": -0.5194128787878788,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5789473684210527,
+      "acoustic_speech_overlap_seconds": 0,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 72.72,
+      "end": 74.02,
+      "text": "That boy needs therapy.",
+      "avg_logprob": -0.5194128787878788,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.75,
+      "acoustic_speech_overlap_seconds": 0.916
+    }
+  ],
+  "qa": {
+    "full_audio_processed": true,
+    "processed_audio_seconds": 74.5825,
+    "flagged_segments": 3,
+    "suppressed_segments": 0,
+    "acoustic_speech_seconds": 64.007,
+    "suppressed_probable_silence_segments": 0,
+    "unreliable_intervals": [],
+    "human_reviewed": false,
+    "flags": [
+      "Contains low confidence or possible non-speech recognition."
+    ]
+  },
+  "suppressed_segments": [],
+  "notice": "Machine transcription of downloaded audio; may contain recognition errors."
+}

@@ -1,0 +1,25 @@
+Chris the Hacker and Tom the Fag - Nov 2009 - 9/9 - "Goodnight"
+https://www.youtube.com/watch?v=XbdT2jVMwMI
+Language: en | Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors.
+
+[00:00:00.000 --> 00:00:02.160] Those drawings are also proven fake.
+[00:00:03.380 --> 00:00:07.860] You know, I know what you're talking about, the ancient Egyptian drawings.
+[00:00:08.840 --> 00:00:14.720] I don't know. Can you send me a link so I can do the research on that?
+[00:00:15.280 --> 00:00:17.620] Can you do some research?
+[00:00:18.140 --> 00:00:20.640] Actually, most of those represent God.
+[00:00:22.480 --> 00:00:26.700] Usually it's not UFOs or the spacecraft kind of guys.
+[00:00:26.700 --> 00:00:28.480] I know what you're talking about, it's all the drawings.
+[00:00:30.000 --> 00:00:34.140] Guys, when this conversation disconnects again, I'm going to bed.
+[00:00:35.740 --> 00:00:37.160] Hey, yeah, okay.
+[00:00:37.440 --> 00:00:38.660] Why, it's late over there now, huh? [ASR uncertain: little_acoustic_speech_support]
+[00:00:38.760 --> 00:00:42.560] It's quarter to four, but I'm just really tired because I was sick in two days. [ASR uncertain: little_acoustic_speech_support]
+[00:00:45.460 --> 00:00:46.880] Mike, what do you have?
+[00:00:48.160 --> 00:00:48.860] I have the flu. [ASR uncertain: little_acoustic_speech_support]
+[00:00:50.140 --> 00:00:50.940] Oh, swine flu.
+[00:00:51.480 --> 00:00:52.200] Not really. [ASR uncertain: little_acoustic_speech_support]
+[00:00:53.780 --> 00:00:55.260] How can you tell the difference anyway?
+[00:00:55.260 --> 00:00:59.540] I've had the flu like two to three times in about four weeks now.
+[00:01:00.000 --> 00:01:03.000] Oh, and I think he just hung up or something.
+[00:01:03.000 --> 00:01:05.000] Yeah, he just hung up.
+[00:01:05.000 --> 00:01:06.920] Oh, goodnight.

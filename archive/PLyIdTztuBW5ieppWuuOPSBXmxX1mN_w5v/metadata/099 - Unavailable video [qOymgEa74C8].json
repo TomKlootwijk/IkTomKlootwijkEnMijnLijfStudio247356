@@ -1,0 +1,52 @@
+{
+  "id": "qOymgEa74C8",
+  "title": null,
+  "description": null,
+  "webpage_url": "https://www.youtube.com/watch?v=qOymgEa74C8",
+  "uploader": null,
+  "uploader_id": null,
+  "channel": null,
+  "channel_id": null,
+  "channel_url": null,
+  "upload_date": null,
+  "timestamp": null,
+  "duration": null,
+  "tags": null,
+  "categories": null,
+  "license": null,
+  "age_limit": null,
+  "availability": null,
+  "language": null,
+  "view_count": null,
+  "like_count": null,
+  "playlist_id": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v",
+  "playlist_title": "Chris the Hacker and Tom the Fag",
+  "playlist_position": 99,
+  "archived_at": "2026-10-11T09:07:03.564047+00:00",
+  "archive_mirror": {
+    "id": "qOymgEa74C8",
+    "media_url": "https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/qOymgEa74C8",
+    "media_name": "qOymgEa74C8.mp4",
+    "size": 24637764,
+    "media_sha1": null,
+    "info_url": null,
+    "original_metadata": {
+      "id": "qOymgEa74C8",
+      "title": null,
+      "duration": null,
+      "uploader": null,
+      "webpage_url": "https://www.youtube.com/watch?v=qOymgEa74C8"
+    },
+    "metadata_source_url": null,
+    "verification": {
+      "http_status": 200,
+      "content_type": "video/mp4",
+      "content_length": 24637764,
+      "method": "HTTP HEAD; no media downloaded"
+    },
+    "archive_identifier": "Wayback Machine",
+    "original_saved_title": null,
+    "sha1_verified": false,
+    "download_sha256": "802bad027020f8b8d8ae8ea2990c272cef6ac6251df0b83c02f939b1170db6fb"
+  }
+}

@@ -1,0 +1,58 @@
+Chris the Hacker and Tom the Fag - Oct 2009 - 7/7 - "nWo"
+https://www.youtube.com/watch?v=hSmv7R5eyNo
+Language: en | Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors.
+
+[00:00:00.000 --> 00:00:02.000] Oh, my God. It's all conspiracy.
+[00:00:02.000 --> 00:00:06.000] By the way, I wanted to tell you this earlier, but I forgot.
+[00:00:06.000 --> 00:00:13.000] We got off onto something else, but check out YouTube and check out American Police Force.
+[00:00:13.000 --> 00:00:18.000] Oh, I don't want to look at conspiracy propaganda.
+[00:00:18.000 --> 00:00:26.000] It's not about police forces which are individually run in cities and towns in America.
+[00:00:26.000 --> 00:00:28.000] I don't want to look at conspiracy propaganda.
+[00:00:30.000 --> 00:00:31.180] Have you heard of Blackwater?
+[00:00:31.900 --> 00:00:32.640] Blackwater, USA?
+[00:00:33.640 --> 00:00:34.120] No.
+[00:00:34.280 --> 00:00:34.880] Have you heard of Blackwater?
+[00:00:34.880 --> 00:00:37.240] Oh, Blackwater, the mercenary corporation.
+[00:00:37.480 --> 00:00:37.820] Yes.
+[00:00:38.520 --> 00:00:38.940] Yes.
+[00:00:39.080 --> 00:00:39.300] Guess what?
+[00:00:40.480 --> 00:00:40.960] What?
+[00:00:40.960 --> 00:00:43.920] American police force, Blackwater.
+[00:00:45.080 --> 00:00:48.480] You know, you guys are going to see a whole bunch of shit.
+[00:00:48.600 --> 00:00:51.460] You don't realize what's going on in your countries, either.
+[00:00:51.820 --> 00:00:53.880] You don't know what's politically going on in your countries.
+[00:00:54.420 --> 00:00:55.740] You don't follow that, I'm sure.
+[00:00:56.760 --> 00:00:57.000] You do?
+[00:00:57.460 --> 00:00:58.400] Yeah, we do.
+[00:01:00.000 --> 00:01:01.780] It's important that you follow politics right now.
+[00:01:01.780 --> 00:01:02.840] It's not really important, actually.
+[00:01:03.340 --> 00:01:04.880] I usually don't give a fuck.
+[00:01:06.100 --> 00:01:07.460] You know, the Netherlands is like a little country.
+[00:01:07.540 --> 00:01:09.180] It doesn't really matter what happens here politically.
+[00:01:09.180 --> 00:01:10.060] We don't really give a fuck anyway.
+[00:01:12.820 --> 00:01:14.420] What's like a little country anyway?
+[00:01:14.980 --> 00:01:18.280] The Netherlands, but we don't really give a fuck what happens.
+[00:01:19.220 --> 00:01:22.000] Yeah, I mean, what happens here doesn't really matter in the rest of the world.
+[00:01:23.200 --> 00:01:26.820] Listen, Russia is going back to communism.
+[00:01:26.820 --> 00:01:29.080] What happens when you get caught behind the Iron Curtain?
+[00:01:30.000 --> 00:01:35.000] If you have a lot of money, they'll come and take it.
+[00:01:35.000 --> 00:01:41.420] Yeah, well, if they don't have to buy it, they'll take your money.
+[00:01:42.240 --> 00:01:44.240] They don't need your permission to get your money.
+[00:01:44.380 --> 00:01:45.400] They'll take your fucking money.
+[00:01:46.320 --> 00:01:47.940] You could have sent us the money already.
+[00:01:49.360 --> 00:01:53.880] But anyways, but listen, listen, you guys get back to work, do what you're doing, make
+[00:01:53.880 --> 00:01:58.360] sure you concentrate on what you're doing, and call me back later on tonight.
+[00:01:59.500 --> 00:01:59.780] Okay.
+[00:02:00.000 --> 00:02:00.720] Sounds like a good idea?
+[00:02:01.080 --> 00:02:02.020] Yeah, I like it.
+[00:02:02.360 --> 00:02:02.660] Okay.
+[00:02:02.820 --> 00:02:03.260] I like it.
+[00:02:03.560 --> 00:02:03.800] Okay?
+[00:02:03.920 --> 00:02:04.480] All right, see you.
+[00:02:04.540 --> 00:02:04.640] Bye. [ASR uncertain: little_acoustic_speech_support]
+[00:02:04.640 --> 00:02:04.680] Bye. [ASR uncertain: little_acoustic_speech_support]
+[00:03:00.000 --> 00:03:02.260] and nephew of [ASR uncertain: little_acoustic_speech_support]
+
+Intervals requiring review (unreliable ASR output suppressed):
+[00:02:30.000 --> 00:02:59.980] Sparse decoder output over a long interval without acoustic speech support.

@@ -1,0 +1,98 @@
+Chris the hacker gives an update part 2
+https://www.youtube.com/watch?v=Tf7TuPkis2A
+Language: en | Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors.
+
+[00:00:00.000 --> 00:00:00.800] Never lie.
+[00:00:04.700 --> 00:00:08.800] Are you going to jump in when something, like, tickles your ear or something?
+[00:00:09.580 --> 00:00:11.340] Yeah, well, yeah, no, continue the story.
+[00:00:11.400 --> 00:00:11.800] I'm sorry.
+[00:00:14.860 --> 00:00:19.880] So, the bottom line here is that this is going to snowball.
+[00:00:19.880 --> 00:00:26.320] The detective says if he's done what you said he's done and been calling for two years or better,
+[00:00:30.000 --> 00:00:33.120] calling in and wanting him extradited.
+[00:00:34.120 --> 00:00:36.620] I said, yeah, that's a possibility.
+[00:00:37.400 --> 00:00:38.460] That's a possibility.
+[00:00:38.980 --> 00:00:46.160] I said, if he cooperates, maybe you can get those charges whittled down to maybe, you know,
+[00:00:47.020 --> 00:00:51.540] maybe a couple, three weeks in jail with maybe a $100 fine.
+[00:00:52.100 --> 00:00:53.640] He says, I don't know about that.
+[00:00:53.880 --> 00:00:55.320] He said, it's a $100 fine.
+[00:00:55.380 --> 00:00:56.560] I don't even think so.
+[00:00:57.120 --> 00:00:58.740] It's not like a parking ticket.
+[00:01:00.000 --> 00:01:05.160] speeding fine. I said, well, I understand that. I said, but just hypothetically, because if you look
+[00:01:05.160 --> 00:01:14.220] at $100 times 100 jurisdictions, that's $10,000 right there. I said, if you look at 100 jurisdictions
+[00:01:14.220 --> 00:01:21.060] times two weeks, just a simple two weeks in jail, you're looking at 200 weeks.
+[00:01:21.460 --> 00:01:26.920] That's 52 weeks in a year. That's almost four years in jail.
+[00:01:26.920 --> 00:01:29.320] Do you think that's actually going to stick?
+[00:01:30.960 --> 00:01:33.300] Not to mention, oh, absolutely.
+[00:01:35.280 --> 00:01:37.900] Do you really think that they're going to go that far?
+[00:01:39.280 --> 00:01:40.360] Go what far?
+[00:01:41.580 --> 00:01:46.420] To have everything, to have it, to, like, make and do all those sentences.
+[00:01:49.100 --> 00:01:50.780] You don't know this country.
+[00:01:50.940 --> 00:01:52.320] You don't know the people in this country.
+[00:02:00.000 --> 00:02:03.400] When I forwarded the FBI
+[00:02:03.400 --> 00:02:07.960] Kuhn's email
+[00:02:07.960 --> 00:02:09.620] with respect to Stuxnet
+[00:02:09.620 --> 00:02:14.780] you probably have no knowledge of 60 minutes
+[00:02:14.780 --> 00:02:17.400] Kuhn was gone
+[00:02:17.400 --> 00:02:18.880] for like a year
+[00:02:18.880 --> 00:02:20.720] he didn't make Stuxnet
+[00:02:20.720 --> 00:02:23.200] he didn't use Stuxnet at all
+[00:02:23.200 --> 00:02:24.700] Oh right, yeah
+[00:02:24.700 --> 00:02:25.760] he was in Malaysia
+[00:02:25.760 --> 00:02:27.740] No, he was in Australia
+[00:02:30.000 --> 00:02:32.580] In Australia, Malaysia, whatever.
+[00:02:32.900 --> 00:02:35.740] No, he was in Australia for a year working there.
+[00:02:36.500 --> 00:02:38.200] He was also in Malaysia.
+[00:02:39.760 --> 00:02:42.520] Yeah, he went there for like a week or two weeks or something.
+[00:02:42.660 --> 00:02:43.060] I don't know.
+[00:02:44.440 --> 00:02:50.240] So long story short, I've been tracking Tune for a long time.
+[00:02:52.740 --> 00:02:55.260] So I don't care where else he's been.
+[00:03:00.000 --> 00:03:04.720] information is, that tells me certain other information.
+[00:03:05.340 --> 00:03:06.480] Well, what do you need, then?
+[00:03:06.740 --> 00:03:07.280] What do you need?
+[00:03:11.460 --> 00:03:11.860] What? [ASR uncertain: little_acoustic_speech_support]
+[00:03:12.300 --> 00:03:13.360] Well, what do you need?
+[00:03:13.780 --> 00:03:15.140] What kind of information do you need?
+[00:03:18.680 --> 00:03:21.720] I haven't given that thought because I wasn't expecting this phone call.
+[00:03:22.140 --> 00:03:24.040] But tell you what, call me back in a couple of hours.
+[00:03:24.540 --> 00:03:28.440] Let me get back to work here doing some e-mails, and I'll have an answer for you.
+[00:03:30.000 --> 00:03:33.240] Wait, you don't have some time to just talk a little bit more?
+[00:03:34.240 --> 00:03:36.020] No, I don't, because I'm busy.
+[00:03:36.360 --> 00:03:37.360] I'm going out of business.
+[00:03:37.540 --> 00:03:39.920] I'm packing up and doing emails right now to that.
+[00:03:40.220 --> 00:03:42.960] When is this line not available anymore?
+[00:03:45.940 --> 00:03:49.740] This line may, in fact, be available for some time.
+[00:03:51.160 --> 00:03:52.540] For how much time?
+[00:03:52.640 --> 00:03:53.660] I didn't quite catch that.
+[00:03:55.040 --> 00:03:58.240] For some time to come.
+[00:04:00.000 --> 00:04:08.480] you'll just be able to think available for some time to come that's a fan that's a that's a u.s
+[00:04:08.480 --> 00:04:17.200] saying it means he's probably going to be online for a little while all right anyway how are you
+[00:04:17.200 --> 00:04:22.240] gonna how are you going to fix it like with arresting jesus or tracking him down because
+[00:04:22.240 --> 00:04:28.800] the laws you have over there don't apply to jesus no but you know something this is a very similar
+[00:04:30.000 --> 00:04:34.280] over there that apply to the felonies he's committed over here.
+[00:04:34.560 --> 00:04:42.820] When he used any kind of credit card other than a real credit card to put in the $10,000 worth of merchandise,
+[00:04:43.060 --> 00:04:47.400] he ordered from Monster 1200, who I've already talked to the corporate owner,
+[00:04:48.240 --> 00:04:50.180] and he's interested in the information.
+[00:04:50.820 --> 00:04:54.760] Trust me, I've lost a lot of money, but I'm going to make a lot of money.
+[00:05:00.000 --> 00:05:02.100] in my life. I'm going to make it that way.
+[00:05:02.620 --> 00:05:03.800] Because you can either take
+[00:05:03.800 --> 00:05:05.940] a situation and do
+[00:05:05.940 --> 00:05:07.900] one or two things with it. Either be
+[00:05:07.900 --> 00:05:09.820] defeated by it, or use
+[00:05:09.820 --> 00:05:11.820] certain elements in it to gain
+[00:05:11.820 --> 00:05:13.840] an advantage over it, and
+[00:05:13.840 --> 00:05:14.640] then triumph.
+[00:05:16.060 --> 00:05:16.460] Uh-huh.
+[00:05:17.740 --> 00:05:20.060] But did you get any food yesterday
+[00:05:20.060 --> 00:05:21.620] or sent to your
+[00:05:21.620 --> 00:05:22.620] business?
+[00:05:23.700 --> 00:05:25.000] You already know I did.
+[00:05:26.140 --> 00:05:27.060] Wait, wait, wait.
+[00:05:27.340 --> 00:05:28.300] No, you did?
+[00:05:30.000 --> 00:05:39.220] already know i did no it got it arrived the food that wasn't here but yeah all right no like well
+[00:05:39.220 --> 00:05:48.340] which company was it it doesn't really matter was it gary's something like that yeah all right
+[00:05:48.340 --> 00:05:55.140] yeah i know i heard it from other people that they sent you food again yep well that just
+[00:06:00.000 --> 00:06:08.940] yeah that sucks you didn't pay for it
+[00:06:08.940 --> 00:06:12.420] anyway
+[00:06:12.420 --> 00:06:15.240] what
+[00:06:15.240 --> 00:06:20.460] all right man good luck i'll talk to you

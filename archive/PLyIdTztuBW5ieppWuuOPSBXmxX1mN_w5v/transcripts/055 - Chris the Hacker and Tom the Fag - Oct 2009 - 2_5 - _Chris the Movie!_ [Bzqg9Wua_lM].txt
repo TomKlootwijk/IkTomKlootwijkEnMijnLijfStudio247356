@@ -1,0 +1,117 @@
+Chris the Hacker and Tom the Fag - Oct 2009 - 2/5 - "Chris the Movie!"
+https://www.youtube.com/watch?v=Bzqg9Wua_lM
+Language: en | Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors.
+
+[00:00:00.000 --> 00:00:04.340] George Clooney looks a little bit like me.
+[00:00:04.340 --> 00:00:06.700] So how are business, how's business, Chris?
+[00:00:07.940 --> 00:00:13.760] I'm thinking about, uh, oh, Theo.
+[00:00:14.880 --> 00:00:15.300] Theo?
+[00:00:15.400 --> 00:00:15.520] Huh? [ASR uncertain: little_acoustic_speech_support]
+[00:00:16.720 --> 00:00:17.200] Theo. [ASR uncertain: little_acoustic_speech_support]
+[00:00:19.080 --> 00:00:21.000] When I got, I got, she'd, uh. [ASR uncertain: little_acoustic_speech_support]
+[00:00:23.040 --> 00:00:24.560] Do you know who Theo is? [ASR uncertain: little_acoustic_speech_support]
+[00:00:24.960 --> 00:00:25.400] Theodore.
+[00:00:26.440 --> 00:00:26.920] Theo?
+[00:00:30.000 --> 00:00:32.000] What movie had a guy named Theo?
+[00:00:32.000 --> 00:00:34.000] C or T?
+[00:00:34.000 --> 00:00:37.000] T. T-H-E-O. Theo.
+[00:00:37.000 --> 00:00:38.000] Theo.
+[00:00:38.000 --> 00:00:42.000] T-H-E-O can be the. The. The.
+[00:00:42.000 --> 00:00:46.000] I don't watch Chick Flakes either.
+[00:00:46.000 --> 00:00:48.000] Okay, The Matrix?
+[00:00:48.000 --> 00:00:50.000] Neo!
+[00:00:50.000 --> 00:00:52.000] Neo, not T-O, that's C-O.
+[00:00:52.000 --> 00:00:54.000] Wow, what the fuck were you talking about?
+[00:00:54.000 --> 00:00:56.000] Neo, death, don't you fucking forget it.
+[00:00:56.000 --> 00:00:58.000] Of course not.
+[00:00:58.000 --> 00:00:59.000] Why?
+[00:01:00.000 --> 00:01:02.180] Yeah, I've got to watch that movie or something.
+[00:01:02.900 --> 00:01:03.860] I've got to come all, huh?
+[00:01:04.600 --> 00:01:05.880] Yeah, because it's like reality.
+[00:01:06.020 --> 00:01:07.480] We're all living in a matrix, you know?
+[00:01:08.160 --> 00:01:08.680] That's right.
+[00:01:09.020 --> 00:01:11.160] So Neo's going to be playing me.
+[00:01:13.800 --> 00:01:15.980] I mean, Marcel is going to be Trinity?
+[00:01:17.320 --> 00:01:17.600] Yeah. [ASR uncertain: little_acoustic_speech_support]
+[00:01:21.360 --> 00:01:24.880] Hey, guys, fucking use your fucking guns.
+[00:01:30.000 --> 00:01:34.760] I'd like to play, let's see, Mr. Schmidt.
+[00:01:34.760 --> 00:01:37.800] He'd like to play the autistic guy from Rain Man.
+[00:01:38.400 --> 00:01:39.340] Autistic guy.
+[00:01:39.840 --> 00:01:41.460] Let's not be playing ginger.
+[00:01:43.140 --> 00:01:44.520] Who's the autistic guy?
+[00:01:44.820 --> 00:01:45.520] Oh, the spoon guy?
+[00:01:45.540 --> 00:01:45.940] From Rain Man.
+[00:01:46.140 --> 00:01:46.840] From Rain Man.
+[00:01:48.000 --> 00:01:49.080] No, we're talking about the Matrix.
+[00:01:49.260 --> 00:01:50.340] C-E-E-R-N.
+[00:01:51.640 --> 00:01:52.500] Maid Man.
+[00:01:52.680 --> 00:01:53.780] Maid Man Vern.
+[00:01:54.680 --> 00:01:56.100] I'd like to play a simple jack.
+[00:01:58.300 --> 00:01:59.460] My Maid Man Vern.
+[00:02:00.000 --> 00:02:03.180] E-Earn, Vern, Maidman.
+[00:02:03.360 --> 00:02:04.340] Do you know who's Seeker Jack?
+[00:02:04.360 --> 00:02:05.440] Actually, that'd be a great idea.
+[00:02:06.240 --> 00:02:08.500] We all play different superheroes.
+[00:02:09.240 --> 00:02:10.760] What the fuck is this kind of movie?
+[00:02:12.020 --> 00:02:13.800] This movie will fucking suck.
+[00:02:14.240 --> 00:02:17.040] I'm going to be the fucking Hulk.
+[00:02:18.360 --> 00:02:19.000] Yeah, of course.
+[00:02:19.100 --> 00:02:19.780] You're going to be the leader.
+[00:02:19.900 --> 00:02:20.000] Right. [ASR uncertain: little_acoustic_speech_support]
+[00:02:20.520 --> 00:02:21.460] Yeah, of course.
+[00:02:21.560 --> 00:02:22.600] You'll be the leader, Christian.
+[00:02:25.560 --> 00:02:27.700] Yeah, I'll just be Batman or something.
+[00:02:28.920 --> 00:02:29.680] Where's Harvey?
+[00:02:30.000 --> 00:02:32.000] Hello?
+[00:02:32.000 --> 00:02:34.000] Yeah.
+[00:02:34.000 --> 00:02:36.000] Okay. Hello? [ASR uncertain: little_acoustic_speech_support]
+[00:02:36.000 --> 00:02:38.000] Oh, I thought my dad was downloading shit again.
+[00:02:38.000 --> 00:02:40.000] Huh?
+[00:02:40.000 --> 00:02:42.000] Alright. [ASR uncertain: little_acoustic_speech_support]
+[00:02:42.000 --> 00:02:44.000] Alright. [ASR uncertain: little_acoustic_speech_support]
+[00:02:44.000 --> 00:02:46.000] What'd you say?
+[00:02:46.000 --> 00:02:50.000] Yeah, Marcel, you think you got it all figured out,
+[00:02:50.000 --> 00:02:52.000] but you don't know.
+[00:02:52.000 --> 00:02:54.000] No, nothing, nothing.
+[00:02:54.000 --> 00:02:56.000] You think you got it all figured out?
+[00:03:00.000 --> 00:03:07.040] how's it how's it uh how is it to be a ginger
+[00:03:07.040 --> 00:03:16.780] yeah that's what they all say yeah i don't know when he's going to figure out that that uh
+[00:03:16.780 --> 00:03:23.320] that whole email is full of shit actually yeah of course it is nobody likes being a ginger
+[00:03:30.000 --> 00:03:32.000] We hear you.
+[00:03:32.000 --> 00:03:34.000] Exactly, we'll be gentle.
+[00:03:34.000 --> 00:03:36.000] Or we feel your pain.
+[00:03:39.000 --> 00:03:42.000] You are never going to feel my pain, Chris.
+[00:03:42.000 --> 00:03:44.000] Seriously.
+[00:03:44.000 --> 00:03:48.000] I would be the luckiest guy on Earth if that were to do it for me, but...
+[00:03:50.000 --> 00:03:52.000] It's okay, Ginger.
+[00:03:52.000 --> 00:03:54.000] Don't worry about it.
+[00:03:54.000 --> 00:03:56.000] We know what you've been through, man.
+[00:03:56.000 --> 00:03:58.000] But anyway, it'll change. [ASR uncertain: little_acoustic_speech_support]
+[00:04:00.000 --> 00:04:29.900] change. That's right. By the time you're done, nobody will be making fun of you. Yeah. They all think I'm the hardest guy. Yeah. Click your heels. We're not in Kansas anymore. Anyway, Marcia, I wanted to call you because he was worried about money. No, I was not. You just
+[00:04:30.000 --> 00:04:35.000] I suddenly called Chris while I was fucking playing TF2.
+[00:04:35.000 --> 00:04:40.000] I can't remember the month yet, guys.
+[00:04:40.000 --> 00:04:43.000] I'm struggling. I'm struggling.
+[00:04:43.000 --> 00:04:45.000] I'm struggling.
+[00:04:45.000 --> 00:04:49.000] But you haven't given me the information yet, so there's your trump card.
+[00:04:49.000 --> 00:04:51.000] Oh, you didn't? [ASR uncertain: little_acoustic_speech_support]
+[00:04:51.000 --> 00:04:52.000] No, of course not.
+[00:04:52.000 --> 00:04:56.000] Yes, I did. The same day as when we...
+[00:04:56.000 --> 00:04:58.000] Yes, I did.
+[00:04:58.000 --> 00:04:59.000] No, you didn't.
+[00:05:00.000 --> 00:05:08.080] as uh we uh made the agreement yes i did oh yeah he gave the paypal you did the what
+[00:05:08.080 --> 00:05:15.080] the paypal when i got i got i got a cheetah no no you haven't given me the information
+[00:05:15.080 --> 00:05:22.960] no that is being paid for yet when you're gonna get that once we get money for it
+[00:05:30.000 --> 00:05:31.720] I don't, I'm not Donald Trump.
+[00:05:34.060 --> 00:05:36.420] He has a really nice hotel in Chicago, though.
+[00:05:37.940 --> 00:05:38.560] You have seen that?
+[00:05:39.520 --> 00:05:41.340] Yep, yep, yep, yep, yep. [ASR uncertain: little_acoustic_speech_support]
+[00:05:42.320 --> 00:05:47.080] Well, Jay Marshall told me that he wants the money first, or at least half of it.
+[00:05:47.840 --> 00:05:49.040] Of course, of course.
+[00:05:49.720 --> 00:05:50.600] Of course. [ASR uncertain: little_acoustic_speech_support]
+[00:05:51.020 --> 00:05:52.320] So when can we expect it then?
+[00:05:52.440 --> 00:05:53.940] No need to, uh...
+[00:05:53.940 --> 00:05:56.180] Yeah, but I said by the latest, by the middle of the month.
+[00:05:57.100 --> 00:05:57.880] Middle of the month?
+[00:05:58.940 --> 00:05:59.340] Okay.
+[00:06:00.000 --> 00:06:02.080] month. The bills come first.

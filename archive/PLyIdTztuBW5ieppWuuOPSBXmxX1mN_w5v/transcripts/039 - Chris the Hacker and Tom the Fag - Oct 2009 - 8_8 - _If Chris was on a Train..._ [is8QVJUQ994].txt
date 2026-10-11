@@ -1,0 +1,259 @@
+Chris the Hacker and Tom the Fag - Oct 2009 - 8/8 - "If Chris was on a Train..."
+https://www.youtube.com/watch?v=is8QVJUQ994
+Language: en | Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors.
+
+[00:00:00.000 --> 00:00:14.240] She laid the law down. She turned a non-profitable place into a profitable place, and the owner kind of sided with the son to some degree, and she didn't like that, so she quit, and that was the last I ever heard of her.
+[00:00:15.120 --> 00:00:18.680] Oh yeah, because she worked at a hotel, right? I never called her.
+[00:00:18.680 --> 00:00:27.940] That was, she worked in, if you want to call her, because it was out in the middle of nowhere, in a small town, so, I mean, real small.
+[00:00:29.100 --> 00:00:29.380] Really? [ASR uncertain: little_acoustic_speech_support]
+[00:00:30.000 --> 00:00:34.960] So, long story short, is, um...
+[00:00:34.960 --> 00:00:38.140] Now, why don't you just go ahead and give me a long story, instead of the short story.
+[00:00:39.100 --> 00:00:42.060] Yeah, I like long story short and short story long.
+[00:00:43.520 --> 00:00:44.260] Oh, I know. [ASR uncertain: little_acoustic_speech_support]
+[00:00:47.200 --> 00:00:52.700] Okay, so, if you were on a train, where would you go?
+[00:00:54.700 --> 00:00:57.980] Ah, hmm, Badis, Paris.
+[00:01:01.000 --> 00:01:01.860] What about you?
+[00:01:03.740 --> 00:01:06.140] You know, I think if I was on a train.
+[00:01:08.740 --> 00:01:09.260] Yeah. [ASR uncertain: little_acoustic_speech_support]
+[00:01:12.260 --> 00:01:14.580] Well, we've got the Silver Line out here.
+[00:01:14.680 --> 00:01:17.620] It was a real freaky, real freaky.
+[00:01:18.020 --> 00:01:19.220] I think I saw it on YouTube.
+[00:01:19.760 --> 00:01:21.020] It was a Silver Line accident.
+[00:01:21.020 --> 00:01:24.280] It happened a few years ago in a barge.
+[00:01:24.280 --> 00:01:28.400] Actually, the bridge that was crossing, and it was crossing the bridge.
+[00:01:30.000 --> 00:01:41.940] miles an hour. And actually, the first car hit the bridge, and it catapulted that first
+[00:01:41.940 --> 00:01:52.980] multi-megatons of train, the locomotive, 200 feet across the river, or something like that.
+[00:02:00.000 --> 00:02:05.960] because they kind of rectified, they really, you know, hundreds of thousands of people use that
+[00:02:05.960 --> 00:02:10.000] as kind of like the beginnings of their vacation.
+[00:02:10.300 --> 00:02:11.800] It's not like a regular train ride.
+[00:02:12.320 --> 00:02:12.520] Yeah. [ASR uncertain: little_acoustic_speech_support]
+[00:02:12.880 --> 00:02:15.060] So you actually cross the country.
+[00:02:15.300 --> 00:02:19.020] It's a sightseeing kind of train and expensive.
+[00:02:19.020 --> 00:02:26.740] But I would probably take that and head across the country and see some of the country. [ASR uncertain: little_acoustic_speech_support]
+[00:02:27.900 --> 00:02:28.720] Yeah, that's cool.
+[00:02:30.000 --> 00:02:40.960] Yeah. Technically speaking, though, I don't know if I'd do that, because when I take my vacation, I want to be able to smoke some herb whenever I want to smoke some herb.
+[00:02:42.280 --> 00:02:43.300] Yeah, so you come here.
+[00:02:44.660 --> 00:02:52.500] Yeah, so I'm going to go there, but actually I was thinking about a motorcycle trip across the country, too.
+[00:02:53.660 --> 00:02:56.500] Oh, right. You told me about that. Yeah, it's going to be pretty cool.
+[00:02:58.320 --> 00:02:59.280] You got a place to stay?
+[00:03:00.000 --> 00:03:09.760] Well, when you cross the country, you stay wherever you decide you want to stay.
+[00:03:10.020 --> 00:03:11.320] Yeah, of course, but yeah.
+[00:03:12.180 --> 00:03:14.240] Well, you know, Holland isn't really big, though.
+[00:03:14.380 --> 00:03:17.620] I mean, you'll probably be done in one day cruising the country.
+[00:03:18.180 --> 00:03:18.720] No offense.
+[00:03:21.260 --> 00:03:21.700] Really? [ASR uncertain: little_acoustic_speech_support]
+[00:03:22.260 --> 00:03:23.820] Yeah, pretty much in three hours.
+[00:03:25.120 --> 00:03:27.180] It's smaller than England, for Christ's sake.
+[00:03:27.760 --> 00:03:28.700] And England is tiny.
+[00:03:30.000 --> 00:03:37.500] Well, there's got to be, there's got to be, you should be able to cruise around and see
+[00:03:37.500 --> 00:03:38.920] sight, I'm assuming.
+[00:03:38.920 --> 00:03:42.460] Yeah, of course, but if you want to go from north to south, it's going to take you like
+[00:03:42.460 --> 00:03:43.060] three hours.
+[00:03:44.240 --> 00:03:48.440] No, no, no, why wouldn't you, you wouldn't, it's just like when you're crossing the country
+[00:03:48.440 --> 00:03:53.320] here, you just don't jump on a motorcycle and screw and not get off the road and see
+[00:03:53.320 --> 00:03:53.780] the sight.
+[00:03:53.980 --> 00:03:59.780] Oh, of course, I know, but I'm just saying it's not a lot of, you know, miles to cross.
+[00:04:00.000 --> 00:04:01.460] Yeah, not a lot of road.
+[00:04:02.100 --> 00:04:02.340] Yeah.
+[00:04:03.900 --> 00:04:04.300] Exactly.
+[00:04:06.200 --> 00:04:07.160] Which team are you on, Tom?
+[00:04:07.260 --> 00:04:07.620] Oh, Red?
+[00:04:09.900 --> 00:04:12.280] They got the Harleys over there, right?
+[00:04:14.340 --> 00:04:16.060] Hell's Angels, is that what you mean?
+[00:04:16.200 --> 00:04:17.520] Do you mean the motor gang?
+[00:04:18.760 --> 00:04:20.340] No, just Harley Davidsons.
+[00:04:20.900 --> 00:04:23.520] Hell's Angels are all over the world, but...
+[00:04:23.520 --> 00:04:24.180] Yeah, yeah, yeah.
+[00:04:24.180 --> 00:04:26.320] I'm assuming they got Harleys I could rent over there.
+[00:04:30.000 --> 00:04:36.300] and stuff that's really well not not necessarily a lot of noise when they come out of the factory
+[00:04:36.300 --> 00:04:41.160] they don't make a hell of a lot of noise when the guys remove the baffles from the pipes and make
+[00:04:41.160 --> 00:04:46.540] them straight throughs that's when they make a hell of a lot of noise and most guys most bikers
+[00:04:46.540 --> 00:04:55.100] do that after they've come after they've had a close call with a shithead with a shithead in an
+[00:05:00.000 --> 00:05:02.060] the baffles and make their bikes loud
+[00:05:02.060 --> 00:05:04.080] so people know that they
+[00:05:04.080 --> 00:05:04.780] are around.
+[00:05:06.520 --> 00:05:08.000] I have a friend who lost
+[00:05:08.000 --> 00:05:10.160] his balls in a motorcycle accident.
+[00:05:10.820 --> 00:05:12.060] Oh, I'm sorry to hear that, man.
+[00:05:14.000 --> 00:05:14.560] What was his name?
+[00:05:17.900 --> 00:05:19.980] We just call him Ballless now. [ASR uncertain: little_acoustic_speech_support]
+[00:05:20.600 --> 00:05:20.960] Okay. [ASR uncertain: little_acoustic_speech_support]
+[00:05:23.080 --> 00:05:24.600] His name is Walter.
+[00:05:30.000 --> 00:05:32.000] What team are you on?
+[00:05:32.000 --> 00:05:34.000] I don't know
+[00:05:34.000 --> 00:05:36.000] I'm on blue [ASR uncertain: little_acoustic_speech_support]
+[00:05:38.000 --> 00:05:40.000] I should be in the top 3 [ASR uncertain: little_acoustic_speech_support]
+[00:05:42.000 --> 00:05:44.000] Oh you are, yeah, red
+[00:05:44.000 --> 00:05:46.000] Red you are
+[00:05:46.000 --> 00:05:48.000] I'm on blue
+[00:05:54.000 --> 00:05:56.000] I got some drafts to perform, yeah?
+[00:05:56.000 --> 00:05:58.000] And petition [ASR uncertain: little_acoustic_speech_support]
+[00:06:00.000 --> 00:06:08.700] It's late over there, guys. What time is it? Jack's five hours in front of me. You guys are three more hours. [ASR uncertain: little_acoustic_speech_support]
+[00:06:09.880 --> 00:06:11.140] No, one hour more than Jack.
+[00:06:13.220 --> 00:06:15.060] Oh, one more hour. Yeah, that's right. Six hours.
+[00:06:15.580 --> 00:06:16.600] So it's 11.30. [ASR uncertain: little_acoustic_speech_support]
+[00:06:17.960 --> 00:06:19.060] It's not that late, man.
+[00:06:20.060 --> 00:06:28.640] Yeah, so right now it's six hours, so it's 11. It's almost 11. It's almost 11. It's 6 hours, 11.30, you see?
+[00:06:30.000 --> 00:06:43.000] He just found your penis?
+[00:06:43.000 --> 00:06:45.000] Yes, I did.
+[00:06:45.000 --> 00:06:48.000] That joke's kidding.
+[00:06:48.000 --> 00:06:53.000] It was lost for a couple of hours.
+[00:06:53.000 --> 00:06:57.000] So what are you guys playing?
+[00:07:00.000 --> 00:07:01.160] on that [ASR uncertain: low_recognition_confidence]
+[00:07:01.160 --> 00:07:02.620] team fortress two [ASR uncertain: low_recognition_confidence]
+[00:07:02.620 --> 00:07:04.100] i think [ASR uncertain: low_recognition_confidence]
+[00:07:04.100 --> 00:07:06.420] i think i'm going to install that [ASR uncertain: low_recognition_confidence]
+[00:07:06.420 --> 00:07:09.460] no again i don't think i have to buy it [ASR uncertain: low_recognition_confidence]
+[00:07:09.460 --> 00:07:12.060] that clear [ASR uncertain: low_recognition_confidence]
+[00:07:12.060 --> 00:07:14.680] you get to play play with us on the shut up [ASR uncertain: low_recognition_confidence]
+[00:07:14.680 --> 00:07:16.860] but that's not a game [ASR uncertain: low_recognition_confidence]
+[00:07:16.860 --> 00:07:18.860] compared to the first [ASR uncertain: low_recognition_confidence]
+[00:07:18.860 --> 00:07:20.560] what you did [ASR uncertain: low_recognition_confidence]
+[00:07:20.560 --> 00:07:21.600] out to this big [ASR uncertain: low_recognition_confidence]
+[00:07:21.600 --> 00:07:24.480] i think it's [ASR uncertain: low_recognition_confidence]
+[00:07:24.480 --> 00:07:26.940] but it would be a big day [ASR uncertain: low_recognition_confidence]
+[00:07:30.000 --> 00:07:45.640] Hey, hey, Tom, here's a gay joke for you, what's big and long and wiggles at the bottom
+[00:07:45.640 --> 00:07:47.640] of the ocean?
+[00:07:47.640 --> 00:07:48.640] Chris the Hacker.
+[00:07:48.640 --> 00:07:49.640] Chris the Hacker.
+[00:07:49.640 --> 00:07:50.640] On steroids.
+[00:07:50.640 --> 00:07:55.240] That's probably more funny than your original joke.
+[00:07:55.240 --> 00:07:57.240] Moby's dick.
+[00:07:57.240 --> 00:07:58.240] Wow.
+[00:07:58.240 --> 00:07:59.240] See?
+[00:08:00.000 --> 00:08:03.640] You guys never heard of Moby Dick, have you?
+[00:08:03.900 --> 00:08:04.620] Yes, we have.
+[00:08:05.400 --> 00:08:09.880] Well, Jack would have, because, I mean, England's always been a fishing community,
+[00:08:09.880 --> 00:08:14.780] and that's actually, I think, where the story of Moby Dick originated was, England.
+[00:08:15.940 --> 00:08:16.100] Yeah. [ASR uncertain: little_acoustic_speech_support]
+[00:08:16.240 --> 00:08:20.520] I'm going to have, yeah, by, fuck, I forgot the name of the author now.
+[00:08:21.100 --> 00:08:21.960] Very famous author.
+[00:08:22.840 --> 00:08:25.940] Yeah, I don't remember who the author is, too, but...
+[00:08:25.940 --> 00:08:26.320] Dick.
+[00:08:26.780 --> 00:08:27.020] Lola.
+[00:08:30.000 --> 00:08:31.160] Yeah, rich or a dick.
+[00:08:31.640 --> 00:08:31.940] Yeah. [ASR uncertain: little_acoustic_speech_support]
+[00:08:33.840 --> 00:08:35.560] I'm gonna have fish and chips tomorrow.
+[00:08:36.760 --> 00:08:37.680] Fish and chips.
+[00:08:37.980 --> 00:08:40.020] Fucking hell, that's disgusting as hell.
+[00:08:41.780 --> 00:08:42.620] Nice, good.
+[00:08:43.240 --> 00:08:44.460] Look at this more, boy.
+[00:08:45.100 --> 00:08:46.860] Chips are your word for
+[00:08:46.860 --> 00:08:49.860] crisps in America.
+[00:08:50.060 --> 00:08:51.580] I don't like
+[00:08:51.580 --> 00:08:52.200] fish.
+[00:08:53.200 --> 00:08:54.560] I don't like chips with fish.
+[00:08:54.700 --> 00:08:57.000] It's fucking the use. What do they use again on it?
+[00:08:57.260 --> 00:08:59.960] How do you call it again?
+[00:09:00.000 --> 00:09:06.000] Oh, I hate vinegar, I just put ketchup on it.
+[00:09:06.000 --> 00:09:08.000] It's like the blue Pringles.
+[00:09:08.000 --> 00:09:10.000] That's not horrible.
+[00:09:10.000 --> 00:09:11.000] Sorry.
+[00:09:11.000 --> 00:09:13.000] No, no, those are horrible.
+[00:09:13.000 --> 00:09:15.000] That's like British.
+[00:09:15.000 --> 00:09:18.000] No, I agree, I hate vinegar.
+[00:09:18.000 --> 00:09:21.000] Oh, you have them with fish and chips, gay shit.
+[00:09:21.000 --> 00:09:23.000] I don't, I put ketchup on that.
+[00:09:23.000 --> 00:09:25.000] No, you don't.
+[00:09:25.000 --> 00:09:27.000] Don't tell me what I do when I don't.
+[00:09:27.000 --> 00:09:29.000] No, you don't.
+[00:09:30.000 --> 00:09:35.000] You don't, Jack. You know you like it.
+[00:09:35.000 --> 00:09:37.000] Oh, fuck. Jesus.
+[00:09:37.000 --> 00:09:41.000] What's up, Jack?
+[00:09:41.000 --> 00:09:43.000] What's up, fuck?
+[00:09:43.000 --> 00:09:46.000] Are you taking care of the little boy today?
+[00:09:46.000 --> 00:09:48.000] Stop fucking cowbelling around.
+[00:09:48.000 --> 00:09:51.000] Nah, there's a big one.
+[00:09:51.000 --> 00:09:54.000] Yeah, there you go.
+[00:09:54.000 --> 00:09:57.000] Fucking tell me more.
+[00:09:57.000 --> 00:09:59.000] I can't hear you talking through glass, what?
+[00:10:00.000 --> 00:10:06.000] This is girlfriend.
+[00:10:06.000 --> 00:10:09.000] See you later.
+[00:10:09.000 --> 00:10:12.000] Oh, don't play guitar, please.
+[00:10:12.000 --> 00:10:15.000] Don't play guitar, man.
+[00:10:15.000 --> 00:10:18.000] I hung up because, uh, Gook411.
+[00:10:18.000 --> 00:10:24.000] Please don't play guitar.
+[00:10:24.000 --> 00:10:27.000] It's all deformed and shit.
+[00:10:30.000 --> 00:10:32.000] Alright, type premium.
+[00:10:32.000 --> 00:10:34.000] Oh my god. [ASR uncertain: little_acoustic_speech_support]
+[00:10:34.000 --> 00:10:36.000] This is fucking better. [ASR uncertain: little_acoustic_speech_support]
+[00:10:36.000 --> 00:10:38.000] Yeah, I can test premium for 15 minutes and then you can double jump.
+[00:10:38.000 --> 00:10:40.000] Oh yeah, I'm up.
+[00:10:40.000 --> 00:10:42.000] Oh.
+[00:10:42.000 --> 00:10:46.000] You can build forced entry guns and shit.
+[00:10:46.000 --> 00:10:48.000] Oh, you gotta pay for that shit?
+[00:10:48.000 --> 00:10:52.000] That's three arrows for like fucking loads of days.
+[00:10:52.000 --> 00:10:54.000] So that's why you're in this server.
+[00:10:54.000 --> 00:10:58.000] Yeah, just put fun a bit while we were talking to Chris.
+[00:11:00.000 --> 00:11:07.820] I usually don't know what to say to him, it used to be a lot of fun in January, I had
+[00:11:07.820 --> 00:11:19.320] hours of conversation with him and he usually talks all by himself, he used to say yeah.
+[00:11:30.000 --> 00:11:41.000] Yeah, we need to do a company, we need to make a company or something.
+[00:11:41.000 --> 00:11:52.000] Yeah, we are able, we are quite intelligent I'd say, much more than the average person.
+[00:12:00.000 --> 00:12:07.000] I have an idea, why don't you stop using your speakers, Jack?
+[00:12:07.000 --> 00:12:13.000] No, my headphones just spread out for a second and I put them back in, calm down.
+[00:12:13.000 --> 00:12:16.000] Don't you cowbell me, boy.
+[00:12:16.000 --> 00:12:17.000] Boy. [ASR uncertain: little_acoustic_speech_support]
+[00:12:17.000 --> 00:12:18.000] Boy. [ASR uncertain: little_acoustic_speech_support]
+[00:12:18.000 --> 00:12:19.000] Boy. [ASR uncertain: little_acoustic_speech_support]
+[00:12:19.000 --> 00:12:22.000] Boy, boy, I'm only one month younger than you.
+[00:12:22.000 --> 00:12:23.000] Boy.
+[00:12:23.000 --> 00:12:26.000] Fucking hell, I'm going to turn 20 soon.
+[00:12:26.000 --> 00:12:29.000] Oh fuck, I'm going to turn 20 in like half a year.
+[00:12:30.000 --> 00:12:32.000] Oh, me, next month.
+[00:12:32.000 --> 00:12:35.000] Fuckin' on, man. No more teenagers.
+[00:12:35.000 --> 00:12:39.000] No more teenagin' around.
+[00:12:39.000 --> 00:12:41.000] Where? [ASR uncertain: little_acoustic_speech_support]
+[00:12:41.000 --> 00:12:44.000] On the point, middle point. [ASR uncertain: little_acoustic_speech_support]
+[00:12:44.000 --> 00:12:46.000] Middle point.
+[00:12:46.000 --> 00:12:49.000] Middle point, you mean the third one?
+[00:12:49.000 --> 00:12:52.000] Yeah, the middle point on the bridge, the wooden bridge. [ASR uncertain: little_acoustic_speech_support]
+[00:12:52.000 --> 00:12:56.000] So, what level are you in Team Fortress?
+[00:12:56.000 --> 00:12:59.000] That, lads.
+[00:13:00.000 --> 00:13:01.240] bridge
+[00:13:01.240 --> 00:13:04.960] fuck always your rest of course
+[00:13:04.960 --> 00:13:08.100] i'm gonna check if i can make it
+[00:13:08.100 --> 00:13:09.140] which
+[00:13:09.140 --> 00:13:12.320] but we want if they have like blue spy in the uh... votes for greatest video
+[00:13:12.320 --> 00:13:14.640] came here
+[00:13:14.640 --> 00:13:18.700] holy shit that's a lot of centuries
+[00:13:18.700 --> 00:13:22.840] where jack
+[00:13:22.840 --> 00:13:25.720] where jack
+[00:13:25.720 --> 00:13:28.240] spyware
+[00:13:30.000 --> 00:13:31.000] Alright. [ASR uncertain: little_acoustic_speech_support]
+[00:13:31.000 --> 00:13:35.000] But when you have the time to do something, you realize...
+[00:13:35.000 --> 00:13:37.000] I'm not sure.
+[00:13:37.000 --> 00:13:39.000] But you wanna go out or something?
+[00:13:39.000 --> 00:13:40.000] Cause I don't wanna go out.
+[00:13:40.000 --> 00:13:41.000] Just do something.
+[00:13:41.000 --> 00:13:43.000] I don't have to go out.
+[00:13:43.000 --> 00:13:44.000] Oh, like what?
+[00:13:44.000 --> 00:13:47.000] Oh, Carlos wants to build bombs and shit again.
+[00:13:47.000 --> 00:13:48.000] Yeah, but I'm not...
+[00:13:48.000 --> 00:13:50.000] Remember when we used to build a bunker?
+[00:13:50.000 --> 00:13:51.000] Yeah, I know.
+[00:13:51.000 --> 00:13:54.000] And we used to fucking harass Snow all the time.
+[00:13:54.000 --> 00:13:57.000] And I don't want to go out.
+[00:13:57.000 --> 00:13:58.000] Yeah. [ASR uncertain: little_acoustic_speech_support]
+[00:14:00.000 --> 00:14:01.000] Carlos actually. [ASR uncertain: little_acoustic_speech_support]
+[00:14:01.000 --> 00:14:02.000] No? [ASR uncertain: little_acoustic_speech_support]
+[00:14:02.000 --> 00:14:03.000] No. [ASR uncertain: little_acoustic_speech_support]
+[00:14:03.000 --> 00:14:06.000] He's still friends with my ex. [ASR uncertain: little_acoustic_speech_support]
+[00:14:06.000 --> 00:14:07.000] Oh, really?
+[00:14:07.000 --> 00:14:08.000] Yeah, at least.
+[00:14:08.000 --> 00:14:11.000] He knows everybody or something, because he knows a lot of people.
+[00:14:11.000 --> 00:14:12.000] Every time I see him.
+[00:14:12.000 --> 00:14:14.000] I know more people than him though.
+[00:14:14.000 --> 00:14:15.000] Oh. [ASR uncertain: little_acoustic_speech_support]
+[00:14:15.000 --> 00:14:18.000] I just don't like him anymore. [ASR uncertain: little_acoustic_speech_support]
+[00:14:18.000 --> 00:14:20.000] No, he really changed his ship.
+[00:14:20.000 --> 00:14:24.000] No, yeah, that's also true, but also that.
+[00:14:24.000 --> 00:14:29.000] But what?
+[00:14:30.000 --> 00:14:35.000] He still sees my ex, I guess. I don't know what he did with my ex. He sold her some pills and shit.
+[00:14:36.000 --> 00:14:37.000] Oh, that sucks.
+[00:14:37.000 --> 00:14:39.000] Oh, is he shagging your ex?
+[00:14:39.000 --> 00:14:42.000] Oh, I don't really give a fuck, but I just don't want to see him. I don't want to talk to him.
+[00:14:42.000 --> 00:14:44.000] Yeah, that's kind of disrespectful.
+[00:14:45.000 --> 00:14:48.000] No, he can do whatever the fuck he wants. That's not a problem.
+[00:14:51.000 --> 00:14:55.000] No, I don't know if he's shagging my ex. I wouldn't really give a fuck if he would. [ASR uncertain: little_acoustic_speech_support]
+[00:14:55.000 --> 00:14:57.000] Just even seeing her is enough. [ASR uncertain: little_acoustic_speech_support]

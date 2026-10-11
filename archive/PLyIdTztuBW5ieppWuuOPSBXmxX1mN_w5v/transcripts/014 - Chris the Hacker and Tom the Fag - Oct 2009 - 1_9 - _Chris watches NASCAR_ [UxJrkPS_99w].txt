@@ -1,0 +1,332 @@
+Chris the Hacker and Tom the Fag - Oct 2009 - 1/9 - "Chris watches NASCAR"
+https://www.youtube.com/watch?v=UxJrkPS_99w
+Language: en | Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors.
+
+[00:00:00.000 --> 00:00:29.380] I'll give you a link.
+[00:00:30.000 --> 00:00:36.000] Camille, I like surprises. I don't think you're gonna like the surprise you'll be dead.
+[00:00:36.000 --> 00:00:37.000] What? [ASR uncertain: little_acoustic_speech_support]
+[00:00:43.000 --> 00:00:47.000] You think you're untraceable, untrackable.
+[00:00:47.000 --> 00:00:48.000] No, I'm not.
+[00:00:48.000 --> 00:00:49.000] Don't you? Don't you?
+[00:00:49.000 --> 00:00:50.000] No, it isn't.
+[00:00:50.000 --> 00:00:51.000] Don't you?
+[00:00:51.000 --> 00:00:53.000] Because you're a motherfucker. [ASR uncertain: little_acoustic_speech_support]
+[00:00:53.000 --> 00:00:55.000] No, it isn't. [ASR uncertain: little_acoustic_speech_support]
+[00:00:55.000 --> 00:00:58.000] You're a dumb motherfucker. [ASR uncertain: little_acoustic_speech_support]
+[00:01:00.000 --> 00:01:05.040] Well, that sounds like a legitimate recording.
+[00:01:06.240 --> 00:01:08.400] Yeah, that's actually a legitimate recording, yeah.
+[00:01:08.400 --> 00:01:11.360] Yeah, and then you go on to say how you're going to ruin our lives
+[00:01:11.360 --> 00:01:14.460] and how you're going to let our parents know and our family.
+[00:01:15.000 --> 00:01:15.320] Exactly.
+[00:01:16.880 --> 00:01:18.080] So you're threatening us, actually.
+[00:01:18.080 --> 00:01:18.460] You're kidding.
+[00:01:19.060 --> 00:01:20.440] No, I'm not kidding. You're kidding.
+[00:01:20.440 --> 00:01:22.100] You still thought it was us calling you.
+[00:01:22.360 --> 00:01:22.720] Why the hell?
+[00:01:23.200 --> 00:01:24.200] No, I didn't.
+[00:01:24.320 --> 00:01:26.280] Guys, I wouldn't think it was you.
+[00:01:26.620 --> 00:01:27.060] Yeah, you did.
+[00:01:27.160 --> 00:01:27.620] You said good.
+[00:01:30.000 --> 00:01:36.780] to me shut up and listen when they when nobody when you guys don't answer then i think it's
+[00:01:36.780 --> 00:01:43.880] somebody else because you guys talk see we're talking now well you're trying to watch nascar
+[00:01:43.880 --> 00:01:48.960] while we want to talk we take time for our busy day listen this is important though shut up will
+[00:01:48.960 --> 00:01:59.640] you tom shut up listen when it when it's when i when i say coon tom and nobody answers that i know
+[00:02:00.000 --> 00:02:00.520] not.
+[00:02:00.920 --> 00:02:04.080] I had a bunch of conversations with some other
+[00:02:04.080 --> 00:02:06.260] guy that he kept on insisting
+[00:02:06.260 --> 00:02:06.900] that it was me.
+[00:02:07.880 --> 00:02:10.040] Yeah, he said, like, Tom, cut the crap,
+[00:02:10.140 --> 00:02:11.520] will you? Tom, Tom.
+[00:02:12.100 --> 00:02:13.340] Yeah, but just when
+[00:02:13.340 --> 00:02:16.320] then I realized it wasn't Tom.
+[00:02:16.980 --> 00:02:18.100] It took you like 10 minutes
+[00:02:18.100 --> 00:02:20.180] and like 10 times someone called you.
+[00:02:20.500 --> 00:02:21.960] Exactly. No, it wasn't 10 minutes.
+[00:02:22.820 --> 00:02:23.560] Well, yes, it was.
+[00:02:23.560 --> 00:02:25.520] It wasn't 10 minutes.
+[00:02:27.080 --> 00:02:27.900] Yeah, something like that.
+[00:02:30.000 --> 00:02:31.900] Well, maybe I was trying to get you in trouble, Tom.
+[00:02:31.940 --> 00:02:32.460] I don't know.
+[00:02:32.820 --> 00:02:34.140] Maybe I was in a bad mood.
+[00:02:34.880 --> 00:02:35.820] It's not nice of you, Chris.
+[00:02:35.840 --> 00:02:37.160] No, because I love you guys.
+[00:02:37.240 --> 00:02:42.980] As a matter of fact, somebody, you guys told me that I could make money on YouTube,
+[00:02:43.720 --> 00:02:46.340] but you wouldn't tell me how.
+[00:02:46.500 --> 00:02:47.220] We're still going to make money.
+[00:02:47.220 --> 00:02:47.780] Well, somebody.
+[00:02:48.500 --> 00:02:49.280] We're going to make millions.
+[00:02:49.280 --> 00:02:49.300] Shut up. [ASR uncertain: little_acoustic_speech_support]
+[00:02:49.300 --> 00:02:50.240] We're going to listen, Tom.
+[00:02:50.380 --> 00:02:50.680] Tom.
+[00:02:51.040 --> 00:02:51.520] Tom.
+[00:02:51.700 --> 00:02:52.780] Don't tell him that, Dad.
+[00:02:53.540 --> 00:02:53.940] I don't know.
+[00:02:53.940 --> 00:02:59.280] I think it would be good to say that we shouldn't talk about anybody, just you and me.
+[00:02:59.420 --> 00:02:59.820] I know.
+[00:03:00.000 --> 00:03:01.760] Well, I'm not going to talk about him at that.
+[00:03:02.620 --> 00:03:02.860] Okay.
+[00:03:04.540 --> 00:03:07.140] So, you guys, somebody called me up.
+[00:03:07.980 --> 00:03:09.620] They told me about how.
+[00:03:10.040 --> 00:03:11.600] About how much penises you have.
+[00:03:15.020 --> 00:03:16.740] Now, seriously, somebody told you how?
+[00:03:18.420 --> 00:03:20.040] Yes, and they're going to help me.
+[00:03:20.700 --> 00:03:21.700] You guys could have.
+[00:03:21.700 --> 00:03:23.780] You guys fucking could have.
+[00:03:23.780 --> 00:03:24.420] And guess what?
+[00:03:24.480 --> 00:03:26.140] I'm giving them 50%.
+[00:03:26.140 --> 00:03:26.780] Of what?
+[00:03:26.900 --> 00:03:29.840] If they're real, I'm giving them 50%.
+[00:03:30.000 --> 00:03:32.120] huh
+[00:03:32.120 --> 00:03:33.100] for what
+[00:03:33.100 --> 00:03:34.840] for money
+[00:03:34.840 --> 00:03:35.540] why is the problem
+[00:03:35.540 --> 00:03:36.520] they make money
+[00:03:36.520 --> 00:03:37.200] see
+[00:03:37.200 --> 00:03:38.100] it's kind of weird
+[00:03:38.100 --> 00:03:39.120] because they say
+[00:03:39.120 --> 00:03:39.620] that you should
+[00:03:39.620 --> 00:03:40.340] become a partner
+[00:03:40.340 --> 00:03:43.360] so he said
+[00:03:43.360 --> 00:03:43.880] that you should
+[00:03:43.880 --> 00:03:44.500] become a partner
+[00:03:44.500 --> 00:03:45.120] because if you're
+[00:03:45.120 --> 00:03:45.400] a partner
+[00:03:45.400 --> 00:03:45.820] because
+[00:03:45.820 --> 00:03:47.140] you can't do that
+[00:03:47.140 --> 00:03:47.800] because you know
+[00:03:47.800 --> 00:03:49.400] your stage man account
+[00:03:49.400 --> 00:03:50.140] has no videos
+[00:03:50.140 --> 00:03:50.740] just one
+[00:03:50.740 --> 00:03:51.920] so he can be
+[00:03:51.920 --> 00:03:52.620] a partner for that
+[00:03:52.620 --> 00:03:53.580] he can be
+[00:03:53.580 --> 00:03:54.020] that's right
+[00:03:54.020 --> 00:03:55.040] no
+[00:03:55.040 --> 00:03:55.660] no he wasn't
+[00:03:55.660 --> 00:03:56.120] talking about
+[00:03:56.120 --> 00:03:56.720] being a partner
+[00:03:56.720 --> 00:03:57.460] ok
+[00:03:57.460 --> 00:03:59.200] what was he
+[00:03:59.200 --> 00:03:59.740] talking about
+[00:04:00.000 --> 00:04:00.860] In great lines.
+[00:04:00.980 --> 00:04:03.460] No, no, he's been doing this for years.
+[00:04:03.880 --> 00:04:07.100] He saw, he heard, he saw what I'd been going through.
+[00:04:07.480 --> 00:04:08.580] He called me up and he says, listen,
+[00:04:09.100 --> 00:04:10.940] he says, most of these dumb motherfuckers don't know
+[00:04:10.940 --> 00:04:12.540] that there's other ways to make money with YouTube.
+[00:04:12.900 --> 00:04:15.580] I says, first off, I don't know much about YouTube.
+[00:04:15.700 --> 00:04:17.420] I've got one account, and you can see.
+[00:04:17.420 --> 00:04:20.120] No, you have like 10 accounts, Baraka.
+[00:04:21.160 --> 00:04:21.860] Excuse me?
+[00:04:22.340 --> 00:04:23.260] You have like 10 accounts.
+[00:04:23.940 --> 00:04:25.580] I don't have like 10 accounts.
+[00:04:25.720 --> 00:04:26.480] Yes, you do.
+[00:04:26.720 --> 00:04:27.120] Two.
+[00:04:27.520 --> 00:04:28.640] Two, and I don't.
+[00:04:28.960 --> 00:04:29.600] Yeah, I do.
+[00:04:30.000 --> 00:04:36.120] only have time. You do. You do have time. I don't lie. Is it like at 3 a.m. behind your
+[00:04:36.120 --> 00:04:53.320] computer? No. Yes, you do. No, that's accurate. No, it's not. I like your laugh, Chris. I
+[00:04:53.320 --> 00:04:59.100] miss the laugh, man. No, it's not. Listen, I don't know how to use my account. Yeah,
+[00:05:00.000 --> 00:05:01.360] It's okay, Chris.
+[00:05:01.540 --> 00:05:02.980] Who tells you this shit?
+[00:05:03.380 --> 00:05:05.500] We're from the internets, Chris.
+[00:05:07.020 --> 00:05:08.760] Yeah, my name is Lawnmower.
+[00:05:08.940 --> 00:05:09.540] All right, all right.
+[00:05:09.840 --> 00:05:14.820] I know, I'll tell you why, because someone commented on my channel named friendofchris1.
+[00:05:15.240 --> 00:05:16.700] He said, leave Chris alone.
+[00:05:16.800 --> 00:05:17.520] He's a nice guy.
+[00:05:17.620 --> 00:05:21.820] Now, I'm pretty sure that's you, because who the hell is that?
+[00:05:22.880 --> 00:05:24.900] You guys come up with this shit.
+[00:05:30.000 --> 00:05:33.260] Who harasses us?
+[00:05:33.320 --> 00:05:34.720] Nobody harasses us, never.
+[00:05:34.800 --> 00:05:36.920] Which friend would that be then, Chris?
+[00:05:37.200 --> 00:05:38.720] Which one out of your many friends?
+[00:05:38.720 --> 00:05:39.100] Yeah.
+[00:05:39.900 --> 00:05:46.420] I don't have any friends other than maybe, I don't know, maybe you guys.
+[00:05:47.240 --> 00:05:47.780] Yeah, okay.
+[00:05:48.760 --> 00:05:52.180] Then why don't you make an account named friendofchris1?
+[00:05:52.580 --> 00:05:52.820] Yeah.
+[00:05:54.260 --> 00:05:55.640] Why don't I?
+[00:05:55.900 --> 00:05:56.460] Why did you?
+[00:05:56.460 --> 00:05:57.440] No, why did you?
+[00:05:58.140 --> 00:05:59.300] I didn't.
+[00:06:00.000 --> 00:06:02.320] Guys, it isn't mine.
+[00:06:02.740 --> 00:06:05.400] I don't want to do that shit, okay?
+[00:06:05.800 --> 00:06:10.280] I go up to a stage and every once in a while,
+[00:06:10.540 --> 00:06:11.580] Sue's made a comment.
+[00:06:12.040 --> 00:06:14.300] As a matter of fact, I'm replying to Jack.
+[00:06:16.180 --> 00:06:22.200] Jack actually replied to you, and I didn't send you anything.
+[00:06:25.040 --> 00:06:26.920] You replied to me, and you didn't send me anything?
+[00:06:27.100 --> 00:06:28.040] I don't follow that.
+[00:06:28.160 --> 00:06:28.940] No, I never said that.
+[00:06:30.000 --> 00:06:42.820] Point is, is that I consider you guys, you know, I don't know, not really friends, but like talkable.
+[00:06:42.820 --> 00:06:44.560] We're the daddy you never had.
+[00:06:45.460 --> 00:06:46.480] Like talkable.
+[00:06:47.060 --> 00:06:49.200] That's right, and I'm the daddy you never had.
+[00:06:50.060 --> 00:06:50.260] Yeah. [ASR uncertain: little_acoustic_speech_support]
+[00:06:50.420 --> 00:06:51.820] No, you're the daddy.
+[00:06:52.200 --> 00:06:53.920] No, we're your daddy you never had.
+[00:06:56.060 --> 00:06:57.640] You're the daddy I never had?
+[00:07:00.000 --> 00:07:00.720] You had the daddy.
+[00:07:00.820 --> 00:07:02.180] Daddy, dad never had.
+[00:07:05.920 --> 00:07:06.360] Anyway.
+[00:07:07.720 --> 00:07:08.160] Yeah.
+[00:07:08.840 --> 00:07:11.980] So, anyway, hey, Tom.
+[00:07:12.200 --> 00:07:12.680] Yeah, what's up?
+[00:07:12.740 --> 00:07:13.160] So, what's up?
+[00:07:13.900 --> 00:07:15.540] It's 3, it's 8.30. [ASR uncertain: little_acoustic_speech_support]
+[00:07:15.780 --> 00:07:17.060] Jeez, it's a Saturday night.
+[00:07:17.180 --> 00:07:19.840] Nothing more, nothing else to do.
+[00:07:19.860 --> 00:07:20.420] It's Sunday.
+[00:07:20.420 --> 00:07:21.620] Nothing good on TV.
+[00:07:21.840 --> 00:07:22.360] It's Sunday.
+[00:07:22.420 --> 00:07:22.580] Huh? [ASR uncertain: little_acoustic_speech_support]
+[00:07:24.000 --> 00:07:28.360] Chris, why do you always insist on calling other people losers when, you know, when we call you,
+[00:07:30.000 --> 00:07:31.900] no friends, and you're always sitting in your shop
+[00:07:31.900 --> 00:07:32.620] watching us.
+[00:07:32.620 --> 00:07:35.420] You know, I'm fucking hungover right now, and the only reason I'm calling you is because
+[00:07:35.420 --> 00:07:37.920] I don't have the strength to do anything else but sit here.
+[00:07:40.280 --> 00:07:40.760] You're [ASR uncertain: little_acoustic_speech_support]
+[00:07:40.760 --> 00:07:42.160] basement dwellers. [ASR uncertain: little_acoustic_speech_support]
+[00:07:43.300 --> 00:07:44.280] Right, Chris.
+[00:07:44.840 --> 00:07:46.220] We're basement dwellers.
+[00:07:46.460 --> 00:07:47.520] And you're a shop dweller.
+[00:07:48.620 --> 00:07:48.860] Yeah.
+[00:07:49.540 --> 00:07:50.500] You dwell around your shop dweller.
+[00:07:51.120 --> 00:07:54.320] Listen, when I watch NASCAR, which I'd like to get
+[00:07:54.320 --> 00:07:56.220] back to because I got the volume off,
+[00:08:00.000 --> 00:08:06.440] money. I'm making money. I'm going through shit. I'm cleaning up. I got NASCAR on. I'm
+[00:08:06.440 --> 00:08:12.660] cleaning up. I'm doing shit. How can you actually enjoy NASCAR? We're just driving around laps
+[00:08:12.660 --> 00:08:18.440] all the time. Are you kidding me, man? You've never been in a vehicle going 180 miles an
+[00:08:18.440 --> 00:08:25.160] hour, have you? Yes, I have been. You'd shit your fucking pants. Not really. Yeah, really.
+[00:08:30.000 --> 00:08:34.380] After 100, Tom, you'd fucking start freaking out.
+[00:08:34.560 --> 00:08:35.920] Wait, we're talking about kilometers an hour, right?
+[00:08:35.920 --> 00:08:38.200] You've never been 100 fucking miles an hour.
+[00:08:38.200 --> 00:08:39.540] We're talking about kilometers an hour.
+[00:08:39.560 --> 00:08:41.280] Even miles per hour, I've been 500 miles an hour.
+[00:08:41.280 --> 00:08:43.740] No, I'm talking, I ain't talking kilometers.
+[00:08:44.080 --> 00:08:45.960] Kilometers, what, 100 miles an hour, 80?
+[00:08:46.540 --> 00:08:47.500] Yeah, that's nothing.
+[00:08:48.080 --> 00:08:50.400] I tried that on the fucking highway all the time.
+[00:08:50.580 --> 00:08:51.460] No, my, uh.
+[00:08:51.460 --> 00:08:54.420] I'm talking about 100 miles an hour.
+[00:08:54.420 --> 00:08:58.600] I'm talking about 127 kilometers, 130.
+[00:09:00.000 --> 00:09:05.960] 130 kilometers per hour, that's the speed we drive here on a normal road.
+[00:09:06.720 --> 00:09:08.080] God damn it, man.
+[00:09:08.180 --> 00:09:09.300] You got like 200, man.
+[00:09:09.680 --> 00:09:12.700] No, 100, what's 100 miles per hour over there?
+[00:09:13.620 --> 00:09:16.320] What's that, like 200 kilometers or something?
+[00:09:16.320 --> 00:09:19.600] My uncle has a car dealership with a lot of expensive cars,
+[00:09:19.760 --> 00:09:23.080] and the fastest I've ever been was in a Dodge Viper.
+[00:09:24.940 --> 00:09:26.300] A Viper?
+[00:09:26.600 --> 00:09:28.520] They don't have Vipers over there, Tiles.
+[00:09:30.000 --> 00:09:34.160] They don't have fucking Vipers over there.
+[00:09:34.200 --> 00:09:35.780] That's an American car.
+[00:09:35.780 --> 00:09:36.140] Right.
+[00:09:36.560 --> 00:09:41.620] So we can't have American cars just like you can't have Japanese cars, right?
+[00:09:42.900 --> 00:09:44.960] Oh, well, I suppose.
+[00:09:45.120 --> 00:09:45.500] Okay.
+[00:09:47.260 --> 00:09:47.700] Yeah, exactly.
+[00:09:47.720 --> 00:09:48.540] I suppose.
+[00:09:48.760 --> 00:09:49.120] Okay.
+[00:09:49.600 --> 00:09:51.520] Okay, so you've been in a fucking Viper.
+[00:09:51.800 --> 00:09:52.840] No, you haven't.
+[00:09:53.020 --> 00:09:53.620] You're lying.
+[00:09:53.760 --> 00:09:54.360] No, I haven't.
+[00:09:54.520 --> 00:09:55.480] You have a picture?
+[00:09:55.660 --> 00:09:57.140] You have a picture?
+[00:09:57.280 --> 00:09:58.880] Yeah, and I also have a picture.
+[00:10:00.000 --> 00:10:01.680] of pictures where I'm cleaning up
+[00:10:01.680 --> 00:10:03.720] an old fucking...
+[00:10:03.720 --> 00:10:04.960] How do you call that car again?
+[00:10:05.100 --> 00:10:06.560] Porsche 911?
+[00:10:07.200 --> 00:10:07.360] Yeah. [ASR uncertain: little_acoustic_speech_support]
+[00:10:07.600 --> 00:10:08.000] 911?
+[00:10:08.460 --> 00:10:08.680] Yeah.
+[00:10:09.520 --> 00:10:10.280] Porsche 911?
+[00:10:10.680 --> 00:10:11.420] Inside jump.
+[00:10:11.780 --> 00:10:12.320] Inside jump.
+[00:10:12.980 --> 00:10:13.120] Huh? [ASR uncertain: little_acoustic_speech_support]
+[00:10:13.560 --> 00:10:14.040] Nothing.
+[00:10:15.060 --> 00:10:15.720] Go on.
+[00:10:17.860 --> 00:10:19.700] So, I would love to see that.
+[00:10:19.920 --> 00:10:22.260] I would love to see you behind the wheel of a fucking Viper.
+[00:10:22.320 --> 00:10:22.980] I don't believe it.
+[00:10:23.080 --> 00:10:24.420] I don't think you're old enough to drive.
+[00:10:24.940 --> 00:10:26.160] I wasn't driving.
+[00:10:26.660 --> 00:10:27.540] My uncle was driving.
+[00:10:27.760 --> 00:10:28.460] Oh, okay.
+[00:10:30.000 --> 00:10:38.720] was driving so how fast did you go i went about 240 kilometers an hour at germany okay so that's
+[00:10:38.720 --> 00:10:43.520] what that's another team let me let's forget to cut your conversion on that just convert this to
+[00:11:00.000 --> 00:11:01.600] Wait, to...
+[00:11:01.600 --> 00:11:03.040] Tom, just go on the net.
+[00:11:03.380 --> 00:11:05.720] Fucking 150 miles per hour.
+[00:11:06.820 --> 00:11:08.560] Okay, so how long did you do that for?
+[00:11:09.140 --> 00:11:12.420] A while in Germany, and actually in Holland as well.
+[00:11:14.320 --> 00:11:14.760] Really?
+[00:11:15.140 --> 00:11:15.340] Yeah.
+[00:11:15.420 --> 00:11:15.760] That's right, too.
+[00:11:15.800 --> 00:11:16.920] You got the Autobahn over there.
+[00:11:18.040 --> 00:11:19.660] Oh, we got the Autobahn, dead German.
+[00:11:20.160 --> 00:11:20.560] Autobahn.
+[00:11:21.440 --> 00:11:23.680] Autobahn is like the highway nowadays, Chris.
+[00:11:23.880 --> 00:11:24.260] Yeah, I know.
+[00:11:24.600 --> 00:11:25.000] Autobahn.
+[00:11:25.800 --> 00:11:26.020] Yeah.
+[00:11:27.000 --> 00:11:27.400] Fantastic.
+[00:11:27.400 --> 00:11:28.320] It's not really special.
+[00:11:28.320 --> 00:11:29.460] Okay, so you're going 150.
+[00:11:30.000 --> 00:11:33.780] figure out going 200 miles an hour on a freaking track
+[00:11:33.780 --> 00:11:37.820] with traffic fighting to win a race.
+[00:11:38.920 --> 00:11:40.700] That's pretty exciting shit.
+[00:11:40.920 --> 00:11:42.620] Yeah, but it's just, if you're watching it.
+[00:11:42.720 --> 00:11:44.120] Did you ever watch Formula One?
+[00:11:45.560 --> 00:11:46.740] Yes, of course.
+[00:11:47.500 --> 00:11:49.000] Okay, that's a bit exciting.
+[00:11:49.000 --> 00:11:50.900] Boy, that's pretty ballsy shit, too.
+[00:11:51.440 --> 00:11:55.040] Yeah, but driving in a circle is pretty gay, actually.
+[00:11:55.760 --> 00:11:56.000] Yeah.
+[00:12:00.380 --> 00:12:01.460] Oh, oh, oh, shit.
+[00:12:01.580 --> 00:12:01.700] I'm sorry. [ASR uncertain: little_acoustic_speech_support]
+[00:12:01.700 --> 00:12:04.440] And you got 40 freaking cars with ya.
+[00:12:05.080 --> 00:12:05.380] Right?
+[00:12:06.220 --> 00:12:07.020] 40 cars?
+[00:12:07.320 --> 00:12:08.740] Holy shit, 40 cars.
+[00:12:08.740 --> 00:12:10.600] Tom, you got 40 cars with ya.
+[00:12:10.620 --> 00:12:12.000] Oh, my God.
+[00:12:12.440 --> 00:12:13.820] It's over 9,000.
+[00:12:14.080 --> 00:12:15.040] Over 9,000.
+[00:12:15.060 --> 00:12:17.020] So, let me see.
+[00:12:17.120 --> 00:12:19.420] So, you guys are little spoiled rich kids, huh?
+[00:12:19.800 --> 00:12:20.620] Uh, a bit.
+[00:12:20.940 --> 00:12:21.560] Yeah, actually.
+[00:12:22.500 --> 00:12:23.160] No, I'm not.
+[00:12:23.320 --> 00:12:23.780] Yeah, actually.
+[00:12:23.780 --> 00:12:24.760] We're a bit spoiled.
+[00:12:24.940 --> 00:12:26.900] We have it better than other people here.
+[00:12:27.880 --> 00:12:28.700] Oh, maybe.
+[00:12:29.040 --> 00:12:29.440] No.
+[00:12:30.000 --> 00:12:35.600] i'm talking about your spoiled little fucking rich kids in other words you come from money
+[00:12:35.600 --> 00:12:42.160] like jack and leave jack alone leave jack alone jack's not here to defend himself
+[00:12:42.160 --> 00:12:47.680] jack is a good dude jack is a good dude i love jack
+[00:12:47.680 --> 00:12:53.280] and by the way he's got a you know you know he's got a good looking mother
+[00:13:00.780 --> 00:13:02.700] How do you know he has a good-looking mother?
+[00:13:03.000 --> 00:13:03.900] Are you on crack again?
+[00:13:04.120 --> 00:13:04.640] Say what?
+[00:13:05.140 --> 00:13:06.880] How the hell do you know he has a good-looking mother?
+[00:13:07.020 --> 00:13:07.200] Yeah. [ASR uncertain: little_acoustic_speech_support]
+[00:13:08.080 --> 00:13:08.980] Are you shitting me?
+[00:13:08.980 --> 00:13:10.500] You need to do a way in staying mother.
+[00:13:10.720 --> 00:13:11.980] Why the hell are you in staying mother?
+[00:13:11.980 --> 00:13:12.900] Who killed that man?
+[00:13:12.900 --> 00:13:16.980] I'm not even going to tell you that, Coom.
+[00:13:17.520 --> 00:13:18.320] Well, I've seen his mother.
+[00:13:18.480 --> 00:13:19.800] I have his mother in Emerson.
+[00:13:21.320 --> 00:13:22.200] I have his mother in Emerson.
+[00:13:22.200 --> 00:13:25.840] It's just like Tom gave me too much information that his uncle owns a dealership.
+[00:13:30.000 --> 00:13:31.380] Chris, I'm so scared right now.
+[00:13:31.940 --> 00:13:33.740] Please don't track me data packets.
+[00:13:38.400 --> 00:13:39.280] Jesus, Chris.
+[00:13:39.540 --> 00:13:40.420] He's uncreed again.
+[00:13:40.780 --> 00:13:41.140] Yeah.

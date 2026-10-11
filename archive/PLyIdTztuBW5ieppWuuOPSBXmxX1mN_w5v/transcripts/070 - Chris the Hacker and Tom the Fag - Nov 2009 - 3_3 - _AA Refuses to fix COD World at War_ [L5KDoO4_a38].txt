@@ -1,0 +1,94 @@
+Chris the Hacker and Tom the Fag - Nov 2009 - 3/3 - "AA Refuses to fix COD World at War"
+https://www.youtube.com/watch?v=L5KDoO4_a38
+Language: en | Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors.
+
+[00:00:00.000 --> 00:00:02.100] Yeah, what's up?
+[00:00:02.580 --> 00:00:02.960] Yeah.
+[00:00:26.920 --> 00:00:27.800] Alcoholics Anonymous.
+[00:00:29.080 --> 00:00:29.480] Hello.
+[00:00:29.480 --> 00:00:29.840] Hello.
+[00:00:30.000 --> 00:00:30.800] Alcoholics Anonymous.
+[00:00:31.380 --> 00:00:32.200] Alcoholics Anonymous.
+[00:00:32.660 --> 00:00:32.980] Hello?
+[00:00:33.260 --> 00:00:34.100] Alcoholics Anonymous?
+[00:00:35.420 --> 00:00:36.020] Yes?
+[00:00:36.560 --> 00:00:37.920] Is this Alcoholics Anonymous?
+[00:00:39.140 --> 00:00:39.920] Yes, it is.
+[00:00:40.260 --> 00:00:40.700] Okay.
+[00:00:41.120 --> 00:00:42.420] So where's Jeremy then?
+[00:00:46.840 --> 00:00:47.520] Hello?
+[00:00:47.520 --> 00:00:47.640] Hello? [ASR uncertain: little_acoustic_speech_support]
+[00:00:47.880 --> 00:00:48.280] Is Jeremy working today?
+[00:00:50.420 --> 00:00:51.380] Can I help you?
+[00:00:51.560 --> 00:00:53.140] Is Jeremy working today?
+[00:00:54.060 --> 00:00:56.460] We don't have a gentleman by that name, sir.
+[00:00:56.720 --> 00:00:57.000] Sorry.
+[00:00:57.220 --> 00:00:57.720] Yes, you do.
+[00:00:58.980 --> 00:00:59.680] I know.
+[00:01:00.000 --> 00:01:05.000] We appreciate your patience while waiting and assure you that assistance is just a moment away.
+[00:01:05.000 --> 00:01:10.000] Your call is very important to us and we look forward to speaking with you.
+[00:01:30.000 --> 00:01:43.000] yeah what you do? what do you do? fascist? kill you mother fucker?
+[00:01:43.000 --> 00:01:49.000] oh style? kill me oh style?
+[00:01:49.000 --> 00:01:53.000] okay this laptop thing is really irritating [ASR uncertain: little_acoustic_speech_support]
+[00:02:00.000 --> 00:02:02.000] I don't know what the hell, man. [ASR uncertain: little_acoustic_speech_support]
+[00:02:02.000 --> 00:02:05.000] The bill is just between 20 people.
+[00:02:05.000 --> 00:02:07.000] But yeah, no one just goes down.
+[00:02:07.000 --> 00:02:09.000] He's just a minute.
+[00:02:09.000 --> 00:02:11.000] He's just a minute around.
+[00:02:13.000 --> 00:02:15.000] Sounds like he's not his help.
+[00:02:17.000 --> 00:02:19.000] He's not his help, man.
+[00:02:23.000 --> 00:02:25.000] My fucking team needs him help. [ASR uncertain: little_acoustic_speech_support]
+[00:02:30.000 --> 00:02:35.000] Not so anonymous alcoholic.
+[00:02:55.000 --> 00:02:58.000] How much anonymous? May I help you?
+[00:03:00.000 --> 00:03:08.640] here for me how do I disable smoke in this game this is really irritating me man fucking help me
+[00:03:08.640 --> 00:03:27.040] it's really fucking irritating especially this map because we're playing this with way too many
+[00:03:30.000 --> 00:03:31.000] It's a good game?
+[00:03:31.000 --> 00:03:33.000] It's a really good game, though.
+[00:03:33.000 --> 00:03:34.000] It's about zombies?
+[00:03:34.000 --> 00:03:35.000] Is that the game?
+[00:03:35.000 --> 00:03:37.000] Yeah, it also has zombie mode.
+[00:03:37.000 --> 00:03:38.000] Ah, yeah.
+[00:03:38.000 --> 00:03:44.000] Yeah, they're actually their own zombie mode.
+[00:03:44.000 --> 00:03:45.000] Yeah, yeah.
+[00:03:45.000 --> 00:03:50.000] Nasty zombies, right?
+[00:03:50.000 --> 00:03:59.000] Welcome to Anonymous.
+[00:04:00.000 --> 00:04:02.000] It's all anonymous, alcoholic here.
+[00:04:17.300 --> 00:04:18.300] Be right back.
+[00:04:19.300 --> 00:04:20.300] Alcoholics anonymous.
+[00:04:21.000 --> 00:04:22.000] Hey, gringo.
+[00:04:23.500 --> 00:04:24.000] Hello.
+[00:04:25.300 --> 00:04:26.000] Hello. [ASR uncertain: little_acoustic_speech_support]
+[00:05:30.000 --> 00:05:59.980] Thank you.
+[00:06:00.000 --> 00:06:29.980] Transcription by CastingWords
+[00:06:30.000 --> 00:06:38.560] Viva Las Vegas, can I help you?
+[00:06:40.840 --> 00:06:42.240] I call Tronado, want me to help you?
+[00:07:30.000 --> 00:07:33.360] Viva Las Vegas, can I help you?
+[00:08:00.000 --> 00:08:27.760] Good afternoon, Alcoholics Anonymous.
+[00:08:27.760 --> 00:08:28.580] May I help you?
+[00:08:30.000 --> 00:08:32.560] St. Jude Retreats, this is Brittany. How can I help you?
+[00:08:36.820 --> 00:08:37.260] Hello?
+[00:08:38.020 --> 00:08:38.420] Hello?
+[00:08:39.460 --> 00:08:39.900] Hello?
+[00:08:40.680 --> 00:08:41.080] Hello?
+[00:08:42.540 --> 00:08:43.780] Hi, can you hear me?
+[00:08:44.480 --> 00:08:44.920] Yes.
+[00:08:45.920 --> 00:08:48.240] This is St. Jude Retreats. How can I help you?
+[00:08:49.400 --> 00:08:51.280] This is Alcoholics Anonymous.
+[00:08:52.660 --> 00:08:56.460] How can I help you? My phone just rang and you were on the line.
+[00:08:58.460 --> 00:08:59.640] Were you not calling?
+[00:09:00.000 --> 00:09:07.580] that's weird i didn't call you either i guess we'll just hang up all right well have a lovely
+[00:09:07.580 --> 00:09:11.380] day you too sorry bye-bye that's okay bye-bye
+[00:09:30.000 --> 00:09:43.460] Alcoholics, now it's Barbara speaking.
+[00:09:46.520 --> 00:09:49.320] St. Jude Retreats, this is Brittany. How can I help you?
+[00:09:49.860 --> 00:09:52.940] I'm sorry, I have the wrong number.
+[00:09:54.080 --> 00:09:54.460] Okay.
+[00:09:54.980 --> 00:09:55.500] Thanks.
+[00:09:56.340 --> 00:09:56.940] Bye-bye.
+[00:10:00.000 --> 00:10:19.860] The Las Vegas, can I help you?
+
+Intervals requiring review (unreliable ASR output suppressed):
+[00:04:30.000 --> 00:04:59.980] Sparse decoder output over a long interval without acoustic speech support.
+[00:05:00.000 --> 00:05:29.980] Sparse decoder output over a long interval without acoustic speech support.
+[00:07:00.000 --> 00:07:29.980] Sparse decoder output over a long interval without acoustic speech support.
+[00:10:30.000 --> 00:10:49.718] Sparse decoder output over a long interval without acoustic speech support.

@@ -1,0 +1,380 @@
+{
+  "schema_version": 1,
+  "complete": true,
+  "id": "UE_1pIg8ps4",
+  "title": "Chris the Hacker and Tom the Fag - Oct 2009 - 2/2 - \"The Chris Perron Show 2\"",
+  "position": 41,
+  "url": "https://www.youtube.com/watch?v=UE_1pIg8ps4",
+  "audio": "audio/041 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _The Chris Perron Show 2_ [UE_1pIg8ps4].mp3",
+  "language": "en",
+  "language_probability": 0.978515625,
+  "duration": 145.9141875,
+  "duration_after_vad": 145.9141875,
+  "model": "mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf",
+  "runtime": {
+    "engine": "faster-whisper",
+    "device": "cuda",
+    "transcription_profile": "full-audio-30s-repetition-v3",
+    "compute_type": "int8_float16",
+    "cpu_threads": 12,
+    "batch_size": 2,
+    "beam_size": 5,
+    "vad_filter": false,
+    "full_audio": true,
+    "chunk_seconds": 30,
+    "without_timestamps": false,
+    "silence_guard": "skip no_speech_prob > 0.6 and avg_logprob < -1.0",
+    "repetition_guard": "suppress chunks with compression_ratio > 3 or >=4 repeated phrases dominating a chunk",
+    "acoustic_qa": "VAD measured for QA only; long sparse output without acoustic support suppressed; low-confidence output outside acoustic speech suppressed for <1%-speech recordings",
+    "condition_on_previous_text": false,
+    "python": "3.12.10",
+    "packages": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.2",
+      "av": "18.1.0",
+      "onnxruntime": "1.31.0",
+      "nvidia-cublas-cu12": "12.9.2.10",
+      "nvidia-cudnn-cu12": "9.27.0.42",
+      "nvidia-cuda-runtime-cu12": "12.9.79"
+    },
+    "gpu_fallback_reason": null
+  },
+  "started_at": "2026-10-11T09:19:18.540089+00:00",
+  "completed_at": "2026-10-11T09:19:23.109032+00:00",
+  "processing_seconds": 4.562,
+  "segments": [
+    {
+      "start": 0,
+      "end": 7.08,
+      "text": "Well, I'd like to find out a little bit about the weddings and what kind of, if there's any themes, that sort of thing.",
+      "avg_logprob": -0.23231456731701947,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.25,
+      "acoustic_speech_overlap_seconds": 7.08
+    },
+    {
+      "start": 7.82,
+      "end": 10.3,
+      "text": "Okay. Well, we do have several kind of things.",
+      "avg_logprob": -0.23231456731701947,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8545454545454545,
+      "acoustic_speech_overlap_seconds": 2.48
+    },
+    {
+      "start": 11.52,
+      "end": 14.96,
+      "text": "There's, you know, not just one or two. We have about 45 different packages.",
+      "avg_logprob": -0.23231456731701947,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9746835443037974,
+      "acoustic_speech_overlap_seconds": 3.44
+    },
+    {
+      "start": 16.22,
+      "end": 17.28,
+      "text": "45? Wow.",
+      "avg_logprob": -0.23231456731701947,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5294117647058824,
+      "acoustic_speech_overlap_seconds": 1.06
+    },
+    {
+      "start": 17.98,
+      "end": 21.74,
+      "text": "Yeah. And we do Elvis ceremonies and we do special themed ceremonies.",
+      "avg_logprob": -0.23231456731701947,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1290322580645162,
+      "acoustic_speech_overlap_seconds": 3.76
+    },
+    {
+      "start": 30.0,
+      "end": 34.48,
+      "text": "of the opera. There's a lot to choose from in that area. Have you visited our website",
+      "avg_logprob": -0.19956682578171833,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.075,
+      "acoustic_speech_overlap_seconds": 4.48
+    },
+    {
+      "start": 34.48,
+      "end": 40.88,
+      "text": "before? No, in fact, I haven't. But, you know, well, let me ask you this. If I choose a theme,",
+      "avg_logprob": -0.19956682578171833,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0555555555555556,
+      "acoustic_speech_overlap_seconds": 6.4
+    },
+    {
+      "start": 41.22,
+      "end": 48.04,
+      "text": "we'll say that I choose an Egyptian theme, right? Okay. People will be dressed in Egyptian",
+      "avg_logprob": -0.19956682578171833,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0705882352941176,
+      "acoustic_speech_overlap_seconds": 6.82
+    },
+    {
+      "start": 48.04,
+      "end": 53.94,
+      "text": "garb. Well, we do provide the characters. Like, we do have these slave boys that will",
+      "avg_logprob": -0.19956682578171833,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.075,
+      "acoustic_speech_overlap_seconds": 5.9
+    },
+    {
+      "start": 60.0,
+      "end": 62.78,
+      "text": "Now, where did you get my bride from?",
+      "avg_logprob": -0.2604166582778648,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8260869565217391,
+      "acoustic_speech_overlap_seconds": 2.78
+    },
+    {
+      "start": 64.7,
+      "end": 68.0,
+      "text": "Well, in the same packages comes a limo.",
+      "avg_logprob": -0.2604166582778648,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8723404255319149,
+      "acoustic_speech_overlap_seconds": 3.3
+    },
+    {
+      "start": 68.12,
+      "end": 72.64,
+      "text": "So a limo will pick you guys up from any hotel that's on the strip or downtown area,",
+      "avg_logprob": -0.2604166582778648,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0897435897435896,
+      "acoustic_speech_overlap_seconds": 4.52
+    },
+    {
+      "start": 72.74,
+      "end": 74.0,
+      "text": "but we can get here and take you back.",
+      "avg_logprob": -0.2604166582778648,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8297872340425532,
+      "acoustic_speech_overlap_seconds": 1.26
+    },
+    {
+      "start": 75.58,
+      "end": 76.02,
+      "text": "Okay.",
+      "avg_logprob": -0.2604166582778648,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.42857142857142855,
+      "acoustic_speech_overlap_seconds": 0.44
+    },
+    {
+      "start": 76.46,
+      "end": 79.52,
+      "text": "Well, pick me up in a strip.",
+      "avg_logprob": -0.2604166582778648,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7837837837837838,
+      "acoustic_speech_overlap_seconds": 3.06
+    },
+    {
+      "start": 79.64,
+      "end": 80.54,
+      "text": "Did you say a stripper?",
+      "avg_logprob": -0.2604166582778648,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.75,
+      "acoustic_speech_overlap_seconds": 0.9
+    },
+    {
+      "start": 80.98,
+      "end": 82.38,
+      "text": "Pick me up in a stripper?",
+      "avg_logprob": -0.2604166582778648,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7647058823529411,
+      "acoustic_speech_overlap_seconds": 1.4
+    },
+    {
+      "start": 83.08,
+      "end": 83.44,
+      "text": "No.",
+      "avg_logprob": -0.2604166582778648,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.3333333333333333,
+      "acoustic_speech_overlap_seconds": 0.36
+    },
+    {
+      "start": 84.32,
+      "end": 85.0,
+      "text": "Oh, what did you say?",
+      "avg_logprob": -0.2604166582778648,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7333333333333333,
+      "acoustic_speech_overlap_seconds": 0.68
+    },
+    {
+      "start": 85.0,
+      "end": 86.44,
+      "text": "We pick you up from any hotels on the strip.",
+      "avg_logprob": -0.2604166582778648,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8490566037735849,
+      "acoustic_speech_overlap_seconds": 1.44
+    },
+    {
+      "start": 87.4,
+      "end": 88.74,
+      "text": "Oh, on the strip.",
+      "avg_logprob": -0.2604166582778648,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6923076923076923,
+      "acoustic_speech_overlap_seconds": 1.34
+    },
+    {
+      "start": 88.74,
+      "end": 89.74,
+      "text": "I get it.",
+      "avg_logprob": -0.2604166582778648,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.5555555555555556,
+      "acoustic_speech_overlap_seconds": 1.0
+    },
+    {
+      "start": 90.0,
+      "end": 97.0,
+      "text": "Yeah. Okay. How much do the packages run?",
+      "avg_logprob": -0.18782216003260663,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.84,
+      "acoustic_speech_overlap_seconds": 5.176
+    },
+    {
+      "start": 97.0,
+      "end": 103.0,
+      "text": "They can run from $199 to $1,200. Like I said, there's a lot to choose from. You might want to look at them on our website.",
+      "avg_logprob": -0.18782216003260663,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.1272727272727272,
+      "acoustic_speech_overlap_seconds": 6.0
+    },
+    {
+      "start": 103.0,
+      "end": 108.0,
+      "text": "Okay. So we do the $1,200. We, you know, splurge.",
+      "avg_logprob": -0.18782216003260663,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8620689655172413,
+      "acoustic_speech_overlap_seconds": 5.0
+    },
+    {
+      "start": 108.0,
+      "end": 116.0,
+      "text": "Okay. If I throw in an extra grand, can you also provide the bride?",
+      "avg_logprob": -0.18782216003260663,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9444444444444444,
+      "acoustic_speech_overlap_seconds": 8.0
+    },
+    {
+      "start": 116.0,
+      "end": 118.0,
+      "text": "No.",
+      "avg_logprob": -0.18782216003260663,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.3333333333333333,
+      "acoustic_speech_overlap_seconds": 1.872
+    },
+    {
+      "start": 120.0,
+      "end": 127.38,
+      "text": "I don't seem like a real good service, I don't have a bride, I'm not engaged, I mean, why don't you have an engagement ceremony too?",
+      "avg_logprob": -0.31475224741944324,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.3571428571428572,
+      "acoustic_speech_overlap_seconds": 5.62
+    },
+    {
+      "start": 128.38,
+      "end": 133.0,
+      "text": "I'd do that, I'd spend an extra $1,500 for an engagement ceremony and a bride.",
+      "avg_logprob": -0.31475224741944324,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0,
+      "acoustic_speech_overlap_seconds": 4.62
+    },
+    {
+      "start": 134.44,
+      "end": 135.0,
+      "text": "Cheer her up.",
+      "avg_logprob": -0.31475224741944324,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7,
+      "acoustic_speech_overlap_seconds": 0.56
+    },
+    {
+      "start": 135.08,
+      "end": 135.96,
+      "text": "That's what I think about.",
+      "avg_logprob": -0.31475224741944324,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8181818181818182,
+      "acoustic_speech_overlap_seconds": 0.88
+    },
+    {
+      "start": 138.6,
+      "end": 139.6,
+      "text": "Cheer her up, man.",
+      "avg_logprob": -0.31475224741944324,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.76,
+      "acoustic_speech_overlap_seconds": 1.0
+    },
+    {
+      "start": 140.42,
+      "end": 140.92,
+      "text": "Oh, she did?",
+      "avg_logprob": -0.31475224741944324,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6190476190476191,
+      "acoustic_speech_overlap_seconds": 0.5
+    },
+    {
+      "start": 141.26,
+      "end": 141.58,
+      "text": "Yeah.",
+      "avg_logprob": -0.31475224741944324,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.42857142857142855,
+      "acoustic_speech_overlap_seconds": 0.1,
+      "qa_flags": [
+        "little_acoustic_speech_support"
+      ]
+    },
+    {
+      "start": 142.2,
+      "end": 144.38,
+      "text": "Oh, amazing, Chris, we need to do some more.",
+      "avg_logprob": -0.31475224741944324,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.8490566037735849,
+      "acoustic_speech_overlap_seconds": 1.196
+    }
+  ],
+  "qa": {
+    "full_audio_processed": true,
+    "processed_audio_seconds": 145.9141875,
+    "flagged_segments": 1,
+    "suppressed_segments": 0,
+    "acoustic_speech_seconds": 137.274,
+    "suppressed_probable_silence_segments": 0,
+    "unreliable_intervals": [],
+    "human_reviewed": false,
+    "flags": [
+      "Contains low confidence or possible non-speech recognition."
+    ]
+  },
+  "suppressed_segments": [],
+  "notice": "Machine transcription of downloaded audio; may contain recognition errors."
+}

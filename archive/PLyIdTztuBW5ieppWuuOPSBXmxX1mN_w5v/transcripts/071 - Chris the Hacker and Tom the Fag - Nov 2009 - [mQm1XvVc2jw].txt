@@ -1,0 +1,210 @@
+Chris the Hacker and Tom the Fag - Nov 2009 -
+https://www.youtube.com/watch?v=mQm1XvVc2jw
+Language: nl | Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors.
+
+[00:00:00.000 --> 00:00:02.000] Hallo [ASR uncertain: little_acoustic_speech_support]
+[00:00:02.000 --> 00:00:04.000] Hallo [ASR uncertain: little_acoustic_speech_support]
+[00:00:04.000 --> 00:00:06.000] Hallo
+[00:00:06.000 --> 00:00:08.000] Hallo
+[00:00:08.000 --> 00:00:10.000] Ja
+[00:00:10.000 --> 00:00:12.000] Ja, hoor je mijn laptop of hoor je mijn microfoon?
+[00:00:12.000 --> 00:00:14.000] Ik denk je laptop
+[00:00:14.000 --> 00:00:16.000] Oké, welkom
+[00:00:22.000 --> 00:00:24.000] Oké, en nu?
+[00:00:24.000 --> 00:00:26.000] Ja
+[00:00:26.000 --> 00:00:28.000] Beter? Ja
+[00:00:30.000 --> 00:00:35.320] Ik zit nu met drie laptops en één PC. Het is een beetje ingewikkeld nu.
+[00:00:36.120 --> 00:00:40.200] Ja, dat is right. Je bent niet goed met computers.
+[00:00:42.320 --> 00:00:43.040] Dank je. [ASR uncertain: little_acoustic_speech_support]
+[00:00:48.320 --> 00:00:48.880] Chris. [ASR uncertain: little_acoustic_speech_support]
+[00:00:50.260 --> 00:00:54.880] Oh, by the way, ik heb LSD gestern.
+[00:00:56.340 --> 00:00:57.280] Seriously? Met wie?
+[00:01:00.000 --> 00:01:06.080] Oké, het is pretty awesome. [ASR uncertain: low_recognition_confidence]
+[00:01:07.580 --> 00:01:12.080] Ja, het is een of de most amazing experience I've ever had. [ASR uncertain: low_recognition_confidence]
+[00:01:15.660 --> 00:01:20.080] Ik ga het niet, ik ga het niet, ik ga het niet, maar... [ASR uncertain: low_recognition_confidence]
+[00:01:20.080 --> 00:01:21.400] Try again. [ASR uncertain: low_recognition_confidence]
+[00:01:27.400 --> 00:01:28.640] Belmont, Massachusetts. [ASR uncertain: low_recognition_confidence]
+[00:01:30.000 --> 00:01:32.000] Data Recovery
+[00:01:37.000 --> 00:01:38.000] Number 1
+[00:01:40.000 --> 00:01:42.000] Number 1
+[00:01:44.000 --> 00:01:46.000] Goddammit! Connect me!
+[00:01:47.000 --> 00:01:48.000] Hold on
+[00:02:00.000 --> 00:02:08.600] Goed, boys. [ASR uncertain: little_acoustic_speech_support]
+[00:02:08.600 --> 00:02:09.560] Goed, right over here. [ASR uncertain: little_acoustic_speech_support]
+[00:02:14.060 --> 00:02:14.860] Tom. [ASR uncertain: little_acoustic_speech_support]
+[00:02:15.360 --> 00:02:15.740] Yo. [ASR uncertain: little_acoustic_speech_support]
+[00:02:16.040 --> 00:02:16.780] Hey, what's up?
+[00:02:17.920 --> 00:02:18.780] What's happening, guys?
+[00:02:18.840 --> 00:02:19.860] We want to talk to you.
+[00:02:19.920 --> 00:02:20.180] Jeez.
+[00:02:21.240 --> 00:02:23.280] Listen, I'm right in the middle of something,
+[00:02:23.700 --> 00:02:26.780] and I've also got a lodge meeting tonight,
+[00:02:26.880 --> 00:02:27.780] so I've got to take off.
+[00:02:28.280 --> 00:02:28.960] But call me tomorrow.
+[00:02:28.960 --> 00:02:29.500] Lodge meeting?
+[00:02:30.000 --> 00:02:32.220] Je bent een mason nu.
+[00:02:33.660 --> 00:02:33.840] Ja. [ASR uncertain: little_acoustic_speech_support]
+[00:02:34.540 --> 00:02:35.520] Oh, kongeraties.
+[00:02:36.900 --> 00:02:38.000] Well, thank you very much, sir.
+[00:02:38.400 --> 00:02:40.180] Maar give me a call tomorrow,
+[00:02:40.280 --> 00:02:41.480] probably around noon.
+[00:02:42.380 --> 00:02:44.060] All right, well, I can do that.
+[00:02:44.380 --> 00:02:46.320] Actually, I'm going to be back later on tonight.
+[00:02:46.560 --> 00:02:47.780] I'm going to be back later on tonight.
+[00:02:47.840 --> 00:02:48.660] I've got to come back.
+[00:02:49.440 --> 00:02:49.660] Huh?
+[00:02:51.540 --> 00:02:52.700] All right, well, we'll see you.
+[00:02:52.700 --> 00:02:53.760] Yeah, I know, I know, I know.
+[00:02:53.840 --> 00:02:54.700] It's the middle of the month.
+[00:02:54.820 --> 00:02:55.680] Don't worry about it.
+[00:02:55.980 --> 00:02:58.380] Call me back tomorrow or later on tonight.
+[00:03:00.000 --> 00:03:00.720] for a couple of hours.
+[00:03:00.920 --> 00:03:02.340] It starts at 6.30.
+[00:03:02.720 --> 00:03:03.520] We'll probably get back here
+[00:03:03.520 --> 00:03:04.900] about 9.30, 10.
+[00:03:05.360 --> 00:03:06.200] Six hours.
+[00:03:06.360 --> 00:03:07.760] It'll be way too late for you guys.
+[00:03:07.840 --> 00:03:08.940] So call me tomorrow about noon.
+[00:03:09.300 --> 00:03:09.640] All right.
+[00:03:09.680 --> 00:03:10.000] All right.
+[00:03:10.080 --> 00:03:11.840] Well, enjoy your masonry.
+[00:03:14.000 --> 00:03:14.800] Thanks a lot, guys.
+[00:03:14.820 --> 00:03:15.440] We'll talk to you later.
+[00:03:15.680 --> 00:03:16.080] All right.
+[00:03:16.280 --> 00:03:17.180] Good hearing from you.
+[00:03:17.800 --> 00:03:18.060] Yep.
+[00:03:20.160 --> 00:03:21.340] Wow, it was actually mason.
+[00:03:21.980 --> 00:03:22.800] No, not really.
+[00:03:22.940 --> 00:03:24.420] Actually, you followed my advice.
+[00:03:30.000 --> 00:03:32.000] Dat betekent dat je een mason bent.
+[00:03:32.000 --> 00:03:34.000] Ja, het doet.
+[00:03:34.000 --> 00:03:36.000] Only mason members zijn ervan.
+[00:03:36.000 --> 00:03:38.000] Dat doet dat.
+[00:03:38.000 --> 00:03:40.000] Kanaan fire!
+[00:03:40.000 --> 00:03:42.000] Kanaan fire!
+[00:03:42.000 --> 00:03:44.000] Wow, er zijn er zo veel niggers.
+[00:03:44.000 --> 00:03:46.000] Wtf?
+[00:03:46.000 --> 00:03:48.000] 1, 2, 3...
+[00:03:48.000 --> 00:03:50.000] In Unresult, dit mission is...
+[00:03:50.000 --> 00:03:52.000] Dat is unrealistisch.
+[00:03:52.000 --> 00:03:54.000] Ik dacht het was een simulater.
+[00:03:54.000 --> 00:03:56.000] Wow.
+[00:03:56.000 --> 00:03:58.000] Dat is unrealistisch. [ASR uncertain: little_acoustic_speech_support]
+[00:04:00.000 --> 00:04:03.940] Want me to try, oh shit, forgot the name on the laptop.
+[00:04:05.320 --> 00:04:06.740] You want to call Jeremy?
+[00:04:08.660 --> 00:04:09.180] Jeremy?
+[00:04:10.900 --> 00:04:12.060] Whatever his name is.
+[00:04:12.600 --> 00:04:13.960] The guy from AA.
+[00:04:15.080 --> 00:04:16.860] Oh yeah, we can try if he's in.
+[00:04:17.540 --> 00:04:17.900] Okay.
+[00:04:30.000 --> 00:04:35.000] Ja, hi, hoe are you?
+[00:04:35.000 --> 00:04:37.000] Fine, thanks. [ASR uncertain: little_acoustic_speech_support]
+[00:04:37.000 --> 00:04:41.000] I said fine, thanks. How are you?
+[00:04:41.000 --> 00:04:47.000] Oh, ok. It's a bit hard to hear. I'm fine. I'm looking for Mr. Jeremy.
+[00:04:47.000 --> 00:04:50.000] Mr. Jeremy?
+[00:04:50.000 --> 00:04:51.000] Yeah.
+[00:04:51.000 --> 00:04:55.000] I don't have a Mr. Jeremy here.
+[00:05:30.000 --> 00:05:32.920] You have a small cock, buh-bye.
+[00:05:50.920 --> 00:05:51.960] Hey, hey, hey, hey, hey. [ASR uncertain: little_acoustic_speech_support]
+[00:05:57.720 --> 00:05:58.920] Hey, how can I help you?
+[00:06:00.000 --> 00:06:29.980] Kom op, kom op, kom op, kom op, kom op. [ASR uncertain: low_recognition_confidence]
+[00:06:30.000 --> 00:06:32.000] Oh fuck. [ASR uncertain: low_recognition_confidence, little_acoustic_speech_support]
+[00:06:42.000 --> 00:06:47.000] Man, dat sucks. Ik moet internet op de desktop, maar ik heb geen wifi. [ASR uncertain: low_recognition_confidence]
+[00:06:47.000 --> 00:06:48.000] Waar? [ASR uncertain: low_recognition_confidence]
+[00:06:48.000 --> 00:06:55.000] Ik heb niet wifi installed op de computer, dus ik ga gebruik op dat laptop voor dit shit. [ASR uncertain: low_recognition_confidence]
+[00:07:00.000 --> 00:07:08.000] Waar is Jack? [ASR uncertain: low_recognition_confidence]
+[00:07:08.000 --> 00:07:12.000] Ik weet het niet. Jack is moeilijk met de gitar. [ASR uncertain: low_recognition_confidence]
+[00:07:12.000 --> 00:07:14.000] Of omdat hij een fan is. [ASR uncertain: low_recognition_confidence, little_acoustic_speech_support]
+[00:07:14.000 --> 00:07:18.000] Oh, je bent heel erg. [ASR uncertain: low_recognition_confidence, little_acoustic_speech_support]
+[00:07:18.000 --> 00:07:20.000] Je bent heel erg erg. [ASR uncertain: low_recognition_confidence]
+[00:07:20.000 --> 00:07:22.000] Ik ben heel erg erg. [ASR uncertain: low_recognition_confidence]
+[00:07:22.000 --> 00:07:24.000] Ik heb hem gezegd. [ASR uncertain: low_recognition_confidence, little_acoustic_speech_support]
+[00:07:24.000 --> 00:07:26.000] Heel erg. [ASR uncertain: low_recognition_confidence, little_acoustic_speech_support]
+[00:07:30.000 --> 00:07:34.000] We don't need another coot ripoff, we don't need another Frank Garrett voicemail voice board [ASR uncertain: little_acoustic_speech_support]
+[00:07:35.000 --> 00:07:36.000] No, no, this person
+[00:07:37.000 --> 00:07:38.000] That's not a Frank Garrett person
+[00:07:40.000 --> 00:07:41.000] If I remember correctly
+[00:07:42.000 --> 00:07:45.000] That's Maximus, right? Maximus Cyclone
+[00:07:46.000 --> 00:07:48.000] That's the other Frank Garrett user, right? [ASR uncertain: little_acoustic_speech_support]
+[00:07:50.000 --> 00:07:51.000] Yeah
+[00:07:52.000 --> 00:07:54.000] And why the fuck are you doing him?
+[00:07:55.000 --> 00:07:56.000] I love Frank Garrett
+[00:07:57.000 --> 00:07:58.000] Oh fuck
+[00:08:00.000 --> 00:08:02.000] Goddammit. [ASR uncertain: little_acoustic_speech_support]
+[00:08:05.000 --> 00:08:07.000] Frank. [ASR uncertain: little_acoustic_speech_support]
+[00:08:09.000 --> 00:08:11.000] Frank, hello. [ASR uncertain: little_acoustic_speech_support]
+[00:08:13.000 --> 00:08:15.000] Hi there. [ASR uncertain: little_acoustic_speech_support]
+[00:08:19.000 --> 00:08:21.000] Hello. [ASR uncertain: little_acoustic_speech_support]
+[00:08:21.000 --> 00:08:23.000] Oh fuck you. [ASR uncertain: little_acoustic_speech_support]
+[00:09:00.000 --> 00:09:11.720] Oh, sorry, I forgot the... I invited the wrong guy.
+[00:09:13.300 --> 00:09:14.380] Who didn't you invite?
+[00:09:19.260 --> 00:09:22.960] Uh... Uh... I'm not sure how to pronounce it.
+[00:09:24.020 --> 00:09:27.560] Uh... Gendol? Gengol?
+[00:09:28.060 --> 00:09:28.500] Gengol?
+[00:09:30.000 --> 00:09:32.000] Oké.
+[00:09:32.000 --> 00:09:34.000] Did you pick up?
+[00:09:34.000 --> 00:09:36.000] Ja.
+[00:09:36.000 --> 00:09:38.000] I thought it was Maximus Cyclone,
+[00:09:38.000 --> 00:09:40.000] the Frank Garrett guy.
+[00:09:44.000 --> 00:09:46.000] I don't know, I hung up one there. [ASR uncertain: little_acoustic_speech_support]
+[00:09:50.000 --> 00:09:52.000] Why? I don't need a Frank Garrett guy.
+[00:09:54.000 --> 00:09:56.000] No, that was the girl.
+[00:09:56.000 --> 00:09:58.000] I know, but I don't need a Frank Garrett guy.
+[00:10:00.000 --> 00:10:02.000] Ja, dat is, oh, ja. [ASR uncertain: low_recognition_confidence]
+[00:10:04.800 --> 00:10:06.800] Er is no Frank Geert guy in hier. [ASR uncertain: low_recognition_confidence]
+[00:10:18.800 --> 00:10:20.800] Ik hou van een fuck. [ASR uncertain: low_recognition_confidence]
+[00:10:22.200 --> 00:10:24.200] Ik weet het niet. [ASR uncertain: low_recognition_confidence]
+[00:10:25.400 --> 00:10:26.400] Dank u. [ASR uncertain: low_recognition_confidence]
+[00:10:30.000 --> 00:10:36.000] TARGET AT MENWARE [ASR uncertain: low_recognition_confidence, little_acoustic_speech_support]
+[00:10:52.000 --> 00:10:54.000] WTF?! Die already! [ASR uncertain: low_recognition_confidence, little_acoustic_speech_support]
+[00:10:54.000 --> 00:10:56.000] Jesus Christ [ASR uncertain: low_recognition_confidence, little_acoustic_speech_support]
+[00:11:00.000 --> 00:11:02.000] Nou, met de krabbeest weepen, waar? [ASR uncertain: low_recognition_confidence]
+[00:11:02.000 --> 00:11:04.000] Dat is iets van mijn team. [ASR uncertain: low_recognition_confidence]
+[00:11:30.000 --> 00:11:39.240] Go, go, go. [ASR uncertain: little_acoustic_speech_support]
+[00:11:43.720 --> 00:11:44.480] Copy dat. [ASR uncertain: little_acoustic_speech_support]
+[00:11:48.920 --> 00:11:49.280] Oh boy. [ASR uncertain: little_acoustic_speech_support]
+[00:11:52.880 --> 00:11:54.140] Shit, fuck. [ASR uncertain: little_acoustic_speech_support]
+[00:11:56.720 --> 00:11:57.240] Man. [ASR uncertain: little_acoustic_speech_support]
+[00:11:57.680 --> 00:11:59.480] We need to recruit people for Dark Lords.
+[00:12:00.000 --> 00:12:03.020] Ja, dat is weer een heel erg.
+[00:12:15.780 --> 00:12:19.940] Ja, we do need to recruit people for Dark Lords.
+[00:12:21.060 --> 00:12:26.300] Should we call people and ask if they want to join Dark Lords?
+[00:12:26.720 --> 00:12:26.920] Sure. [ASR uncertain: little_acoustic_speech_support]
+[00:12:30.000 --> 00:12:56.000] Ja, oké. [ASR uncertain: low_recognition_confidence]
+[00:13:00.000 --> 00:13:04.120] Please enter your full 10-digit home phone number, starting with the area code.
+[00:13:04.140 --> 00:13:04.980] Okay, all right.
+[00:13:08.160 --> 00:13:13.420] To confirm, your home phone number is 0123456789.
+[00:13:13.420 --> 00:13:14.740] That sounds just about right.
+[00:13:15.960 --> 00:13:17.860] If this is correct, press 1.
+[00:13:18.480 --> 00:13:18.940] Pre-enter.
+[00:13:19.240 --> 00:13:21.240] Please hold while we access our database.
+[00:13:21.860 --> 00:13:24.880] There are multiple customers in our database with that phone number,
+[00:13:24.880 --> 00:13:28.120] now transferring you to a live representative who can assist you.
+[00:13:30.000 --> 00:13:32.400] ...or recorded for quality assurance purposes.
+[00:13:37.620 --> 00:13:38.180] Hello. [ASR uncertain: little_acoustic_speech_support]
+[00:13:39.400 --> 00:13:42.340] Thank you for choosing 1-800-PETMED.
+[00:13:42.520 --> 00:13:43.840] This is Steve. How can I help you?
+[00:13:44.240 --> 00:13:45.680] You're very welcome, Steve.
+[00:13:46.720 --> 00:13:49.540] I was wondering if you wanted to join Dark Lords.
+[00:13:51.200 --> 00:13:52.680] If I wanted to join what?
+[00:13:53.280 --> 00:13:54.880] I wanted to join Dark Lords.
+[00:13:56.500 --> 00:13:58.440] There's two of you talking at one time.
+[00:14:00.000 --> 00:14:01.000] Wat?
+[00:14:01.000 --> 00:14:02.000] Smeagol.
+[00:14:02.000 --> 00:14:05.000] I have a multiple personality problem.
+[00:14:05.000 --> 00:14:06.000] Ok.
+[00:14:06.000 --> 00:14:07.000] Yeah.
+[00:14:07.000 --> 00:14:13.000] I was wondering if you wanted to join Dark Lords.
+[00:14:15.000 --> 00:14:17.000] I do not speak in English.
+[00:14:17.000 --> 00:14:19.000] I wanted to join dog what?
+[00:14:19.000 --> 00:14:20.000] Dark Lords.
+[00:14:20.000 --> 00:14:21.000] Dark Lords.
+[00:14:21.000 --> 00:14:22.000] You know?
+[00:14:22.000 --> 00:14:26.000] In English what the fuck are you speaking?
+[00:14:26.000 --> 00:14:29.000] What is your name?
+
+Intervals requiring review (unreliable ASR output suppressed):
+[00:05:00.000 --> 00:05:30.000] Repetitive decoder output; speech could not be reliably recognized.
+[00:08:30.000 --> 00:09:00.000] Repetitive decoder output; speech could not be reliably recognized.
+[00:14:30.000 --> 00:14:57.149] Repetitive decoder output; speech could not be reliably recognized.

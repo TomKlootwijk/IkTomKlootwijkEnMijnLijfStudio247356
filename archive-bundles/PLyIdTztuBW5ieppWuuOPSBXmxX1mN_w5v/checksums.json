@@ -1,0 +1,2140 @@
+{
+  "schema_version": 1,
+  "playlist_id": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v",
+  "title": "Chris the Hacker and Tom the Fag",
+  "created_at": "2026-10-11T09:43:44.018803+00:00",
+  "coverage": {
+    "listed_entries": 102,
+    "downloaded": 101,
+    "unavailable": 1,
+    "transcript_segments": 18317,
+    "youtube_hidden_unavailable_count": 9
+  },
+  "zip": {
+    "file": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip",
+    "bytes": 799293402,
+    "sha256": "598d36fcea5acbe4ce05269d8985f3f90907a2ee19ab2000b3f75aa6864ab6a0"
+  },
+  "part_size_limit_bytes": 83886080,
+  "parts": [
+    {
+      "file": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part001",
+      "bytes": 83886080,
+      "sha256": "eb999e79e65e85fe6f683d678ee9a2ee7c3cecf6a7cdd513c53fd84dc41ba04f"
+    },
+    {
+      "file": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part002",
+      "bytes": 83886080,
+      "sha256": "1a685b610775e22482672d29f639ecad8933c33e895bc8c800e41f5b63482602"
+    },
+    {
+      "file": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part003",
+      "bytes": 83886080,
+      "sha256": "7f9fdd49de504243a4cbd39c0c7ed85cde8816cddbef9bf98d9aa990f73e21d5"
+    },
+    {
+      "file": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part004",
+      "bytes": 83886080,
+      "sha256": "f12148456444198b108cfca843d2ddf589590860dcc061b4515fecb811e541d1"
+    },
+    {
+      "file": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part005",
+      "bytes": 83886080,
+      "sha256": "6cae90121083f926572f828fca9bb8f80832176f10a2000423fa3a1db856290c"
+    },
+    {
+      "file": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part006",
+      "bytes": 83886080,
+      "sha256": "6b1fc30fe7b6f7c8c65d3c2c358d6ed376f96f92de5a7f4b1a8f156982d1cea3"
+    },
+    {
+      "file": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part007",
+      "bytes": 83886080,
+      "sha256": "5b1df7001b9ccb2c7554925055cfbf6a03e7b03fb63b3cad379c86f9e524823e"
+    },
+    {
+      "file": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part008",
+      "bytes": 83886080,
+      "sha256": "c9a42a4b1b82b71ed961fa5b8db93c75592aede6b5946bf3e5acc1dad0be6f21"
+    },
+    {
+      "file": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part009",
+      "bytes": 83886080,
+      "sha256": "a1796d7e8cf122deed42a55ae748483b60c73a78defd08eae68e47e49363557d"
+    },
+    {
+      "file": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part010",
+      "bytes": 44318682,
+      "sha256": "71365dfa56ef82d61ef76f63ef047db34cb77f4059c8dcdcb38bdb6c12df33c2"
+    }
+  ],
+  "source_total_bytes": 820502233,
+  "source_files": [
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/001 - Chris the Hacker and Tom the Fag - Sep 2009 - 1_10 - _The Conspiracy of Kai Kunz_ [2MJuvHcpytM].mp3",
+      "bytes": 10045229,
+      "sha256": "b5c61ea76e7b1e3db7bf8eaf623a4c08248af6f47f3c8919dc9948e0ce7c4119"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/002 - Chris the Hacker and Tom the Fag - Sep 2009 - 2_10 - _The 30 Million Dollar Datboys_ [MblmIjIakqQ].mp3",
+      "bytes": 9856672,
+      "sha256": "b3ed353bc47ad63bca0b9fe60ca171bc8409195cca006a5f6434af57fea09aec"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/003 - Chris the Hacker and Tom the Fag - Sep 2009 - 3_10 - _TRUE and HONEST science_ [e4Rg90AvVnM].mp3",
+      "bytes": 10385675,
+      "sha256": "0ffa8557cbd770cd7114c96739273ef8a45d533b13e4ce7c25e500f4dc37f7bb"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/004 - Chris the Hacker and Tom the Fag - Sep 2009 - 4_10 - _Watching Roswell stuff_ [MhyKbXC0NCE].mp3",
+      "bytes": 9557134,
+      "sha256": "bf4716609c4b7af4b561fd63bb3657da408cb43bb02b5dd7ff435444916b0edc"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/005 - Chris the Hacker and Tom the Fag - Sep 2009 - 5_10 - _MEN OF SCIENCE, MEN OF GAAD_ [dte5y8dLov8].mp3",
+      "bytes": 9207116,
+      "sha256": "e9a24c1bb6506615db344173faf97def66da0b4c0a8a89093c451650662b855a"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/006 - Chris the Hacker and Tom the Fag - Sep 2009 - 6_10 - _Put on Earth to harass Chris_ [pmnqnaRj4T8].mp3",
+      "bytes": 10198292,
+      "sha256": "ef60de90a3f4657e07d2b644cbff673c0b117d75728639677740092093c6d406"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/007 - Chris the Hacker and Tom the Fag - Sep 2009 - 7_10 - _Eeyanimals are not Meeyammals_ [qbGVeGmuK-Q].mp3",
+      "bytes": 10458617,
+      "sha256": "313b19405dbb1036e154670ad9aa1496f27184628be1b16b88cc23bcd445229f"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/008 - Chris the Hacker and Tom the Fag - Sep 2009 - 8_10 - _The Koen Also Rises_ [9dt_faBAoKw].mp3",
+      "bytes": 10137455,
+      "sha256": "0d9b01db3e70d96a0e33ce05859c311051be1a66f23bca2771a82754c5a06caa"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/009 - Chris the Hacker and Tom the Fag - Sep 2009 - 9_10 - _Same Old Lies_ [0k2IH2It2n4].mp3",
+      "bytes": 6981848,
+      "sha256": "b27824a23081880a53e779f62c56eca34392c9ace9c04752925122c3bc848420"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/010 - Chris the Hacker and Tom the Fag - Sep 2009 - 10_10 - _PRANK FOOKIN CALLS_ [KN5glJj6VtE].mp3",
+      "bytes": 8017097,
+      "sha256": "5e3eb4936ad49c96d388a2d276a473a063a121a5506bc1fb00ade4cc6125091b"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/011 - Chris the Hacker and Tom the Fag - Sep 2009 - 1_3 - _Chris watches his own Youtube stuff_ [N4we-4AT4FQ].mp3",
+      "bytes": 8097833,
+      "sha256": "8ec1ec467c6536bef93971f2c96903617d9f19a6df4b04ead0c9c3dcad652a01"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/012 - Chris the Hacker and Tom the Fag - Sep 2009 - 2_3 - _Chris the Genius_ [mgV0pd_OCSg].mp3",
+      "bytes": 10596118,
+      "sha256": "f9d30836593ff9284af746d00b02c5bd2673bd206e5a8fa999c2f7c2ede1c006"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/013 - Chris the Hacker and Tom the Fag - Sep 2009 - 3_3 - _Leather Belt__ [sBYA78QC7-s].mp3",
+      "bytes": 8628549,
+      "sha256": "b8f057a9c1c25dd3af1c985de2bdea268312731de35a21b5e0c6a171f5360616"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/014 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_9 - _Chris watches NASCAR_ [UxJrkPS_99w].mp3",
+      "bytes": 9882684,
+      "sha256": "37318a40ec995057531ebb89f6b5e2a1b72eb638250201c1a1e643ffce630894"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/015 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_9 - _Chris loves Koen and Tom_ [aLIE2fhvGRU].mp3",
+      "bytes": 8380344,
+      "sha256": "4f99b1620cfae9d0f6549854db649c78c94bed9e187fbdd9402c2e9321ebc55d"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/016 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_9 - _Where's the money, Perronski__ [Vdz8VlzpFXc].mp3",
+      "bytes": 9556359,
+      "sha256": "ab4d2ee2c6339f806db7402073091dc582c14898af05ec8f7b1ee5ef9e959786"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/017 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_9 - _What're your crimes__ [-3BNlziFGmI].mp3",
+      "bytes": 9623726,
+      "sha256": "1e89da5c6944252560e5a9566a94e2fcfec4c8f79bea4012225c2ef121162cfc"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/018 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_9 - _PHILIP GLASS_ [8jSxOnwIE_g].mp3",
+      "bytes": 10815352,
+      "sha256": "5a7a291a7aa4390feb7097887afe625e720cc98e0ed89fe6a2ab0e1f6fb93fc5"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/019 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_9 - _Let me go back to my regular typing_ [_lWLgaHUHmc].mp3",
+      "bytes": 6782663,
+      "sha256": "90a22d3ab7516a3cb4d5d5db16edebc500238a581807ca652a9ff81a62cb7241"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/020 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_9 - _TYPE-TYPE-TYPE-TYPE-TYPE-TYPE-_ [NpwVe9QAMR8].mp3",
+      "bytes": 3885652,
+      "sha256": "2875d088c2016c605a38095b633ee171b2095ecdb20ad17ab1892669a4ec1fa3"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/021 - Chris the Hacker and Tom the Fag - Oct 2009 - 8_9 - _Chris and the Phallusy_ [A68aiY4MoUw].mp3",
+      "bytes": 10806574,
+      "sha256": "62cb65161bb9cedc78570a7311bff6fc013e283bbe91a048d1e235c0f00bb20d"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/022 - Chris the Hacker and Tom the Fag - Oct 2009 - 9_9 - _The Plan_ [suzi0JQRCjo].mp3",
+      "bytes": 10807390,
+      "sha256": "b17ae0d48b66d5036cfb4afced577263b960601fe4c4bb3a289b96e2cdf924a5"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/023 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_7 - _No Information No Big Bang_ [e-Stjk6XTV0].mp3",
+      "bytes": 10792452,
+      "sha256": "e57ac3a229ee84a144bdcee5dd4a6ed0af130e0cfe0111dc249e32300c432428"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/024 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_7 - _Kai Kunz and the Mason Conspiracy_ [yemW-I74EGw].mp3",
+      "bytes": 5606778,
+      "sha256": "db985ecbf0b942979e33ed0097a9a5528b116564ebbcf871d62d4168436b3466"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/025 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_7 - _Chris the Knight Templar_ [CFrhXnJ3t_Q].mp3",
+      "bytes": 6394268,
+      "sha256": "4360239858d1d5c549328d989e95752cd033611460fd0fa29807e28fbc80a497"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/026 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_7 - _Troll King_ [ANVwqCW8erk].mp3",
+      "bytes": 6770576,
+      "sha256": "e74480830fa36e003ba3cfc5f7ad08a346b2f3c5ed61eaab5d6a96b7e21378ea"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/027 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_7 - _Chris Does Youtube_ [oBOTHgEAeZw].mp3",
+      "bytes": 9545598,
+      "sha256": "b51365f4483d6915f7ac2236073b62d465770118d5622b2972ea2332f0d5f020"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/028 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_7 - _We're All Fictitious_ [0W3fxyRC_3Q].mp3",
+      "bytes": 10245852,
+      "sha256": "674a797e899129bf78424c4ba4acf6fd6f9a226c1ec1f68bceef9cc808b51df1"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/029 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_7 - _nWo_ [hSmv7R5eyNo].mp3",
+      "bytes": 2192728,
+      "sha256": "37fad1e274206ceaf52742a2fd5112f345d8b5785604a09ae663185af1d81c03"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/030 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _Chris has a Customer!_ [IeV7QeWvkV8].mp3",
+      "bytes": 10812915,
+      "sha256": "afbd23b176616ac88f2332b6ad5d1cc7ca35c61a7f39c2f12a8d7531f451a7c8"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/031 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _Chris Serenades Tom_ [ubg9LCWla3g].mp3",
+      "bytes": 10804265,
+      "sha256": "ae2d2b1b2ae721370035c0281817d3f6745f47ceac998e090d4d3fa8a8e9a387"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/032 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_8 - _Full Retard_ [EvhDw2rd7lM].mp3",
+      "bytes": 8194674,
+      "sha256": "a127eca5ab77703b9903b00e676fa5bfd4f5f8cbb1d31a9cecff694612859867"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/033 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_8 - _The Kunz Konnection_ [tvgL2eoX3NQ].mp3",
+      "bytes": 9394825,
+      "sha256": "3f340208ca70907b8a20297fc993b811d7a6a6969419b5da3e87165fb89927c7"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/034 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_8 - _Tales of Rick and Hack_ [0UceOMudoDE].mp3",
+      "bytes": 5159877,
+      "sha256": "a5d85c72c39111e205744251735c43f9943c56d47034f92a40e29a4c711370fc"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/035 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_8 - _The Source of Chris's High Phone Bills_ [rUBcani00zo].mp3",
+      "bytes": 5592197,
+      "sha256": "4da1cc8e8ef873c6d625e24059a80652743e10c6f18350efdc8698424e4a1fc7"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/036 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_8 - _Guitar Hero Chris_ [x6s7mo219Bs].mp3",
+      "bytes": 10729884,
+      "sha256": "ab17eaff0f0e02d03106d8e1ec657ae50fa7e153a059baf7f08cb51461afdce8"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/037 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_8 - _Love is in the Packets_ [_CHuyd_SFs0].mp3",
+      "bytes": 3627111,
+      "sha256": "a0e96e50b9af022f198798d92b82dbd8f9f3d3e979da5116cc16838faceb120c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/038 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_8 - _Chris is a Full-Grown Train_ [pQ4JW22LEws].mp3",
+      "bytes": 10747192,
+      "sha256": "4b8dbb1800c8902051c102d05ddd9d492a5f4e12623d689c76646c6917e39fb7"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/039 - Chris the Hacker and Tom the Fag - Oct 2009 - 8_8 - _If Chris was on a Train..._ [is8QVJUQ994].mp3",
+      "bytes": 10792164,
+      "sha256": "adaa952d2de2f53ccf9ea7c7bd35a48dbd48ffaa0fa85d470fddddba1961e44f"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/040 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _The Chris Perron Show 1_ [t0Nkpnhiw7Q].mp3",
+      "bytes": 5995859,
+      "sha256": "42698d64903cd93d5521adb0a9ca88b64a0ea8ac7735741a91c5cdf3cc76f4ac"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/041 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _The Chris Perron Show 2_ [UE_1pIg8ps4].mp3",
+      "bytes": 1754620,
+      "sha256": "565fbeee4cfcc27f5b7bfd88ee28e93958bc8df9a11d89377211c920d6542d85"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/042 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_4 - _Chris Loves the Cock_ [IPfxBPNw4Rk].mp3",
+      "bytes": 10737095,
+      "sha256": "262dc283ada4abac292a166a0d73d6e2013c3cfc37e77c470d957cbde99eaab7"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/043 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_4 - _Bald Like Chris_ [tlUi3DCialU].mp3",
+      "bytes": 10769666,
+      "sha256": "faeeba2cced5ae8f8ba0e949df25fc0eb94454c9488959b4ca94a832e5e232d0"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/044 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_4 - _Chris's Chicks_ [9jFYQHo2I70].mp3",
+      "bytes": 8156911,
+      "sha256": "015828fba2fe0410838cde1414e587a320c41eeeb4a0b592b6925e3e9a4d58dd"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/045 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_4 - _Chris Jibbers, Thinks he Knows_ [Fpo629OmNEo].mp3",
+      "bytes": 6276136,
+      "sha256": "f1dfa7f3d7aa9fb23171cddb314673704147f0f9be87bd450fea83e19e9a8ae7"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/046 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_5 - _Chris the Fibber_ [Qk3AEMQ0wwA].mp3",
+      "bytes": 2167730,
+      "sha256": "1b80fe13e9fa125b2f714aa3cbc932fd6cbc6f7446f8ec41a8e77975d5db5beb"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/047 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_5 - _Chris the Drunk_ [MHBJc1YFuaY].mp3",
+      "bytes": 6872012,
+      "sha256": "87ea6216e04dea21da82150c825133e651db69879334bc2dc7c6ec60ad1d80df"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/048 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_5 - _You Don't Really Know what Hate is, Tom_ [L8jZ0cfXzuI].mp3",
+      "bytes": 6181635,
+      "sha256": "51263f4e3534a2ac17e98a8f858592e71d8c79344d070937ed3316b2d6b95494"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/049 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_5 - _Family Man at 19_ [Y7jBreAaLH4].mp3",
+      "bytes": 7040950,
+      "sha256": "57c16efe1f6afde1d95b2eb432ffdbcf1505afead3741b8c250f0f1dbb752e8d"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/050 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_5 - _Chris Scares a Teenage Girl_ [Hi0no837orI].mp3",
+      "bytes": 4819702,
+      "sha256": "3135647f87d11041e59f6818c9d40eb6daca882095a8f89de6dd9513b3f269b6"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/051 - Chris the Hacker and Tom the Fag - Oct 2009 - _WUZZAP TOM_ [KGHMpnibonc].mp3",
+      "bytes": 884072,
+      "sha256": "d5337129e8e9157e16b0e80b1a1a22e118483cf161f9dd01b4ce7e439606dcde"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/052 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _Closing in on Tom_ [Nf_PBQsbA9U].mp3",
+      "bytes": 10718930,
+      "sha256": "d0177fd18ad76b63d5cf4c274427102dc76ec2e93255721c47c7193a0c529a78"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/053 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _Marcel the Fag_ [fm2fdcIniw4].mp3",
+      "bytes": 8412410,
+      "sha256": "404880353c0245edef02c4047c594e05c2b146814221b1605d911f724c403341"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/054 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_5 - _When Chris met Frank_ [Xv8o0hDxLKU].mp3",
+      "bytes": 5760091,
+      "sha256": "3d7a61f38a259f683658e244221c3ca9007426f3cb0e09c768b0f8681415bd32"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/055 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_5 - _Chris the Movie!_ [Bzqg9Wua_lM].mp3",
+      "bytes": 4353529,
+      "sha256": "ef88f93ecbc62a52b32f3038f798b484789d1eb2aa487267be418675765e79ba"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/056 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_5 - _Schoolin'_ [KmvmH_S32Ek].mp3",
+      "bytes": 3960009,
+      "sha256": "9b7a39c7d2c9637d0343db17af819d6c56de99bbb826ef9fe959c87689f61c79"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/057 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_5 - _Racism!_ [slHCPGzuhWc].mp3",
+      "bytes": 10779556,
+      "sha256": "ab84907e75b15a0dc5e57faac186624c11101d1f12677f399d07a2ef8e62b11a"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/058 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_5 - _FAPFAPFAPFAPFAPFAPFAPFAPFAP_ [LBRRnoweZuE].mp3",
+      "bytes": 897832,
+      "sha256": "c5b9b08df036df1b4b8f9466ddeb7f837ddac839b4ac47b6ed1f0b3586e2ca54"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/059 - Chris the Hacker and Tom the Fag - Nov 2009 - 1_9 - _Jeremy the Not-Chris_ [xVgRNYzu84w].mp3",
+      "bytes": 9056952,
+      "sha256": "dfa0a018f03aaa1b696571e0c2fd7c0d99e36809a89d71d4187791d48e7b5e96"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/060 - Chris the Hacker and Tom the Fag - Nov 2009 - 2_9 - _Happy Brithday, Chris! Happy Birthday, KOOOON!_ [-TGxoANMkxI].mp3",
+      "bytes": 8639825,
+      "sha256": "a5759e76aeda8510b9eaf8eb0c7245255c9765686eb7453aab968ffe04b4712e"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/061 - Chris the Hacker and Tom the Fag - Nov 2009 - 3_9 - _Chris wouldn't fugg Beatrix w_ Koen's Dick_ [JGrNipu0Dhk].mp3",
+      "bytes": 8736686,
+      "sha256": "3410a53efa2ee8a1867d845985332d1d263b7d9f8b1a271e8b5a2108b03f8b2c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/062 - Chris the Hacker and Tom the Fag - Nov 2009 - 4_9 - _Chris's Daughters will Drop Tom [WuzTPGG8xro].mp3",
+      "bytes": 7140512,
+      "sha256": "a6d7367e3a734999d40e3af837a47e1f365f788adcbd338ac1e2e0f0836b4c8e"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/063 - Chris the Hacker and Tom the Fag - Nov 2009 - 5_9 - _Chris has a Certain Set of Skills_ [clD-ro10iBM].mp3",
+      "bytes": 8629448,
+      "sha256": "9c38de7666b16c41bca96a8ea5234cf62e57b9019c6680b1f8118b56eb774604"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/064 - Chris the Hacker and Tom the Fag - Nov 2009 - 6_9 - _Steaming Piles of Stupid_ [Y84ehI42y6o].mp3",
+      "bytes": 7239058,
+      "sha256": "d88a413f63b26806e8c5be9f622fcab23d6501e093654bb845ce26f8324aa7eb"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/065 - Chris the Hacker and Tom the Fag - Nov 2009 - 7_9 - _Da Hyoomin Race = Gawd_ [gCLoUSiSxiA].mp3",
+      "bytes": 2068853,
+      "sha256": "d3d16aa0d770bd390797e18110ec9095058b90c82db7f3025afa49de97b500c0"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/066 - Chris the Hacker and Tom the Fag - Nov 2009 - 8_9 - _Teabagger Chris_ [I41abOfyjEg].mp3",
+      "bytes": 8138750,
+      "sha256": "739e10267f93e193a9a05a01a58064d9c09a2e14622e357af8609aaccbf5161f"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/067 - Chris the Hacker and Tom the Fag - Nov 2009 - 9_9 - _Goodnight_ [XbdT2jVMwMI].mp3",
+      "bytes": 805850,
+      "sha256": "28d7e0db04952e43d44b413c258cd1a6dd2966da27f31023273f6ed1e9d45853"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/068 - Chris the Hacker and Tom the Fag - Nov 2009 - 1_3 - _Can't Hear Reptilian Tom_ [jRitIRjjjg4].mp3",
+      "bytes": 10791009,
+      "sha256": "1bbb9799a65fc1b3894f96c5597565e11470e53a33ed53a700d69a34060c11e0"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/069 - Chris the Hacker and Tom the Fag - Nov 2009 - 2_3 - _Everyone's a Child like Chris_ [J9bLjA3qMCs].mp3",
+      "bytes": 10783230,
+      "sha256": "7a1de0ed9fc2ca3ca2cf7d87f7f5c0c93eaef8b7c9a8166ebcdf32bfe38870d4"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/070 - Chris the Hacker and Tom the Fag - Nov 2009 - 3_3 - _AA Refuses to fix COD World at War_ [L5KDoO4_a38].mp3",
+      "bytes": 7806373,
+      "sha256": "71ca8ada371fb8c12c3c8da435304dbd562739043a532680c6711ac36d74b4a9"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/071 - Chris the Hacker and Tom the Fag - Nov 2009 - [mQm1XvVc2jw].mp3",
+      "bytes": 10778579,
+      "sha256": "b60f014c42b3c53174ca847b669965a0e6bc9ff3d829d9131f463b4fc7f42d30"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/072 - Chris the Hacker and Tom the Fag - Dec 2009 - 1_13 - _Chris gets Masonic Funding(___)_ [ZDccKQSidhU].mp3",
+      "bytes": 8667199,
+      "sha256": "500b4d3ae8c1f4be305c86747aa232e08044cf8379177dbe45e1407cb88cdedd"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/073 - Chris the Hacker and Tom the Fag - Dec 2009 - 2_13 - _Get High with the Hacker_ [6yrKcLLWgOQ].mp3",
+      "bytes": 7141860,
+      "sha256": "2fab20af6c69af4f5075a4c2791d8968e229158594ba709b2f7587495243b585"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/074 - Chris the Hacker and Tom the Fag - Dec 2009 - 3_13 - _Koen has no Friends_ [02o6-_A918I].mp3",
+      "bytes": 8051404,
+      "sha256": "ad8dd93a9e762fdedf99eb6b64d026200ee701405a7ef5ad760decb4008d0c89"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/075 - Chris the Hacker and Tom the Fag - Dec 2009 - 4_13 - _Chris's Internet Conspiracy Theory_ [4yxX20mbXak].mp3",
+      "bytes": 9244354,
+      "sha256": "3fbc5c57871696aa8faf8369165d9dae5cf9f5dd5ab36d4144ba4bde66cb2af8"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/076 - Chris the Hacker and Tom the Fag - Dec 2009 - 5_13 - _What's a Chris Call without [Phgy3gX6hPQ].mp3",
+      "bytes": 10428925,
+      "sha256": "1ce0a47501cbe9623a6e5e5b4d8023d06e7ef5f866b2035981c0fab3d8ebbda0"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/077 - Chris the Hacker and Tom the Fag - Dec 2009 - 6_13 - _Da Seven Yeer Eeyitch_ [ThtSU9Rn0Zk].mp3",
+      "bytes": 1152386,
+      "sha256": "975648fb23c49d273ae308d1a8e5f71aad4095a7822d114fed93ebcc544cc9b9"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/078 - Chris the Hacker and Tom the Fag - Dec 2009 - 7_13 - _'Flaminko Chicks'_ [nqjcmtTBx48].mp3",
+      "bytes": 8883113,
+      "sha256": "50aef373f042371d64a042923bf03aa77567975c80ef0aa5a6e84b1c4ab84651"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/079 - Chris the Hacker and Tom the Fag - Dec 2009 - 8_13 - _GIVE ME YA ADDRESS DEYUH_ [uRHSdOUdfiU].mp3",
+      "bytes": 8534291,
+      "sha256": "b907c34f591cbe55575e4be93e9acd43e9cece99ce5a09bba56e1f5c33153059"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/080 - Chris the Hacker and Tom the Fag - Dec 2009 - 9_13 - _Chris the Not for Profit Weed Man_ [Xu3gqB4HEpU].mp3",
+      "bytes": 9887812,
+      "sha256": "0418aa126e89b73838ea56feda506e5a19d1168bd6efc5766239b636d3940e99"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/081 - Chris the Hacker and Tom the Fag - Dec 2009 - 10_13 - _Angry Monkey_ [3k0O0fR5d5o].mp3",
+      "bytes": 9043973,
+      "sha256": "d43d71048f691db739f6c03dc5dc0e88d17cec04efd8b5b96dfdf35e67beaa66"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/082 - Chris the Hacker and Tom the Fag - Dec 2009 - 11_13 - _Men of Soiens Men of Gaad_ [6rqiiuTcvx8].mp3",
+      "bytes": 2040029,
+      "sha256": "bb938b4a9cd4951a183af937bf9ba8a0721b531816ccbe16cc6531491f73b42f"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/083 - Chris the Hacker and Tom the Fag - Dec 2009 - 12_13 - _Bring the Trash Home (ie, Chris)_ [rLEP3ojB4qw].mp3",
+      "bytes": 8611273,
+      "sha256": "4d29880824024ac584bcac0a398e8a5f47dd00f9e61aa789347939502c623052"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/084 - Chris the Hacker and Tom the Fag - Dec 2009 - 13_13 - _Chris Will Believe Any Lies on Youtube_ [BLbPrI1hGCs].mp3",
+      "bytes": 4733805,
+      "sha256": "bcc9d133243ef4dd394a52101cd5f1d466415a34fad9ca45769bfd64b16dc8ec"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/085 - Chris the Hacker and Tom the Fag - Feb 2010 - 1_5 - _FAIR GAME_ [WkNrZM7UBq4].mp3",
+      "bytes": 10447066,
+      "sha256": "5fdb9723c08f9dbffe6d11a8c9d4b8bbf0fba3f2ced257e3ba34add9b79c8f90"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/086 - Chris the Hacker and Tom the Fag - Feb 2010 - 2_5 - _Office Space_ [akjYnBhdOnk].mp3",
+      "bytes": 10146568,
+      "sha256": "2ee5bb01833631a093793daf6c8843b2fa9bbdd56f26fb73371158bc902c7084"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/087 - Chris the Hacker and Tom the Fag - Feb 2010 - 3_5 - _Chris the Deadbeat Pedo_ [uQdJigxI6Pk].mp3",
+      "bytes": 10827620,
+      "sha256": "ca2486e33948c8e8d9df956734864e1fd3ab0dafa6cc187bf677794cfbf441e6"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/088 - Chris the Hacker and Tom the Fag - Feb 2010 - 4_5 - _Crackin 40 on an Ostrich_ [8QtSVdjT0I8].mp3",
+      "bytes": 4427339,
+      "sha256": "70b61d249274542ca741952743c95d1f907f4f8fc0cbd31f98692357a1df1c82"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/089 - Chris the Hacker and Tom the Fag - Feb 2010 - 5_5 - _3 Degrees of Masonry_ [VdmvisNvwGU].mp3",
+      "bytes": 10407293,
+      "sha256": "e1efd91bbd13181a235822ceecbe2322c36b93aa7635f9aa645767f95d8b4e18"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/090 - Chris the Hacker and Tom the Fag - Oct 2010 - 1_3 - _Somebody Like Chris_ [ZC-fbIGOg04].mp3",
+      "bytes": 10801958,
+      "sha256": "373e246a24f92f68f11cb5300d55d80862ea5bd54cb0eaebbe6b5a5c099aff48"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/091 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _The Bane of the Spoof_ [z4KyguLFvXU].mp3",
+      "bytes": 10392880,
+      "sha256": "9f466aaf18bbb958d75220692e7c13fa3dbcd6d4260c34e51061cd802a076a99"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/092 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _Going to Florida_ [LPzTMYeHtvE].mp3",
+      "bytes": 10808010,
+      "sha256": "4241c4e6c2f7ceb474adc281b24960e00b9702d363e2cb13926a72f5e7f7ce6f"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/093 - Chris the Hacker and Tom the Fag - Nov 2010 - 1_3 - _Chris the Homophobe_ [8-7IW4-v7qU].mp3",
+      "bytes": 10808877,
+      "sha256": "5c461b26cf401875cd85cacf879fbcd182d8660e0f00a8cef0638327da0dd39c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/094 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _Vigilante Chris_ [yTyAhp880jM].mp3",
+      "bytes": 8617885,
+      "sha256": "fc1bb04a0399466948baa629ff0e6d559c43591daf1a905a02399f1adccdef51"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/095 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _THE STONE COLD pooper_ [H1v-hPPuZ14].mp3",
+      "bytes": 1050331,
+      "sha256": "cbd8754dc744289949395e84a85349c4f83f67b60b9f425b0c97c44fe580fe7c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/096 - Chris the Hacker and Tom the Fag - Nov 2010 - 1_3 - _Business in the Toilet_ [zBblBHuSjIM].mp3",
+      "bytes": 10809169,
+      "sha256": "59b1d58a69f60e843b2b07256a90198b6da749b4471f3768d1961e9b78687186"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/097 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _Itchin fer a Snitch_ [MiQEC-D6mXo].mp3",
+      "bytes": 10807436,
+      "sha256": "0954d8f5141a233c92b9c7f8038f7d9e9b28c3e7d36c032cc08714d062a58b31"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/098 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _DatboysDataRecovery!_ [UjP1HA2kVIs].mp3",
+      "bytes": 10278717,
+      "sha256": "dbd2b92d98f92f9cb39665bc81198fadf3382b93aa3dfbe34a3d71b250102f90"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/099 - Unavailable video [qOymgEa74C8].mp3",
+      "bytes": 10823340,
+      "sha256": "6c96848d1c494e49cc18b9dbeeb80efc959208cf0193580883d779fffdaa11eb"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/100 - Chris the hacker gives an update part 2 [Tf7TuPkis2A].mp3",
+      "bytes": 4574039,
+      "sha256": "9b604ea25233df0b95a160c15ab5e8b327e236b55c20009791fb35cc2104450c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/101 - Chris the hacker goes emo [TttoDBt4xiQ].mp3",
+      "bytes": 7331858,
+      "sha256": "33ea2170bdda90fa47df5a68977d3d8cfb869bcda9c2a378b29a8b8fb0348552"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio-validation.json",
+      "bytes": 131864,
+      "sha256": "993dac5feb295ca8b14f4c30977edd8c6cd2642d72188c196062c5e6d06053f9"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/manifest.json",
+      "bytes": 106802,
+      "sha256": "9e2e05869f62c3fffdbfa742ef2406a053efbae3c60c4ba4ed05e5c8a7e05752"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/001 - Chris the Hacker and Tom the Fag - Sep 2009 - 1_10 - _The Conspiracy of Kai Kunz_ [2MJuvHcpytM].json",
+      "bytes": 1202,
+      "sha256": "780600eae86bfb38ea16e136bdc505f16378394cd9449f86fd6a20e44797f2c8"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/002 - Chris the Hacker and Tom the Fag - Sep 2009 - 2_10 - _The 30 Million Dollar Datboys_ [MblmIjIakqQ].json",
+      "bytes": 1134,
+      "sha256": "8c1d9dffc188a4df941840ff098bb03e2e909902b02c20d2ac5b914fb8c4906a"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/003 - Chris the Hacker and Tom the Fag - Sep 2009 - 3_10 - _TRUE and HONEST science_ [e4Rg90AvVnM].json",
+      "bytes": 1138,
+      "sha256": "14f162a020ab7f40fe1248c97a35dbaa269090ca8c3d7068e1521444e81dc642"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/004 - Chris the Hacker and Tom the Fag - Sep 2009 - 4_10 - _Watching Roswell stuff_ [MhyKbXC0NCE].json",
+      "bytes": 1149,
+      "sha256": "3b2dbabd2682d0a7e1fade74b2fc57ffabc3bca94ede03c4d14422443abaa289"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/005 - Chris the Hacker and Tom the Fag - Sep 2009 - 5_10 - _MEN OF SCIENCE, MEN OF GAAD_ [dte5y8dLov8].json",
+      "bytes": 1118,
+      "sha256": "75e45ffc6558d1c083353b1a156a329e701775c3aeb10aa29f5c3ad3079241ac"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/006 - Chris the Hacker and Tom the Fag - Sep 2009 - 6_10 - _Put on Earth to harass Chris_ [pmnqnaRj4T8].json",
+      "bytes": 1165,
+      "sha256": "0611cad591799d9ec3e184eb09e71f2a14c23a463780423acdac8141b0ac5e03"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/007 - Chris the Hacker and Tom the Fag - Sep 2009 - 7_10 - _Eeyanimals are not Meeyammals_ [qbGVeGmuK-Q].json",
+      "bytes": 1133,
+      "sha256": "17a978ed6c41e25ac249ce8ecf83c103bce5892bd2a1a6dd291856054a35515c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/008 - Chris the Hacker and Tom the Fag - Sep 2009 - 8_10 - _The Koen Also Rises_ [9dt_faBAoKw].json",
+      "bytes": 1165,
+      "sha256": "6b514ad00d33e37b44220844b4f205808e57e35ba132ed5362fd9e8d8b92e480"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/009 - Chris the Hacker and Tom the Fag - Sep 2009 - 9_10 - _Same Old Lies_ [0k2IH2It2n4].json",
+      "bytes": 1823,
+      "sha256": "fae35f98ed5f01a75a14f5de5b7f93fe4cbcd25eaac39a4b89b23a8459ee3651"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/010 - Chris the Hacker and Tom the Fag - Sep 2009 - 10_10 - _PRANK FOOKIN CALLS_ [KN5glJj6VtE].json",
+      "bytes": 1218,
+      "sha256": "483888b8d793418faf34469884a1ea49ad24b8482d70fec5953448cb85376360"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/011 - Chris the Hacker and Tom the Fag - Sep 2009 - 1_3 - _Chris watches his own Youtube stuff_ [N4we-4AT4FQ].json",
+      "bytes": 1219,
+      "sha256": "755636ae2032a10a48575cc608c152bbbc25aceab5a091b0112f328588626f3d"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/012 - Chris the Hacker and Tom the Fag - Sep 2009 - 2_3 - _Chris the Genius_ [mgV0pd_OCSg].json",
+      "bytes": 1202,
+      "sha256": "6a838912f10bd77c69e4ede7983e24218b2b658dc89071c23f2749f6b969b471"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/013 - Chris the Hacker and Tom the Fag - Sep 2009 - 3_3 - _Leather Belt__ [sBYA78QC7-s].json",
+      "bytes": 1233,
+      "sha256": "c8badbca986e38f64da53bb1978a5549b9eb5b8cc175aab27818396a761f7a35"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/014 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_9 - _Chris watches NASCAR_ [UxJrkPS_99w].json",
+      "bytes": 1352,
+      "sha256": "258d709e5c035bf280104a735319c8ca1414cf35bcb3facf16f0f4d39cb5cb81"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/015 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_9 - _Chris loves Koen and Tom_ [aLIE2fhvGRU].json",
+      "bytes": 1165,
+      "sha256": "1ee8ea71f839cd1256e6db285a8ab02fb44a1ee350f2a20de2dd7f2f8ec32488"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/016 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_9 - _Where's the money, Perronski__ [Vdz8VlzpFXc].json",
+      "bytes": 1180,
+      "sha256": "22b2cc1164f847201a44e1a42a6eee54d77fc2ee8c765136ec7459cfba0cc098"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/017 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_9 - _What're your crimes__ [-3BNlziFGmI].json",
+      "bytes": 1181,
+      "sha256": "4524f7e593872e3ba7a614621090deb53d544ee530901a9dc90bfae39e8962f6"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/018 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_9 - _PHILIP GLASS_ [8jSxOnwIE_g].json",
+      "bytes": 2995,
+      "sha256": "c78104ba45e037cff807fb98fb5cd77b301cfc4ee7d4a7d6b3f7658fcbc76dd7"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/019 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_9 - _Let me go back to my regular typing_ [_lWLgaHUHmc].json",
+      "bytes": 1206,
+      "sha256": "7fb67cc79f5df327e9f5630b126c3d41728c9542366b1427335d15a966a37a78"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/020 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_9 - _TYPE-TYPE-TYPE-TYPE-TYPE-TYPE-_ [NpwVe9QAMR8].json",
+      "bytes": 1264,
+      "sha256": "6c11456a0b969268074a0dd3fe638c67b710164abf9ac06c429b9d483427eb38"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/021 - Chris the Hacker and Tom the Fag - Oct 2009 - 8_9 - _Chris and the Phallusy_ [A68aiY4MoUw].json",
+      "bytes": 1305,
+      "sha256": "ea24e6f77e3bb5f1049e560b9f729867f4d61b8409e3d55aa3a58c39e30249b4"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/022 - Chris the Hacker and Tom the Fag - Oct 2009 - 9_9 - _The Plan_ [suzi0JQRCjo].json",
+      "bytes": 1156,
+      "sha256": "b520fe8c132c1a9752868538b5ca772627d58d8b7df3511687a869c3a38a8eb9"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/023 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_7 - _No Information No Big Bang_ [e-Stjk6XTV0].json",
+      "bytes": 1143,
+      "sha256": "db1cfb7c11179e53ecca0b1a84abcda6d7a73fc3e4d1d886bb6069aaff314ddb"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/024 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_7 - _Kai Kunz and the Mason Conspiracy_ [yemW-I74EGw].json",
+      "bytes": 1307,
+      "sha256": "6630b86daab5d739ad36b3d4abf3c35d1c341787a377482b46e420487d73cf9c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/025 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_7 - _Chris the Knight Templar_ [CFrhXnJ3t_Q].json",
+      "bytes": 2241,
+      "sha256": "51b16e61eac1dad74e1ff2676b95e533c599ac67dc6c3933515c678a2dd59e37"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/026 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_7 - _Troll King_ [ANVwqCW8erk].json",
+      "bytes": 1044,
+      "sha256": "b0ef261f1f5ee80410070ed20fae3efbff7b327ccf3c7a51883cfee1ac411993"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/027 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_7 - _Chris Does Youtube_ [oBOTHgEAeZw].json",
+      "bytes": 1173,
+      "sha256": "f1fa98563caccfb849c8e926861c4b4066e667f0ea31103d49bd2159f0ea3bab"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/028 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_7 - _We're All Fictitious_ [0W3fxyRC_3Q].json",
+      "bytes": 1084,
+      "sha256": "1bd4b38eea05d05b1727b5d6e1ec5d5ea0dfb8c67be7031dea97c9ded179f333"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/029 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_7 - _nWo_ [hSmv7R5eyNo].json",
+      "bytes": 2539,
+      "sha256": "99a52290a58de2a7d31f622748c35ee4538a9a265f557e51ea6e44ac6b47a889"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/030 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _Chris has a Customer!_ [IeV7QeWvkV8].json",
+      "bytes": 1371,
+      "sha256": "e30f04d536b4e66075a3552d9528e3a2fde88d820e822e9ea8c184ab7d748e52"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/031 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _Chris Serenades Tom_ [ubg9LCWla3g].json",
+      "bytes": 1356,
+      "sha256": "1977a7812da8143ef842584409ff7e9c6544b3eed0a7a05659bed7f58529d37a"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/032 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_8 - _Full Retard_ [EvhDw2rd7lM].json",
+      "bytes": 1385,
+      "sha256": "1bb4c3a84786ac359fd141f1c8b3129a5f85c5b7c4631a532ca9f1d299738054"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/033 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_8 - _The Kunz Konnection_ [tvgL2eoX3NQ].json",
+      "bytes": 1437,
+      "sha256": "cd817d19deef990ba47e107fdcc54ecafd8cec67a28e522cad03ac32a4e4936c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/034 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_8 - _Tales of Rick and Hack_ [0UceOMudoDE].json",
+      "bytes": 1236,
+      "sha256": "d31e76694108513db1b0f739c0e701a804b9448f35cd01bf95b7a554a88b8e1e"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/035 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_8 - _The Source of Chris's High Phone Bills_ [rUBcani00zo].json",
+      "bytes": 2972,
+      "sha256": "d2f1e6d9c4b2abd851a0be37a589ee9a0d228d2eda6ca36886654b90a90a1ec1"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/036 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_8 - _Guitar Hero Chris_ [x6s7mo219Bs].json",
+      "bytes": 1209,
+      "sha256": "9fc370dbdbdf55cfeca47dfb5c653a85aabb5bea4a62ea4f060c2403e75294e2"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/037 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_8 - _Love is in the Packets_ [_CHuyd_SFs0].json",
+      "bytes": 1421,
+      "sha256": "bbacb65f6e803236ecb37a4a2d02c6354063eb1e1fa064b64ffb572a15af035a"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/038 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_8 - _Chris is a Full-Grown Train_ [pQ4JW22LEws].json",
+      "bytes": 1251,
+      "sha256": "2a87f819e5c99003db46cbf968fd74b68e4b4fa2da6ee4d8766f619d6a9b8ff4"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/039 - Chris the Hacker and Tom the Fag - Oct 2009 - 8_8 - _If Chris was on a Train..._ [is8QVJUQ994].json",
+      "bytes": 1278,
+      "sha256": "ad9aa5d8f5fa12fb03610f621e06187783fb226eb38a0e67c0fd83badf48007d"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/040 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _The Chris Perron Show 1_ [t0Nkpnhiw7Q].json",
+      "bytes": 1651,
+      "sha256": "faa4056e57328701e7562413e047d21433f66428b303fdfc24bb8d7a29dbed8a"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/041 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _The Chris Perron Show 2_ [UE_1pIg8ps4].json",
+      "bytes": 1738,
+      "sha256": "eb877d7c001d7a672b39291a9b897641b5455cf9f9d03ab36ac06fd1f197d24a"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/042 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_4 - _Chris Loves the Cock_ [IPfxBPNw4Rk].json",
+      "bytes": 1244,
+      "sha256": "7c6a7b96d49b19724bc195fb33c59b11a30ce1bafc3fe75a9fe6bddad408ba32"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/043 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_4 - _Bald Like Chris_ [tlUi3DCialU].json",
+      "bytes": 1386,
+      "sha256": "bbc38833f93a7eb7a678c652c3cdebcad16661063576a9c66b1897380cef9699"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/044 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_4 - _Chris's Chicks_ [9jFYQHo2I70].json",
+      "bytes": 1193,
+      "sha256": "425ee2a7a61030194d2d0f1595aabe1e332a1c82fd79c06cd7671b8bcfed020c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/045 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_4 - _Chris Jibbers, Thinks he Knows_ [Fpo629OmNEo].json",
+      "bytes": 1262,
+      "sha256": "7823c3f8f1c13157b0c4d50b44d4288ba60ca8db5bd82228bc857266248e03cb"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/046 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_5 - _Chris the Fibber_ [Qk3AEMQ0wwA].json",
+      "bytes": 1266,
+      "sha256": "42fada7e435067067a3e5c8725a6273e075978f397da64ede1156427dcac1104"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/047 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_5 - _Chris the Drunk_ [MHBJc1YFuaY].json",
+      "bytes": 1361,
+      "sha256": "fda95da92892a500b25802694c477d20497add6c238d3e9e680eb16508b8af94"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/048 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_5 - _You Don't Really Know what Hate is, Tom_ [L8jZ0cfXzuI].json",
+      "bytes": 1192,
+      "sha256": "c19a5aaab72ebb2559691e6ed695a7da43194f6b9b4c9ede246f04f186e00801"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/049 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_5 - _Family Man at 19_ [Y7jBreAaLH4].json",
+      "bytes": 1204,
+      "sha256": "440fd50ca1a821fe79ac9e2c5e5d56499c6069509dd60347aa4342ed480ce3ef"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/050 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_5 - _Chris Scares a Teenage Girl_ [Hi0no837orI].json",
+      "bytes": 1189,
+      "sha256": "16fd14d6fec2a9b644cdec4d0182039fdc59b11b3257afe35ab34d12f291ddc6"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/051 - Chris the Hacker and Tom the Fag - Oct 2009 - _WUZZAP TOM_ [KGHMpnibonc].json",
+      "bytes": 2104,
+      "sha256": "1d3a30eab2e13610d572c3f4b5fbfd172aac2ac2e332b575eacec971ab0e0c3b"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/052 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _Closing in on Tom_ [Nf_PBQsbA9U].json",
+      "bytes": 1174,
+      "sha256": "9ae7d809222124c84920d814acee08e737a026ef2cb0cb788e34f7dcff5e10a7"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/053 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _Marcel the Fag_ [fm2fdcIniw4].json",
+      "bytes": 2313,
+      "sha256": "438246c1a12724efbf93b9cacdf1922cd7d9a184f82422831bd43290c7b7228f"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/054 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_5 - _When Chris met Frank_ [Xv8o0hDxLKU].json",
+      "bytes": 1144,
+      "sha256": "8d26d6aa81e134a15de09b6e897fa431c079cf818506274647d079e2fdde7547"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/055 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_5 - _Chris the Movie!_ [Bzqg9Wua_lM].json",
+      "bytes": 1158,
+      "sha256": "1fd5aa15453b4a060785cd9cf7cf959e4ee5b52cd480854e6cfa6dfd7c2d6482"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/056 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_5 - _Schoolin'_ [KmvmH_S32Ek].json",
+      "bytes": 1127,
+      "sha256": "3a7cfff0967fdd2173663ace71c96ee95a224fc07630883733897bc7f9266f6a"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/057 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_5 - _Racism!_ [slHCPGzuhWc].json",
+      "bytes": 2127,
+      "sha256": "e14d0e6b678a82d49ea4b94e3642f6a0b6dad36dd866f17206592145a3dd297e"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/058 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_5 - _FAPFAPFAPFAPFAPFAPFAPFAPFAP_ [LBRRnoweZuE].json",
+      "bytes": 1212,
+      "sha256": "4d453f0b9192bc9ac5d9033d6c9312e288be60453b988d77062f9ee33933ea04"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/059 - Chris the Hacker and Tom the Fag - Nov 2009 - 1_9 - _Jeremy the Not-Chris_ [xVgRNYzu84w].json",
+      "bytes": 1155,
+      "sha256": "67107bc6d84bc6b641f3dc76b1359e7b6d29867a5f90e5b5db3212ea798c6c0d"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/060 - Chris the Hacker and Tom the Fag - Nov 2009 - 2_9 - _Happy Brithday, Chris! Happy Birthday, KOOOON!_ [-TGxoANMkxI].json",
+      "bytes": 1202,
+      "sha256": "62afbb21a84dc8ef45df337940e20e6b75edf3ae857866a451606f51dbaff88b"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/061 - Chris the Hacker and Tom the Fag - Nov 2009 - 3_9 - _Chris wouldn't fugg Beatrix w_ Koen's Dick_ [JGrNipu0Dhk].json",
+      "bytes": 1254,
+      "sha256": "b8676c4f44dfd83e38f02dae85c7f4ea20cf101a36ac86be54da2a0b90adc47f"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/062 - Chris the Hacker and Tom the Fag - Nov 2009 - 4_9 - _Chris's Daughters will Drop Tom [WuzTPGG8xro].json",
+      "bytes": 2271,
+      "sha256": "e5060528b5cb0b7c8ea578107c5eaac8f0899115e96fd057ba1daa5e6f8a8112"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/063 - Chris the Hacker and Tom the Fag - Nov 2009 - 5_9 - _Chris has a Certain Set of Skills_ [clD-ro10iBM].json",
+      "bytes": 1145,
+      "sha256": "d6213cfda3cd76632906f26fc3a009fefaa6088f5d1a35e0f39a666e1c1df1c9"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/064 - Chris the Hacker and Tom the Fag - Nov 2009 - 6_9 - _Steaming Piles of Stupid_ [Y84ehI42y6o].json",
+      "bytes": 2361,
+      "sha256": "1022066bc342609654ce890f87fc7ec7391594816cc5c76b8900578b9fe8153f"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/065 - Chris the Hacker and Tom the Fag - Nov 2009 - 7_9 - _Da Hyoomin Race = Gawd_ [gCLoUSiSxiA].json",
+      "bytes": 1728,
+      "sha256": "38eee8452d3bc44e62bd7a83862af6a9f1c76aba0713586ab5a32fce2920d5d1"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/066 - Chris the Hacker and Tom the Fag - Nov 2009 - 8_9 - _Teabagger Chris_ [I41abOfyjEg].json",
+      "bytes": 1195,
+      "sha256": "0b7ebc5f44d5b828ebe6a369f5476d9d39181bd3781b199c695a89d9f1c367f1"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/067 - Chris the Hacker and Tom the Fag - Nov 2009 - 9_9 - _Goodnight_ [XbdT2jVMwMI].json",
+      "bytes": 1167,
+      "sha256": "2bf780ab9db58fca4aec9d10193814cf6c19237b23bf57571379bc1fb5f199f0"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/068 - Chris the Hacker and Tom the Fag - Nov 2009 - 1_3 - _Can't Hear Reptilian Tom_ [jRitIRjjjg4].json",
+      "bytes": 1399,
+      "sha256": "c8f87e1be4cbc74cd41562c6a727a15dd93ad3bc97f7b6cd1e934e904ad782ce"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/069 - Chris the Hacker and Tom the Fag - Nov 2009 - 2_3 - _Everyone's a Child like Chris_ [J9bLjA3qMCs].json",
+      "bytes": 1203,
+      "sha256": "a1589eab998c3c90664226b5a1ea85cf9de8b2a7fdda6143cf78c479cc7879e5"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/070 - Chris the Hacker and Tom the Fag - Nov 2009 - 3_3 - _AA Refuses to fix COD World at War_ [L5KDoO4_a38].json",
+      "bytes": 1247,
+      "sha256": "f315754093b61dc24b6c1e659ed9ad6e1eb196fd50e8490abf0047c69a9dc294"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/071 - Chris the Hacker and Tom the Fag - Nov 2009 - [mQm1XvVc2jw].json",
+      "bytes": 1124,
+      "sha256": "2644b713b828f1eb09a55a3cf6a8dd30ab29c5ea66dc5581b4c2d84587ae5d62"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/072 - Chris the Hacker and Tom the Fag - Dec 2009 - 1_13 - _Chris gets Masonic Funding(___)_ [ZDccKQSidhU].json",
+      "bytes": 1208,
+      "sha256": "9626a710e8350662224d5d86ba128b0b788f11dd15796a7afcc02b7cc61dbb92"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/073 - Chris the Hacker and Tom the Fag - Dec 2009 - 2_13 - _Get High with the Hacker_ [6yrKcLLWgOQ].json",
+      "bytes": 1160,
+      "sha256": "7774d0e902cbd3b129cf7aa9bb0f8e8bcb17f3fb7bd253902d45f13d8748a64c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/074 - Chris the Hacker and Tom the Fag - Dec 2009 - 3_13 - _Koen has no Friends_ [02o6-_A918I].json",
+      "bytes": 1200,
+      "sha256": "e7044dc5e853b7793814bef83e65e0abbd13533aa9a0a7aa39a8010ea464bf74"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/075 - Chris the Hacker and Tom the Fag - Dec 2009 - 4_13 - _Chris's Internet Conspiracy Theory_ [4yxX20mbXak].json",
+      "bytes": 1314,
+      "sha256": "5e5850c5ffe7beb7e5c808b9d5ab5befd9fa2abc2d6f9635153db8f4d8c64d76"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/076 - Chris the Hacker and Tom the Fag - Dec 2009 - 5_13 - _What's a Chris Call without [Phgy3gX6hPQ].json",
+      "bytes": 1291,
+      "sha256": "5451fb1e954601a82c87e6daffc86958fd39c932f419198960b547ba699ccc1e"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/077 - Chris the Hacker and Tom the Fag - Dec 2009 - 6_13 - _Da Seven Yeer Eeyitch_ [ThtSU9Rn0Zk].json",
+      "bytes": 1166,
+      "sha256": "ec7873afe87dd175e925f034e9145232797e52fb7d6299a13bdced2150098880"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/078 - Chris the Hacker and Tom the Fag - Dec 2009 - 7_13 - _'Flaminko Chicks'_ [nqjcmtTBx48].json",
+      "bytes": 1153,
+      "sha256": "bfe6cffa9404c5cc8f7e540ec07465a90c12de7a8ed64572889b57722f20bff1"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/079 - Chris the Hacker and Tom the Fag - Dec 2009 - 8_13 - _GIVE ME YA ADDRESS DEYUH_ [uRHSdOUdfiU].json",
+      "bytes": 1233,
+      "sha256": "99afa05f7dca45910b8b7eb3eb5618f9b4349dbfa84209801e05c91ef09e3af0"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/080 - Chris the Hacker and Tom the Fag - Dec 2009 - 9_13 - _Chris the Not for Profit Weed Man_ [Xu3gqB4HEpU].json",
+      "bytes": 1170,
+      "sha256": "f662baadcf8182801d6ca05018ac3a0a5bb00e89cb18d31ae033e5eedd32d499"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/081 - Chris the Hacker and Tom the Fag - Dec 2009 - 10_13 - _Angry Monkey_ [3k0O0fR5d5o].json",
+      "bytes": 1237,
+      "sha256": "8ecbef3ab1c209a98271fdb0b331db6e47acf5b155c5c2b0eaece2dfd1d846d5"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/082 - Chris the Hacker and Tom the Fag - Dec 2009 - 11_13 - _Men of Soiens Men of Gaad_ [6rqiiuTcvx8].json",
+      "bytes": 1165,
+      "sha256": "3d2b68d78c6bb91c0421917f0cf91709883c3610f29796358434ba4f0faec945"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/083 - Chris the Hacker and Tom the Fag - Dec 2009 - 12_13 - _Bring the Trash Home (ie, Chris)_ [rLEP3ojB4qw].json",
+      "bytes": 1199,
+      "sha256": "33a1dbe98b2def379ded940c54a81fac85f251a8eb935f4abbca83e4b52677a6"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/084 - Chris the Hacker and Tom the Fag - Dec 2009 - 13_13 - _Chris Will Believe Any Lies on Youtube_ [BLbPrI1hGCs].json",
+      "bytes": 1573,
+      "sha256": "4515cf9b585df9610664142484654e3271da269c5efb6e34b9ed6a3010b9518f"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/085 - Chris the Hacker and Tom the Fag - Feb 2010 - 1_5 - _FAIR GAME_ [WkNrZM7UBq4].json",
+      "bytes": 1294,
+      "sha256": "cf5ecbc65fb02dfb4e4b64a1335c18afe41a1a0d6997e99db89db412bf3882b1"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/086 - Chris the Hacker and Tom the Fag - Feb 2010 - 2_5 - _Office Space_ [akjYnBhdOnk].json",
+      "bytes": 1231,
+      "sha256": "5401858dfcf514d9424b995f27640a7b3fd551b5142b69674ea18da8ad597ff9"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/087 - Chris the Hacker and Tom the Fag - Feb 2010 - 3_5 - _Chris the Deadbeat Pedo_ [uQdJigxI6Pk].json",
+      "bytes": 1212,
+      "sha256": "65bc77820274918a7f783dae67bc367d29f586b361c487dbcb05c1204e7a608d"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/088 - Chris the Hacker and Tom the Fag - Feb 2010 - 4_5 - _Crackin 40 on an Ostrich_ [8QtSVdjT0I8].json",
+      "bytes": 1250,
+      "sha256": "e8ebe9f67d3d34e71a1829f1279295b49aa457ae00724efc61a8c177054ee32d"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/089 - Chris the Hacker and Tom the Fag - Feb 2010 - 5_5 - _3 Degrees of Masonry_ [VdmvisNvwGU].json",
+      "bytes": 1251,
+      "sha256": "b636b0b61ed103c49c586af1c42ba96dd9f67c27195e7b04a5114dc625210ac9"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/090 - Chris the Hacker and Tom the Fag - Oct 2010 - 1_3 - _Somebody Like Chris_ [ZC-fbIGOg04].json",
+      "bytes": 1224,
+      "sha256": "9c950c9216db82e8b31284b699bf37f08d8a739261ed9fd32bbfa3679bcec95b"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/091 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _The Bane of the Spoof_ [z4KyguLFvXU].json",
+      "bytes": 1129,
+      "sha256": "6d08232cb5220ffd0a2eaf4dec23552ec262f80a2c8d905fc5255701ea57053a"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/092 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _Going to Florida_ [LPzTMYeHtvE].json",
+      "bytes": 1150,
+      "sha256": "4cfd3346b5677b4b105b627c0a0913011ab021213269d9829b83a7be22e43780"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/093 - Chris the Hacker and Tom the Fag - Nov 2010 - 1_3 - _Chris the Homophobe_ [8-7IW4-v7qU].json",
+      "bytes": 1360,
+      "sha256": "b973888f00c7ee626ec1ca99a25ca1b8632e25f338fc0f8590039597cf8fa534"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/094 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _Vigilante Chris_ [yTyAhp880jM].json",
+      "bytes": 1566,
+      "sha256": "a757dce3cb12098155a7465630b2ef5935dd91c41aaf514a52e61b2cdb1e4fd7"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/095 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _THE STONE COLD pooper_ [H1v-hPPuZ14].json",
+      "bytes": 1179,
+      "sha256": "42d79e3febfb0116025f5dced929367d61c4750be5eb3bead2d1861d94c6d190"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/096 - Chris the Hacker and Tom the Fag - Nov 2010 - 1_3 - _Business in the Toilet_ [zBblBHuSjIM].json",
+      "bytes": 1271,
+      "sha256": "3f11ba38316724af910f156f89b2a39b6d751957d627362c3a1ee323bd5e2af3"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/097 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _Itchin fer a Snitch_ [MiQEC-D6mXo].json",
+      "bytes": 1237,
+      "sha256": "4d77a49f40377144096d833b743b353c51352cc33f3c74592189c730380db5ec"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/098 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _DatboysDataRecovery!_ [UjP1HA2kVIs].json",
+      "bytes": 1255,
+      "sha256": "de43dbb3cb674cf01923a4c15818f520d4808f9afa5fe72f0d8c614e9d0c1995"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/099 - Unavailable video [qOymgEa74C8].json",
+      "bytes": 1570,
+      "sha256": "be9718bc7a6807d1be498d4492a641815d060e7d01a59a2c08dcd19c30608e36"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/100 - Chris the hacker gives an update part 2 [Tf7TuPkis2A].json",
+      "bytes": 1780,
+      "sha256": "a838ff1f90b37206594371feb9fdddbe621cd40f1a81401640d9ae114ea9c189"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/101 - Chris the hacker goes emo [TttoDBt4xiQ].json",
+      "bytes": 1730,
+      "sha256": "31e73f89c22ca3425bf033374346bda4f8efa294b6a4d5605a03af2caa93aca3"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/mirror-sources.json",
+      "bytes": 12426,
+      "sha256": "561144c69df57b4d78d0dca91eefd1c24e63c08f213cd5bb32b4d64a61c27a92"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/playlist-inventory.json",
+      "bytes": 186339,
+      "sha256": "460263362d1037d30dcc797bfa244369cb6903ef5b9ef6ca725e7d836743216d"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/playlist.m3u8",
+      "bytes": 19717,
+      "sha256": "74f9903bd5b6ee5a3002bcaf6e2e7d46fcab0ecc8313e1dc7bd3a5bbd8a18a60"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcription-status.json",
+      "bytes": 54278,
+      "sha256": "d90a38d797fffe5941756b7c2ae887f97bfcaf5e6c89426613d00397ee81b9ae"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcription-validation.json",
+      "bytes": 3692,
+      "sha256": "d807edd6ad94f26d469425d0f4dfb1b6e4fa98b0efd121c01dd2d70f5d2a8c7c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/001 - Chris the Hacker and Tom the Fag - Sep 2009 - 1_10 - _The Conspiracy of Kai Kunz_ [2MJuvHcpytM].json",
+      "bytes": 80439,
+      "sha256": "5fdc9b5345f68b7eab05658a2747386c4233a6d786ebcaeed5e438cf9df8ba7b"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/001 - Chris the Hacker and Tom the Fag - Sep 2009 - 1_10 - _The Conspiracy of Kai Kunz_ [2MJuvHcpytM].txt",
+      "bytes": 20607,
+      "sha256": "6c97ff76d6b05716a365c0ce8053a25fefe6b0026ff915dcc39585dc9d48c637"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/002 - Chris the Hacker and Tom the Fag - Sep 2009 - 2_10 - _The 30 Million Dollar Datboys_ [MblmIjIakqQ].json",
+      "bytes": 52840,
+      "sha256": "6eae81aa1d6bc0953fde65b8c6611278e2a6a2251121ec01774230bc34f02cd6"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/002 - Chris the Hacker and Tom the Fag - Sep 2009 - 2_10 - _The 30 Million Dollar Datboys_ [MblmIjIakqQ].txt",
+      "bytes": 14565,
+      "sha256": "68fe0b336088101aa6d6620755e4b2c43bad5d4e70f43b41f4fb982c59832211"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/003 - Chris the Hacker and Tom the Fag - Sep 2009 - 3_10 - _TRUE and HONEST science_ [e4Rg90AvVnM].json",
+      "bytes": 61838,
+      "sha256": "0092a3638a9a82d8edda2d1653d4bcf9d2abf00235d49937d77bbe72576016f5"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/003 - Chris the Hacker and Tom the Fag - Sep 2009 - 3_10 - _TRUE and HONEST science_ [e4Rg90AvVnM].txt",
+      "bytes": 17004,
+      "sha256": "84c5049b2b7e3cd7c90c184c0a9c8d1a5a73607543fa7db8134f9b72e3a7c43a"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/004 - Chris the Hacker and Tom the Fag - Sep 2009 - 4_10 - _Watching Roswell stuff_ [MhyKbXC0NCE].json",
+      "bytes": 46280,
+      "sha256": "29e30a8d5fadb7b69e45fac436723054e6ad6b783837c27f7202e82c8a481be4"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/004 - Chris the Hacker and Tom the Fag - Sep 2009 - 4_10 - _Watching Roswell stuff_ [MhyKbXC0NCE].txt",
+      "bytes": 12338,
+      "sha256": "e00918c5c6d20c35ec80f400e53756c186fb0bad7b4d560e6a907610b3726ad1"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/005 - Chris the Hacker and Tom the Fag - Sep 2009 - 5_10 - _MEN OF SCIENCE, MEN OF GAAD_ [dte5y8dLov8].json",
+      "bytes": 68858,
+      "sha256": "1362b02750c72ca9822de09e1a9048b69b21fae04ed73e9bdb9ab6e535434ea9"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/005 - Chris the Hacker and Tom the Fag - Sep 2009 - 5_10 - _MEN OF SCIENCE, MEN OF GAAD_ [dte5y8dLov8].txt",
+      "bytes": 17750,
+      "sha256": "d4d824efd42af82b5d0e1501b7460615ef17b49e66f1cef0ad3d70df74516c73"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/006 - Chris the Hacker and Tom the Fag - Sep 2009 - 6_10 - _Put on Earth to harass Chris_ [pmnqnaRj4T8].json",
+      "bytes": 79122,
+      "sha256": "fc35d4824cc375880d0c3faac37d77a18ffa240df053dbe083a58ed12cdccf79"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/006 - Chris the Hacker and Tom the Fag - Sep 2009 - 6_10 - _Put on Earth to harass Chris_ [pmnqnaRj4T8].txt",
+      "bytes": 19550,
+      "sha256": "0b589791924a665d182e95b9bb68297fbadeed6bf5cd9bd7b65c13757d00485f"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/007 - Chris the Hacker and Tom the Fag - Sep 2009 - 7_10 - _Eeyanimals are not Meeyammals_ [qbGVeGmuK-Q].json",
+      "bytes": 74564,
+      "sha256": "ffbe03464f2e24642299f7313168255a9bc68d07bae557b6b6ea78da6ff61022"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/007 - Chris the Hacker and Tom the Fag - Sep 2009 - 7_10 - _Eeyanimals are not Meeyammals_ [qbGVeGmuK-Q].txt",
+      "bytes": 18526,
+      "sha256": "9ce22f76520628f882c4d1c3558e614e4e19b9edb8a2a4d3d90ac7e32202ec4f"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/008 - Chris the Hacker and Tom the Fag - Sep 2009 - 8_10 - _The Koen Also Rises_ [9dt_faBAoKw].json",
+      "bytes": 64113,
+      "sha256": "f5b47cf3f0e7bb6c2cd3133015b5f4f9ec1b2334808a388335198e47e916f801"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/008 - Chris the Hacker and Tom the Fag - Sep 2009 - 8_10 - _The Koen Also Rises_ [9dt_faBAoKw].txt",
+      "bytes": 16568,
+      "sha256": "d4354a144afe80d5243c90132fd1633803d916e5b9e0f35ea0ff26f3b86fa0be"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/009 - Chris the Hacker and Tom the Fag - Sep 2009 - 9_10 - _Same Old Lies_ [0k2IH2It2n4].json",
+      "bytes": 51449,
+      "sha256": "57bbcd9773ea5795d68a372d56e1f8bb5b79fe679b0a48e397d363839b1ffdb8"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/009 - Chris the Hacker and Tom the Fag - Sep 2009 - 9_10 - _Same Old Lies_ [0k2IH2It2n4].txt",
+      "bytes": 12716,
+      "sha256": "7988abd73aa43c393544cd04cc77fe72674e4ad96ae37ce36168ce344fec21bf"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/010 - Chris the Hacker and Tom the Fag - Sep 2009 - 10_10 - _PRANK FOOKIN CALLS_ [KN5glJj6VtE].json",
+      "bytes": 52835,
+      "sha256": "7b6ba6c47ccf6b4771358d679589fc7f951f92bf3decf8d813898dc8e3e85e26"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/010 - Chris the Hacker and Tom the Fag - Sep 2009 - 10_10 - _PRANK FOOKIN CALLS_ [KN5glJj6VtE].txt",
+      "bytes": 13099,
+      "sha256": "82b7b8e99ff129d01e7495bac089ee775913135b286cc96a19a3ceebff7fe780"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/011 - Chris the Hacker and Tom the Fag - Sep 2009 - 1_3 - _Chris watches his own Youtube stuff_ [N4we-4AT4FQ].json",
+      "bytes": 45378,
+      "sha256": "091c5eb629d685a6e92ae3c2013f0fc102ca395431419a4ce09e185c1912fa44"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/011 - Chris the Hacker and Tom the Fag - Sep 2009 - 1_3 - _Chris watches his own Youtube stuff_ [N4we-4AT4FQ].txt",
+      "bytes": 10937,
+      "sha256": "4e551a8208587aba8a164f5b104ef0734b200ef498b18ddf77ad7df2e9ca5bea"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/012 - Chris the Hacker and Tom the Fag - Sep 2009 - 2_3 - _Chris the Genius_ [mgV0pd_OCSg].json",
+      "bytes": 74396,
+      "sha256": "8a2571777e16d15a38d8e88ec3100fa1d98fe6f19083819edab8bbb3892166c9"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/012 - Chris the Hacker and Tom the Fag - Sep 2009 - 2_3 - _Chris the Genius_ [mgV0pd_OCSg].txt",
+      "bytes": 18187,
+      "sha256": "1cd0150d0ca528fd3ba6e9caa571cdac90d31ccb49c4116897722ea9d148a4af"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/013 - Chris the Hacker and Tom the Fag - Sep 2009 - 3_3 - _Leather Belt__ [sBYA78QC7-s].json",
+      "bytes": 53157,
+      "sha256": "cdde3f01c58359f1f6d4493589493becabcfa54b37d9e25ac2adf7db40f5ba2b"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/013 - Chris the Hacker and Tom the Fag - Sep 2009 - 3_3 - _Leather Belt__ [sBYA78QC7-s].txt",
+      "bytes": 14380,
+      "sha256": "3c3e49931b764bb89402423733e6733640010a4131a3875c68a1fc128164d459"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/014 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_9 - _Chris watches NASCAR_ [UxJrkPS_99w].json",
+      "bytes": 93265,
+      "sha256": "26269e7644985dc174f032515d81c27b3ff9ba4118ed4bb7ed2df4819524be5c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/014 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_9 - _Chris watches NASCAR_ [UxJrkPS_99w].txt",
+      "bytes": 21567,
+      "sha256": "af3bf1e70429f3cf4bb975123db6e86345447e2abd535a3eade1e57caf9b3cbc"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/015 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_9 - _Chris loves Koen and Tom_ [aLIE2fhvGRU].json",
+      "bytes": 63675,
+      "sha256": "c39384a255a9d1e67b1eea4523795b763d65da6d546f28f8943774c8fedebd88"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/015 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_9 - _Chris loves Koen and Tom_ [aLIE2fhvGRU].txt",
+      "bytes": 16193,
+      "sha256": "2882f534be994ff2fdec7973358c63031cd091b01a386fabb3896bc6b798174b"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/016 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_9 - _Where's the money, Perronski__ [Vdz8VlzpFXc].json",
+      "bytes": 76730,
+      "sha256": "9bb7cc759bc47a6569778b47b98b7c895522cdc9ef3c7fd9aa80889a8da0c125"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/016 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_9 - _Where's the money, Perronski__ [Vdz8VlzpFXc].txt",
+      "bytes": 19473,
+      "sha256": "57641057582b11ff66d6c5b70f4422cea1e29f702d4a20b21f45f84fa5a9aeb8"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/017 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_9 - _What're your crimes__ [-3BNlziFGmI].json",
+      "bytes": 62707,
+      "sha256": "ea06e8adfde5e7d903722d51f9a76824178bb497429197f13213470caa258be1"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/017 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_9 - _What're your crimes__ [-3BNlziFGmI].txt",
+      "bytes": 17026,
+      "sha256": "e336c5ee510ae702e080609bc9b6438ec3100f4697a37a1b25f25b81682f84d1"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/018 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_9 - _PHILIP GLASS_ [8jSxOnwIE_g].json",
+      "bytes": 76535,
+      "sha256": "84ec4d5b0ae782cfbea507d4095b85b9d78136071cddf85f9ecc053820d8e6be"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/018 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_9 - _PHILIP GLASS_ [8jSxOnwIE_g].txt",
+      "bytes": 18343,
+      "sha256": "0a41fdfc496d7bdb263d50bfef938c6daa3984f27c51bfe04b5fb9368483a45a"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/019 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_9 - _Let me go back to my regular typing_ [_lWLgaHUHmc].json",
+      "bytes": 28982,
+      "sha256": "99a69ce9124330b445d02c7ae86f9b9d2e9590170823babb9926b50257d65431"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/019 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_9 - _Let me go back to my regular typing_ [_lWLgaHUHmc].txt",
+      "bytes": 7588,
+      "sha256": "472b9944576c1d77a58a01a5f89786ddd617c38c223be7c4f8c9b069134e1fc5"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/020 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_9 - _TYPE-TYPE-TYPE-TYPE-TYPE-TYPE-_ [NpwVe9QAMR8].json",
+      "bytes": 9648,
+      "sha256": "51a308a9e976723d3a46e89aa35958eaf14885c76e45692298e924f01d71a84f"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/020 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_9 - _TYPE-TYPE-TYPE-TYPE-TYPE-TYPE-_ [NpwVe9QAMR8].txt",
+      "bytes": 1994,
+      "sha256": "16fffd94f384bf8705edd3d502ad7df3ddacfa18a872b745805c90aebf90c030"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/021 - Chris the Hacker and Tom the Fag - Oct 2009 - 8_9 - _Chris and the Phallusy_ [A68aiY4MoUw].json",
+      "bytes": 53891,
+      "sha256": "f3b188b04640cc29afae772c1e4c4f59dfafa2ec9632e6fcd4d1cde7378d8c19"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/021 - Chris the Hacker and Tom the Fag - Oct 2009 - 8_9 - _Chris and the Phallusy_ [A68aiY4MoUw].txt",
+      "bytes": 13225,
+      "sha256": "70b58278666450bdd79b4d3017674db002a335d9b88cc95ddb88393ccae3792a"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/022 - Chris the Hacker and Tom the Fag - Oct 2009 - 9_9 - _The Plan_ [suzi0JQRCjo].json",
+      "bytes": 82040,
+      "sha256": "0dfd4a12b5ee0e557dea8e02848fb9ec75c61c3973a60a336badc47649ed69f1"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/022 - Chris the Hacker and Tom the Fag - Oct 2009 - 9_9 - _The Plan_ [suzi0JQRCjo].txt",
+      "bytes": 19839,
+      "sha256": "56118172246c0c618c3b44d927707902a43c9c111d590d89cfddc89a37de1fcf"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/023 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_7 - _No Information No Big Bang_ [e-Stjk6XTV0].json",
+      "bytes": 50126,
+      "sha256": "f6f25a09d3e477ac7d408246c867bb169e899d9209ec2f99b8800fc15f8c87cb"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/023 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_7 - _No Information No Big Bang_ [e-Stjk6XTV0].txt",
+      "bytes": 12409,
+      "sha256": "5e82403270d3a0c4ddf9a2692ebcb409bb6abd61182bffa7a81d8c8440bb09a2"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/024 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_7 - _Kai Kunz and the Mason Conspiracy_ [yemW-I74EGw].json",
+      "bytes": 64521,
+      "sha256": "c52db87500be2026e620e37f3e83d86e891762ab323d8fe964384faa98ccf417"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/024 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_7 - _Kai Kunz and the Mason Conspiracy_ [yemW-I74EGw].txt",
+      "bytes": 14808,
+      "sha256": "b2cb3a1f19fd055f5d7cd69ab0db526477d42b1275394d921e96fca1c74a6d54"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/025 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_7 - _Chris the Knight Templar_ [CFrhXnJ3t_Q].json",
+      "bytes": 51623,
+      "sha256": "375e77d8956fc036f08f4ae0fafb472934469084428779fb7ef58bdf177fcb9c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/025 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_7 - _Chris the Knight Templar_ [CFrhXnJ3t_Q].txt",
+      "bytes": 12110,
+      "sha256": "d78822f1b700624cf3c7c6f915a53b702ab28dc67b84b8ece583fd891c1d6e89"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/026 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_7 - _Troll King_ [ANVwqCW8erk].json",
+      "bytes": 45905,
+      "sha256": "b6b60d111ba64c0f23da06a881893f6a6885a504bcaa8eb632f551ee2375b337"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/026 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_7 - _Troll King_ [ANVwqCW8erk].txt",
+      "bytes": 11986,
+      "sha256": "6ad51d53cf89c9210cc228d0232ce532b8144fa72e39bc25cb7cec8bc13c0d8f"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/027 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_7 - _Chris Does Youtube_ [oBOTHgEAeZw].json",
+      "bytes": 64183,
+      "sha256": "a87934a9718daf4c6bc362a77bbce7b764ca46c6e6437508b334bd7782e57109"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/027 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_7 - _Chris Does Youtube_ [oBOTHgEAeZw].txt",
+      "bytes": 17092,
+      "sha256": "e875043acd9c59fe14d03d3080bf4586ca03002730455343d72a7a354360e3d9"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/028 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_7 - _We're All Fictitious_ [0W3fxyRC_3Q].json",
+      "bytes": 63621,
+      "sha256": "1526bdf37c4258a3da33758bb30f2e8be856dcc0417831a4312e511da9cd4026"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/028 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_7 - _We're All Fictitious_ [0W3fxyRC_3Q].txt",
+      "bytes": 18138,
+      "sha256": "6c8bcd615c609340035550e127c4d0b8c37433b23828ea7551759235674db805"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/029 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_7 - _nWo_ [hSmv7R5eyNo].json",
+      "bytes": 17108,
+      "sha256": "b1defd9babf777c86ada14ed2001c3bfbf30a520747216ce3dadf39f88500bf3"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/029 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_7 - _nWo_ [hSmv7R5eyNo].txt",
+      "bytes": 4103,
+      "sha256": "13853ae084f4792c5b04e49126a1b88f5071bfd234d57f3d79d013ab1500b706"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/030 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _Chris has a Customer!_ [IeV7QeWvkV8].json",
+      "bytes": 45879,
+      "sha256": "aea6123e9574d95db41bdd324acc12f4e84647138467d2e663cff494ff87134d"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/030 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _Chris has a Customer!_ [IeV7QeWvkV8].txt",
+      "bytes": 10624,
+      "sha256": "beb2031ba462b2e9ec73a1446f0b950cd145f1c26874f45e7f075ee116315168"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/031 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _Chris Serenades Tom_ [ubg9LCWla3g].json",
+      "bytes": 76948,
+      "sha256": "ca9ed27a9d86ac4d34643412c5a8189de4e9bf1fc8a3570bae48dfc91b59f72e"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/031 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _Chris Serenades Tom_ [ubg9LCWla3g].txt",
+      "bytes": 19164,
+      "sha256": "4c9c4939b755fbad818457a58f699f98b8bb82d10050cf865575180695fb8141"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/032 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_8 - _Full Retard_ [EvhDw2rd7lM].json",
+      "bytes": 71562,
+      "sha256": "886fd4286baf0ede0987ea43bbcaaf8c02b81f3077e763537830e92627b6268a"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/032 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_8 - _Full Retard_ [EvhDw2rd7lM].txt",
+      "bytes": 18210,
+      "sha256": "19b299726b624f0d90572b6883d187fb46aa5cc4a057194843672c22a6414705"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/033 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_8 - _The Kunz Konnection_ [tvgL2eoX3NQ].json",
+      "bytes": 65989,
+      "sha256": "79f3acee767860c12bd5a63368fe71de25dc2247afa2424311f9f96d677e1009"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/033 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_8 - _The Kunz Konnection_ [tvgL2eoX3NQ].txt",
+      "bytes": 21290,
+      "sha256": "8805680497d6fefa03321a20553d29f974637bca30d72f0aded549136c6b5c35"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/034 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_8 - _Tales of Rick and Hack_ [0UceOMudoDE].json",
+      "bytes": 31394,
+      "sha256": "65371ab2067a5a0ba7832a0e7fcddb6ade11ea8d6d0fe56fba51e532272cde84"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/034 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_8 - _Tales of Rick and Hack_ [0UceOMudoDE].txt",
+      "bytes": 10409,
+      "sha256": "439684facaffcab515e180b588ea342eceec0afb1859c7231152d265bb002642"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/035 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_8 - _The Source of Chris's High Phone Bills_ [rUBcani00zo].json",
+      "bytes": 27921,
+      "sha256": "b06e9794654aef8cc215a7510b24b1e828a61a624b1afa80bb184151f47c2565"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/035 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_8 - _The Source of Chris's High Phone Bills_ [rUBcani00zo].txt",
+      "bytes": 7938,
+      "sha256": "66f49052bf774ffbeda4b5f6409318eb4721ccf4c66443e35da22a6707f3a4ee"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/036 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_8 - _Guitar Hero Chris_ [x6s7mo219Bs].json",
+      "bytes": 74015,
+      "sha256": "0390edfcbe6f6863b510fe93d72bc453ae33891a1d3a3453512be2817f8f444e"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/036 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_8 - _Guitar Hero Chris_ [x6s7mo219Bs].txt",
+      "bytes": 19557,
+      "sha256": "d6aa9b136527fbf4d27f47e122fa97a66f99c43e5f2ee65cf64b63da519a4825"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/037 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_8 - _Love is in the Packets_ [_CHuyd_SFs0].json",
+      "bytes": 36027,
+      "sha256": "73efc9a3bc3e230e79678770bd6ac51313a5ec37555944cdc85e67762ac1c798"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/037 - Chris the Hacker and Tom the Fag - Oct 2009 - 6_8 - _Love is in the Packets_ [_CHuyd_SFs0].txt",
+      "bytes": 8479,
+      "sha256": "82a5fb821d7cfa9cd04e78e5e84257a6687242ed7c69b9bc7520b0b935dbd85e"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/038 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_8 - _Chris is a Full-Grown Train_ [pQ4JW22LEws].json",
+      "bytes": 76929,
+      "sha256": "6f5d736b3930c31b1faf108bb260a35fcd2db49698c907f40c1560daffd77313"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/038 - Chris the Hacker and Tom the Fag - Oct 2009 - 7_8 - _Chris is a Full-Grown Train_ [pQ4JW22LEws].txt",
+      "bytes": 19736,
+      "sha256": "f24fbb99309e495fd8edd361c054a04aacca9e500cdf13814980b892cbad676c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/039 - Chris the Hacker and Tom the Fag - Oct 2009 - 8_8 - _If Chris was on a Train..._ [is8QVJUQ994].json",
+      "bytes": 76650,
+      "sha256": "3e9b0fb693b61e4b9fa0b86b04b14730955ca556761e51371258d14cb52e6ef1"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/039 - Chris the Hacker and Tom the Fag - Oct 2009 - 8_8 - _If Chris was on a Train..._ [is8QVJUQ994].txt",
+      "bytes": 19957,
+      "sha256": "29dbffa8efcd6408ac723e00d68718bd7bd8b2e9290107d1ad59ce84bd3efc80"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/040 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _The Chris Perron Show 1_ [t0Nkpnhiw7Q].json",
+      "bytes": 52559,
+      "sha256": "9c34f113d36f3d29df22aeb2094002fe4f4846efb98dba52001636abb6b7c1c2"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/040 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _The Chris Perron Show 1_ [t0Nkpnhiw7Q].txt",
+      "bytes": 11921,
+      "sha256": "a167a1ae341bee00ef57da6490d4af3b5895d5a5804aef9d5162c3ecc291efd6"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/041 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _The Chris Perron Show 2_ [UE_1pIg8ps4].json",
+      "bytes": 12621,
+      "sha256": "c5765bae45d5058871d77b096ed033971370a6077c50bc45f9062c77091992e3"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/041 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _The Chris Perron Show 2_ [UE_1pIg8ps4].txt",
+      "bytes": 3186,
+      "sha256": "81b06bf5ce9ee20e33b61ac25cc88d7b7b65391ab5827444e000d048e260bb3e"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/042 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_4 - _Chris Loves the Cock_ [IPfxBPNw4Rk].json",
+      "bytes": 87289,
+      "sha256": "56bd78c53b2ac497f9777ab90ee5e343f599279ec3cf06397163f794afc325fd"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/042 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_4 - _Chris Loves the Cock_ [IPfxBPNw4Rk].txt",
+      "bytes": 21285,
+      "sha256": "0f42be066882ea1d480a5dcb4e0f8061ea9a43f56f212ed7575e23304856d0f3"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/043 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_4 - _Bald Like Chris_ [tlUi3DCialU].json",
+      "bytes": 90571,
+      "sha256": "992856d84c4d9749b920766ee11bb7ba3eb539c0b9eceb4010b278318d1421d1"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/043 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_4 - _Bald Like Chris_ [tlUi3DCialU].txt",
+      "bytes": 20379,
+      "sha256": "333551487a368831bce39e06cc73395af043ac04a84beb7fab3f2c77264df64b"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/044 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_4 - _Chris's Chicks_ [9jFYQHo2I70].json",
+      "bytes": 61200,
+      "sha256": "91b3385a94f4054887d3716c2d43f3ec389400091feabae48179dba5e3a9bfdf"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/044 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_4 - _Chris's Chicks_ [9jFYQHo2I70].txt",
+      "bytes": 14927,
+      "sha256": "b44b8dbecdace8c51a910f4b1a1d4f2f06670af55a7880e4c9b15e3cb5f3570e"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/045 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_4 - _Chris Jibbers, Thinks he Knows_ [Fpo629OmNEo].json",
+      "bytes": 49335,
+      "sha256": "bdfacd74692d47f5985dd73947001ce69f47fcd0ab6715da69dc9b11fe1e8c1e"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/045 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_4 - _Chris Jibbers, Thinks he Knows_ [Fpo629OmNEo].txt",
+      "bytes": 11603,
+      "sha256": "7c1c710b13f1c20c9463bfcd5e2004ebd6dbcc797e3f1d8620f5be1649874506"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/046 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_5 - _Chris the Fibber_ [Qk3AEMQ0wwA].json",
+      "bytes": 24191,
+      "sha256": "e378303f6ab8c0c71ec2baf55612472b9241c8a94b21fe331a2851748d33141d"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/046 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_5 - _Chris the Fibber_ [Qk3AEMQ0wwA].txt",
+      "bytes": 5551,
+      "sha256": "98d7c8f288d6dbd8b5f95f3fe49106ec2a41d92660ef9bd6667c22db819a10d3"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/047 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_5 - _Chris the Drunk_ [MHBJc1YFuaY].json",
+      "bytes": 62238,
+      "sha256": "405634d21d1a2605ed1a4b5011302b524695976ef5dca121b43cdf8ae44e7e84"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/047 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_5 - _Chris the Drunk_ [MHBJc1YFuaY].txt",
+      "bytes": 14383,
+      "sha256": "cf6732f0785ceb62647f3e165e5560992a98e0724d32e4ac56f671ffe86c34b6"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/048 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_5 - _You Don't Really Know what Hate is, Tom_ [L8jZ0cfXzuI].json",
+      "bytes": 61437,
+      "sha256": "d0fb4b931e456ea60c43c43639f05f17e2c6aa2418fd4173dc2f4c03052a46e0"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/048 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_5 - _You Don't Really Know what Hate is, Tom_ [L8jZ0cfXzuI].txt",
+      "bytes": 14672,
+      "sha256": "0bfaa12af9c0b4e7845d85d2f6381fc624ebba68d44975a4971aeaaa4da6982b"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/049 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_5 - _Family Man at 19_ [Y7jBreAaLH4].json",
+      "bytes": 57733,
+      "sha256": "0839367c7bc3a0c85b43e8f18d844cdec24cc464be51ac4c314e3696f78c1296"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/049 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_5 - _Family Man at 19_ [Y7jBreAaLH4].txt",
+      "bytes": 14377,
+      "sha256": "c1c9028f8418b098ae4e4283548bb5a7de5d9bd0ecb378d112254fc959a81a89"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/050 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_5 - _Chris Scares a Teenage Girl_ [Hi0no837orI].json",
+      "bytes": 37676,
+      "sha256": "77b3d711a6023b0c3ace8af31c79d1d1748e40db7399b4b49c07d239a5942c84"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/050 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_5 - _Chris Scares a Teenage Girl_ [Hi0no837orI].txt",
+      "bytes": 9389,
+      "sha256": "2be674bd524c73d70648f2580e2e0486cf89e658fb59a8735e48ce48f0195c50"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/051 - Chris the Hacker and Tom the Fag - Oct 2009 - _WUZZAP TOM_ [KGHMpnibonc].json",
+      "bytes": 8149,
+      "sha256": "a8e3d0abc9b018964af6e1d73b4829b83c6aaf2385bc502ed34d35148714d3ec"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/051 - Chris the Hacker and Tom the Fag - Oct 2009 - _WUZZAP TOM_ [KGHMpnibonc].txt",
+      "bytes": 1824,
+      "sha256": "a2717821db114e68706a0154a192cf8be0012548adcf5fd79331d7ac9655d49f"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/052 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _Closing in on Tom_ [Nf_PBQsbA9U].json",
+      "bytes": 79420,
+      "sha256": "5d7176eac1a17f49a6f746364b820889736c3153276922030b0acfc3813cb94f"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/052 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_2 - _Closing in on Tom_ [Nf_PBQsbA9U].txt",
+      "bytes": 19842,
+      "sha256": "ff4cedb8be1cf3cfe12ed890872c4b11e133ed6badec32e70b22836ff1a9697f"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/053 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _Marcel the Fag_ [fm2fdcIniw4].json",
+      "bytes": 65783,
+      "sha256": "0b415a8fd857e8ddc91b8eb6faad4298595d23a19b67632e8425c47dfad87edc"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/053 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_2 - _Marcel the Fag_ [fm2fdcIniw4].txt",
+      "bytes": 16365,
+      "sha256": "9ea3246bff08a5a219ec36a84b974f1bd77d2ee261326278015214a7e336e4f4"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/054 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_5 - _When Chris met Frank_ [Xv8o0hDxLKU].json",
+      "bytes": 45366,
+      "sha256": "99fdac13e9f30b43a677d388b23ceaeb271d48b6ecc7458b901dd8c9e66dbdef"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/054 - Chris the Hacker and Tom the Fag - Oct 2009 - 1_5 - _When Chris met Frank_ [Xv8o0hDxLKU].txt",
+      "bytes": 10949,
+      "sha256": "c257e11afc1a7ca23c8f808599a7435d5f56bf1af8f6def34228360effa933a1"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/055 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_5 - _Chris the Movie!_ [Bzqg9Wua_lM].json",
+      "bytes": 34090,
+      "sha256": "128b7ef9198a62eb19edb3c8a859f796088c45b763e692b3fc474df7efc0be72"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/055 - Chris the Hacker and Tom the Fag - Oct 2009 - 2_5 - _Chris the Movie!_ [Bzqg9Wua_lM].txt",
+      "bytes": 8113,
+      "sha256": "d041988ea65c7e2d60cc3e574169ca18728101c00f6c810fee999dc9cfef74fc"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/056 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_5 - _Schoolin'_ [KmvmH_S32Ek].json",
+      "bytes": 33388,
+      "sha256": "09cf9b476448e4a19b9de7462da6a440e800ea8b255a3c8e73747b227d17a56c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/056 - Chris the Hacker and Tom the Fag - Oct 2009 - 3_5 - _Schoolin'_ [KmvmH_S32Ek].txt",
+      "bytes": 8283,
+      "sha256": "d5c082c56137a7ca05df9f8a0fa6fe19c4535adc99d57cc78431f58e254e94c6"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/057 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_5 - _Racism!_ [slHCPGzuhWc].json",
+      "bytes": 47195,
+      "sha256": "be6d1a979291df696da7ac16c7eb0c32eff8965625c27df2ce30b64b7803f47b"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/057 - Chris the Hacker and Tom the Fag - Oct 2009 - 4_5 - _Racism!_ [slHCPGzuhWc].txt",
+      "bytes": 12087,
+      "sha256": "7cbed619d885d6104a820f7870c23315d67c56bd334faded0f530cb70070339d"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/058 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_5 - _FAPFAPFAPFAPFAPFAPFAPFAPFAP_ [LBRRnoweZuE].json",
+      "bytes": 12273,
+      "sha256": "f2b517cde3ec3a5708e7e8d70ffd774cb8a802497dea251b9deea4bdf14dfd22"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/058 - Chris the Hacker and Tom the Fag - Oct 2009 - 5_5 - _FAPFAPFAPFAPFAPFAPFAPFAPFAP_ [LBRRnoweZuE].txt",
+      "bytes": 2381,
+      "sha256": "64dda390d3b5b026c6e1eca77d929d1dec81080fc29e5a4c6d2a906591f7d3d0"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/059 - Chris the Hacker and Tom the Fag - Nov 2009 - 1_9 - _Jeremy the Not-Chris_ [xVgRNYzu84w].json",
+      "bytes": 76162,
+      "sha256": "9cf848ee0515860697157f28ef8d1d388997e91537a6448110120f03bdf22617"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/059 - Chris the Hacker and Tom the Fag - Nov 2009 - 1_9 - _Jeremy the Not-Chris_ [xVgRNYzu84w].txt",
+      "bytes": 18884,
+      "sha256": "f89b459354b3d34fa0c30572069d8a7439630efa1d613df4bd6875553251e1be"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/060 - Chris the Hacker and Tom the Fag - Nov 2009 - 2_9 - _Happy Brithday, Chris! Happy Birthday, KOOOON!_ [-TGxoANMkxI].json",
+      "bytes": 78981,
+      "sha256": "13405fcd11b02da93fc253229320679507c1c07f91166883b41b9ee1ac7a6b2f"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/060 - Chris the Hacker and Tom the Fag - Nov 2009 - 2_9 - _Happy Brithday, Chris! Happy Birthday, KOOOON!_ [-TGxoANMkxI].txt",
+      "bytes": 19527,
+      "sha256": "d12e80cc0ffae3fe0b9e5a49dcfd19535a8c081d05d960bc9c4adee4a6343135"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/061 - Chris the Hacker and Tom the Fag - Nov 2009 - 3_9 - _Chris wouldn't fugg Beatrix w_ Koen's Dick_ [JGrNipu0Dhk].json",
+      "bytes": 71674,
+      "sha256": "ce66353426888f64a914b55282dcb183465bad26f3900368affcda1a7f6a426b"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/061 - Chris the Hacker and Tom the Fag - Nov 2009 - 3_9 - _Chris wouldn't fugg Beatrix w_ Koen's Dick_ [JGrNipu0Dhk].txt",
+      "bytes": 18021,
+      "sha256": "debea78fc6582d1ba26f010a0079253c5805c25d93cb40bf162ecf02b7994824"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/062 - Chris the Hacker and Tom the Fag - Nov 2009 - 4_9 - _Chris's Daughters will Drop Tom [WuzTPGG8xro].json",
+      "bytes": 44962,
+      "sha256": "2e0379feb9037dfcab84dd7807575cae380bb32b888130cfc8a91374176db82c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/062 - Chris the Hacker and Tom the Fag - Nov 2009 - 4_9 - _Chris's Daughters will Drop Tom [WuzTPGG8xro].txt",
+      "bytes": 12379,
+      "sha256": "b5035fb87ac86204328600fc31b68f5856561067d005ecf87492f9641d8c2a7b"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/063 - Chris the Hacker and Tom the Fag - Nov 2009 - 5_9 - _Chris has a Certain Set of Skills_ [clD-ro10iBM].json",
+      "bytes": 71960,
+      "sha256": "08874fed32b88420b32e8dec1ebf528c1d6a63a86ccf1a5460348f0efaaf17ab"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/063 - Chris the Hacker and Tom the Fag - Nov 2009 - 5_9 - _Chris has a Certain Set of Skills_ [clD-ro10iBM].txt",
+      "bytes": 18685,
+      "sha256": "9633e96cf39054cf54e603d1fd77a37a7132502775e6480282f4dd1f6b4c9446"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/064 - Chris the Hacker and Tom the Fag - Nov 2009 - 6_9 - _Steaming Piles of Stupid_ [Y84ehI42y6o].json",
+      "bytes": 42639,
+      "sha256": "8d89051886015dd92195f2e02f509cd5e266666d663a2e4c59aa12376aeb1c73"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/064 - Chris the Hacker and Tom the Fag - Nov 2009 - 6_9 - _Steaming Piles of Stupid_ [Y84ehI42y6o].txt",
+      "bytes": 11677,
+      "sha256": "be97f6d24fe416deec8dc48d658b4cc82becbd48770937adb41c6c5410b7a98b"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/065 - Chris the Hacker and Tom the Fag - Nov 2009 - 7_9 - _Da Hyoomin Race = Gawd_ [gCLoUSiSxiA].json",
+      "bytes": 17109,
+      "sha256": "d005f2021c85e247319df215bc9ee531c91020d07bb81d2384e414a51dea0633"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/065 - Chris the Hacker and Tom the Fag - Nov 2009 - 7_9 - _Da Hyoomin Race = Gawd_ [gCLoUSiSxiA].txt",
+      "bytes": 3863,
+      "sha256": "820f413208bd8728d99f71cd1ba4289a3d37861bc08a5bc82268a4c1faeb9331"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/066 - Chris the Hacker and Tom the Fag - Nov 2009 - 8_9 - _Teabagger Chris_ [I41abOfyjEg].json",
+      "bytes": 44085,
+      "sha256": "e7ad5d3b0d483fb2eff23b0252a03e257c27ac842e074c01e121a1a0618dd4ba"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/066 - Chris the Hacker and Tom the Fag - Nov 2009 - 8_9 - _Teabagger Chris_ [I41abOfyjEg].txt",
+      "bytes": 12641,
+      "sha256": "68a389a95a1f2f5638b840a46e7ac2aed680d15766d2f0d1713d9a4e8f489368"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/067 - Chris the Hacker and Tom the Fag - Nov 2009 - 9_9 - _Goodnight_ [XbdT2jVMwMI].json",
+      "bytes": 8278,
+      "sha256": "313fdf276067c86790aca6d04e8b332e706a622760071ad74952dbd573dc0dff"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/067 - Chris the Hacker and Tom the Fag - Nov 2009 - 9_9 - _Goodnight_ [XbdT2jVMwMI].txt",
+      "bytes": 1944,
+      "sha256": "9ffa7c6e66c8d1e2da0fe81d3fce9ebd7679bc8a00ff4598bceb37a454c9f6d5"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/068 - Chris the Hacker and Tom the Fag - Nov 2009 - 1_3 - _Can't Hear Reptilian Tom_ [jRitIRjjjg4].json",
+      "bytes": 65747,
+      "sha256": "cb22dadde270705e703e33043a447d4051d6c6a4382df4125c6255eefe13dc0b"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/068 - Chris the Hacker and Tom the Fag - Nov 2009 - 1_3 - _Can't Hear Reptilian Tom_ [jRitIRjjjg4].txt",
+      "bytes": 14487,
+      "sha256": "6f30cb1a5b5db78dd16d12622a082918eddff2fe6699a72efb08e2cd6621225e"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/069 - Chris the Hacker and Tom the Fag - Nov 2009 - 2_3 - _Everyone's a Child like Chris_ [J9bLjA3qMCs].json",
+      "bytes": 64035,
+      "sha256": "7caf3a97b00efc2b56f06bf450c40c228355f51adb2c864c9400fd931fad0320"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/069 - Chris the Hacker and Tom the Fag - Nov 2009 - 2_3 - _Everyone's a Child like Chris_ [J9bLjA3qMCs].txt",
+      "bytes": 15983,
+      "sha256": "bbb112e630924ea9b56ca0bc2068df299a872d99fb60939d1a84cd8cc5c3d28e"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/070 - Chris the Hacker and Tom the Fag - Nov 2009 - 3_3 - _AA Refuses to fix COD World at War_ [L5KDoO4_a38].json",
+      "bytes": 27350,
+      "sha256": "97bd98fc11db3ac1f0320f14833d103e07e14b8c77f191f7703f69cb768d4d7c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/070 - Chris the Hacker and Tom the Fag - Nov 2009 - 3_3 - _AA Refuses to fix COD World at War_ [L5KDoO4_a38].txt",
+      "bytes": 6078,
+      "sha256": "84270aa50618a3db75b33dc8ccdf1e3e544f9bc8767b03872dd8a4157f1ffebe"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/071 - Chris the Hacker and Tom the Fag - Nov 2009 - [mQm1XvVc2jw].json",
+      "bytes": 63568,
+      "sha256": "607f5d7b8b10e68f1bc2e9734f6c6c4201e82be407d3c8cf967d42b212330fe8"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/071 - Chris the Hacker and Tom the Fag - Nov 2009 - [mQm1XvVc2jw].txt",
+      "bytes": 15051,
+      "sha256": "829e0c4344655563c64d1a867dd7fb5b64c087dbe7eea80551da6c33208eb54f"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/072 - Chris the Hacker and Tom the Fag - Dec 2009 - 1_13 - _Chris gets Masonic Funding(___)_ [ZDccKQSidhU].json",
+      "bytes": 60768,
+      "sha256": "d8073cca92cf0e054640bdc56d6e46f1af905798167e4774be07dc970cc99946"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/072 - Chris the Hacker and Tom the Fag - Dec 2009 - 1_13 - _Chris gets Masonic Funding(___)_ [ZDccKQSidhU].txt",
+      "bytes": 15504,
+      "sha256": "29951c90ceb051703f34e3609918a1d1a65aad0e4d05ace6875a52fadb37d2eb"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/073 - Chris the Hacker and Tom the Fag - Dec 2009 - 2_13 - _Get High with the Hacker_ [6yrKcLLWgOQ].json",
+      "bytes": 52583,
+      "sha256": "99e9066637e0ca5b155ea641dc1880600c55239813e25d70ce9aba8bb9e84376"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/073 - Chris the Hacker and Tom the Fag - Dec 2009 - 2_13 - _Get High with the Hacker_ [6yrKcLLWgOQ].txt",
+      "bytes": 12678,
+      "sha256": "8d440240371adefa6013b4fbf760374a84aabbf09b0b46c2cc0a61887f3e431e"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/074 - Chris the Hacker and Tom the Fag - Dec 2009 - 3_13 - _Koen has no Friends_ [02o6-_A918I].json",
+      "bytes": 51125,
+      "sha256": "bb49192c465a6833421d7321631b44c19ef5820c0872deea84342dabcd5175d3"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/074 - Chris the Hacker and Tom the Fag - Dec 2009 - 3_13 - _Koen has no Friends_ [02o6-_A918I].txt",
+      "bytes": 12550,
+      "sha256": "5669c4a01e22123deab9615f314ff547b52a782362a2293c5bb5b7b74bee49c3"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/075 - Chris the Hacker and Tom the Fag - Dec 2009 - 4_13 - _Chris's Internet Conspiracy Theory_ [4yxX20mbXak].json",
+      "bytes": 60099,
+      "sha256": "d7855917dc0368e3a3dbf67099c90571e5a90c302cb23710d083f629490e6270"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/075 - Chris the Hacker and Tom the Fag - Dec 2009 - 4_13 - _Chris's Internet Conspiracy Theory_ [4yxX20mbXak].txt",
+      "bytes": 16171,
+      "sha256": "88932c8d90eb416f0699fd9901abe7afdf6c4b30075a993e3e61d3e982a38b3a"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/076 - Chris the Hacker and Tom the Fag - Dec 2009 - 5_13 - _What's a Chris Call without [Phgy3gX6hPQ].json",
+      "bytes": 77807,
+      "sha256": "1c648d9555ae07462c75c81486d502b0dedaae61ef5818ed5e6f80735a578665"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/076 - Chris the Hacker and Tom the Fag - Dec 2009 - 5_13 - _What's a Chris Call without [Phgy3gX6hPQ].txt",
+      "bytes": 19946,
+      "sha256": "e3a9d2838f3cf0225bafab82ad9507f455d4c4074c5270f96c2829470ac973af"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/077 - Chris the Hacker and Tom the Fag - Dec 2009 - 6_13 - _Da Seven Yeer Eeyitch_ [ThtSU9Rn0Zk].json",
+      "bytes": 9529,
+      "sha256": "9dd8bfe37ca1576a7a0dead5b7cb11f7fda8f6252e0b0ca9e17b6ba5a9afc10b"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/077 - Chris the Hacker and Tom the Fag - Dec 2009 - 6_13 - _Da Seven Yeer Eeyitch_ [ThtSU9Rn0Zk].txt",
+      "bytes": 2301,
+      "sha256": "bd01354f0d16cb943a9cfa8b929831b6003c904dae41f69b5390d22afd771e1d"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/078 - Chris the Hacker and Tom the Fag - Dec 2009 - 7_13 - _'Flaminko Chicks'_ [nqjcmtTBx48].json",
+      "bytes": 50903,
+      "sha256": "af3fc42a53c2e0d42e6d09928de9b7cd9d7fc10f806dffe072a85e77c10a1f72"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/078 - Chris the Hacker and Tom the Fag - Dec 2009 - 7_13 - _'Flaminko Chicks'_ [nqjcmtTBx48].txt",
+      "bytes": 11910,
+      "sha256": "e792df95836246ef11ae9673990a400b54ece6e8806403d56df0100c3b68b2e3"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/079 - Chris the Hacker and Tom the Fag - Dec 2009 - 8_13 - _GIVE ME YA ADDRESS DEYUH_ [uRHSdOUdfiU].json",
+      "bytes": 51098,
+      "sha256": "d25f820a1bb1cbe0820a5b57ab77dad1193add3caac8a50d4952385c0ff95dee"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/079 - Chris the Hacker and Tom the Fag - Dec 2009 - 8_13 - _GIVE ME YA ADDRESS DEYUH_ [uRHSdOUdfiU].txt",
+      "bytes": 13099,
+      "sha256": "70554225357cf43a16e1ebe5bb92b051f2a2fd91c2746a8e189a3bd67b3ae2e0"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/080 - Chris the Hacker and Tom the Fag - Dec 2009 - 9_13 - _Chris the Not for Profit Weed Man_ [Xu3gqB4HEpU].json",
+      "bytes": 72618,
+      "sha256": "ce110306f865b220396ae0d2aa197a128dc0cfe04ecf097e7e50fea5d2fd8251"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/080 - Chris the Hacker and Tom the Fag - Dec 2009 - 9_13 - _Chris the Not for Profit Weed Man_ [Xu3gqB4HEpU].txt",
+      "bytes": 18772,
+      "sha256": "859ecf754c991c2e12b0e321b9bb598b503ba679aee345834dd4dd4615b75d32"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/081 - Chris the Hacker and Tom the Fag - Dec 2009 - 10_13 - _Angry Monkey_ [3k0O0fR5d5o].json",
+      "bytes": 52435,
+      "sha256": "56c8146a5d3565f0dcfa40440ba854713a28da226d3646a5890e72effbdf7633"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/081 - Chris the Hacker and Tom the Fag - Dec 2009 - 10_13 - _Angry Monkey_ [3k0O0fR5d5o].txt",
+      "bytes": 15199,
+      "sha256": "0ee58a67b41316d3bae4bad04bf430a4c0c48ce5390bcda1270821e24a1952cf"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/082 - Chris the Hacker and Tom the Fag - Dec 2009 - 11_13 - _Men of Soiens Men of Gaad_ [6rqiiuTcvx8].json",
+      "bytes": 15900,
+      "sha256": "20eeff0d0dd98a9f6afe03778048cd37ad5744360f8ae28b60237106a20246fa"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/082 - Chris the Hacker and Tom the Fag - Dec 2009 - 11_13 - _Men of Soiens Men of Gaad_ [6rqiiuTcvx8].txt",
+      "bytes": 3906,
+      "sha256": "cc087c98dad96802ecfc8c9dbcfbafb699d98228f5aede76660eb2546404f966"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/083 - Chris the Hacker and Tom the Fag - Dec 2009 - 12_13 - _Bring the Trash Home (ie, Chris)_ [rLEP3ojB4qw].json",
+      "bytes": 55095,
+      "sha256": "3fe765edbe03458aac6169a56811b3d12fba1f8372bb5b8b9606a67c927956c5"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/083 - Chris the Hacker and Tom the Fag - Dec 2009 - 12_13 - _Bring the Trash Home (ie, Chris)_ [rLEP3ojB4qw].txt",
+      "bytes": 16039,
+      "sha256": "2172b95ee043c5df3b202f971877c5d95a345db428e14a6471165c9f7acdf967"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/084 - Chris the Hacker and Tom the Fag - Dec 2009 - 13_13 - _Chris Will Believe Any Lies on Youtube_ [BLbPrI1hGCs].json",
+      "bytes": 29007,
+      "sha256": "0b137dd3cd91ee6ddf71f68cb2253a51b0c298e8469eb99d505f2fc33f746048"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/084 - Chris the Hacker and Tom the Fag - Dec 2009 - 13_13 - _Chris Will Believe Any Lies on Youtube_ [BLbPrI1hGCs].txt",
+      "bytes": 7970,
+      "sha256": "71029b73406c839a5759a75f45d31b0bd785c8f609c56211950a9e9582d220cc"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/085 - Chris the Hacker and Tom the Fag - Feb 2010 - 1_5 - _FAIR GAME_ [WkNrZM7UBq4].json",
+      "bytes": 63384,
+      "sha256": "5cda265e8af90396d52c06927593d667a07adc7b2472f4e61eace33dbb66318f"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/085 - Chris the Hacker and Tom the Fag - Feb 2010 - 1_5 - _FAIR GAME_ [WkNrZM7UBq4].txt",
+      "bytes": 14105,
+      "sha256": "1776b27b40b366e08b538ba75dc939971b78aca835ab313fd6b0afd17a511c9b"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/086 - Chris the Hacker and Tom the Fag - Feb 2010 - 2_5 - _Office Space_ [akjYnBhdOnk].json",
+      "bytes": 93745,
+      "sha256": "610a3bb973d3a675c7a0834cc3047d0af6e75d53662161e52d382170e410f33c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/086 - Chris the Hacker and Tom the Fag - Feb 2010 - 2_5 - _Office Space_ [akjYnBhdOnk].txt",
+      "bytes": 22177,
+      "sha256": "77167b2d7338a13cf49474d90113ee914315a812cfa9ae8b3953635f17d9d6fa"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/087 - Chris the Hacker and Tom the Fag - Feb 2010 - 3_5 - _Chris the Deadbeat Pedo_ [uQdJigxI6Pk].json",
+      "bytes": 82788,
+      "sha256": "38f1baef245cc16a8e40d167ac1f5ddeb79728110f041fd39f173aae5ff79034"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/087 - Chris the Hacker and Tom the Fag - Feb 2010 - 3_5 - _Chris the Deadbeat Pedo_ [uQdJigxI6Pk].txt",
+      "bytes": 19737,
+      "sha256": "f68ea3e70b384b09ff712bf2370778e33edbbeba22f93d6a2fe04d6d132de322"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/088 - Chris the Hacker and Tom the Fag - Feb 2010 - 4_5 - _Crackin 40 on an Ostrich_ [8QtSVdjT0I8].json",
+      "bytes": 39659,
+      "sha256": "e0e3ceed3c4002c175be39c3f523e828831f8bdc4b9db44ef30fa7550a27384d"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/088 - Chris the Hacker and Tom the Fag - Feb 2010 - 4_5 - _Crackin 40 on an Ostrich_ [8QtSVdjT0I8].txt",
+      "bytes": 9740,
+      "sha256": "aef0fa8ab3a9aa07078b708e8b787c0c8c73d05936e92424149a9facbfa5234c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/089 - Chris the Hacker and Tom the Fag - Feb 2010 - 5_5 - _3 Degrees of Masonry_ [VdmvisNvwGU].json",
+      "bytes": 80301,
+      "sha256": "136172c734d5344609b41f1348c25f34703e1359f1d40ab2b0b4b8327004b1f3"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/089 - Chris the Hacker and Tom the Fag - Feb 2010 - 5_5 - _3 Degrees of Masonry_ [VdmvisNvwGU].txt",
+      "bytes": 20244,
+      "sha256": "b885bc7b500c93b3a8daadc294ccafa7e334f625f06c8f1b817591bfc79b6b1d"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/090 - Chris the Hacker and Tom the Fag - Oct 2010 - 1_3 - _Somebody Like Chris_ [ZC-fbIGOg04].json",
+      "bytes": 49837,
+      "sha256": "88a703957a7c45e08ddfefa47af0177a6766e48fe17db67ece7225406f5c50c0"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/090 - Chris the Hacker and Tom the Fag - Oct 2010 - 1_3 - _Somebody Like Chris_ [ZC-fbIGOg04].txt",
+      "bytes": 14018,
+      "sha256": "071f6a42a069443653a5ddddf701fd03375d0baa0ac8487a96db4b7f032ffdc4"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/091 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _The Bane of the Spoof_ [z4KyguLFvXU].json",
+      "bytes": 55519,
+      "sha256": "8d9e9d4f63e5ee9d719a9a14e5779e2edfb730422d0fee3b4203b0c7f41029ed"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/091 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _The Bane of the Spoof_ [z4KyguLFvXU].txt",
+      "bytes": 14528,
+      "sha256": "090335e84580c582bef57d3cf75f501474109d305b360e3c2340ebf1d5ca6371"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/092 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _Going to Florida_ [LPzTMYeHtvE].json",
+      "bytes": 68408,
+      "sha256": "05185cf2a5883e699cdc62768c811364623fe2cd692ad2bcc5399983cd0b88a9"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/092 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _Going to Florida_ [LPzTMYeHtvE].txt",
+      "bytes": 17937,
+      "sha256": "4c697e59949cf56b68b18eb774cc97ddc931979644e9882d7fcad74554e970f2"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/093 - Chris the Hacker and Tom the Fag - Nov 2010 - 1_3 - _Chris the Homophobe_ [8-7IW4-v7qU].json",
+      "bytes": 75393,
+      "sha256": "79ad766d3aeb5b0f45180c3c3b0660186847df3fe5e1ac29be93c4f7dfba2b56"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/093 - Chris the Hacker and Tom the Fag - Nov 2010 - 1_3 - _Chris the Homophobe_ [8-7IW4-v7qU].txt",
+      "bytes": 14659,
+      "sha256": "30b7cc6ab5ba91edbc94f9506aadc5978739c9b7648e04e70255970041a9529c"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/094 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _Vigilante Chris_ [yTyAhp880jM].json",
+      "bytes": 53511,
+      "sha256": "b2186ac1d5f9e99c53911ce93aeb211b897de475301579ad71e538edd2e7b1e0"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/094 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _Vigilante Chris_ [yTyAhp880jM].txt",
+      "bytes": 13458,
+      "sha256": "7dd29c76b92e0b911bad7038bbc699af97b0da0796084bd1453c126b4402f3d6"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/095 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _THE STONE COLD pooper_ [H1v-hPPuZ14].json",
+      "bytes": 9445,
+      "sha256": "d9560bdb62f4ae5b147b7b3cc8165071ee18fe503c843b17c2aee3383d1f2b6d"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/095 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _THE STONE COLD pooper_ [H1v-hPPuZ14].txt",
+      "bytes": 1985,
+      "sha256": "e91c455ab2875a691260af30afa3d2b75ff2d425473f9b34fbcb4766334fc50a"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/096 - Chris the Hacker and Tom the Fag - Nov 2010 - 1_3 - _Business in the Toilet_ [zBblBHuSjIM].json",
+      "bytes": 69965,
+      "sha256": "247b05c1065688e17bb80125a4669fa7ce4120724c74c30e3af788e980726c30"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/096 - Chris the Hacker and Tom the Fag - Nov 2010 - 1_3 - _Business in the Toilet_ [zBblBHuSjIM].txt",
+      "bytes": 17133,
+      "sha256": "59edc20ba662f9f17d872008c893d619583523e3b44584566f8e9d7c5f6b5198"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/097 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _Itchin fer a Snitch_ [MiQEC-D6mXo].json",
+      "bytes": 65438,
+      "sha256": "11f3b35e2282a359e19630d8d60a46dfabd240d055fb482a859489e7b9eb32b6"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/097 - Chris the Hacker and Tom the Fag - Nov 2010 - 2_3 - _Itchin fer a Snitch_ [MiQEC-D6mXo].txt",
+      "bytes": 16119,
+      "sha256": "d4e2dcc7b3b8b783732f1db178bf6f22788e5c30863106dc6301c8f8ba3d7982"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/098 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _DatboysDataRecovery!_ [UjP1HA2kVIs].json",
+      "bytes": 65646,
+      "sha256": "41ed0395298775c1ab33f5ba28ada861e623edff43465aedc0a99967152b317d"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/098 - Chris the Hacker and Tom the Fag - Nov 2010 - 3_3 - _DatboysDataRecovery!_ [UjP1HA2kVIs].txt",
+      "bytes": 16973,
+      "sha256": "3328266011275ee7ad5cca4210d8633475b7c1809cc1ff73fb9ce2bd097122c2"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/099 - Unavailable video [qOymgEa74C8].json",
+      "bytes": 81141,
+      "sha256": "0b222757664b7e37cd8a715468d27af433213eb23beb6eefb9c84196a7e7d8af"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/099 - Unavailable video [qOymgEa74C8].txt",
+      "bytes": 20470,
+      "sha256": "015c6ec65c3d1a2275f596e42e1fc8ad456a6cf99c3fec3708c82a248950f246"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/100 - Chris the hacker gives an update part 2 [Tf7TuPkis2A].json",
+      "bytes": 29110,
+      "sha256": "81258a6e2ff492e72906eda31b05f94197ae1f6fb4daa1e38d2618692b496895"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/100 - Chris the hacker gives an update part 2 [Tf7TuPkis2A].txt",
+      "bytes": 7386,
+      "sha256": "803144d989eb53a5f1fdab06c9e210b22cda712873e2b0a361222339e053a38b"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/101 - Chris the hacker goes emo [TttoDBt4xiQ].json",
+      "bytes": 68023,
+      "sha256": "61f19f4baa11cda9db61e69d51fac4a2b5686dec238000431e7e40a847c8de7b"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/101 - Chris the hacker goes emo [TttoDBt4xiQ].txt",
+      "bytes": 15140,
+      "sha256": "d0865dd215b05fc0eec7ca58b166e0799616f11f2251482506a68797d9d52a95"
+    },
+    {
+      "path": "output/pdf/playlist-transcripts.pdf",
+      "bytes": 5814122,
+      "sha256": "5e520bf0c8c334e1af86a9687c45ad1ddadba1279fe36efa4b60e1053f8261cd"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5611,
+      "sha256": "c36bc9bac21376c72dd44eab61066b4bf63b5d83b0e5f047ac17a394f22f00a2"
+    }
+  ],
+  "restore": "python scripts/restore_archive.py PATH/TO/checksums.json --output restored.zip --extract restored"
+}

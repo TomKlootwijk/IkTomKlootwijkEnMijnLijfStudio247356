@@ -1,0 +1,275 @@
+Chris the Hacker and Tom the Fag - Nov 2009 - 2/9 - "Happy Brithday, Chris! Happy Birthday, KOOOON!"
+https://www.youtube.com/watch?v=-TGxoANMkxI
+Language: en | Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors.
+
+[00:00:00.000 --> 00:00:04.520] What is it? Does it get real? I mean, do you guys have, do like real scary shit over there?
+[00:00:05.460 --> 00:00:06.920] Uh, I don't really celebrate Halloween.
+[00:00:07.880 --> 00:00:08.540] Oh, you don't?
+[00:00:09.120 --> 00:00:11.300] No, it's like, uh, not as big as in America.
+[00:00:13.260 --> 00:00:17.460] I'll tell you what, man, there's some gorgeous chicks walking, just a gorgeous chick just walked by.
+[00:00:18.140 --> 00:00:19.320] Yeah, they're all dressed for the slimy.
+[00:00:20.320 --> 00:00:21.360] I love it.
+[00:00:23.160 --> 00:00:25.760] But anyway, there's another guy on the phone right now.
+[00:00:26.420 --> 00:00:27.560] Yeah, from Alcoholics Anonymous.
+[00:00:27.560 --> 00:00:28.200] Oh, good.
+[00:00:30.000 --> 00:00:32.540] Are you there?
+[00:00:32.540 --> 00:00:35.380] Are you there?
+[00:00:35.380 --> 00:00:37.380] Are you there?
+[00:00:37.380 --> 00:00:38.380] Alcoholic.
+[00:00:38.380 --> 00:00:39.380] Mikkel.
+[00:00:39.380 --> 00:00:40.380] Jeremy.
+[00:00:40.380 --> 00:00:41.380] What?
+[00:00:41.380 --> 00:00:42.380] Yeah, I'm here.
+[00:00:42.380 --> 00:00:44.380] Oh, what's up, Jeremy?
+[00:00:44.380 --> 00:00:45.380] What's up?
+[00:00:45.380 --> 00:00:47.380] Here's our friend Chris.
+[00:00:47.380 --> 00:00:48.380] Where's Chris?
+[00:00:48.380 --> 00:00:49.380] Where is he?
+[00:00:49.380 --> 00:00:50.380] Chris?
+[00:00:50.380 --> 00:00:51.380] He's from Boston.
+[00:00:51.380 --> 00:00:52.380] Oh.
+[00:00:52.380 --> 00:00:53.380] Was he off the line then?
+[00:00:53.380 --> 00:00:54.380] Yeah, he's on the scene.
+[00:00:54.380 --> 00:00:55.380] Yeah, where are you from, Jeremy?
+[00:00:55.380 --> 00:00:56.380] He's his birthday?
+[00:00:56.380 --> 00:00:57.380] It was his birthday?
+[00:00:57.380 --> 00:00:58.380] Yep.
+[00:00:58.380 --> 00:00:59.380] Yeah, yesterday.
+[00:01:00.000 --> 00:01:01.320] Happy birthday, Chris.
+[00:01:02.040 --> 00:01:02.980] It's my birthday today.
+[00:01:02.980 --> 00:01:03.740] Where are you from?
+[00:01:04.680 --> 00:01:04.960] Huh?
+[00:01:05.120 --> 00:01:05.800] We're in L.A.
+[00:01:05.920 --> 00:01:06.540] Where are you from?
+[00:01:06.900 --> 00:01:07.060] Huh? [ASR uncertain: little_acoustic_speech_support]
+[00:01:07.300 --> 00:01:07.680] L.A.
+[00:01:08.340 --> 00:01:08.740] Ireland.
+[00:01:08.860 --> 00:01:09.280] L.A.?
+[00:01:09.280 --> 00:01:10.160] I'm from Ireland, yeah.
+[00:01:10.400 --> 00:01:11.340] But I'm in L.A. now.
+[00:01:11.360 --> 00:01:11.900] Well, fantastic.
+[00:01:13.020 --> 00:01:13.920] Yeah, how about you?
+[00:01:13.980 --> 00:01:14.680] Where are you, in Boston?
+[00:01:15.580 --> 00:01:17.160] Yeah, I'm on the right coast.
+[00:01:17.780 --> 00:01:18.100] Cool.
+[00:01:18.300 --> 00:01:19.300] You're on the wrong coast.
+[00:01:19.940 --> 00:01:22.440] Hey, you've got the World Series going over there.
+[00:01:23.520 --> 00:01:24.260] Yeah, we do.
+[00:01:24.360 --> 00:01:25.220] We do, as a matter of fact.
+[00:01:25.280 --> 00:01:27.060] As a matter of fact, I've got to turn that on.
+[00:01:30.000 --> 00:01:34.880] gone so far. I'm surprised. I know. I know. Phillies are giving them a little tough time.
+[00:01:35.720 --> 00:01:39.800] Well, I was surprised last night. Yeah, it was interesting. What happened to the Angels and
+[00:01:39.800 --> 00:01:44.500] the Dodgers, huh? Oh, my gosh. Yeah, what are you going to do? Down the tubes. But anyways,
+[00:01:44.740 --> 00:01:51.500] um, what's it, guys? So, uh, let me see if it's, what time is it? It's, it's. Yeah, I know.
+[00:01:52.000 --> 00:01:57.240] It's three hours back there. So, oh, the game's already started. Yeah, I just got done working.
+[00:02:00.000 --> 00:02:01.720] Scott, back from celebrating birthday.
+[00:02:02.900 --> 00:02:03.520] Hey, you guys.
+[00:02:03.700 --> 00:02:04.400] Oh, that's right, too.
+[00:02:04.480 --> 00:02:05.000] It's your birthday.
+[00:02:05.200 --> 00:02:06.720] Happy birthday, dude.
+[00:02:06.980 --> 00:02:07.260] Thank you.
+[00:02:07.260 --> 00:02:08.240] What were you saying, Jeremy?
+[00:02:09.180 --> 00:02:09.860] Call me back.
+[00:02:09.940 --> 00:02:11.540] I'm going to see if I can get this game on the TV,
+[00:02:11.660 --> 00:02:12.520] because they got a TV here.
+[00:02:13.000 --> 00:02:13.600] Call me back.
+[00:02:14.120 --> 00:02:14.500] All right.
+[00:02:15.840 --> 00:02:16.800] What game is this?
+[00:02:16.980 --> 00:02:17.720] You guys talking to me.
+[00:02:17.720 --> 00:02:20.320] That was a guy from Alcoholics Anonymous that we actually talked about.
+[00:02:20.380 --> 00:02:20.920] You're a shit.
+[00:02:21.760 --> 00:02:22.340] No, seriously.
+[00:02:22.880 --> 00:02:24.820] It's one of the people from Alcoholics Anonymous.
+[00:02:25.700 --> 00:02:27.580] We've been talking to him for a couple hours now.
+[00:02:30.000 --> 00:02:33.240] So, happy birthday, Coon.
+[00:02:33.320 --> 00:02:35.120] And how old were you yesterday?
+[00:02:35.980 --> 00:02:37.760] Yesterday I was 19, now I'm 20.
+[00:02:39.300 --> 00:02:41.080] Wow, dude, man, you're cruising.
+[00:02:41.700 --> 00:02:43.900] Next thing you fucking know, you'll be 25.
+[00:02:44.700 --> 00:02:45.820] Oh, yeah, great.
+[00:02:47.560 --> 00:02:48.620] Oh, shut up.
+[00:02:48.920 --> 00:02:52.120] See, your voice doesn't sound like you're 20.
+[00:02:52.800 --> 00:02:55.040] I know, I know, it sounds like a rapist or something.
+[00:02:55.260 --> 00:02:56.480] He sounds like a pedophile a bit.
+[00:02:56.720 --> 00:02:57.620] Yeah, I know.
+[00:02:57.680 --> 00:02:59.040] He sounds a bit like a pedophile.
+[00:03:00.000 --> 00:03:00.740] Thank you.
+[00:03:02.840 --> 00:03:07.400] Okay, gentlemen, why don't we drop the pedophile bullshit or the pedophile?
+[00:03:07.420 --> 00:03:08.740] Do you think I sound like a pedophile?
+[00:03:09.200 --> 00:03:09.560] Exactly.
+[00:03:09.840 --> 00:03:13.120] No, I think you sound like an older guy.
+[00:03:13.660 --> 00:03:16.100] I think you sound like an older guy, and there's a lot.
+[00:03:17.040 --> 00:03:22.420] And, Tom, you could talk about the kinky shit, you know, like the threesomes with the two chicks.
+[00:03:22.720 --> 00:03:25.820] That's a lot more interesting to talk about than the other bullshit.
+[00:03:26.040 --> 00:03:27.360] Why is that interesting for you?
+[00:03:30.000 --> 00:03:33.220] No, it's a lot more interesting than the other shit.
+[00:03:34.940 --> 00:03:35.960] Yeah, tell us about it, man.
+[00:03:36.940 --> 00:03:37.920] Tell us about it, Marshall.
+[00:03:38.020 --> 00:03:38.520] Yeah, tell us about it.
+[00:03:38.520 --> 00:03:42.300] So, give us blow by blow.
+[00:03:44.240 --> 00:03:49.560] Well, I was at the Halloween party from some pigs we met on holiday.
+[00:03:50.240 --> 00:03:53.460] We drove up to there with the car, and then we got private fucking drunk,
+[00:03:53.720 --> 00:03:55.680] and then I did them in the bathroom.
+[00:03:57.400 --> 00:03:57.840] Wow. [ASR uncertain: little_acoustic_speech_support]
+[00:04:00.000 --> 00:04:00.980] Yeah, did they have big kids?
+[00:04:01.860 --> 00:04:03.460] Yeah, pretty much for their age.
+[00:04:04.960 --> 00:04:06.220] Don't tell me they were like 14.
+[00:04:06.340 --> 00:04:06.740] How old were they?
+[00:04:07.320 --> 00:04:09.100] No, they were like 17, 18.
+[00:04:09.460 --> 00:04:14.420] But they're really high-class girls with a lot of money from Amsterdam,
+[00:04:14.600 --> 00:04:16.060] from the rich neighborhood of Amsterdam.
+[00:04:17.440 --> 00:04:17.920] Oh, cool.
+[00:04:18.380 --> 00:04:19.040] Yeah, pretty fun.
+[00:04:19.040 --> 00:04:23.380] So would you go up to one of their parents' cabins or something?
+[00:04:23.980 --> 00:04:24.420] No, no, no. [ASR uncertain: little_acoustic_speech_support]
+[00:04:24.460 --> 00:04:27.540] They were one of their, how do you call it, a grachterbomb.
+[00:04:30.000 --> 00:04:31.380] Like a dorm?
+[00:04:31.720 --> 00:04:39.040] No, no, like in Amsterdam, you have really expensive buildings next to the channels.
+[00:04:40.380 --> 00:04:41.120] Yeah, I'm seeing the channels.
+[00:04:41.120 --> 00:04:42.760] Oh, like apartments, condos?
+[00:04:42.900 --> 00:04:47.100] Yeah, well, buildings, and they're like really old and really fucking expensive.
+[00:04:48.360 --> 00:04:48.700] Really?
+[00:04:49.080 --> 00:04:52.740] Yeah, it costs over $2 million to buy, and it's really small.
+[00:05:00.000 --> 00:05:09.820] refer to over here as the red light district. There's a hotel. There's a little plaza. I
+[00:05:09.820 --> 00:05:17.120] mean, it's like, it's like right there, right there, right across. I went to a hotel with
+[00:05:17.120 --> 00:05:21.800] a friend of mine because I was supposed to stay with a buddy because I wanted the room
+[00:05:21.800 --> 00:05:25.800] and the guy thought we were gay or something. And he was like, and you guys have a lot of
+[00:05:30.000 --> 00:05:31.780] or something, so don't go there.
+[00:05:31.780 --> 00:05:33.860] Fuck, my, my, my, listen.
+[00:05:35.360 --> 00:05:35.960] What'd you say?
+[00:05:35.980 --> 00:05:38.640] Listen, me and my buddy, my buddy took me to the movies.
+[00:05:39.020 --> 00:05:41.300] His wife, his wife was studying.
+[00:05:41.440 --> 00:05:41.760] That's how it starts.
+[00:05:42.160 --> 00:05:43.120] That's how it starts. [ASR uncertain: little_acoustic_speech_support]
+[00:05:48.560 --> 00:05:50.060] Tom, you're fucking something.
+[00:05:50.060 --> 00:05:51.460] Did you get a good night kiss?
+[00:05:52.740 --> 00:05:55.740] So, but anyways, but you know something?
+[00:05:56.040 --> 00:05:58.060] Hey, fuck what anybody else thinks.
+[00:06:00.000 --> 00:06:03.580] else thinks coon, you know, me and my buddy are going to go over there.
+[00:06:04.720 --> 00:06:06.500] Oh, I don't like men, but the guys thought that.
+[00:06:07.320 --> 00:06:09.020] No, the guys buddy around.
+[00:06:09.020 --> 00:06:15.360] Hey, listen, listen, when you guys buddy around, do you give a fuck what anybody else thinks?
+[00:06:15.580 --> 00:06:17.180] No, they're not paying your fucking bills.
+[00:06:17.200 --> 00:06:21.700] No, I was just really drunk back then, and I don't even remember.
+[00:06:23.860 --> 00:06:25.480] Hey, do you guys hit the guest house?
+[00:06:25.960 --> 00:06:27.540] I mean, the guest house, coffee house.
+[00:06:27.820 --> 00:06:28.820] Guest house, that's Germany.
+[00:06:29.060 --> 00:06:29.580] Coffee house.
+[00:06:30.000 --> 00:06:31.360] I had some really nice black coffee.
+[00:06:33.820 --> 00:06:34.620] Cool, cool. [ASR uncertain: little_acoustic_speech_support]
+[00:06:36.200 --> 00:06:37.160] That's what I'm looking forward to.
+[00:06:37.220 --> 00:06:38.680] I want to take two months.
+[00:06:38.800 --> 00:06:40.060] I want to be there for like,
+[00:06:40.080 --> 00:06:41.640] I want to be in Europe for like two months.
+[00:06:41.760 --> 00:06:43.300] It was a nice Halloween for me.
+[00:06:44.840 --> 00:06:45.600] Yeah, what about you, Chris?
+[00:06:45.600 --> 00:06:46.140] What did you do?
+[00:06:47.640 --> 00:06:48.440] I just worked.
+[00:06:49.060 --> 00:06:50.440] You know, I mean, oh, excuse me.
+[00:06:50.680 --> 00:06:51.740] Last night I went to the,
+[00:06:51.780 --> 00:06:52.580] let me see, was it last night?
+[00:06:52.580 --> 00:06:54.140] No, Sunday night went to the movies.
+[00:06:54.760 --> 00:06:57.320] Saw Law Abiding Citizen.
+[00:06:57.840 --> 00:06:59.000] Law Abiding Citizen.
+[00:07:00.000 --> 00:07:00.800] You've got to see that.
+[00:07:01.000 --> 00:07:02.260] It's freaking good.
+[00:07:03.100 --> 00:07:04.300] I'm not even going to tell you about the end.
+[00:07:04.480 --> 00:07:09.800] I'm a little disappointed about the end, but all in all, it was a pretty good movie.
+[00:07:09.900 --> 00:07:11.340] You guys seen the movie Gamer?
+[00:07:11.340 --> 00:07:12.860] He was a guy from the guy that you were.
+[00:07:14.620 --> 00:07:20.820] He was a co-host of my TV show, PCCommandos.net.
+[00:07:21.680 --> 00:07:22.680] PCCommandos.net.
+[00:07:25.100 --> 00:07:26.180] PCCommandos.net.
+[00:07:26.360 --> 00:07:26.700] PC.
+[00:07:27.940 --> 00:07:29.380] Yeah, Peter's and Peter.
+[00:07:30.000 --> 00:07:36.420] Hey, did you guys see that movie, The Gamer or something, Gamer it's called, I believe?
+[00:07:36.640 --> 00:07:37.280] Did you guys see that?
+[00:07:37.500 --> 00:07:37.900] Gamer?
+[00:07:38.260 --> 00:07:38.520] Yeah.
+[00:07:38.720 --> 00:07:40.300] No, I haven't seen that yet.
+[00:07:41.200 --> 00:07:48.560] I saw something about, oh, oh, the zombie land looks funny.
+[00:07:49.380 --> 00:07:51.320] Oh, man, that's just a horrible movie.
+[00:07:51.680 --> 00:07:52.080] Seriously.
+[00:07:53.200 --> 00:07:53.920] No, it sounds funny.
+[00:07:53.920 --> 00:07:54.740] So it wasn't that funny?
+[00:07:55.300 --> 00:07:59.740] No, it started off pretty good and then just, the fuck, they go to a fucking,
+[00:08:00.000 --> 00:08:04.020] theater park in the middle of the night
+[00:08:04.020 --> 00:08:05.240] when there's, like, zombies everywhere.
+[00:08:05.420 --> 00:08:06.600] How fucking stupid is that?
+[00:08:07.400 --> 00:08:07.600] You know?
+[00:08:07.740 --> 00:08:08.420] That's fucking stupid.
+[00:08:08.640 --> 00:08:09.840] Say, don't you hate that?
+[00:08:10.200 --> 00:08:11.380] Say, you're like Migi-kun.
+[00:08:12.100 --> 00:08:13.220] That's fucking stupid.
+[00:08:13.480 --> 00:08:15.260] It's just like that fucking, uh...
+[00:08:15.260 --> 00:08:16.100] What was that movie?
+[00:08:16.900 --> 00:08:17.740] Naga Agachita? [ASR uncertain: little_acoustic_speech_support]
+[00:08:19.260 --> 00:08:20.600] No, no, no, no, no.
+[00:08:21.260 --> 00:08:21.660] Kuna Matata?
+[00:08:21.660 --> 00:08:23.480] What was that movie with the guy in the ring?
+[00:08:24.020 --> 00:08:24.540] The ring?
+[00:08:24.800 --> 00:08:25.780] Oh, oh, Lord of the Rings.
+[00:08:26.260 --> 00:08:27.800] I couldn't stand it when that little fucker
+[00:08:27.800 --> 00:08:29.740] kept falling down every time he kept running.
+[00:08:30.000 --> 00:08:34.200] I was going, like, I would have left that guy, put my boots up his ass.
+[00:08:34.780 --> 00:08:35.000] Yeah.
+[00:08:35.300 --> 00:08:35.660] You know?
+[00:08:36.280 --> 00:08:40.320] Yeah, but seriously, you know, it was also full of stereotypes.
+[00:08:40.780 --> 00:08:47.000] And, like, you had the World of Warcraft nerds, and you had, you know, the hot girl, I know, fell for each other.
+[00:08:47.120 --> 00:08:49.980] You had the big cowboy guy, all that bullshit.
+[00:08:50.240 --> 00:08:52.380] Yeah, yeah, it was pretty funny.
+[00:08:52.620 --> 00:08:55.380] It was one of the better sound movies to come out in a long time.
+[00:08:56.800 --> 00:08:57.840] Man, not really.
+[00:09:00.000 --> 00:09:29.980] want to see another one. Oh, it's raining. Actually, I get Netflix delivered to me. You hear that, Tom? I get Netflix delivered to me, so. What the fuck? It's raining. You guys want to see a funny movie? You want to see a funny movie? See Step Brothers. Yeah, it's raining really bad or something. Oh, let me just go grab a remote outside the window. Alright. What did you say, Chris? Um, what do you mean he's got to go outside and have a cigarette? I don't know. It's like fucking raining.
+[00:09:30.000 --> 00:09:36.240] here really bad and it's going outside and it's not raining where he's at really bad so you guys
+[00:09:36.240 --> 00:09:42.680] can't be living too damn close but then again that isn't necessarily true because in texas i was i
+[00:09:42.680 --> 00:09:50.100] was in what's called the r no we live in the same village man so it should be raining yeah it should
+[00:09:50.100 --> 00:09:54.760] be raining there as well but you know you know it can rain it can rain anywhere and it doesn't
+[00:09:54.760 --> 00:09:58.260] really matter where the fuck you live because it can rain on one side of the street and not be
+[00:10:00.000 --> 00:10:01.580] But what did you do for your birthday?
+[00:10:02.660 --> 00:10:02.900] Huh?
+[00:10:03.220 --> 00:10:04.580] What did you do for your birthday?
+[00:10:05.480 --> 00:10:06.040] Just worked?
+[00:10:06.460 --> 00:10:08.280] Well, actually, that was the first.
+[00:10:08.440 --> 00:10:09.220] That was what?
+[00:10:09.760 --> 00:10:10.860] That was Saturday, right?
+[00:10:11.560 --> 00:10:13.220] I don't know when your birthday was.
+[00:10:13.960 --> 00:10:15.100] No, that was Sunday.
+[00:10:15.100 --> 00:10:16.140] Sunday, Sunday, yeah.
+[00:10:17.040 --> 00:10:19.600] Delight savings time ends on the first?
+[00:10:19.700 --> 00:10:20.280] No shit.
+[00:10:20.740 --> 00:10:21.580] Did not know that.
+[00:10:23.720 --> 00:10:24.440] What did you do?
+[00:10:24.440 --> 00:10:25.980] What the fuck is this thing for?
+[00:10:26.220 --> 00:10:27.100] Fetow it. [ASR uncertain: little_acoustic_speech_support]
+[00:10:29.020 --> 00:10:29.760] Fetow it. [ASR uncertain: little_acoustic_speech_support]
+[00:10:30.000 --> 00:10:31.820] Why did I write Vito It down there?
+[00:10:33.700 --> 00:10:37.580] Yeah, so that was the day I went to the movies.
+[00:10:37.940 --> 00:10:40.140] Saturday just worked.
+[00:10:42.040 --> 00:10:47.060] And I give myself one more fucking year to come up with the cash and get this thing underway.
+[00:10:49.020 --> 00:10:56.380] So if you guys want to make a buck, if you guys want to assist in trying to raise fucking money,
+[00:10:56.460 --> 00:10:59.000] you can make yourself some serious fucking cash.
+[00:11:00.000 --> 00:11:00.920] How are we going to do that?
+[00:11:00.940 --> 00:11:02.840] Because I'm not going to be doing this much longer, huh?
+[00:11:03.400 --> 00:11:04.300] What do you...
+[00:11:04.300 --> 00:11:05.140] I'm looking...
+[00:11:05.140 --> 00:11:10.440] You research avenues of cash.
+[00:11:11.120 --> 00:11:16.560] If you can point me to somebody that can fund this business,
+[00:11:16.880 --> 00:11:26.120] you will get $120,000 cash the minute that money hits the bank.
+[00:11:26.500 --> 00:11:29.240] So in other words, the money comes in one day, guess what?
+[00:11:30.000 --> 00:11:32.800] At that point, I better have your phone number.
+[00:11:33.020 --> 00:11:33.600] I call you up.
+[00:11:33.700 --> 00:11:35.600] I say, hey, the money just arrived today.
+[00:11:35.900 --> 00:11:37.780] I'm going to be wiring it to your banking account.
+[00:11:38.260 --> 00:11:38.700] All right.
+[00:11:38.820 --> 00:11:40.040] Well, that sounds pretty good.
+[00:11:40.040 --> 00:11:43.620] But do you have, like, good statistics or something?
+[00:11:43.880 --> 00:11:45.700] Like, do you make good profits?
+[00:11:46.000 --> 00:11:46.040] No. [ASR uncertain: little_acoustic_speech_support]
+[00:11:46.700 --> 00:11:49.160] See, this will be a learning curve for you.
+[00:11:50.840 --> 00:11:54.600] Because I'm still finding out where I can get money, too.
+[00:11:55.040 --> 00:11:55.860] Holy shit.
+[00:11:56.480 --> 00:11:56.720] Wow.
+[00:11:57.160 --> 00:11:57.520] What?
+[00:11:58.180 --> 00:11:59.080] Holy f***.
