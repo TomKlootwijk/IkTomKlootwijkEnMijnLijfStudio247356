@@ -3,17 +3,15 @@
   "playlist_id": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v",
   "playlist_url": "https://www.youtube.com/playlist?list=PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v",
   "inventory_entries": 102,
-  "archived_recordings": 101,
-  "unavailable_video_ids": [
-    "MYuB75Nb2gw"
-  ],
+  "archived_recordings": 102,
+  "unavailable_video_ids": [],
   "pdf": {
     "path": "output/pdf/playlist-transcripts.pdf",
-    "size": 5814122,
-    "sha256": "5e520bf0c8c334e1af86a9687c45ad1ddadba1279fe36efa4b60e1053f8261cd",
+    "size": 5816003,
+    "sha256": "2da3eaf402e421bd0e65ed6e1dd5c945a8e413b5c216c1b8fe6182b0d7302d2f",
     "pages": 626,
     "bookmarks": 102,
-    "transcripts": 101,
+    "transcripts": 102,
     "visual_qa_passed": true,
     "machine_transcription": true,
     "fully_human_reviewed": false
@@ -25,18 +23,18 @@
       {
         "name": "README.md",
         "id": "1PISCcHjzf06vxCfaylydnzXpXtjET7CI",
-        "url": "https://drive.google.com/file/d/1PISCcHjzf06vxCfaylydnzXpXtjET7CI/view",
-        "size": 5611,
-        "local_sha256": "c36bc9bac21376c72dd44eab61066b4bf63b5d83b0e5f047ac17a394f22f00a2",
-        "verification": "Upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
+        "url": "https://drive.google.com/file/d/1PISCcHjzf06vxCfaylydnzXpXtjET7CI/view?usp=drivesdk",
+        "size": 5921,
+        "local_sha256": "9c562b02daf6a0e3beef6608e1e9fb0c25fa021b2a4ebcb5c9667b8e080331b9",
+        "verification": "Replacement upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
       },
       {
         "name": "playlist-transcripts.pdf",
         "id": "1FHamiHWIN8iXItci-YVUvV99ZMUeOE8M",
-        "url": "https://drive.google.com/file/d/1FHamiHWIN8iXItci-YVUvV99ZMUeOE8M/view",
-        "size": 5814122,
-        "local_sha256": "5e520bf0c8c334e1af86a9687c45ad1ddadba1279fe36efa4b60e1053f8261cd",
-        "verification": "Upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
+        "url": "https://drive.google.com/file/d/1FHamiHWIN8iXItci-YVUvV99ZMUeOE8M/view?usp=drivesdk",
+        "size": 5816003,
+        "local_sha256": "2da3eaf402e421bd0e65ed6e1dd5c945a8e413b5c216c1b8fe6182b0d7302d2f",
+        "verification": "Replacement upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
       },
       {
         "name": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part001",
@@ -44,7 +42,7 @@
         "url": "https://drive.google.com/file/d/1u2BzdiwR6FI2akPBSGkqaZyA6V8XhHVO/view?usp=drivesdk",
         "size": 83886080,
         "local_sha256": "eb999e79e65e85fe6f683d678ee9a2ee7c3cecf6a7cdd513c53fd84dc41ba04f",
-        "verification": "Upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
+        "verification": "Previously verified upload retained unchanged local SHA-256; fresh metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
       },
       {
         "name": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part002",
@@ -52,7 +50,7 @@
         "url": "https://drive.google.com/file/d/1O6YH5-MfjbhjJHNHZBBRQxvsYuMiHcq6/view?usp=drivesdk",
         "size": 83886080,
         "local_sha256": "1a685b610775e22482672d29f639ecad8933c33e895bc8c800e41f5b63482602",
-        "verification": "Upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
+        "verification": "Previously verified upload retained unchanged local SHA-256; fresh metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
       },
       {
         "name": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part003",
@@ -60,7 +58,7 @@
         "url": "https://drive.google.com/file/d/1IpNYikxPvSI1TwxHsNOlvW1D_KRPsgXA/view?usp=drivesdk",
         "size": 83886080,
         "local_sha256": "7f9fdd49de504243a4cbd39c0c7ed85cde8816cddbef9bf98d9aa990f73e21d5",
-        "verification": "Upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
+        "verification": "Previously verified upload retained unchanged local SHA-256; fresh metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
       },
       {
         "name": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part004",
@@ -68,7 +66,7 @@
         "url": "https://drive.google.com/file/d/1QdkokBSQD7I7jLCC98wxGC4YvUVHg--9/view?usp=drivesdk",
         "size": 83886080,
         "local_sha256": "f12148456444198b108cfca843d2ddf589590860dcc061b4515fecb811e541d1",
-        "verification": "Upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
+        "verification": "Previously verified upload retained unchanged local SHA-256; fresh metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
       },
       {
         "name": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part005",
@@ -76,7 +74,7 @@
         "url": "https://drive.google.com/file/d/1egdb15sEnCxxlx9vGXM-5vEpJ-mH45uu/view?usp=drivesdk",
         "size": 83886080,
         "local_sha256": "6cae90121083f926572f828fca9bb8f80832176f10a2000423fa3a1db856290c",
-        "verification": "Upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
+        "verification": "Previously verified upload retained unchanged local SHA-256; fresh metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
       },
       {
         "name": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part006",
@@ -84,7 +82,7 @@
         "url": "https://drive.google.com/file/d/17pHbj-vCX4YDeQt6nr_UQY1tpsYz_43A/view?usp=drivesdk",
         "size": 83886080,
         "local_sha256": "6b1fc30fe7b6f7c8c65d3c2c358d6ed376f96f92de5a7f4b1a8f156982d1cea3",
-        "verification": "Upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
+        "verification": "Previously verified upload retained unchanged local SHA-256; fresh metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
       },
       {
         "name": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part007",
@@ -92,7 +90,7 @@
         "url": "https://drive.google.com/file/d/1mPeDbC-zIqfGSX5-3FB8YF6VQUwJBD7J/view?usp=drivesdk",
         "size": 83886080,
         "local_sha256": "5b1df7001b9ccb2c7554925055cfbf6a03e7b03fb63b3cad379c86f9e524823e",
-        "verification": "Upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
+        "verification": "Previously verified upload retained unchanged local SHA-256; fresh metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
       },
       {
         "name": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part008",
@@ -100,7 +98,7 @@
         "url": "https://drive.google.com/file/d/1jrrjlLLbGfK0A8z5Z-lQnyNM_OWfynnW/view?usp=drivesdk",
         "size": 83886080,
         "local_sha256": "c9a42a4b1b82b71ed961fa5b8db93c75592aede6b5946bf3e5acc1dad0be6f21",
-        "verification": "Upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
+        "verification": "Previously verified upload retained unchanged local SHA-256; fresh metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
       },
       {
         "name": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part009",
@@ -108,23 +106,23 @@
         "url": "https://drive.google.com/file/d/17BSxYxGumIonz_UHvsZ2bTk2JQsVYEhU/view?usp=drivesdk",
         "size": 83886080,
         "local_sha256": "a1796d7e8cf122deed42a55ae748483b60c73a78defd08eae68e47e49363557d",
-        "verification": "Upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
+        "verification": "Previously verified upload retained unchanged local SHA-256; fresh metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
       },
       {
         "name": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part010",
         "id": "1IAvVEHQoNUW6x1j5uZL6KHevx07cgJbC",
         "url": "https://drive.google.com/file/d/1IAvVEHQoNUW6x1j5uZL6KHevx07cgJbC/view?usp=drivesdk",
-        "size": 44318682,
-        "local_sha256": "71365dfa56ef82d61ef76f63ef047db34cb77f4059c8dcdcb38bdb6c12df33c2",
-        "verification": "Upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
+        "size": 44521681,
+        "local_sha256": "05faab6b0de9507129aecef13c4d6fed7deea4605a2152c467e6705eff9e574d",
+        "verification": "Replacement upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
       },
       {
         "name": "checksums.json",
         "id": "1sh_CH4Ef6zik1gkzso5xMWB0aGB6NPVR",
         "url": "https://drive.google.com/file/d/1sh_CH4Ef6zik1gkzso5xMWB0aGB6NPVR/view?usp=drivesdk",
-        "size": 122805,
-        "local_sha256": "76c061be1828b966eeaeb6053d285f6a83e7daaa89871006acd27ff0ac71493b",
-        "verification": "Upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
+        "size": 123955,
+        "local_sha256": "e12bc3f0060cdc56875b8fabef966a1b9b2de0f69c281e1e0a5c8c443222d67b",
+        "verification": "Replacement upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
       },
       {
         "name": "restore_archive.py",
@@ -132,15 +130,15 @@
         "url": "https://drive.google.com/file/d/17soBihZ0-6m1ZijMHjyx7QCIUaJmx2dz/view?usp=drivesdk",
         "size": 9781,
         "local_sha256": "119a3ddd4cc54ccb57c641cbf18eb772bbba27d57925a5f6f56fa2bad686953e",
-        "verification": "Upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
+        "verification": "Previously verified upload retained unchanged local SHA-256; fresh metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
       },
       {
         "name": "GOOGLE-DRIVE-RESTORE.txt",
         "id": "1mRIgC_ldwXYXpOllQXqpmKt3oFIwJOxL",
         "url": "https://drive.google.com/file/d/1mRIgC_ldwXYXpOllQXqpmKt3oFIwJOxL/view?usp=drivesdk",
-        "size": 1042,
-        "local_sha256": "27b7fdcee53a25391c6068dd288f03bd0ed1e54765e617098aad0a70f0dd0ff4",
-        "verification": "Upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
+        "size": 1141,
+        "local_sha256": "ef9dca18be7117847c9f81ed254538eea2e347aff343f0083ad5a440f23096b8",
+        "verification": "Replacement upload succeeded; metadata read-back confirmed name, size and parent folder. Remote checksum was not returned."
       }
     ],
     "archive_delivery_complete": true,
@@ -153,53 +151,68 @@
     "verification": {
       "schema_version": 1,
       "destination": "C:\\Users\\ietsm\\OneDrive\\Chris the Hacker and Tom the Fag",
-      "updated_at": "2026-10-11T09:47:58.263084+00:00",
+      "updated_at": "2026-10-11T10:08:45.909383+00:00",
       "complete": true,
+      "coverage": {
+        "listed_entries": 102,
+        "downloaded": 102,
+        "unavailable": 0,
+        "transcript_segments": 18322,
+        "youtube_hidden_unavailable_count": 9
+      },
       "file_hash_validation": {
-        "checked_at": "2026-10-11T09:44:50.1869359+00:00",
+        "checked_at": "2026-10-11T10:08:45.909383+00:00",
         "destination": "C:\\Users\\ietsm\\OneDrive\\Chris the Hacker and Tom the Fag",
         "files": [
           {
             "name": "README.md",
             "source": "C:\\TOMWERKPLEKTORENTJE\\IkTomKlootwijkEnMijnLijfStudio247356\\README.md",
             "destination": "C:\\Users\\ietsm\\OneDrive\\Chris the Hacker and Tom the Fag\\README.md",
-            "bytes": 5611,
-            "sha256": "c36bc9bac21376c72dd44eab61066b4bf63b5d83b0e5f047ac17a394f22f00a2",
-            "copied_sha256": "c36bc9bac21376c72dd44eab61066b4bf63b5d83b0e5f047ac17a394f22f00a2",
+            "bytes": 5921,
+            "sha256": "9c562b02daf6a0e3beef6608e1e9fb0c25fa021b2a4ebcb5c9667b8e080331b9",
+            "copied_sha256": "9c562b02daf6a0e3beef6608e1e9fb0c25fa021b2a4ebcb5c9667b8e080331b9",
             "sha256_matches": true
           },
           {
             "name": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip",
             "source": "C:\\TOMWERKPLEKTORENTJE\\IkTomKlootwijkEnMijnLijfStudio247356\\output\\archives\\PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip",
             "destination": "C:\\Users\\ietsm\\OneDrive\\Chris the Hacker and Tom the Fag\\PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip",
-            "bytes": 799293402,
-            "sha256": "598d36fcea5acbe4ce05269d8985f3f90907a2ee19ab2000b3f75aa6864ab6a0",
-            "copied_sha256": "598d36fcea5acbe4ce05269d8985f3f90907a2ee19ab2000b3f75aa6864ab6a0",
+            "bytes": 799496401,
+            "sha256": "9071346d122ae35cc7f41ec4e365f90807e42ecb23a60fd062ddb9ef0ad0dffe",
+            "copied_sha256": "9071346d122ae35cc7f41ec4e365f90807e42ecb23a60fd062ddb9ef0ad0dffe",
             "sha256_matches": true
           },
           {
             "name": "playlist-transcripts.pdf",
             "source": "C:\\TOMWERKPLEKTORENTJE\\IkTomKlootwijkEnMijnLijfStudio247356\\output\\pdf\\playlist-transcripts.pdf",
             "destination": "C:\\Users\\ietsm\\OneDrive\\Chris the Hacker and Tom the Fag\\playlist-transcripts.pdf",
-            "bytes": 5814122,
-            "sha256": "5e520bf0c8c334e1af86a9687c45ad1ddadba1279fe36efa4b60e1053f8261cd",
-            "copied_sha256": "5e520bf0c8c334e1af86a9687c45ad1ddadba1279fe36efa4b60e1053f8261cd",
+            "bytes": 5816003,
+            "sha256": "2da3eaf402e421bd0e65ed6e1dd5c945a8e413b5c216c1b8fe6182b0d7302d2f",
+            "copied_sha256": "2da3eaf402e421bd0e65ed6e1dd5c945a8e413b5c216c1b8fe6182b0d7302d2f",
             "sha256_matches": true
           },
           {
             "name": "checksums.json",
             "source": "C:\\TOMWERKPLEKTORENTJE\\IkTomKlootwijkEnMijnLijfStudio247356\\archive-bundles\\PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v\\checksums.json",
             "destination": "C:\\Users\\ietsm\\OneDrive\\Chris the Hacker and Tom the Fag\\checksums.json",
-            "bytes": 122805,
-            "sha256": "76c061be1828b966eeaeb6053d285f6a83e7daaa89871006acd27ff0ac71493b",
-            "copied_sha256": "76c061be1828b966eeaeb6053d285f6a83e7daaa89871006acd27ff0ac71493b",
+            "bytes": 123955,
+            "sha256": "e12bc3f0060cdc56875b8fabef966a1b9b2de0f69c281e1e0a5c8c443222d67b",
+            "copied_sha256": "e12bc3f0060cdc56875b8fabef966a1b9b2de0f69c281e1e0a5c8c443222d67b",
             "sha256_matches": true
           }
         ],
         "all_hashes_match": true
       },
+      "roundtrip_verification": {
+        "passed": true,
+        "zip_bytes": 799496401,
+        "zip_sha256": "9071346d122ae35cc7f41ec4e365f90807e42ecb23a60fd062ddb9ef0ad0dffe",
+        "parts": 10,
+        "source_files_sha256_verified": 417,
+        "method": "Restored all binary parts; verified part/full ZIP hashes and every uncompressed source-file SHA256; matched current source-file hashes."
+      },
       "cloud_sync": {
-        "checked_at": "2026-10-11T09:47:57.5041276+00:00",
+        "checked_at": "2026-10-11T10:08:27.2969027+00:00",
         "method": "CfGetPlaceholderInfo(CF_PLACEHOLDER_INFO_BASIC), READ_ATTRIBUTES only",
         "all_in_sync": true,
         "checked_item_count": 4,
@@ -248,15 +261,7 @@
           }
         ]
       },
-      "roundtrip_verification": {
-        "passed": true,
-        "zip_bytes": 799293402,
-        "zip_sha256": "598d36fcea5acbe4ce05269d8985f3f90907a2ee19ab2000b3f75aa6864ab6a0",
-        "parts": 10,
-        "source_files_sha256_verified": 413,
-        "method": "Actual restore_archive.py run to tmp/final-roundtrip.zip, with part/fullZIP/streamed source SHA256 verification; exit0"
-      },
-      "finished_at": "2026-10-11T09:47:58.263084+00:00"
+      "finished_at": "2026-10-11T10:08:45.909383+00:00"
     }
   },
   "git": {
@@ -265,18 +270,48 @@
     "tools_commit": "e4b6e086cc43f3a933e4c5b1f269bc5498b85eee",
     "tools_commit_remote_verified": true,
     "archive_delivery_complete": true,
-    "content_commit": "f37d08cae1aabf3593cb6522be23c3d5821abc21",
+    "content_commit": "511ac0df09081403261c9b3b4f59294e83166d4c",
     "content_commit_remote_verified": true
   },
   "archive": {
     "path": "output/archives/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip",
-    "size": 799293402,
-    "sha256": "598d36fcea5acbe4ce05269d8985f3f90907a2ee19ab2000b3f75aa6864ab6a0",
+    "size": 799496401,
+    "sha256": "9071346d122ae35cc7f41ec4e365f90807e42ecb23a60fd062ddb9ef0ad0dffe",
     "parts": 10,
     "part_size_limit_bytes": 83886080,
-    "roundtrip_source_file_hashes_verified": 413,
+    "roundtrip_source_file_hashes_verified": 417,
     "complete_for_available_entries": true,
-    "all_listed_audio_archived": false
+    "all_listed_audio_archived": true
   },
-  "completed_at": "2026-10-11 09:51:24 UTC"
+  "completed_at": "2026-10-11T10:09:46.874329+00:00",
+  "all_listed_audio_archived": true,
+  "all_original_titles_preserved": true,
+  "validation": {
+    "audio_recordings_passed": 102,
+    "full_decode_failures": 0,
+    "audio_duration_seconds": 67189.492,
+    "transcript_pairs": 102,
+    "speech_segments": 18322,
+    "words": 130064,
+    "model": {
+      "source": "mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf",
+      "weights_sha256": "e76620f83d5f5b69efd3d87e3dc180c1bd21df9fbebacfd4335e5e1efcc018da",
+      "weights_checksum_previously_verified": true
+    },
+    "profile": "full-audio-30s-repetition-v3",
+    "machine_transcription": true,
+    "fully_human_reviewed": false,
+    "zip_source_file_hashes_verified": 417,
+    "google_drive_metadata_verified_files": 15,
+    "onedrive_cloud_files_in_sync": 4
+  },
+  "recovery": {
+    "youtube_downloader_recordings": 89,
+    "internet_archive_channel_mirror_recordings": 9,
+    "exact_id_wayback_media_recordings": 3,
+    "authenticated_owner_studio_recordings": 1,
+    "recovered_private_video_id": "MYuB75Nb2gw",
+    "verified_archived_original_title_video_id": "qOymgEa74C8",
+    "signed_download_urls_and_authentication_data_included": false
+  }
 }

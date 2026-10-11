@@ -9,7 +9,7 @@ Google Drive holds the ZIP as 10 parts because the complete ZIP exceeds the conn
 
 The script uses only Python's standard library. The extracted destination must be new or empty. It verifies every part, the reconstructed ZIP, ZIP CRC checks, and the archived source files' SHA-256 checksums before reporting success.
 
-Complete ZIP size: 799293402 bytes
-Complete ZIP SHA-256: 598d36fcea5acbe4ce05269d8985f3f90907a2ee19ab2000b3f75aa6864ab6a0
+Complete ZIP size: 799496401 bytes
+Complete ZIP SHA-256: 9071346d122ae35cc7f41ec4e365f90807e42ecb23a60fd062ddb9ef0ad0dffe
 
-The archive contains audio for 101 of 102 listed recordings and a 626-page transcript PDF. One recording remains private and unavailable. The PDF is also available separately in Google Drive, and the complete ZIP is saved in Microsoft OneDrive.
+The archive contains all 102 listed recordings with original titles and timestamped machine transcripts, plus a 626-page combined transcript PDF. Every recording was recovered, including the owner's private video through YouTube Studio. The PDF is also available separately in Google Drive, and the complete ZIP is saved in Microsoft OneDrive.
