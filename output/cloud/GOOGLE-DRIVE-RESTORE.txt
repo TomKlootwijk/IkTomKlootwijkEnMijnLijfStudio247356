@@ -1,0 +1,15 @@
+Restore the playlist archive
+
+Google Drive holds the ZIP as 10 parts because the complete ZIP exceeds the connector's 512 MiB upload limit.
+
+1. Download all 10 ZIP parts (001 through 010), checksums.json, and restore_archive.py into one folder. Keep their original filenames.
+2. Open a terminal in that folder. With Python 3.12 or newer, run:
+
+   python restore_archive.py checksums.json --output playlist-archive.zip --extract extracted
+
+The script uses only Python's standard library. The extracted destination must be new or empty. It verifies every part, the reconstructed ZIP, ZIP CRC checks, and the archived source files' SHA-256 checksums before reporting success.
+
+Complete ZIP size: 799293402 bytes
+Complete ZIP SHA-256: 598d36fcea5acbe4ce05269d8985f3f90907a2ee19ab2000b3f75aa6864ab6a0
+
+The archive contains audio for 101 of 102 listed recordings and a 626-page transcript PDF. One recording remains private and unavailable. The PDF is also available separately in Google Drive, and the complete ZIP is saved in Microsoft OneDrive.
