@@ -1,0 +1,6 @@
+yt-dlp[default]==2026.10.10.233141.dev0
+faster-whisper==1.2.1
+ctranslate2==4.8.2
+av==18.1.0
+reportlab==4.4.9
+pypdf==6.10.0

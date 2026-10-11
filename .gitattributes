@@ -1,0 +1,11 @@
+* text=auto
+*.py text eol=lf
+*.ps1 text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.m3u8 text eol=lf
+*.pdf binary
+*.mp3 binary
+*.zip binary
+*.zip.part* binary

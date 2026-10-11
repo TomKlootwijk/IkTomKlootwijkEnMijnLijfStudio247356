@@ -1,0 +1,60 @@
+# YouTube playlist audio and transcript archive
+
+Source playlist: [Chris the Hacker and Tom the Fag](https://www.youtube.com/playlist?list=PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v).
+
+The frozen playlist inventory contains **102 entries**. This archive contains **101 recordings**, about **18 hours 39 minutes**, in the original playlist order. One entry, `MYuB75Nb2gw` (position 102), is private and no public archived media was found. Its inventory record and failure reason are retained; no audio or transcript is invented for it.
+
+**89 recordings** were downloaded from YouTube. **Nine** were recovered from the [Internet Archive channel mirror](https://archive.org/details/slightbloodiermargie), including all four age-restricted recordings and five removed recordings. **Three** more were recovered from exact-video-ID Wayback Machine media captures. Saved metadata identifies each source and its verification details.
+
+The original title could not be recovered for `qOymgEa74C8`, although its exact-ID archived audio was recovered. Its original title remains `null` in the manifest and metadata; display labels identify the missing title. All other available titles are preserved. Windows-invalid filename characters are replaced, and long filenames are shortened; the full titles remain in metadata, audio tags, transcripts, and the PDF.
+
+## Contents
+
+- `archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/`: MP3 audio at 96 kbps, with title, album, artist, and playlist-position tags.
+- `archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/playlist.m3u8`: playable playlist in source order.
+- `archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/`: source descriptions, dates, IDs, original titles, and archive provenance.
+- `archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/`: timestamped UTF-8 text and structured JSON for every archived recording.
+- `output/pdf/playlist-transcripts.pdf`: one searchable document, with linked contents, bookmarks, source links, and all transcripts.
+- `output/archives/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip`: one compressed archive of the audio, metadata, transcripts, and combined PDF.
+- `archive-bundles/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/`: consecutive parts of that same ZIP, each no larger than 80 MiB, plus SHA-256 checksums.
+
+The Git repository stores the complete ZIP as parts to stay below GitHub's individual-file limit. It also stores the PDF, metadata, and transcripts directly. Raw local audio and the duplicate full ZIP are ignored by Git; their bytes are preserved in the committed ZIP parts.
+
+## Restore the complete archive from Git
+
+No third-party Python packages are needed to reconstruct and verify the ZIP:
+
+```powershell
+python scripts/restore_archive.py archive-bundles/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/checksums.json --output restored.zip --extract restored
+```
+
+The extraction directory must be new or empty. The restore script checks every part, the full ZIP, ZIP integrity, and source-file hashes. A full ZIP downloaded from cloud storage can also be extracted with a normal ZIP application.
+
+## Transcription method
+
+Transcripts are generated locally with faster-whisper and the large-v3-turbo model, using GPU inference with `int8_float16`, beam size 5, and contiguous 30-second chunks over the full audio. Quiet speech is included rather than discarded by voice activity detection. Repetitive or unreliable decoding is recorded as timed uncertainty markers; suppressed raw candidates remain in JSON for inspection. These are machine transcripts and have not been reviewed word for word by a person. Names, overlapping speakers, and poor recordings can contain recognition errors.
+
+`audio-validation.json` records full audio decoding, duration, tag, metadata, byte-count, and SHA-256 checks. `transcription-status.json` and each transcript record the actual model revision, settings, and quality information. The original frozen inventory is preserved separately from recovered metadata.
+
+## Reproduce or resume
+
+Install Python 3.12+, FFmpeg/ffprobe, and a supported JavaScript runtime for yt-dlp. Create a virtual environment and install `requirements.txt`. The optional Windows CUDA packages used for this run are pinned in `requirements-gpu.txt`.
+
+```powershell
+python -m venv .venv
+.venv/Scripts/python.exe -m pip install -r requirements.txt
+.venv/Scripts/python.exe -m pip install -r requirements-gpu.txt
+.venv/Scripts/python.exe scripts/download_playlist.py --inventory archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/playlist-inventory.json --destination archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v --node C:/path/to/node.exe
+.venv/Scripts/python.exe scripts/transcribe.py archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/manifest.json --model turbo --device auto --compute-type int8_float16 --threads 12 --batch-size 2
+.venv/Scripts/python.exe scripts/build_transcript_pdf.py --manifest archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/manifest.json --output output/pdf/playlist-transcripts.pdf
+```
+
+Mirror recovery uses the verified URLs and exact original IDs saved in `mirror-sources.json`; it never substitutes a recording based only on a similar title. Packaging refuses unfinished downloads or missing transcripts for available audio.
+
+## Storage destinations
+
+Google Drive destination: [playlist archive folder](https://drive.google.com/drive/folders/1I3rEUiNBOuqKnkQg4CNnLecEGZZe_Pt-).
+
+OneDrive destination: `C:/Users/ietsm/OneDrive/Chris the Hacker and Tom the Fag/`.
+
+The delivery receipt records completed uploads and OneDrive Cloud Files synchronization checks. Authentication cookies and tokens are not included in the repository or archives.

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+tmp/
+*.part
+*.ytdl
+.env
+cookies*.txt
+archive/*/audio/
+output/archives/*.zip
+*.tmp
