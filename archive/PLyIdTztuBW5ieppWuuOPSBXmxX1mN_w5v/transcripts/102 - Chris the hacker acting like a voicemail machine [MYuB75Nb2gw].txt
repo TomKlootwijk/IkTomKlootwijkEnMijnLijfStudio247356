@@ -1,0 +1,10 @@
+Chris the hacker acting like a voicemail machine
+https://www.youtube.com/watch?v=MYuB75Nb2gw
+Language: en | Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors.
+
+[00:00:00.000 --> 00:00:01.900] Hello, we're sorry, we can't take this call.
+[00:00:03.060 --> 00:00:03.380] What?
+[00:00:03.920 --> 00:00:08.080] Please leave a message with your name, telephone number.
+[00:00:08.960 --> 00:00:12.080] Tell me how we, how we...
+[00:00:12.080 --> 00:00:14.900] Yeah, man. Right.

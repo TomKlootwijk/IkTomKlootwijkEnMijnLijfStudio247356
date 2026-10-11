@@ -1,48 +1,48 @@
 {
   "schema_version": 1,
   "playlist_id": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v",
-  "started_at": "2026-10-11T09:11:02.470194+00:00",
+  "started_at": "2026-10-11T10:00:35.937444+00:00",
   "complete": true,
   "passed": true,
   "workers": 2,
   "duration_tolerance_seconds": 3.0,
-  "manifest_sha256": "9e2e05869f62c3fffdbfa742ef2406a053efbae3c60c4ba4ed05e5c8a7e05752",
+  "manifest_sha256": "81e77da5eba02c0bdd9fb6b64c52740824fbadf3bf57b86c5429542a01d7f8dd",
   "ffmpeg": "C:\\Users\\ietsm\\AppData\\Local\\Microsoft\\WinGet\\Packages\\Gyan.FFmpeg.Shared_Microsoft.Winget.Source_8wekyb3d8bbwe\\ffmpeg-9.0.2-full_build-shared\\bin\\ffmpeg.EXE",
   "checks": {
     "file_exists": {
-      "passed": 101,
+      "passed": 102,
       "failed": 0
     },
     "filename_id": {
-      "passed": 101,
+      "passed": 102,
       "failed": 0
     },
     "byte_count": {
-      "passed": 101,
+      "passed": 102,
       "failed": 0
     },
     "metadata_id_title": {
-      "passed": 101,
+      "passed": 102,
       "failed": 0
     },
     "id3_title": {
-      "passed": 101,
+      "passed": 102,
       "failed": 0
     },
     "id3_track_position": {
-      "passed": 101,
+      "passed": 102,
       "failed": 0
     },
     "duration": {
-      "passed": 101,
+      "passed": 102,
       "failed": 0
     },
     "full_decode": {
-      "passed": 101,
+      "passed": 102,
       "failed": 0
     },
     "stable_source": {
-      "passed": 101,
+      "passed": 102,
       "failed": 0
     }
   },
@@ -3971,8 +3971,8 @@
     {
       "position": 99,
       "id": "qOymgEa74C8",
-      "title": null,
-      "audio": "audio/099 - Unavailable video [qOymgEa74C8].mp3",
+      "title": "Chris the hacker gives an update part 1",
+      "audio": "audio/099 - Chris the hacker gives an update part 1 [qOymgEa74C8].mp3",
       "passed": true,
       "checks": {
         "file_exists": true,
@@ -3988,7 +3988,7 @@
       "errors": [],
       "bytes": 10823340,
       "id3_title": [
-        "Title unavailable [qOymgEa74C8]"
+        "Chris the hacker gives an update part 1"
       ],
       "id3_track_position": [
         "99"
@@ -4000,11 +4000,11 @@
           "delta_seconds": 0.04644
         },
         "duration": {
-          "expected_seconds": 900.86458,
-          "delta_seconds": 0.04644
+          "expected_seconds": 901,
+          "delta_seconds": -0.08898
         }
       },
-      "sha256": "6c96848d1c494e49cc18b9dbeeb80efc959208cf0193580883d779fffdaa11eb",
+      "sha256": "0789424e49a08086c39bedeb2aac1730458b2998ae3d5ad9766c8678bddae19c",
       "ffmpeg_exit_code": 0,
       "ffmpeg_error_bytes": 0
     },
@@ -4087,25 +4087,58 @@
       "sha256": "33ea2170bdda90fa47df5a68977d3d8cfb869bcda9c2a378b29a8b8fb0348552",
       "ffmpeg_exit_code": 0,
       "ffmpeg_error_bytes": 0
-    }
-  ],
-  "unavailable": [
+    },
     {
       "position": 102,
       "id": "MYuB75Nb2gw",
-      "title": null,
-      "reason": "ERROR: [youtube] MYuB75Nb2gw: Private video"
+      "title": "Chris the hacker acting like a voicemail machine",
+      "audio": "audio/102 - Chris the hacker acting like a voicemail machine [MYuB75Nb2gw].mp3",
+      "passed": true,
+      "checks": {
+        "file_exists": true,
+        "filename_id": true,
+        "byte_count": true,
+        "metadata_id_title": true,
+        "id3_title": true,
+        "id3_track_position": true,
+        "duration": true,
+        "full_decode": true,
+        "stable_source": true
+      },
+      "errors": [],
+      "bytes": 200543,
+      "id3_title": [
+        "Chris the hacker acting like a voicemail machine"
+      ],
+      "id3_track_position": [
+        "102"
+      ],
+      "duration_seconds": 16.561633,
+      "duration_comparisons": {
+        "audio_duration": {
+          "expected_seconds": 16.532608,
+          "delta_seconds": 0.029025
+        },
+        "duration": {
+          "expected_seconds": 16.579046,
+          "delta_seconds": -0.017413
+        }
+      },
+      "sha256": "60db7d3d10eeec1013c9cfe1d2dbe52b9b180bfe4baad087cf85982ef14919f5",
+      "ffmpeg_exit_code": 0,
+      "ffmpeg_error_bytes": 0
     }
   ],
+  "unavailable": [],
   "summary": {
     "listed_entries": 102,
-    "downloaded_audio": 101,
-    "audited_audio": 101,
-    "passed_audio": 101,
+    "downloaded_audio": 102,
+    "audited_audio": 102,
+    "passed_audio": 102,
     "failed_audio": 0,
-    "unavailable_entries": 1,
-    "audio_bytes": 807046415,
-    "audio_duration_seconds": 67172.93
+    "unavailable_entries": 0,
+    "audio_bytes": 807246958,
+    "audio_duration_seconds": 67189.492
   },
-  "finished_at": "2026-10-11T09:11:41.427593+00:00"
+  "finished_at": "2026-10-11T10:00:59.592373+00:00"
 }

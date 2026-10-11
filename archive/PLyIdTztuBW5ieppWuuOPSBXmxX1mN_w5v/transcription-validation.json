@@ -1,45 +1,36 @@
 {
   "schema_version": 1,
-  "validated_at": "2026-10-11T09:39:21.140785+00:00",
+  "validated_at": "2026-10-11T10:03:40.466350+00:00",
   "valid": true,
   "scope": "Structural and sampled machine QA; not a human accuracy review. Recognition errors and omissions may remain.",
   "human_reviewed": false,
   "playlist_id": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v",
   "counts": {
     "listed_entries": 102,
-    "completed": 101,
-    "unavailable": 1,
+    "completed": 102,
+    "unavailable": 0,
     "final_run_failures": 0,
-    "transcript_json_files": 101,
-    "transcript_text_files": 101
+    "transcript_json_files": 102,
+    "transcript_text_files": 102
   },
-  "unavailable": [
-    {
-      "id": "MYuB75Nb2gw",
-      "title": null,
-      "reason": "ERROR: [youtube] MYuB75Nb2gw: Private video"
-    }
-  ],
+  "unavailable": [],
   "checks": {
-    "transcript_pairs": 101,
-    "matching_id": 101,
-    "matching_title": 101,
-    "matching_url": 101,
-    "matching_audio": 101,
-    "matching_position": 101,
-    "full_audio_flags": 101,
-    "full_audio_duration_matches": 101,
+    "transcript_pairs": 102,
+    "matching_id": 102,
+    "matching_title": 102,
+    "matching_url": 102,
+    "matching_audio": 102,
+    "matching_position": 102,
+    "full_audio_flags": 102,
+    "full_audio_duration_matches": 102,
     "speech_segment_timestamp_bounds_and_order": true,
-    "uncertainty_interval_bounds_and_order": true
+    "uncertainty_interval_bounds_and_order": true,
+    "all_original_titles_present": true,
+    "m3u8_source_order_and_count": true,
+    "matching_current_audio_audit": true,
+    "frozen_original_inventory_unchanged": true
   },
-  "null_titles_preserved": [
-    {
-      "id": "qOymgEa74C8",
-      "manifest_title": null,
-      "transcript_title": null,
-      "txt_heading": "[Original title unavailable] qOymgEa74C8"
-    }
-  ],
+  "null_titles_preserved": [],
   "model": {
     "source": "mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf",
     "weights_sha256": "e76620f83d5f5b69efd3d87e3dc180c1bd21df9fbebacfd4335e5e1efcc018da",
@@ -48,10 +39,10 @@
   "runtime": {
     "profile": "full-audio-30s-repetition-v3",
     "device_counts": {
-      "cuda": 101
+      "cuda": 102
     },
     "compute_type_counts": {
-      "int8_float16": 101
+      "int8_float16": 102
     },
     "batch_size": 2,
     "cpu_threads": 12,
@@ -69,7 +60,7 @@
     "gpu_memory_after_exit_mib": 0
   },
   "detected_language_counts": {
-    "en": 100,
+    "en": 101,
     "nl": 1
   },
   "language_review": [
@@ -82,17 +73,17 @@
     }
   ],
   "totals": {
-    "speech_segments": 18317,
-    "words": 130037,
+    "speech_segments": 18322,
+    "words": 130064,
     "flagged_speech_segments": 1529,
     "uncertainty_intervals": 78,
     "suppressed_candidates": 168,
     "files_with_uncertainty": 99,
     "empty_speech_transcripts": 0,
-    "audio_seconds": 67169.36137500001,
-    "processing_seconds": 1892.1360000000002,
-    "audio_hours": 18.658156,
-    "processing_minutes": 31.536
+    "audio_seconds": 67185.89400000001,
+    "processing_seconds": 1909.4800000000002,
+    "audio_hours": 18.662748,
+    "processing_minutes": 31.825
   },
   "qa_samples": [
     {
@@ -112,7 +103,37 @@
       "speech_segments": 79,
       "uncertainty_intervals": 2,
       "finding": "Quiet phone conversation retained throughout full audio; uncertain speech and suspect intervals explicitly marked."
+    },
+    {
+      "position": 102,
+      "id": "MYuB75Nb2gw",
+      "duration": 16.532625,
+      "speech_segments": 5,
+      "uncertainty_intervals": 0,
+      "finding": "New authenticated owner recording processed in full; five English speech segments, machine-generated and unreviewed."
     }
   ],
-  "errors": []
+  "errors": [],
+  "existing_transcripts_preserved": {
+    "comparison_git_commit": "f37d08cae1aabf3593cb6522be23c3d5821abc21",
+    "unchanged_transcript_pairs": 100,
+    "metadata_corrected_asr_unchanged": 1,
+    "newly_transcribed_recordings": 1,
+    "comparison_method": "JSON objects and UTF-8 text with LF/CRLF normalization; ASR content and settings are identical."
+  },
+  "title_recovery": {
+    "id": "qOymgEa74C8",
+    "original_title": "Chris the hacker gives an update part 1",
+    "source_url": "https://web.archive.org/web/20210721043631id_/https://www.youtube.com/watch?v=qOymgEa74C8"
+  },
+  "authenticated_owner_recovery": {
+    "id": "MYuB75Nb2gw",
+    "original_title": "Chris the hacker acting like a voicemail machine",
+    "availability": "private",
+    "source_sha256": "fcdfcb3ee3652fa5a790af38eff82976bef61f9c67c0f919013f593ed6191c15",
+    "source_duration_seconds": 16.532608,
+    "signed_download_url_stored": false
+  },
+  "manifest_sha256": "81e77da5eba02c0bdd9fb6b64c52740824fbadf3bf57b86c5429542a01d7f8dd",
+  "frozen_inventory_sha256": "460263362d1037d30dcc797bfa244369cb6903ef5b9ef6ca725e7d836743216d"
 }

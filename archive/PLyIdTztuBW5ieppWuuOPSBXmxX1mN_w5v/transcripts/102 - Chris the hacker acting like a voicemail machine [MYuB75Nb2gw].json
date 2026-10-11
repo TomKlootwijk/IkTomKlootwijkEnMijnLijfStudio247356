@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "complete": true,
+  "id": "MYuB75Nb2gw",
+  "title": "Chris the hacker acting like a voicemail machine",
+  "position": 102,
+  "url": "https://www.youtube.com/watch?v=MYuB75Nb2gw",
+  "audio": "audio/102 - Chris the hacker acting like a voicemail machine [MYuB75Nb2gw].mp3",
+  "language": "en",
+  "language_probability": 0.99609375,
+  "duration": 16.532625,
+  "duration_after_vad": 16.532625,
+  "model": "mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf",
+  "runtime": {
+    "engine": "faster-whisper",
+    "device": "cuda",
+    "transcription_profile": "full-audio-30s-repetition-v3",
+    "compute_type": "int8_float16",
+    "cpu_threads": 12,
+    "batch_size": 2,
+    "beam_size": 5,
+    "vad_filter": false,
+    "full_audio": true,
+    "chunk_seconds": 30,
+    "without_timestamps": false,
+    "silence_guard": "skip no_speech_prob > 0.6 and avg_logprob < -1.0",
+    "repetition_guard": "suppress chunks with compression_ratio > 3 or >=4 repeated phrases dominating a chunk",
+    "acoustic_qa": "VAD measured for QA only; long sparse output without acoustic support suppressed; low-confidence output outside acoustic speech suppressed for <1%-speech recordings",
+    "condition_on_previous_text": false,
+    "python": "3.12.10",
+    "packages": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.2",
+      "av": "18.1.0",
+      "onnxruntime": "1.31.0",
+      "nvidia-cublas-cu12": "12.9.2.10",
+      "nvidia-cudnn-cu12": "9.27.0.42",
+      "nvidia-cuda-runtime-cu12": "12.9.79"
+    },
+    "gpu_fallback_reason": null
+  },
+  "started_at": "2026-10-11T10:00:36.093697+00:00",
+  "completed_at": "2026-10-11T10:00:53.439903+00:00",
+  "processing_seconds": 17.344,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.9,
+      "text": "Hello, we're sorry, we can't take this call.",
+      "avg_logprob": -0.4325980357095307,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9183673469387755,
+      "acoustic_speech_overlap_seconds": 1.9
+    },
+    {
+      "start": 3.06,
+      "end": 3.38,
+      "text": "What?",
+      "avg_logprob": -0.4325980357095307,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.42857142857142855,
+      "acoustic_speech_overlap_seconds": 0.32
+    },
+    {
+      "start": 3.92,
+      "end": 8.08,
+      "text": "Please leave a message with your name, telephone number.",
+      "avg_logprob": -0.4325980357095307,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9047619047619048,
+      "acoustic_speech_overlap_seconds": 4.16
+    },
+    {
+      "start": 8.96,
+      "end": 12.08,
+      "text": "Tell me how we, how we...",
+      "avg_logprob": -0.4325980357095307,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9285714285714286,
+      "acoustic_speech_overlap_seconds": 3.12
+    },
+    {
+      "start": 12.08,
+      "end": 14.9,
+      "text": "Yeah, man. Right.",
+      "avg_logprob": -0.4325980357095307,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.6923076923076923,
+      "acoustic_speech_overlap_seconds": 2.82
+    }
+  ],
+  "qa": {
+    "full_audio_processed": true,
+    "processed_audio_seconds": 16.532625,
+    "flagged_segments": 0,
+    "suppressed_segments": 0,
+    "acoustic_speech_seconds": 16.533,
+    "suppressed_probable_silence_segments": 0,
+    "unreliable_intervals": [],
+    "human_reviewed": false,
+    "flags": []
+  },
+  "suppressed_segments": [],
+  "notice": "Machine transcription of downloaded audio; may contain recognition errors."
+}

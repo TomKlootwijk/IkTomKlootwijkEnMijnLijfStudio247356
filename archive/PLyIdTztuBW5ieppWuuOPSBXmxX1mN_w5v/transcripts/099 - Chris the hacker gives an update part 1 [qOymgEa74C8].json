@@ -2,10 +2,10 @@
   "schema_version": 1,
   "complete": true,
   "id": "qOymgEa74C8",
-  "title": null,
+  "title": "Chris the hacker gives an update part 1",
   "position": 99,
   "url": "https://www.youtube.com/watch?v=qOymgEa74C8",
-  "audio": "audio/099 - Unavailable video [qOymgEa74C8].mp3",
+  "audio": "audio/099 - Chris the hacker gives an update part 1 [qOymgEa74C8].mp3",
   "language": "en",
   "language_probability": 0.99951171875,
   "duration": 900.8645625,
@@ -2573,5 +2573,16 @@
     ]
   },
   "suppressed_segments": [],
-  "notice": "Machine transcription of downloaded audio; may contain recognition errors."
+  "notice": "Machine transcription of downloaded audio; may contain recognition errors.",
+  "metadata_corrections": [
+    {
+      "corrected_at": "2026-10-11T10:00:17.703368+00:00",
+      "fields": [
+        "title",
+        "audio"
+      ],
+      "source_url": "https://web.archive.org/web/20210721043631id_/https://www.youtube.com/watch?v=qOymgEa74C8",
+      "asr_text_and_settings_unchanged": true
+    }
+  ]
 }

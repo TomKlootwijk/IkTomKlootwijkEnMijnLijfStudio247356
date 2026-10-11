@@ -2,11 +2,11 @@
 
 Source playlist: [Chris the Hacker and Tom the Fag](https://www.youtube.com/playlist?list=PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v).
 
-The frozen playlist inventory contains **102 entries**. This archive contains **101 recordings**, about **18 hours 39 minutes**, in the original playlist order. One entry, `MYuB75Nb2gw` (position 102), is private and no public archived media was found. Its inventory record and failure reason are retained; no audio or transcript is invented for it.
+The frozen playlist inventory contains **102 entries**. This archive contains **all 102 recordings**, about **18 hours 40 minutes**, in the original playlist order, with their original titles and timestamped machine transcripts.
 
-**89 recordings** were downloaded from YouTube. **Nine** were recovered from the [Internet Archive channel mirror](https://archive.org/details/slightbloodiermargie), including all four age-restricted recordings and five removed recordings. **Three** more were recovered from exact-video-ID Wayback Machine media captures. Saved metadata identifies each source and its verification details.
+**89 recordings** were downloaded from YouTube, and **one private recording** was downloaded through the owner's authenticated YouTube Studio download control. **Nine** were recovered from the [Internet Archive channel mirror](https://archive.org/details/slightbloodiermargie), including all four age-restricted recordings and five removed recordings. **Three** more were recovered from exact-video-ID Wayback Machine media captures. Saved metadata identifies each source and its verification details. The frozen inventory preserves the original availability observations; every listed recording was subsequently recovered.
 
-The original title could not be recovered for `qOymgEa74C8`, although its exact-ID archived audio was recovered. Its original title remains `null` in the manifest and metadata; display labels identify the missing title. All other available titles are preserved. Windows-invalid filename characters are replaced, and long filenames are shortened; the full titles remain in metadata, audio tags, transcripts, and the PDF.
+All original titles are preserved. The title of `qOymgEa74C8`, "Chris the hacker gives an update part 1", was verified against an exact-ID archived YouTube watch page. Windows-invalid filename characters are replaced, and long filenames are shortened; the full titles remain in metadata, audio tags, transcripts, and the PDF.
 
 ## Contents
 
@@ -54,6 +54,8 @@ Mirror recovery uses the verified URLs and exact original IDs saved in `mirror-s
 ## Storage destinations
 
 Google Drive destination: [playlist archive folder](https://drive.google.com/drive/folders/1I3rEUiNBOuqKnkQg4CNnLecEGZZe_Pt-).
+
+Google Drive stores the same ZIP in consecutive parts, alongside `checksums.json`, `restore_archive.py`, and `GOOGLE-DRIVE-RESTORE.txt`. Download those files together and follow the included instructions to reconstruct and verify the complete archive. The PDF is also available separately.
 
 OneDrive destination: `C:/Users/ietsm/OneDrive/Chris the Hacker and Tom the Fag/`.
 

@@ -322,6 +322,7 @@ def build_story(manifest: dict[str, Any], transcripts: list[Transcript], styles:
     duration_known = sum(seconds(entry.get("duration")) is not None for entry in entries)
     available = sum(transcript.available for transcript in transcripts)
     downloaded = sum(entry.get("download_status") == "downloaded" for entry in entries)
+    collection_complete = available == len(entries) and downloaded == len(entries)
     story: list[Any] = [Spacer(1, 21 * mm)]
     story.append(Paragraph("AUDIO COLLECTION / TRANSCRIPTS", styles["eyebrow"]))
     story.append(Paragraph(markup(title), styles["cover"]))
@@ -335,7 +336,12 @@ def build_story(manifest: dict[str, Any], transcripts: list[Transcript], styles:
     story.append(Paragraph("Source playlist: " + link(playlist_url, playlist_url), styles["meta"]))
     story.append(Paragraph("Prepared: " + markup(local_timestamp()), styles["meta"]))
     hidden = manifest.get("youtube_hidden_unavailable_count", 0)
-    if hidden:
+    if collection_complete:
+        story.append(Paragraph(
+            markup(f"All {len(entries)} listed recordings are included with downloaded audio and completed transcripts. Previously inaccessible recordings were retrieved from public archives or the authenticated owner account."),
+            styles["note"],
+        ))
+    elif hidden:
         story.append(Paragraph(
             markup(f"YouTube's initial listing reported {hidden} unavailable playlist items. The current totals above include recordings subsequently recovered from public archives. This historical warning is not an additional entry count; chapters marked unavailable identify the remaining gaps."),
             styles["note"],
@@ -352,7 +358,11 @@ def build_story(manifest: dict[str, Any], transcripts: list[Transcript], styles:
         "Recordings appear in playlist order and retain their source titles. The contents and PDF bookmarks link to each recording. Timestamp labels link to the corresponding position in the original YouTube source.",
         "Machine transcription; not human reviewed. Recognition errors and omissions may occur, especially for quiet or overlapping speech. Time labels are approximate. Consult the source recording when an exact quotation matters.",
         "An 'Uncertain recognition' label marks speech flagged by the recognition system. Timed 'Unreliable audio transcription' markers identify intervals where speech could not be reliably recognized. Suppressed decoder candidates are omitted, rather than presented as spoken words.",
-        "Every listed entry has a chapter. Missing, failed, pending, or unavailable material is identified explicitly; no missing speech is reconstructed. Playlist metadata and transcripts describe the archive at the time this document was built.",
+        (
+            "Every listed entry has a chapter and a completed transcript. Recognition uncertainty is explicitly marked; no omitted speech is reconstructed. Playlist metadata and transcripts describe the archive at the time this document was built."
+            if collection_complete else
+            "Every listed entry has a chapter. Missing, failed, pending, or unavailable material is identified explicitly; no missing speech is reconstructed. Playlist metadata and transcripts describe the archive at the time this document was built."
+        ),
     ):
         story.append(Paragraph(paragraph, styles["note"]))
     story.append(PageBreak())
@@ -378,7 +388,11 @@ def build_story(manifest: dict[str, Any], transcripts: list[Transcript], styles:
             mirror_label = "Archived audio: " + clean(entry.get("download_source") or "Public archive")
             opening.append(Paragraph(link(str(entry["mirror_url"]), mirror_label), styles["meta"]))
         if entry.get("title_source"):
-            opening.append(Paragraph("Title source: " + markup(entry["title_source"]), styles["meta"]))
+            title_source = (
+                link(str(entry["title_evidence_url"]), entry["title_source"])
+                if entry.get("title_evidence_url") else markup(entry["title_source"])
+            )
+            opening.append(Paragraph("Title source: " + title_source, styles["meta"]))
         provenance = transcript_provenance(transcript)
         if provenance:
             opening.append(Paragraph(markup(provenance), styles["meta"]))

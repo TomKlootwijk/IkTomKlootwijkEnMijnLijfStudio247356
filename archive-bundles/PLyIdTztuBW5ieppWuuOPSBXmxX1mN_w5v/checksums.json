@@ -2,18 +2,18 @@
   "schema_version": 1,
   "playlist_id": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v",
   "title": "Chris the Hacker and Tom the Fag",
-  "created_at": "2026-10-11T09:43:44.018803+00:00",
+  "created_at": "2026-10-11T10:05:08.586102+00:00",
   "coverage": {
     "listed_entries": 102,
-    "downloaded": 101,
-    "unavailable": 1,
-    "transcript_segments": 18317,
+    "downloaded": 102,
+    "unavailable": 0,
+    "transcript_segments": 18322,
     "youtube_hidden_unavailable_count": 9
   },
   "zip": {
     "file": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip",
-    "bytes": 799293402,
-    "sha256": "598d36fcea5acbe4ce05269d8985f3f90907a2ee19ab2000b3f75aa6864ab6a0"
+    "bytes": 799496401,
+    "sha256": "9071346d122ae35cc7f41ec4e365f90807e42ecb23a60fd062ddb9ef0ad0dffe"
   },
   "part_size_limit_bytes": 83886080,
   "parts": [
@@ -64,11 +64,11 @@
     },
     {
       "file": "PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v.zip.part010",
-      "bytes": 44318682,
-      "sha256": "71365dfa56ef82d61ef76f63ef047db34cb77f4059c8dcdcb38bdb6c12df33c2"
+      "bytes": 44521681,
+      "sha256": "05faab6b0de9507129aecef13c4d6fed7deea4605a2152c467e6705eff9e574d"
     }
   ],
-  "source_total_bytes": 820502233,
+  "source_total_bytes": 820721324,
   "source_files": [
     {
       "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/001 - Chris the Hacker and Tom the Fag - Sep 2009 - 1_10 - _The Conspiracy of Kai Kunz_ [2MJuvHcpytM].mp3",
@@ -561,9 +561,9 @@
       "sha256": "dbd2b92d98f92f9cb39665bc81198fadf3382b93aa3dfbe34a3d71b250102f90"
     },
     {
-      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/099 - Unavailable video [qOymgEa74C8].mp3",
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/099 - Chris the hacker gives an update part 1 [qOymgEa74C8].mp3",
       "bytes": 10823340,
-      "sha256": "6c96848d1c494e49cc18b9dbeeb80efc959208cf0193580883d779fffdaa11eb"
+      "sha256": "0789424e49a08086c39bedeb2aac1730458b2998ae3d5ad9766c8678bddae19c"
     },
     {
       "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/100 - Chris the hacker gives an update part 2 [Tf7TuPkis2A].mp3",
@@ -576,14 +576,19 @@
       "sha256": "33ea2170bdda90fa47df5a68977d3d8cfb869bcda9c2a378b29a8b8fb0348552"
     },
     {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio/102 - Chris the hacker acting like a voicemail machine [MYuB75Nb2gw].mp3",
+      "bytes": 200543,
+      "sha256": "60db7d3d10eeec1013c9cfe1d2dbe52b9b180bfe4baad087cf85982ef14919f5"
+    },
+    {
       "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/audio-validation.json",
-      "bytes": 131864,
-      "sha256": "993dac5feb295ca8b14f4c30977edd8c6cd2642d72188c196062c5e6d06053f9"
+      "bytes": 132989,
+      "sha256": "2ed955c487a678d66145ab11c82e53256b5cb9d3d76bfc478b4177da480909de"
     },
     {
       "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/manifest.json",
-      "bytes": 106802,
-      "sha256": "9e2e05869f62c3fffdbfa742ef2406a053efbae3c60c4ba4ed05e5c8a7e05752"
+      "bytes": 107848,
+      "sha256": "81e77da5eba02c0bdd9fb6b64c52740824fbadf3bf57b86c5429542a01d7f8dd"
     },
     {
       "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/001 - Chris the Hacker and Tom the Fag - Sep 2009 - 1_10 - _The Conspiracy of Kai Kunz_ [2MJuvHcpytM].json",
@@ -1076,9 +1081,9 @@
       "sha256": "de43dbb3cb674cf01923a4c15818f520d4808f9afa5fe72f0d8c614e9d0c1995"
     },
     {
-      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/099 - Unavailable video [qOymgEa74C8].json",
-      "bytes": 1570,
-      "sha256": "be9718bc7a6807d1be498d4492a641815d060e7d01a59a2c08dcd19c30608e36"
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/099 - Chris the hacker gives an update part 1 [qOymgEa74C8].json",
+      "bytes": 3052,
+      "sha256": "d535521c71933d729525700bb48dfeac55fe3d2345f2798939d4bdc6111c9933"
     },
     {
       "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/100 - Chris the hacker gives an update part 2 [Tf7TuPkis2A].json",
@@ -1089,6 +1094,11 @@
       "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/101 - Chris the hacker goes emo [TttoDBt4xiQ].json",
       "bytes": 1730,
       "sha256": "31e73f89c22ca3425bf033374346bda4f8efa294b6a4d5605a03af2caa93aca3"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/metadata/102 - Chris the hacker acting like a voicemail machine [MYuB75Nb2gw].json",
+      "bytes": 6298,
+      "sha256": "5c3f8645bcc62092774a286c71afa529f3e88bf690412ca88380e902bad8285a"
     },
     {
       "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/mirror-sources.json",
@@ -1102,18 +1112,18 @@
     },
     {
       "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/playlist.m3u8",
-      "bytes": 19717,
-      "sha256": "74f9903bd5b6ee5a3002bcaf6e2e7d46fcab0ecc8313e1dc7bd3a5bbd8a18a60"
+      "bytes": 19889,
+      "sha256": "efa41080ef7102bb78e97775afbf3253291e010c0427d2899dfc2475e79b49db"
     },
     {
       "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcription-status.json",
-      "bytes": 54278,
-      "sha256": "d90a38d797fffe5941756b7c2ae887f97bfcaf5e6c89426613d00397ee81b9ae"
+      "bytes": 54626,
+      "sha256": "380c54878518f488846be4a8dd1e7d1a389299f34bcc4fdde40eaa8ce9faca2b"
     },
     {
       "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcription-validation.json",
-      "bytes": 3692,
-      "sha256": "d807edd6ad94f26d469425d0f4dfb1b6e4fa98b0efd121c01dd2d70f5d2a8c7c"
+      "bytes": 4998,
+      "sha256": "685e93f1c1cdbf2325ab714407379b3e71748c47d9c1dc0de83e14d9885caa8b"
     },
     {
       "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/001 - Chris the Hacker and Tom the Fag - Sep 2009 - 1_10 - _The Conspiracy of Kai Kunz_ [2MJuvHcpytM].json",
@@ -2096,14 +2106,14 @@
       "sha256": "3328266011275ee7ad5cca4210d8633475b7c1809cc1ff73fb9ce2bd097122c2"
     },
     {
-      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/099 - Unavailable video [qOymgEa74C8].json",
-      "bytes": 81141,
-      "sha256": "0b222757664b7e37cd8a715468d27af433213eb23beb6eefb9c84196a7e7d8af"
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/099 - Chris the hacker gives an update part 1 [qOymgEa74C8].json",
+      "bytes": 81533,
+      "sha256": "7d2a9fe612a03e12513a6ff04a06caeab998a597d7eaff87fb49dc81a09659de"
     },
     {
-      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/099 - Unavailable video [qOymgEa74C8].txt",
-      "bytes": 20470,
-      "sha256": "015c6ec65c3d1a2275f596e42e1fc8ad456a6cf99c3fec3708c82a248950f246"
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/099 - Chris the hacker gives an update part 1 [qOymgEa74C8].txt",
+      "bytes": 20469,
+      "sha256": "ed25563ff2b7d2c7b4eb2cda42b21ffe837791b087d61d77e4648d671c2c7224"
     },
     {
       "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/100 - Chris the hacker gives an update part 2 [Tf7TuPkis2A].json",
@@ -2126,14 +2136,24 @@
       "sha256": "d0865dd215b05fc0eec7ca58b166e0799616f11f2251482506a68797d9d52a95"
     },
     {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/102 - Chris the hacker acting like a voicemail machine [MYuB75Nb2gw].json",
+      "bytes": 3610,
+      "sha256": "d663b61ee41bd359137170150b9136b779d4acf74a33d5cb45f873f8cf420ae6"
+    },
+    {
+      "path": "archive/PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v/transcripts/102 - Chris the hacker acting like a voicemail machine [MYuB75Nb2gw].txt",
+      "bytes": 579,
+      "sha256": "00864654802b0deb2d81908ff75b872638f8c6e3b43a778e48293c07c67141f4"
+    },
+    {
       "path": "output/pdf/playlist-transcripts.pdf",
-      "bytes": 5814122,
-      "sha256": "5e520bf0c8c334e1af86a9687c45ad1ddadba1279fe36efa4b60e1053f8261cd"
+      "bytes": 5816003,
+      "sha256": "2da3eaf402e421bd0e65ed6e1dd5c945a8e413b5c216c1b8fe6182b0d7302d2f"
     },
     {
       "path": "README.md",
-      "bytes": 5611,
-      "sha256": "c36bc9bac21376c72dd44eab61066b4bf63b5d83b0e5f047ac17a394f22f00a2"
+      "bytes": 5921,
+      "sha256": "9c562b02daf6a0e3beef6608e1e9fb0c25fa021b2a4ebcb5c9667b8e080331b9"
     }
   ],
   "restore": "python scripts/restore_archive.py PATH/TO/checksums.json --output restored.zip --extract restored"
