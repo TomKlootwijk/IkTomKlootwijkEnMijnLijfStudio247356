@@ -1,0 +1,100 @@
+WhatsApp Video 2026-10-13 at 20.51.20.mp4
+Source: WhatsApp Video 2026-10-13 at 20.51.20.mp4
+SHA-256: c86c6071aeb418c0bc58c23f553d2fd2a003f4f8fcef6632b3cc3995157b8d7f
+Filename local timestamp: 2026-10-13T20:51:20 (timezone unknown; unverified)
+Audio duration: 683.797 seconds
+Language: nl (model probability 0.9961)
+Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors. Not human reviewed.
+Timestamps below are relative to the beginning of this media's decoded audio.
+Silence and non-speech sounds are not transcribed; suppressed raw candidates are preserved in JSON.
+
+[00:00:00.000 --> 00:00:21.300] Wij hebben niet Israël gesteund met wapens, toch? Hansi Kloonwijk en staatsgreep voor de Jitske Koenders, ateléum boekhandel, kijk, AB testen, butcher, extra klasse, tweede koelkast, AC, airconditioning, de behandelkamer uit.
+[00:00:30.000 --> 00:00:34.660] H.I.V.D. toch, hookup, oranje, groen, connectie, twee keer groen dragen.
+[00:00:35.320 --> 00:00:41.820] Letterlijk alsof je camo-vlaast, groen, loyalist bent enzovoort.
+[00:00:42.660 --> 00:00:46.280] Het zal goed voor de hele audiotour zijn en de data enzovoort.
+[00:00:46.420 --> 00:00:52.380] Ik hoop dat je echt heel veel goede seks gehad hebt met al die mensen die jullie, ja, echte mannen.
+[00:01:00.000 --> 00:01:04.000] kijk die straling enzovoort
+[00:01:04.000 --> 00:01:08.000] kijk de Universiteit van Amsterdam
+[00:01:12.000 --> 00:01:16.000] wacht, kan ik gewoon naar heen lopen
+[00:01:16.000 --> 00:01:20.000] kijk dan is het met leur religie enzovoort
+[00:01:20.000 --> 00:01:24.000] maar anders zijn het de wilde studenten met de fat glow op enzovoort
+[00:01:24.000 --> 00:01:28.000] kijk, het was eerst een dikkertje, nu is het een lekker wijfie
+[00:01:30.000 --> 00:01:37.220] Amsterdam, Huvaar, Routes Eiland, kijk, ABC, de merkenboekcenter, Alphabet Company, Google, toch?
+[00:01:38.600 --> 00:01:43.020] Hé, Alteneum boekhandel, staatsgeheimen, er zit in staatsgeheimen, toch Kim?
+[00:01:44.340 --> 00:01:47.960] In een mandje enzovoort, en het zal allemaal wel goed komen.
+[00:01:48.080 --> 00:01:51.900] Mentrum, Jan de Smet, Jébe Smet, het geheim van de Saar.
+[00:02:00.000 --> 00:02:10.240] 3 belt. Kijk, hier dan. Ik loop het letterlijk allemaal te 3D scannen hoor. Neural Interface,
+[00:02:10.240 --> 00:02:21.360] Valve, Steam, Neuralink, LBJ 2, LBJ Business School, Frontend CCD Problem. Dat loopt allemaal
+[00:02:30.000 --> 00:02:41.240] Roke Potato, Poolbar, Poolbar, Soho, Hoos, Windhoos, Windroos, Rafael Bragaat,
+[00:02:41.240 --> 00:02:48.780] kijk dan switcher channel zeg maar teleoperators naar de B-class of C-class of D of F of S.
+[00:02:48.780 --> 00:02:56.700] S, S, S toch? Triple S, double S, double S, double S hourglass, kievoze, scolioze.
+[00:03:00.000 --> 00:03:06.300] handeltje waar Dennis en dan bij de rituals wel eventjes letterlijk kijk
+[00:03:06.300 --> 00:03:10.000] naar de paaltje waar ik mijn knie tegen stoten en het zal wel geheim van de
+[00:03:10.000 --> 00:03:17.040] tsaar zijn toch of de beurs van berlagen weet je wel eerst iets gejapt toen
+[00:03:17.040 --> 00:03:22.940] iets gekocht en het zal wel het lopende dingetje zijn en dan de rgb calippo
+[00:03:30.000 --> 00:03:32.000] Bullish toch?
+[00:03:32.000 --> 00:03:37.000] Kijk, hij doet Telepresence, de VVL, de Lush for the Powerlines.
+[00:03:37.000 --> 00:03:42.000] En letterlijk iedereen, hier zit H&M, maar nu is de Cotton Club.
+[00:03:42.000 --> 00:03:44.000] Katoenplukkers.
+[00:03:44.000 --> 00:03:46.000] Cotton Club, zeg maar.
+[00:03:46.000 --> 00:03:50.000] Oké, we doen nog allemaal labeltjes, mixen en matchen enzovoort.
+[00:03:50.000 --> 00:03:54.000] Hier, dan loop ik wel in een beetje betere straat.
+[00:03:54.000 --> 00:03:57.000] Fans, fans of the walls, toch?
+[00:04:00.000 --> 00:04:09.040] gedraaid. Mirror Access, grafische, Coldplay, J.D. Vance, Vice-President, Lush for the
+[00:04:09.040 --> 00:04:20.200] Powerlines. Trump zijn tof, mijn briefgeheim, een postbus, de 130, sleutel bijmaken, keyclosses,
+[00:04:30.000 --> 00:04:46.420] John Franklin staat 6-3, de Kie, de Kie, de Kiki, Kijkshop, Kijkie Kijkie, niet kopen, Defensie, Defensie, Silly, Silly, Silly komt goed, toch?
+[00:04:48.240 --> 00:04:53.120] Remote Control, want volgens mij ben ik van vlees en bloed. Zo, wacht.
+[00:05:00.000 --> 00:05:05.440] Met die uitgebreid teken, vraagteken, praktijk en universitair en theoretisch.
+[00:05:07.360 --> 00:05:11.380] Weet ik niet eigenlijk dat de True Art is in Haarlem, maar ik snap het nu wel.
+[00:05:11.660 --> 00:05:12.600] Gavius, toch?
+[00:05:14.360 --> 00:05:14.660] Toch?
+[00:05:17.060 --> 00:05:17.500] Paas? [ASR uncertain: little_acoustic_speech_support]
+[00:05:21.020 --> 00:05:22.180] Lowercase 5.
+[00:05:22.840 --> 00:05:23.100] Bal.
+[00:05:23.960 --> 00:05:27.680] Kijk, en dan kan ik precies mijn trajectory oefenen voor de shot, voor de hoop.
+[00:05:30.000 --> 00:05:46.920] Weet je drie keer aan de hand van Glodewijk en de slimme deals en zijn respawns en zijn vier persoons hebben we toch de MCM dungeon, de BDSM Sex Dungeons, bij iedereen thuis, on the man.
+[00:05:48.300 --> 00:05:50.880] Kijk, precies een goed exemplaar.
+[00:06:00.000 --> 00:06:07.000] Kijk goed, iemand met goeie heupen en zet de deployment in, toch?
+[00:06:07.000 --> 00:06:16.000] Ja, kanker fucking, kanker BSA, binnen het studieadvies Bazaar, de Bazaar in Beverwijk.
+[00:06:16.000 --> 00:06:19.000] Letterlijk halen alle kankerproduce maar binnen.
+[00:06:19.000 --> 00:06:25.000] Kijk hoe doe je de Intel Operator, want die hebben IKEA gedaan, de BDSM Conspiracy.
+[00:06:30.000 --> 00:06:41.000] Dat is allemaal AI gemaakt, kijk, we kunnen het niet zeker weten, geospatially time-synchronized,
+[00:06:41.000 --> 00:06:56.000] toch SHA-256, SHA-Black blockchain, Alexander Boudrohi, toch, met bonsai-boompje, Van Gogh-portret,
+[00:07:00.000 --> 00:07:02.680] Dan zit het letterlijk de chemische rockerleague enzovoort.
+[00:07:04.620 --> 00:07:08.580] En dan heb je Vivian met de Lego van de vader met de pedo's enzo.
+[00:07:08.760 --> 00:07:11.720] En dan heb je Thor en dan heb je VPN's.
+[00:07:11.900 --> 00:07:16.020] En dan heb je welke andere routing dingen enzovoort, San Francisco.
+[00:07:16.900 --> 00:07:18.520] En dan heb je bonsaibompjes.
+[00:07:18.680 --> 00:07:23.160] En dan heb je de mensen die maar letterlijk mochten opereren op de John Frankenstein 63.
+[00:07:23.160 --> 00:07:26.760] Maar dan komt Hans-Hit-Hoodwijk en iedereen weer eventjes om de hoek kijken.
+[00:07:27.520 --> 00:07:29.060] Via Facebook ook nog.
+[00:07:30.000 --> 00:07:36.000] bij LEGO doen, dan stage, dan misschien iets doen met elkaar of wat dan ook.
+[00:07:36.000 --> 00:07:49.000] LEGO Insiders, Inside Intel for Us, Voetbal Insight, VE, Grid, VE, Grid, Ygracel, Ragnarok Online,
+[00:07:49.000 --> 00:07:55.000] letterlijk latitude, longitude, farmaceutische industrie, chemische industrie, grafische industrie,
+[00:08:00.000 --> 00:08:09.040] Brand on, brand off, Jitske Koenders en de SK Connectie, Vivalium, Vivo Valentine, Libertarische
+[00:08:09.040 --> 00:08:16.980] Podcasts enzovoort, Game Kings, Jelle Game Kings, Vivo Valentine, The Box, Vlaardingelaan,
+[00:08:17.100 --> 00:08:21.080] Vlaar Enveloppe, Andesan, Groemeni.
+[00:08:23.080 --> 00:08:25.240] Ik ga vertalen bij de elektronische.
+[00:08:30.000 --> 00:08:36.160] Remote control, tolgeoperator drones, iedereen heeft het z'n traantje verdiend en de kennis
+[00:08:36.160 --> 00:08:39.160] en we hebben alles geïnteralistisch geprogrammeerd.
+[00:08:41.160 --> 00:08:43.160] Vodafone, Stingo Store.
+[00:08:44.760 --> 00:08:47.680] Het zal wel allemaal goed komen toch, met jullie dagenlang.
+[00:08:47.680 --> 00:08:51.000] Hoe voel je je je nu, wat maak je ervan?
+[00:08:53.600 --> 00:08:57.880] Benci Kloonwijk, Marslaan, Elon Musk als Beersie.
+[00:09:00.000 --> 00:09:24.000] Toch, McDonalds, precies in Den Haag ook, oh dan kunnen we even praten met je vader of all-fathers, Apex Legends, EA Games, Battle Royale en de TV, toch? Noord-Holland TV, Reda, Beer, precies weer bij de Portal 2 en dan Source Engine, dan is het toch allemaal al gelaagd en alles enzovoort.
+[00:09:30.000 --> 00:09:51.000] Ze willen het zo graag via de zoon inkarneren in ieder Fox Legend neusseltje, voxchaaf, veeteelt, oude vrouwen met auto's vergelijken, de classic cars, autobake.
+[00:10:00.000 --> 00:10:03.000] Ja, tetteren, nee, of post-tetteren.
+[00:10:06.000 --> 00:10:09.000] Nee, saars, nee, twee saars.
+[00:10:10.000 --> 00:10:14.000] Ik heb dubbel W, dubbel-slip-dery, optiebal, waar ik er hier in kaart.
+[00:10:14.000 --> 00:10:18.000] Nee, twee ogen toch, en dan heb je precies vertical-slip-banden.
+[00:10:20.000 --> 00:10:21.000] Ton!
+[00:10:23.000 --> 00:10:27.000] Echt heel goede communicatie, dus ja, dan doen we de zielige dingen enzovoort.
+[00:10:30.000 --> 00:10:40.000] Bijvoorbeeld de chemische conspiracy van Hansi Klootwijk, die wel even de gaspedalie drukt voor iedereen om iedereen te redden en reïncarneren via de Ready Player One.
+[00:10:40.000 --> 00:10:48.000] Leuk studio aan het IJ-Burg, toch? En aan het IJ-Noord en penthouses, penthouses, playboys.
+[00:10:52.000 --> 00:10:58.000] Albert Heijn conspiracy, hij heeft alles gewacht. Hij moest die tijd hebben, anders kon hij niet terug betalen.
+[00:11:00.000 --> 00:11:08.360] Toch, de HPV, dokter Flossie, kanker, seksueel, disease, geert, Klootwijk Jeanspure, hetzelfde, precies.
+[00:11:09.860 --> 00:11:15.360] En goed hoor, dan moet hij slecht van mijn carrière bij de eerste CH opgenomen worden.
+[00:11:15.460 --> 00:11:16.000] Maakt niet uit.
+[00:11:16.920 --> 00:11:18.900] Want die Klootwijk heeft altijd wel een zin dieel.
+[00:11:20.280 --> 00:11:21.340] Echt geweldig hè?

@@ -1,5 +1,5 @@
 # WhatsApp Chat Export: +31 6 55954068
-Export date: October 13, 2026 at 11:21 AM
+Export date: October 13, 2026 at 10:35 PM
 
 ---
 
@@ -213,6 +213,8 @@ Export date: October 13, 2026 at 11:21 AM
 
 [10:36 PM] **You:** [Document] PrivateRecorder_20260926_195638Z.zip
 
+[10:37 PM] **You:** [Document] PrivateRecorder_20260926_194735Z.zip
+
 [10:37 PM] **You:** [Document] PrivateRecorder_20260926_194207Z.zip
 
 [10:37 PM] **You:** [Document] PrivateRecorder_20260926_193906Z.zip
@@ -220,8 +222,6 @@ Export date: October 13, 2026 at 11:21 AM
 [10:37 PM] **You:** [Document] PrivateRecorder_20260926_195804Z.zip
 
 [10:37 PM] **You:** [Document] PrivateRecorder_20260926_201104Z.zip
-
-[10:37 PM] **You:** [Document] PrivateRecorder_20260926_194735Z.zip
 
 [10:37 PM] **You:** [Document] PrivateRecorder_20260926_194454Z.zip
 
@@ -2303,9 +2303,9 @@ Precies daar waar
 
 [1:27 PM] **You:** [Image]
 
-[1:34 PM] **You:** [Document] lower-case-phi-is-a-hoop-with-an-opening.pdf
-
 [1:34 PM] **You:** [Document] kabbalah-binary-search-tree-log-encoded-polar-OUT-of-spectral-gradients-based-on-geospatial-zones.pdf
+
+[1:34 PM] **You:** [Document] lower-case-phi-is-a-hoop-with-an-opening.pdf
 
 [1:37 PM] **You:** [Document] Klootwijk_Paradigm_Formalization.pdf
 
@@ -2408,3 +2408,87 @@ Precies daar waar
 [10:06 AM] **You:** [Image]
 
 [10:32 AM] **You:** [Image]
+
+[12:02 PM] **You:** https://www.google.com/search?q=de+waag+nieuwmarkt+makerspace&client=ms-android-xiaomi-terr2-rso2&hs=K1nq&sca_esv=95a3924c91beb42b&sxsrf=APpeQntGdoIVhIcG5yn5Mwp34XS1e6C_fQ%3A1791885542437&ei=iwDOaqQbi5uL6A_43oKhCw&biw=375&bih=691&sclient=mobile-gws-wiz-serp&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpDyhqhJz-EL1EohYDSUG6u_7TBQFaykKSCI8ECDH-29gr0f9f3cZ1Yql2oc9vrmnG89ZnGbRsEj4xcaVT1fZIuaEb_qM&aep=10&ntc=1&mstk=AUtExfDrmu6V2JVHsUvpD-YY4Nn59d4QRlvAp332ouRzwWaT9ZN76fnRHoYmRvePbkE7jOcMn30u1ZkrghYGORTip77VfPqQ23LTU41S7w6h1El1VZH4ndPF3DqvuxvWHkZSubjFtcnzmlrkDtO8RI-P6gfX3xBKIoDHwHLdJk_5915zKI5oHeVZr7MUWCKWqsvwSkzb2PdOsWmpW5AYy8yAwGC41EqDUnmADdEWZAmLnBqYUqDYNR-dn9J6amWdBxwPxpHgm45D8dW3NH5S9sQeqfNCH09tAM0VEkr4Vwzo6cN5k9I0dwVG6M3KbbXN8_5a3my6T7AP-D_8CA&csuir=1&aioh=3&udm=50&mtid=NAHOaqeJAsDFi-gP4dvM2AI#lfId=ChxjMe
+
+[3:27 PM] **You:** [album message]
+
+[3:27 PM] **You:** [Image]
+
+[3:27 PM] **You:** [Image]
+
+[3:27 PM] **You:** [Image]
+
+[7:53 PM] **You:** [album message]
+
+[7:53 PM] **You:** [Image]
+
+[7:53 PM] **You:** [Image]
+
+[7:53 PM] **You:** [Image]
+
+[7:56 PM] **You:** [album message]
+
+[7:56 PM] **You:** [Image]
+
+[7:56 PM] **You:** [Image]
+
+[7:56 PM] **You:** [Image]
+
+[7:56 PM] **You:** [Image]
+
+[7:59 PM] **You:** [album message]
+
+[7:59 PM] **You:** [Image]
+
+[7:59 PM] **You:** [Image]
+
+[7:59 PM] **You:** [Image]
+
+[7:59 PM] **You:** [Image]
+
+[8:00 PM] **You:** [album message]
+
+[8:00 PM] **You:** [Image]
+
+[8:00 PM] **You:** [Image]
+
+[8:00 PM] **You:** [Image]
+
+[8:00 PM] **You:** [Image]
+
+[8:00 PM] **You:** [Image]
+
+[8:00 PM] **You:** [Image]
+
+[8:12 PM] **You:** [Image]
+
+[8:20 PM] **You:** [album message]
+
+[8:20 PM] **You:** [Image]
+
+[8:20 PM] **You:** [Image]
+
+[8:20 PM] **You:** [Image]
+
+[8:20 PM] **You:** [Image]
+
+[8:51 PM] **You:** [Video]
+
+[9:32 PM] **You:** Heb ik je gezien .nl
+
+[9:32 PM] **You:** Crypto
+
+[9:32 PM] **You:** Blockchain sha256
+
+[9:32 PM] **You:** Pay2play
+
+[9:32 PM] **You:** En freemium entry
+
+[9:55 PM] **You:** [Video]
+
+[10:10 PM] **You:** [Video] Slet boeken Amazon Prime Maria start saving saber lijntje voor Maria AC last question
+
+[10:22 PM] **You:** https://www.reddit.com/r/nietdespeld/s/S0f2hGSYnO
+
+[10:23 PM] **You:** [Image]

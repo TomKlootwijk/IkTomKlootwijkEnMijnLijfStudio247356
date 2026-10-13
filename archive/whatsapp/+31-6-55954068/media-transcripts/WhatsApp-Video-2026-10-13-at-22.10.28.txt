@@ -1,0 +1,16 @@
+WhatsApp Video 2026-10-13 at 22.10.28.mp4
+Source: WhatsApp Video 2026-10-13 at 22.10.28.mp4
+SHA-256: d3cfc60f9e0dd5253e5053bd8631e863f128a4bfda00fd20fa6e9c100f62ff63
+Filename local timestamp: 2026-10-13T22:10:28 (timezone unknown; unverified)
+Audio duration: 52.129 seconds
+Language: en (model probability 0.7852)
+Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors. Not human reviewed.
+Timestamps below are relative to the beginning of this media's decoded audio.
+Silence and non-speech sounds are not transcribed; suppressed raw candidates are preserved in JSON.
+
+No speech was reliably recognized. See JSON for raw candidates and confidence details.
+
+Intervals requiring review (unreliable ASR output suppressed):
+[00:00:00.000 --> 00:00:30.000] Repetitive decoder output; speech could not be reliably recognized.
+[00:00:30.000 --> 00:00:52.000] Low-confidence decoding without acoustic speech support in an almost non-speech recording.

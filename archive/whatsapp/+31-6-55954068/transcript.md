@@ -1,6 +1,6 @@
 # WhatsApp archive: +31 6 55954068
 
-1,158 messages; 2026-09-23T06:40:13 through 2026-10-13T10:32:28. All timestamps are the exported local time; the source does not specify a timezone. All source sender labels are preserved. Media marked omitted is absent from the supplied ZIP.
+1,200 messages; 2026-09-23T06:40:13 through 2026-10-13T22:23:00. All timestamps are the exported local time; the source does not specify a timezone. All source sender labels are preserved. Media marked omitted is absent from the supplied ZIP.
 
 [Archive metadata](metadata.json) · [All links](links.jsonl) · [Media references](media-references.jsonl) · [Source comparison](source-comparison.json)
 
@@ -604,35 +604,35 @@ Source notice (undated):
 
 [Open message](transcript.html#m000098) · Source: chat.txt lines 99–99
 
+### m000103 · 2026\-09\-26 22:37:03 · You
+
+> \<document omitted\> PrivateRecorder\_20260926\_194735Z\.zip
+
+[Open message](transcript.html#m000103) · Source: chat.txt lines 100–100
+
 ### m000099 · 2026\-09\-26 22:37:03 · You
 
 > \<document omitted\> PrivateRecorder\_20260926\_194207Z\.zip
 
-[Open message](transcript.html#m000099) · Source: chat.txt lines 100–100
+[Open message](transcript.html#m000099) · Source: chat.txt lines 101–101
 
 ### m000100 · 2026\-09\-26 22:37:03 · You
 
 > \<document omitted\> PrivateRecorder\_20260926\_193906Z\.zip
 
-[Open message](transcript.html#m000100) · Source: chat.txt lines 101–101
+[Open message](transcript.html#m000100) · Source: chat.txt lines 102–102
 
 ### m000101 · 2026\-09\-26 22:37:03 · You
 
 > \<document omitted\> PrivateRecorder\_20260926\_195804Z\.zip
 
-[Open message](transcript.html#m000101) · Source: chat.txt lines 102–102
+[Open message](transcript.html#m000101) · Source: chat.txt lines 103–103
 
 ### m000102 · 2026\-09\-26 22:37:03 · You
 
 > \<document omitted\> PrivateRecorder\_20260926\_201104Z\.zip
 
-[Open message](transcript.html#m000102) · Source: chat.txt lines 103–103
-
-### m000103 · 2026\-09\-26 22:37:03 · You
-
-> \<document omitted\> PrivateRecorder\_20260926\_194735Z\.zip
-
-[Open message](transcript.html#m000103) · Source: chat.txt lines 104–104
+[Open message](transcript.html#m000102) · Source: chat.txt lines 104–104
 
 ### m000104 · 2026\-09\-26 22:37:08 · You
 
@@ -6698,17 +6698,17 @@ Source notice (undated):
 
 [Open message](transcript.html#m001107) · Source: chat.txt lines 1112–1112
 
-### m001108 · 2026\-10\-12 13:34:40 · You
-
-> \<document omitted\> lower\-case\-phi\-is\-a\-hoop\-with\-an\-opening\.pdf
-
-[Open message](transcript.html#m001108) · Source: chat.txt lines 1113–1113
-
 ### m001109 · 2026\-10\-12 13:34:40 · You
 
 > \<document omitted\> kabbalah\-binary\-search\-tree\-log\-encoded\-polar\-OUT\-of\-spectral\-gradients\-based\-on\-geospatial\-zones\.pdf
 
-[Open message](transcript.html#m001109) · Source: chat.txt lines 1114–1114
+[Open message](transcript.html#m001109) · Source: chat.txt lines 1113–1113
+
+### m001108 · 2026\-10\-12 13:34:40 · You
+
+> \<document omitted\> lower\-case\-phi\-is\-a\-hoop\-with\-an\-opening\.pdf
+
+[Open message](transcript.html#m001108) · Source: chat.txt lines 1114–1114
 
 ### m001110 · 2026\-10\-12 13:37:59 · You
 
@@ -7005,3 +7005,263 @@ Source notice (undated):
 > \<image omitted\>
 
 [Open message](transcript.html#m001158) · Source: chat.txt lines 1163–1163
+
+### m001159 · 2026\-10\-13 12:02:07 · You
+
+> <https://www.google.com/search?q=de+waag+nieuwmarkt+makerspace&client=ms-android-xiaomi-terr2-rso2&hs=K1nq&sca_esv=95a3924c91beb42b&sxsrf=APpeQntGdoIVhIcG5yn5Mwp34XS1e6C_fQ%3A1791885542437&ei=iwDOaqQbi5uL6A_43oKhCw&biw=375&bih=691&sclient=mobile-gws-wiz-serp&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpDyhqhJz-EL1EohYDSUG6u_7TBQFaykKSCI8ECDH-29gr0f9f3cZ1Yql2oc9vrmnG89ZnGbRsEj4xcaVT1fZIuaEb_qM&aep=10&ntc=1&mstk=AUtExfDrmu6V2JVHsUvpD-YY4Nn59d4QRlvAp332ouRzwWaT9ZN76fnRHoYmRvePbkE7jOcMn30u1ZkrghYGORTip77VfPqQ23LTU41S7w6h1El1VZH4ndPF3DqvuxvWHkZSubjFtcnzmlrkDtO8RI-P6gfX3xBKIoDHwHLdJk_5915zKI5oHeVZr7MUWCKWqsvwSkzb2PdOsWmpW5AYy8yAwGC41EqDUnmADdEWZAmLnBqYUqDYNR-dn9J6amWdBxwPxpHgm45D8dW3NH5S9sQeqfNCH09tAM0VEkr4Vwzo6cN5k9I0dwVG6M3KbbXN8_5a3my6T7AP-D_8CA&csuir=1&aioh=3&udm=50&mtid=NAHOaqeJAsDFi-gP4dvM2AI#lfId=ChxjMe>
+
+[Open message](transcript.html#m001159) · Source: chat.txt lines 1164–1164
+
+### m001160 · 2026\-10\-13 15:27:09 · You
+
+> \<album message\>
+
+[Open message](transcript.html#m001160) · Source: chat.txt lines 1165–1165
+
+### m001161 · 2026\-10\-13 15:27:10 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001161) · Source: chat.txt lines 1166–1166
+
+### m001162 · 2026\-10\-13 15:27:10 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001162) · Source: chat.txt lines 1167–1167
+
+### m001163 · 2026\-10\-13 15:27:10 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001163) · Source: chat.txt lines 1168–1168
+
+### m001164 · 2026\-10\-13 19:53:41 · You
+
+> \<album message\>
+
+[Open message](transcript.html#m001164) · Source: chat.txt lines 1169–1169
+
+### m001165 · 2026\-10\-13 19:53:41 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001165) · Source: chat.txt lines 1170–1170
+
+### m001166 · 2026\-10\-13 19:53:41 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001166) · Source: chat.txt lines 1171–1171
+
+### m001167 · 2026\-10\-13 19:53:41 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001167) · Source: chat.txt lines 1172–1172
+
+### m001168 · 2026\-10\-13 19:56:24 · You
+
+> \<album message\>
+
+[Open message](transcript.html#m001168) · Source: chat.txt lines 1173–1173
+
+### m001169 · 2026\-10\-13 19:56:24 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001169) · Source: chat.txt lines 1174–1174
+
+### m001170 · 2026\-10\-13 19:56:24 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001170) · Source: chat.txt lines 1175–1175
+
+### m001171 · 2026\-10\-13 19:56:25 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001171) · Source: chat.txt lines 1176–1176
+
+### m001172 · 2026\-10\-13 19:56:25 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001172) · Source: chat.txt lines 1177–1177
+
+### m001173 · 2026\-10\-13 19:59:35 · You
+
+> \<album message\>
+
+[Open message](transcript.html#m001173) · Source: chat.txt lines 1178–1178
+
+### m001174 · 2026\-10\-13 19:59:35 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001174) · Source: chat.txt lines 1179–1179
+
+### m001175 · 2026\-10\-13 19:59:35 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001175) · Source: chat.txt lines 1180–1180
+
+### m001176 · 2026\-10\-13 19:59:35 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001176) · Source: chat.txt lines 1181–1181
+
+### m001177 · 2026\-10\-13 19:59:36 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001177) · Source: chat.txt lines 1182–1182
+
+### m001178 · 2026\-10\-13 20:00:44 · You
+
+> \<album message\>
+
+[Open message](transcript.html#m001178) · Source: chat.txt lines 1183–1183
+
+### m001179 · 2026\-10\-13 20:00:44 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001179) · Source: chat.txt lines 1184–1184
+
+### m001180 · 2026\-10\-13 20:00:45 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001180) · Source: chat.txt lines 1185–1185
+
+### m001181 · 2026\-10\-13 20:00:45 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001181) · Source: chat.txt lines 1186–1186
+
+### m001182 · 2026\-10\-13 20:00:45 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001182) · Source: chat.txt lines 1187–1187
+
+### m001183 · 2026\-10\-13 20:00:46 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001183) · Source: chat.txt lines 1188–1188
+
+### m001184 · 2026\-10\-13 20:00:46 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001184) · Source: chat.txt lines 1189–1189
+
+### m001185 · 2026\-10\-13 20:12:11 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001185) · Source: chat.txt lines 1190–1190
+
+### m001186 · 2026\-10\-13 20:20:35 · You
+
+> \<album message\>
+
+[Open message](transcript.html#m001186) · Source: chat.txt lines 1191–1191
+
+### m001187 · 2026\-10\-13 20:20:36 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001187) · Source: chat.txt lines 1192–1192
+
+### m001188 · 2026\-10\-13 20:20:36 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001188) · Source: chat.txt lines 1193–1193
+
+### m001189 · 2026\-10\-13 20:20:39 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001189) · Source: chat.txt lines 1194–1194
+
+### m001190 · 2026\-10\-13 20:20:39 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001190) · Source: chat.txt lines 1195–1195
+
+### m001191 · 2026\-10\-13 20:51:20 · You
+
+> \<video omitted\>
+
+[Open message](transcript.html#m001191) · Source: chat.txt lines 1196–1196
+
+Separately supplied video: [text transcription](media-transcripts/WhatsApp-Video-2026-10-13-at-20.51.20.txt) · [metadata and QA](media-transcripts/WhatsApp-Video-2026-10-13-at-20.51.20.json) · [original media](../../../archive-bundles/whatsapp-media-2026-10-13/README.md)
+
+### m001192 · 2026\-10\-13 21:32:24 · You
+
+> Heb ik je gezien \.nl
+
+[Open message](transcript.html#m001192) · Source: chat.txt lines 1197–1197
+
+### m001193 · 2026\-10\-13 21:32:28 · You
+
+> Crypto
+
+[Open message](transcript.html#m001193) · Source: chat.txt lines 1198–1198
+
+### m001194 · 2026\-10\-13 21:32:38 · You
+
+> Blockchain sha256
+
+[Open message](transcript.html#m001194) · Source: chat.txt lines 1199–1199
+
+### m001195 · 2026\-10\-13 21:32:45 · You
+
+> Pay2play
+
+[Open message](transcript.html#m001195) · Source: chat.txt lines 1200–1200
+
+### m001196 · 2026\-10\-13 21:32:53 · You
+
+> En freemium entry
+
+[Open message](transcript.html#m001196) · Source: chat.txt lines 1201–1201
+
+### m001197 · 2026\-10\-13 21:55:28 · You
+
+> \<video omitted\>
+
+[Open message](transcript.html#m001197) · Source: chat.txt lines 1202–1202
+
+Separately supplied video: [text transcription](media-transcripts/WhatsApp-Video-2026-10-13-at-21.55.28.txt) · [metadata and QA](media-transcripts/WhatsApp-Video-2026-10-13-at-21.55.28.json) · [original media](../../../archive-bundles/whatsapp-media-2026-10-13/README.md)
+
+### m001198 · 2026\-10\-13 22:10:28 · You
+
+> \<video omitted\> Slet boeken Amazon Prime Maria start saving saber lijntje voor Maria AC last question
+
+[Open message](transcript.html#m001198) · Source: chat.txt lines 1203–1203
+
+Separately supplied video: [text transcription](media-transcripts/WhatsApp-Video-2026-10-13-at-22.10.28.txt) · [metadata and QA](media-transcripts/WhatsApp-Video-2026-10-13-at-22.10.28.json) · [original media](../../../archive-bundles/whatsapp-media-2026-10-13/README.md)
+
+### m001199 · 2026\-10\-13 22:22:16 · You
+
+> <https://www.reddit.com/r/nietdespeld/s/S0f2hGSYnO>
+
+[Open message](transcript.html#m001199) · Source: chat.txt lines 1204–1204
+
+### m001200 · 2026\-10\-13 22:23:00 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001200) · Source: chat.txt lines 1205–1205
+
+Separately supplied image: [text transcription](media-transcripts/image-2026-10-13-22-23-00.txt) · [metadata and QA](media-transcripts/image-2026-10-13-22-23-00.json) · [original media](../../../WhatsApp%20Image%202026-10-13%20at%2022.23.00.jpeg)

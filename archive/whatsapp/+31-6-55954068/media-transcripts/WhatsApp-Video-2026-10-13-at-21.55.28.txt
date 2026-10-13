@@ -1,0 +1,14 @@
+WhatsApp Video 2026-10-13 at 21.55.28.mp4
+Source: WhatsApp Video 2026-10-13 at 21.55.28.mp4
+SHA-256: 8d9e8e0eb2cb99bddf64b0cbc070b5d6c0c214c7f87c581d0bacfb451d32b1c4
+Filename local timestamp: 2026-10-13T21:55:28 (timezone unknown; unverified)
+Audio duration: 16.811 seconds
+Language: nl (model probability 0.9834)
+Model: mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf
+Machine transcription; may contain recognition errors. Not human reviewed.
+Timestamps below are relative to the beginning of this media's decoded audio.
+Silence and non-speech sounds are not transcribed; suppressed raw candidates are preserved in JSON.
+
+[00:00:00.000 --> 00:00:05.760] Kijk, Boegewad, Twinsetter, Kijk, Jiko, Koffie, Keeshaal.
+[00:00:06.860 --> 00:00:13.300] Kijk precies het achtergrondplaatje bij de behandelkamer van Jitske Koender.
+[00:00:15.260 --> 00:00:16.340] Twinsetter het nummer?

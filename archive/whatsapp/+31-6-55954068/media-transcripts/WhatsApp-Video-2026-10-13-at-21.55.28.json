@@ -1,0 +1,282 @@
+{
+  "schema_version": 1,
+  "complete": true,
+  "source": {
+    "path": "WhatsApp Video 2026-10-13 at 21.55.28.mp4",
+    "absolute_path_at_processing": "C:\\TOMWERKPLEKTORENTJE\\IkTomKlootwijkEnMijnLijfStudio247356\\WhatsApp Video 2026-10-13 at 21.55.28.mp4",
+    "filename": "WhatsApp Video 2026-10-13 at 21.55.28.mp4",
+    "sha256": "8d9e8e0eb2cb99bddf64b0cbc070b5d6c0c214c7f87c581d0bacfb451d32b1c4",
+    "size_bytes": 35387488,
+    "ffprobe": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "mime_codec_string": "avc1.640028",
+          "width": 1920,
+          "height": 1080,
+          "coded_width": 1920,
+          "coded_height": 1080,
+          "has_b_frames": 0,
+          "pix_fmt": "yuv420p",
+          "level": 40,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "120/1",
+          "avg_frame_rate": "870000/29663",
+          "time_base": "1/90000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 1512813,
+          "duration": "16.809033",
+          "bit_rate": "16517817",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "493",
+          "extradata_size": 39,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "language": "und"
+          },
+          "side_data_list": [
+            {
+              "side_data_type": "Display Matrix",
+              "displaymatrix": "\n00000000:            0       65536           0\n00000001:       -65536           0           0\n00000002:            0           0  1073741824\n",
+              "rotation": -90
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_long_name": "AAC (Advanced Audio Coding)",
+          "profile": "LC",
+          "codec_type": "audio",
+          "codec_tag_string": "mp4a",
+          "codec_tag": "0x6134706d",
+          "mime_codec_string": "mp4a.40.2",
+          "sample_fmt": "fltp",
+          "sample_rate": "48000",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bits_per_sample": 0,
+          "initial_padding": 0,
+          "id": "0x2",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/48000",
+          "start_pts": 586,
+          "start_time": "0.012208",
+          "duration_ts": 807856,
+          "duration": "16.830333",
+          "bit_rate": "319637",
+          "nb_frames": "788",
+          "extradata_size": 2,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "language": "und"
+          }
+        }
+      ],
+      "format": {
+        "filename": "C:\\TOMWERKPLEKTORENTJE\\IkTomKlootwijkEnMijnLijfStudio247356\\WhatsApp Video 2026-10-13 at 21.55.28.mp4",
+        "nb_streams": 2,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "16.842541",
+        "size": "35387488",
+        "bit_rate": "16808621",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42isom"
+        }
+      }
+    }
+  },
+  "message_association": {
+    "filename_timestamp_local": "2026-10-13T21:55:28",
+    "timezone": null,
+    "timestamp_meaning": "Label encoded in the supplied filename; not verified recording or message time.",
+    "messages_source": "archive/whatsapp/+31-6-55954068/messages.jsonl",
+    "messages_sha256": "b184bfc9872ef1baff474c44bd0c5e364bca1755c025e26f3bffe83e58ecde26",
+    "candidates": [
+      {
+        "message_id": "m001197",
+        "timestamp_local": "2026-10-13T21:55:28",
+        "timezone": null,
+        "sender": "You",
+        "media_reference_ids": [
+          "a000373"
+        ],
+        "transcript_anchor": "transcript.html#m001197",
+        "basis": "Exact local date and second in supplied filename match exported message timestamp.",
+        "media_omission_in_body": true,
+        "identity_verified": false
+      }
+    ],
+    "attachment_identity_verified": false,
+    "notice": "Filename and time matching do not prove that the supplied bytes are the exported attachment. No absolute speech timestamps or speaker identities are assigned."
+  },
+  "timestamp_basis": "Relative seconds from the beginning of the media's decoded audio; no absolute speech time assigned.",
+  "language": "nl",
+  "language_probability": 0.9833984375,
+  "duration_seconds": 16.8106875,
+  "duration_after_vad_seconds": 16.8106875,
+  "model": "mobiuslabsgmbh/faster-whisper-large-v3-turbo@0a363e9161cbc7ed1431c9597a8ceaf0c4f78fcf",
+  "runtime": {
+    "engine": "faster-whisper",
+    "device": "cuda",
+    "transcription_profile": "full-audio-30s-repetition-v3",
+    "compute_type": "int8_float16",
+    "cpu_threads": 12,
+    "batch_size": 2,
+    "beam_size": 5,
+    "vad_filter": false,
+    "full_audio": true,
+    "chunk_seconds": 30,
+    "without_timestamps": false,
+    "silence_guard": "skip no_speech_prob > 0.6 and avg_logprob < -1.0",
+    "repetition_guard": "suppress chunks with compression_ratio > 3 or >=4 repeated phrases dominating a chunk",
+    "acoustic_qa": "VAD measured for QA only; long sparse output without acoustic support suppressed; low-confidence output outside acoustic speech suppressed for <1%-speech recordings",
+    "condition_on_previous_text": false,
+    "python": "3.12.10",
+    "packages": {
+      "faster-whisper": "1.2.1",
+      "ctranslate2": "4.8.2",
+      "av": "18.1.0",
+      "onnxruntime": "1.31.0",
+      "nvidia-cublas-cu12": "12.9.2.10",
+      "nvidia-cudnn-cu12": "9.27.0.42",
+      "nvidia-cuda-runtime-cu12": "12.9.79"
+    },
+    "gpu_fallback_reason": null
+  },
+  "provenance": {
+    "driver_script": "archive/whatsapp/+31-6-55954068/media-transcripts/provenance/driver-68a194d40d3c494201e74b2d7cdaa23af3edde048d359adb70c09cc0879990a1.py",
+    "driver_script_sha256": "68a194d40d3c494201e74b2d7cdaa23af3edde048d359adb70c09cc0879990a1",
+    "engine_script": "scripts/transcribe.py",
+    "engine_script_sha256": "e2fdfc5e562f086349e964ca18ebeb2587d59124210a22684b3b7fbffe0b85e7",
+    "probe_runtime": {
+      "executable": "ffprobe",
+      "version": "ffprobe version 9.0.2-full_build-www.gyan.dev Copyright (c) 2007-2026 the FFmpeg developers",
+      "arguments": [
+        "-v",
+        "error",
+        "-show_format",
+        "-show_streams",
+        "-of",
+        "json",
+        "C:\\TOMWERKPLEKTORENTJE\\IkTomKlootwijkEnMijnLijfStudio247356\\WhatsApp Video 2026-10-13 at 21.55.28.mp4"
+      ]
+    },
+    "audio_decode": "faster-whisper decode_audio via PyAV, mono 16000 Hz; original full media supplied directly",
+    "driver_script_at_processing": "scripts/transcribe_whatsapp_media.py",
+    "latest_output_writer": {
+      "script": "scripts/transcribe_whatsapp_media.py",
+      "sha256": "9d9cf68c556460b8bd5b17661995059169fd848ba94f60196f6364830a8ef91d",
+      "operation": "Reused unchanged ASR inference; refreshed candidate associations and serialized outputs with LF newlines."
+    }
+  },
+  "started_at": "2026-10-13T20:40:02.964715+00:00",
+  "completed_at": "2026-10-13T20:40:03.798446+00:00",
+  "processing_seconds": 0.828,
+  "segments": [
+    {
+      "start": 0,
+      "end": 5.76,
+      "text": "Kijk, Boegewad, Twinsetter, Kijk, Jiko, Koffie, Keeshaal.",
+      "avg_logprob": -0.38269230769230766,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.9830508474576272,
+      "acoustic_speech_overlap_seconds": 5.76
+    },
+    {
+      "start": 6.86,
+      "end": 13.3,
+      "text": "Kijk precies het achtergrondplaatje bij de behandelkamer van Jitske Koender.",
+      "avg_logprob": -0.38269230769230766,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 1.0547945205479452,
+      "acoustic_speech_overlap_seconds": 6.44
+    },
+    {
+      "start": 15.26,
+      "end": 16.34,
+      "text": "Twinsetter het nummer?",
+      "avg_logprob": -0.38269230769230766,
+      "no_speech_prob": 0.0,
+      "compression_ratio": 0.7419354838709677,
+      "acoustic_speech_overlap_seconds": 1.08
+    }
+  ],
+  "suppressed_segments": [],
+  "qa": {
+    "full_audio_processed": true,
+    "processed_audio_seconds": 16.8106875,
+    "accepted_segments": 3,
+    "flagged_segments": 0,
+    "suppressed_segments": 0,
+    "acoustic_speech_seconds": 16.811,
+    "unreliable_intervals": [],
+    "human_reviewed": false,
+    "speaker_diarization": false,
+    "notice": "Full decoded audio was processed. This does not certify that every spoken word was recognized; silence and non-speech are omitted."
+  },
+  "notice": "Machine transcription of supplied WhatsApp video audio; may contain recognition errors. Filename labels and candidate message associations are not verified attachment identity."
+}

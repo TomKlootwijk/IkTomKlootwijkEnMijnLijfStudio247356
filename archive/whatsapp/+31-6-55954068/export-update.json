@@ -1,0 +1,93 @@
+{
+  "status": "passed",
+  "previous_archive": "archive/whatsapp/+31-6-55954068/export-history/d1276687bdfeb0e916c226e4cd9b8de210d5fa5ebb8bc10c9350f991b2a3d356",
+  "previous_source_archive_sha256": "d1276687bdfeb0e916c226e4cd9b8de210d5fa5ebb8bc10c9350f991b2a3d356",
+  "previous_message_count": 1158,
+  "current_message_count": 1200,
+  "retained_message_count": 1158,
+  "added_message_count": 42,
+  "added_message_ids": [
+    "m001159",
+    "m001160",
+    "m001161",
+    "m001162",
+    "m001163",
+    "m001164",
+    "m001165",
+    "m001166",
+    "m001167",
+    "m001168",
+    "m001169",
+    "m001170",
+    "m001171",
+    "m001172",
+    "m001173",
+    "m001174",
+    "m001175",
+    "m001176",
+    "m001177",
+    "m001178",
+    "m001179",
+    "m001180",
+    "m001181",
+    "m001182",
+    "m001183",
+    "m001184",
+    "m001185",
+    "m001186",
+    "m001187",
+    "m001188",
+    "m001189",
+    "m001190",
+    "m001191",
+    "m001192",
+    "m001193",
+    "m001194",
+    "m001195",
+    "m001196",
+    "m001197",
+    "m001198",
+    "m001199",
+    "m001200"
+  ],
+  "removed_or_changed_previous_messages": 0,
+  "reordered_message_count": 7,
+  "reordered_messages": [
+    {
+      "message_id": "m000103",
+      "previous_sequence": 103,
+      "current_sequence": 99
+    },
+    {
+      "message_id": "m000099",
+      "previous_sequence": 99,
+      "current_sequence": 100
+    },
+    {
+      "message_id": "m000100",
+      "previous_sequence": 100,
+      "current_sequence": 101
+    },
+    {
+      "message_id": "m000101",
+      "previous_sequence": 101,
+      "current_sequence": 102
+    },
+    {
+      "message_id": "m000102",
+      "previous_sequence": 102,
+      "current_sequence": 103
+    },
+    {
+      "message_id": "m001109",
+      "previous_sequence": 1109,
+      "current_sequence": 1108
+    },
+    {
+      "message_id": "m001108",
+      "previous_sequence": 1108,
+      "current_sequence": 1109
+    }
+  ],
+  "identity_method": "Match timestamp, sender, exact body, and occurrence order among duplicates; retain prior message/link/media IDs. Sequence follows the current source export."
+}

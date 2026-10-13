@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "bundle_id": "whatsapp-media-2026-10-13",
+  "created_at": "2026-10-13T20:39:34.381305+00:00",
+  "description": "Original supplied media; ZIP members preserve repo-relative filenames and exact bytes.",
+  "timestamp_note": "Dates in source filenames and ZIP file metadata are not verified recording or chat message timestamps.",
+  "zip": {
+    "file": "whatsapp-media-2026-10-13.zip",
+    "bytes": 289865163,
+    "sha256": "c6509a959b22ac11cae467ed4c7d3a7af75733e7ef66e677b1a51216373739f7"
+  },
+  "part_size_limit_bytes": 83886080,
+  "parts": [
+    {
+      "file": "whatsapp-media-2026-10-13.zip.part001",
+      "bytes": 83886080,
+      "sha256": "26da69be8cb2d53118569dfe55c7ffb102d5ff01e2195f96ea309935f4409b33"
+    },
+    {
+      "file": "whatsapp-media-2026-10-13.zip.part002",
+      "bytes": 83886080,
+      "sha256": "330925001a611e0df238ec38245caf695872e874e1e37d25d881c3def8e3dc6f"
+    },
+    {
+      "file": "whatsapp-media-2026-10-13.zip.part003",
+      "bytes": 83886080,
+      "sha256": "3ec0084ef42cd2425bcd528d2a4ae9e354dab892a26f6d680ba38290be2ffc0c"
+    },
+    {
+      "file": "whatsapp-media-2026-10-13.zip.part004",
+      "bytes": 38206923,
+      "sha256": "49f28f65545380fd20d9c160d726b342b9a155f55a12e03a759c3e6dd407bba9"
+    }
+  ],
+  "source_total_bytes": 291199514,
+  "source_files": [
+    {
+      "path": "WhatsApp Video 2026-10-13 at 20.51.20.mp4",
+      "bytes": 151474623,
+      "sha256": "c86c6071aeb418c0bc58c23f553d2fd2a003f4f8fcef6632b3cc3995157b8d7f"
+    },
+    {
+      "path": "WhatsApp Video 2026-10-13 at 21.55.28.mp4",
+      "bytes": 35387488,
+      "sha256": "8d9e8e0eb2cb99bddf64b0cbc070b5d6c0c214c7f87c581d0bacfb451d32b1c4"
+    },
+    {
+      "path": "WhatsApp Video 2026-10-13 at 22.10.28.mp4",
+      "bytes": 104337403,
+      "sha256": "d3cfc60f9e0dd5253e5053bd8631e863f128a4bfda00fd20fa6e9c100f62ff63"
+    }
+  ],
+  "restore": "python scripts/restore_archive.py archive-bundles/whatsapp-media-2026-10-13/checksums.json --output output/archives/whatsapp-media-2026-10-13.zip --extract tmp/whatsapp-media-2026-10-13-restored"
+}

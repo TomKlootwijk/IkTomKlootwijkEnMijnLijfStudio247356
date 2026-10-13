@@ -9,5 +9,6 @@
 *.m3u8 text eol=lf
 *.pdf binary
 *.mp3 binary
+*.mp4 binary
 *.zip binary
 *.zip.part* binary

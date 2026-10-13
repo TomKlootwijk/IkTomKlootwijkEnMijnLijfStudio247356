@@ -97,11 +97,11 @@ Messages and calls are end-to-end encrypted. No one outside of this chat, not ev
 [9/26/26, 10:36:51 PM] You: <document omitted> PrivateRecorder_20260926_194627Z.zip
 [9/26/26, 10:36:51 PM] You: <document omitted> PrivateRecorder_20260926_191131Z.zip
 [9/26/26, 10:36:52 PM] You: <document omitted> PrivateRecorder_20260926_195638Z.zip
+[9/26/26, 10:37:03 PM] You: <document omitted> PrivateRecorder_20260926_194735Z.zip
 [9/26/26, 10:37:03 PM] You: <document omitted> PrivateRecorder_20260926_194207Z.zip
 [9/26/26, 10:37:03 PM] You: <document omitted> PrivateRecorder_20260926_193906Z.zip
 [9/26/26, 10:37:03 PM] You: <document omitted> PrivateRecorder_20260926_195804Z.zip
 [9/26/26, 10:37:03 PM] You: <document omitted> PrivateRecorder_20260926_201104Z.zip
-[9/26/26, 10:37:03 PM] You: <document omitted> PrivateRecorder_20260926_194735Z.zip
 [9/26/26, 10:37:08 PM] You: <document omitted> PrivateRecorder_20260926_194454Z.zip
 [9/26/26, 10:38:14 PM] You: <document omitted> PrivateRecorder_20260926_203501Z.zip
 [9/26/26, 10:47:18 PM] You: <document omitted> PrivateRecorder_20260926_204518Z.zip
@@ -1110,8 +1110,8 @@ This link is valid until 23 October
 [10/12/26, 1:06:09 PM] You: https://www.google.com/search?q=kabbalah+binary+search+tree+log+encoded+polar+OUT+of+spectral+gradients+based+on+geospatial+zones&client=ms-android-xiaomi-terr2-rso2&hs=bJ8V&sca_esv=9e4bf969144d5c69&sxsrf=APpeQnvGRSXBPFD5pffr0-Bg2abZM6Dl2w%3A1791799584237&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7nymj7qwomXHj_SiILyyw7TcR3PVsX7LYP5lqUywwLYwse9eq2FeU_-NVh-70aseSA4lTx9cXY16UPdF4e2jlvrjfGwp&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwixnOjNnbSXAxXx87sIHaIGHpwQ2J8OegQICxAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfDoV6gM4FPVY81_34X3UGyVmoG59ElSpMTdqtSl0AIPf1o4nWG_Ljr3QQ3rSytl2FjGbARLF1_2QKzD_sncHg48WcTxO56UiZ-anfF0ZHqhaZ2H-Pv7VeP1socp59GPOwmiwM_zjgXA4vwwZK2M2s0Uw265yC7rffUY4QW5KzAC8BGPhjhEL7PooYZsapLTvx2LobgjLMJAUVTgcX3HuAKTGPCPSMp29VBaqnRuQv3ILaxzJc8UZ6OtYHlHK9cf6Q802ZPQoxbNdWTgsBgTMEnMYEP8bQ_ulPkKxOfr7CKDoCjV_B1rZ6SV94XmjyU0GuPvIIK9Sp7NCA&csuir=1&mtid=IrHMasX-E5u79u8P1_vl6AQ&lns_mode=cvst&udm=50
 [10/12/26, 1:06:55 PM] You: https://www.google.com/search?q=kabbalah+binary+search+tree+log+encoded+polar+OUT+of+spectral+gradients+based+on+geospatial+zones&client=ms-android-xiaomi-terr2-rso2&hs=bJ8V&sca_esv=9e4bf969144d5c69&sxsrf=APpeQnvGRSXBPFD5pffr0-Bg2abZM6Dl2w%3A1791799584237&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7nymj7qwomXHj_SiILyyw7TcR3PVsX7LYP5lqUywwLYwse9eq2FeU_-NVh-70aseSA4lTx9cXY16UPdF4e2jlvrjfGwp&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwixnOjNnbSXAxXx87sIHaIGHpwQ2J8OegQICxAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfBPX_SFfFmo7_l1kkOfEPrhAWgZYDgyCLwHsbki8R9mWtr6iG2X9qI69wIqhbocCqVtNkDQ50QV_NVNMFkLGXUdfEsL-MSbrpYXXXPKLcw_7YeEDGfjeSEWrTk_1uOt308C7CDTL_M6xtPC0LKZTiiL_29yiZpFDP5Qs_MpvKJXXTWA4ZrMmVVY7eBJruge9dYaqg-di1cI5fhLpmRRGf7M7Dkq4uwaqDtFvi7ep58mjgerfyTvrmvp4UWnEIzMhwqw1iQ6zoYHZK2AygHQIrmWGz7s8xDIQiWRikJBYxwv9T-rH2hFS6jwqJi76BS767fmJk4Ee0dbgQ&csuir=1&mtid=IrHMasX-E5u79u8P1_vl6AQ&lns_mode=cvst&udm=50
 [10/12/26, 1:27:02 PM] You: <image omitted>
-[10/12/26, 1:34:40 PM] You: <document omitted> lower-case-phi-is-a-hoop-with-an-opening.pdf
 [10/12/26, 1:34:40 PM] You: <document omitted> kabbalah-binary-search-tree-log-encoded-polar-OUT-of-spectral-gradients-based-on-geospatial-zones.pdf
+[10/12/26, 1:34:40 PM] You: <document omitted> lower-case-phi-is-a-hoop-with-an-opening.pdf
 [10/12/26, 1:37:59 PM] You: <document omitted> Klootwijk_Paradigm_Formalization.pdf
 [10/12/26, 2:19:06 PM] You: https://www.google.com/search?q=gait+woman+makes+sinus+curve+when+walking&oq=gait+woman+makes+sinus+curve+when+walking&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE1MjIwajBqN6gCD7ACAQ&client=ms-android-xiaomi-terr2-rso2&sourceid=chrome-mobile&source=chrome.ob&ie=UTF-8#lfId=ChxjMe
 [10/12/26, 2:22:32 PM] You: https://www.google.com/search?q=gait+woman+makes+sinus+curve+when+walking&client=ms-android-xiaomi-terr2-rso2&hs=jL8V&sca_esv=aae8b36161dbb831&sxsrf=APpeQnvcUDPLVuMvhbfJjj4XuBON78pMgA%3A1791807524654&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UfVcuk_CN5lZ7ooDDWHK2Mvzz3zSAVajbtoCgDcY4ClkqSY2KMHBVEZtzZXhvZhOAYOei-ZwZNbTP-zA17u6NI3tEs6cG6hn81aUxnDhSOjSjwakoJQVHh0SeQ8h1zJd7wJVl3n&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwif1IyYu7SXAxXrnf0HHcxPFVYQ2J8OegQIDxAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfBBmKRahERMCK474Q8bZ_3KH9Nv-fIS08NmG3uxPo34L2AHa4BFlJIUQRS4JPxg-bFLPCSxFTP4xlNCAkmatKV8IPEbTT0RIgsPjRkoNszHX1II3nBHxUPuXy4fhnK4JSJUYAGzqlXD4BCdIBnkV2KlYpi_28EVtloseUkJj-dbAZvO8JQHWvQxTaQ5uVJZjBe9h_FkI7HGkEihhBluWXy7iD0X3-g-J_6tphnfe8cESRuuRLScMlKsV1L9sCY9po752z_Z6VDllkGbeOup8foWWKncnxTMrsqqtdTcOgPBbgBF3bO-Q1uVZk8v5HN0M8OePq54NLftlA&csuir=1&mtid=b9DMarDeL6mM9u8P5Ie3WQ&udm=50
@@ -1161,3 +1161,45 @@ This link is valid until 23 October
 [10/13/26, 9:06:24 AM] You: https://www.google.com/search?q=diff+force+CSG&client=ms-android-xiaomi-terr2-rso2&hs=GJTB&sca_esv=95a3924c91beb42b&sxsrf=APpeQnt9bQTra3NVzhf4fwyHQZPkfx1aPg%3A1791875148960&udm=50&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gKjm3rhh_G8jdZ2Q6tji4z8Mva6cfvBj5rpPch2IC955HC4dEhTD85WaiWkSD5EjFnrnkXf8uSwU1OjdTZmfoiWVgODsrQlv49kLZ63PjUD4Ylh3ioGlhPObtZQ3tSCsBQwnjKN&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwj97PCNt7aXAxVe4AIHHfxnJngQ2J8OegQIDxAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfBLhM93kwQ83mHs0X-Y4db5o61pqmnbH4iO1Doeq3qZhVqn-2G74a1RFLbkEayZPfGfC8yu78QmMyWBOa0mXjuZros7kpDzOAeguHk5zLnXZbqICNHA8CpDoGLgmQN6LltX1poI_VsRwW1MDdHaOmkf4oGdy6GqIZw&csuir=1&mtid=X9jNav2FCJaG9u8Pj962wQ8
 [10/13/26, 10:06:09 AM] You: <image omitted>
 [10/13/26, 10:32:28 AM] You: <image omitted>
+[10/13/26, 12:02:07 PM] You: https://www.google.com/search?q=de+waag+nieuwmarkt+makerspace&client=ms-android-xiaomi-terr2-rso2&hs=K1nq&sca_esv=95a3924c91beb42b&sxsrf=APpeQntGdoIVhIcG5yn5Mwp34XS1e6C_fQ%3A1791885542437&ei=iwDOaqQbi5uL6A_43oKhCw&biw=375&bih=691&sclient=mobile-gws-wiz-serp&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpDyhqhJz-EL1EohYDSUG6u_7TBQFaykKSCI8ECDH-29gr0f9f3cZ1Yql2oc9vrmnG89ZnGbRsEj4xcaVT1fZIuaEb_qM&aep=10&ntc=1&mstk=AUtExfDrmu6V2JVHsUvpD-YY4Nn59d4QRlvAp332ouRzwWaT9ZN76fnRHoYmRvePbkE7jOcMn30u1ZkrghYGORTip77VfPqQ23LTU41S7w6h1El1VZH4ndPF3DqvuxvWHkZSubjFtcnzmlrkDtO8RI-P6gfX3xBKIoDHwHLdJk_5915zKI5oHeVZr7MUWCKWqsvwSkzb2PdOsWmpW5AYy8yAwGC41EqDUnmADdEWZAmLnBqYUqDYNR-dn9J6amWdBxwPxpHgm45D8dW3NH5S9sQeqfNCH09tAM0VEkr4Vwzo6cN5k9I0dwVG6M3KbbXN8_5a3my6T7AP-D_8CA&csuir=1&aioh=3&udm=50&mtid=NAHOaqeJAsDFi-gP4dvM2AI#lfId=ChxjMe
+[10/13/26, 3:27:09 PM] You: <album message>
+[10/13/26, 3:27:10 PM] You: <image omitted>
+[10/13/26, 3:27:10 PM] You: <image omitted>
+[10/13/26, 3:27:10 PM] You: <image omitted>
+[10/13/26, 7:53:41 PM] You: <album message>
+[10/13/26, 7:53:41 PM] You: <image omitted>
+[10/13/26, 7:53:41 PM] You: <image omitted>
+[10/13/26, 7:53:41 PM] You: <image omitted>
+[10/13/26, 7:56:24 PM] You: <album message>
+[10/13/26, 7:56:24 PM] You: <image omitted>
+[10/13/26, 7:56:24 PM] You: <image omitted>
+[10/13/26, 7:56:25 PM] You: <image omitted>
+[10/13/26, 7:56:25 PM] You: <image omitted>
+[10/13/26, 7:59:35 PM] You: <album message>
+[10/13/26, 7:59:35 PM] You: <image omitted>
+[10/13/26, 7:59:35 PM] You: <image omitted>
+[10/13/26, 7:59:35 PM] You: <image omitted>
+[10/13/26, 7:59:36 PM] You: <image omitted>
+[10/13/26, 8:00:44 PM] You: <album message>
+[10/13/26, 8:00:44 PM] You: <image omitted>
+[10/13/26, 8:00:45 PM] You: <image omitted>
+[10/13/26, 8:00:45 PM] You: <image omitted>
+[10/13/26, 8:00:45 PM] You: <image omitted>
+[10/13/26, 8:00:46 PM] You: <image omitted>
+[10/13/26, 8:00:46 PM] You: <image omitted>
+[10/13/26, 8:12:11 PM] You: <image omitted>
+[10/13/26, 8:20:35 PM] You: <album message>
+[10/13/26, 8:20:36 PM] You: <image omitted>
+[10/13/26, 8:20:36 PM] You: <image omitted>
+[10/13/26, 8:20:39 PM] You: <image omitted>
+[10/13/26, 8:20:39 PM] You: <image omitted>
+[10/13/26, 8:51:20 PM] You: <video omitted>
+[10/13/26, 9:32:24 PM] You: Heb ik je gezien .nl
+[10/13/26, 9:32:28 PM] You: Crypto
+[10/13/26, 9:32:38 PM] You: Blockchain sha256
+[10/13/26, 9:32:45 PM] You: Pay2play
+[10/13/26, 9:32:53 PM] You: En freemium entry
+[10/13/26, 9:55:28 PM] You: <video omitted>
+[10/13/26, 10:10:28 PM] You: <video omitted> Slet boeken Amazon Prime Maria start saving saber lijntje voor Maria AC last question
+[10/13/26, 10:22:16 PM] You: https://www.reddit.com/r/nietdespeld/s/S0f2hGSYnO
+[10/13/26, 10:23:00 PM] You: <image omitted>

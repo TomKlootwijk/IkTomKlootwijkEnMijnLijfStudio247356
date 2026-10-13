@@ -1,16 +1,19 @@
 {
   "status": "passed",
   "source_zip_crc_check": "passed",
-  "source_reconstruction_sha256": "d7cf513d78ae19bbf7d667ff90936001ffb6ce6129be65e01b532d42d7f897f5",
+  "source_reconstruction_sha256": "4ed460012f6c64341731cade40b8b595db2347c2bc4616c89aaa45001854b29f",
   "source_reconstruction_matches": true,
   "source_byte_spans_match": true,
   "source_record_order_preserved": true,
   "paired_export_comparison": "passed",
-  "message_count": 1158,
-  "link_occurrence_count": 604,
-  "unique_link_count": 598,
-  "media_reference_count": 340,
+  "message_count": 1200,
+  "link_occurrence_count": 606,
+  "unique_link_count": 600,
+  "media_reference_count": 375,
   "reply_context_count": 2,
-  "html_message_anchor_count": 1158,
-  "scope": "Every text record and available supplemental metadata in the supplied ZIP; absent media is explicitly inventoried."
+  "previous_message_ids_preserved": 1158,
+  "separately_supplied_media_count": 4,
+  "supplied_media_transcript_source_hashes_match": true,
+  "html_message_anchor_count": 1200,
+  "scope": "Every text record and available metadata in the supplied ZIP, plus separately supplied media transcription links; absent media is explicitly inventoried."
 }

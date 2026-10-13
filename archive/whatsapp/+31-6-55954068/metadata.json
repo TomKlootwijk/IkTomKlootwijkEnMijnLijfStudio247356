@@ -1,24 +1,24 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "archive_type": "WhatsApp paired text export",
   "chat_label": "+31 6 55954068",
-  "export_date_raw": "October 13, 2026 at 11:21 AM",
-  "export_timestamp_local": "2026-10-13T11:21:00",
+  "export_date_raw": "October 13, 2026 at 10:35 PM",
+  "export_timestamp_local": "2026-10-13T22:35:00",
   "export_timestamp_timezone": null,
   "source_archive": {
     "path": "+31 6 55954068.zip",
-    "bytes": 1040959,
-    "sha256": "d1276687bdfeb0e916c226e4cd9b8de210d5fa5ebb8bc10c9350f991b2a3d356",
+    "bytes": 1046021,
+    "sha256": "ed6f2c812bbb8f6a2a0b4ff3b91c5ca2be586694f0d77f37ebe3b205d3e02556",
     "zip_comment_hex": "",
     "members": [
       {
         "name": "chat.txt",
-        "bytes": 525475,
-        "sha256": "d7cf513d78ae19bbf7d667ff90936001ffb6ce6129be65e01b532d42d7f897f5",
-        "crc32": "cafa1c9a",
-        "compressed_bytes": 525475,
+        "bytes": 528290,
+        "sha256": "4ed460012f6c64341731cade40b8b595db2347c2bc4616c89aaa45001854b29f",
+        "crc32": "eb1cb4bf",
+        "compressed_bytes": 528290,
         "compression_method": 0,
-        "zip_timestamp_local": "2026-10-13T11:21:04",
+        "zip_timestamp_local": "2026-10-13T22:35:32",
         "zip_timestamp_timezone": null,
         "zip_flag_bits": 0,
         "zip_create_system": 0,
@@ -28,12 +28,12 @@
       },
       {
         "name": "chat.md",
-        "bytes": 515280,
-        "sha256": "0046de21b591e9c03e0f48fa6aeba7923c766ab32364711e0274734ad1a8f274",
-        "crc32": "8ca883de",
-        "compressed_bytes": 515280,
+        "bytes": 517527,
+        "sha256": "b65d8bc2aafb95cbafea499bab553fb0c1bcc7d43bb488ea014871c3a9a4a49d",
+        "crc32": "7a092266",
+        "compressed_bytes": 517527,
         "compression_method": 0,
-        "zip_timestamp_local": "2026-10-13T11:21:04",
+        "zip_timestamp_local": "2026-10-13T22:35:32",
         "zip_timestamp_timezone": null,
         "zip_flag_bits": 0,
         "zip_create_system": 0,
@@ -47,20 +47,20 @@
   "supplemental_metadata_source": "source/chat.md",
   "archive_builder": {
     "path": "scripts/archive_whatsapp.py",
-    "sha256": "dcbee8ce2ad034c55cb8086f9eca8953584aeef83ad9c31b43de202a88624878"
+    "sha256": "a82191b93cbf4305c2616fe493807b46c3b89d39f269997d2f25d73e21b00bb8"
   },
   "source_notice": {
     "text": "Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.\n",
     "timestamp": null,
     "source_line_start": 1
   },
-  "message_count": 1158,
+  "message_count": 1200,
   "sender_label_counts": {
-    "You": 1158
+    "You": 1200
   },
   "date_range": {
     "first": "2026-09-23T06:40:13",
-    "last": "2026-10-13T10:32:28"
+    "last": "2026-10-13T22:23:00"
   },
   "messages_by_date": {
     "2026-09-23": 6,
@@ -83,22 +83,121 @@
     "2026-10-10": 35,
     "2026-10-11": 76,
     "2026-10-12": 102,
-    "2026-10-13": 9
+    "2026-10-13": 51
   },
   "timezone": null,
   "timestamp_interpretation": "M/D/YY and 12-hour clock parsed from chat.txt as 20YY; no timezone conversion or offset assigned.",
   "record_order": "Original export order; equal timestamps and exact duplicates retained.",
-  "same_timestamp_groups": 34,
-  "exact_duplicate_groups": 18,
+  "message_id_convention": "Local persistent IDs; reused from the previous export by exact content/occurrence matching. Sequence is the current export position; IDs need not be numerically ordered.",
+  "update_comparison": {
+    "status": "passed",
+    "previous_archive": "archive/whatsapp/+31-6-55954068/export-history/d1276687bdfeb0e916c226e4cd9b8de210d5fa5ebb8bc10c9350f991b2a3d356",
+    "previous_source_archive_sha256": "d1276687bdfeb0e916c226e4cd9b8de210d5fa5ebb8bc10c9350f991b2a3d356",
+    "previous_message_count": 1158,
+    "current_message_count": 1200,
+    "retained_message_count": 1158,
+    "added_message_count": 42,
+    "added_message_ids": [
+      "m001159",
+      "m001160",
+      "m001161",
+      "m001162",
+      "m001163",
+      "m001164",
+      "m001165",
+      "m001166",
+      "m001167",
+      "m001168",
+      "m001169",
+      "m001170",
+      "m001171",
+      "m001172",
+      "m001173",
+      "m001174",
+      "m001175",
+      "m001176",
+      "m001177",
+      "m001178",
+      "m001179",
+      "m001180",
+      "m001181",
+      "m001182",
+      "m001183",
+      "m001184",
+      "m001185",
+      "m001186",
+      "m001187",
+      "m001188",
+      "m001189",
+      "m001190",
+      "m001191",
+      "m001192",
+      "m001193",
+      "m001194",
+      "m001195",
+      "m001196",
+      "m001197",
+      "m001198",
+      "m001199",
+      "m001200"
+    ],
+    "removed_or_changed_previous_messages": 0,
+    "reordered_message_count": 7,
+    "reordered_messages": [
+      {
+        "message_id": "m000103",
+        "previous_sequence": 103,
+        "current_sequence": 99
+      },
+      {
+        "message_id": "m000099",
+        "previous_sequence": 99,
+        "current_sequence": 100
+      },
+      {
+        "message_id": "m000100",
+        "previous_sequence": 100,
+        "current_sequence": 101
+      },
+      {
+        "message_id": "m000101",
+        "previous_sequence": 101,
+        "current_sequence": 102
+      },
+      {
+        "message_id": "m000102",
+        "previous_sequence": 102,
+        "current_sequence": 103
+      },
+      {
+        "message_id": "m001109",
+        "previous_sequence": 1109,
+        "current_sequence": 1108
+      },
+      {
+        "message_id": "m001108",
+        "previous_sequence": 1108,
+        "current_sequence": 1109
+      }
+    ],
+    "identity_method": "Match timestamp, sender, exact body, and occurrence order among duplicates; retain prior message/link/media IDs. Sequence follows the current source export."
+  },
+  "separately_supplied_media_count": 4,
+  "separately_supplied_media_by_kind": {
+    "video": 3,
+    "image": 1
+  },
+  "same_timestamp_groups": 44,
+  "exact_duplicate_groups": 27,
   "multiline_message_count": 2,
-  "link_occurrence_count": 604,
-  "unique_link_count": 598,
+  "link_occurrence_count": 606,
+  "unique_link_count": 600,
   "links_by_host": {
-    "www.google.com": 514,
+    "www.google.com": 515,
     "youtu.be": 44,
     "www.instagram.com": 20,
     "notebooklm.link.google": 12,
-    "www.reddit.com": 5,
+    "www.reddit.com": 6,
     "share.google": 2,
     "www.odido.nl": 1,
     "mitsloan.mit.edu": 1,
@@ -109,22 +208,22 @@
     "github.com": 1
   },
   "link_extraction": "Unmodified, whitespace-delimited HTTP(S) URL tokens; no resolution, fetching, query rewriting, or deduplication of occurrences.",
-  "media_reference_count": 340,
+  "media_reference_count": 375,
   "media_markers_by_kind": {
     "document": 20,
-    "image": 198,
+    "image": 224,
     "audio": 95,
-    "album": 24,
-    "video": 3
+    "album": 30,
+    "video": 6
   },
-  "omitted_media_reference_count": 316,
-  "album_marker_count": 24,
+  "omitted_media_reference_count": 345,
+  "album_marker_count": 30,
   "media_files_in_archive": 0,
   "supplemental_reply_context_count": 2,
   "limitations": [
     "Completeness is relative to the two files in the supplied ZIP; messages absent from this export cannot be recovered from it.",
     "Every exported sender label is You; no other participant identity is inferred from the chat label.",
-    "Omitted image, audio, document, and video bytes are absent, so no voice transcription, image OCR, or document text can be recovered from this ZIP.",
+    "Omitted media bytes are absent from the text ZIP. Separately supplied media and their transcription limits are recorded in supplied-media.json.",
     "Album markers have no included album contents or item counts.",
     "Source timestamps and ZIP timestamps carry no timezone offset.",
     "Two reply quotes are preserved from chat.md; their target message IDs are not specified by the export.",
@@ -132,5 +231,9 @@
   ],
   "byte_offset_convention": "Zero-based, end-exclusive UTF-8 byte offsets in source/chat.txt; line numbers are one-based.",
   "character_offset_convention": "Zero-based, end-exclusive Unicode code-point offsets in each message body.",
-  "reproduce": "python scripts/archive_whatsapp.py \"+31 6 55954068.zip\" --output \"archive/whatsapp/+31-6-55954068\""
+  "reproduce": "python scripts/archive_whatsapp.py \"+31 6 55954068.zip\" --output \"archive/whatsapp/+31-6-55954068\" --previous-archive \"archive/whatsapp/+31-6-55954068/export-history/d1276687bdfeb0e916c226e4cd9b8de210d5fa5ebb8bc10c9350f991b2a3d356\" --media-sources \"archive/whatsapp/+31-6-55954068/media-sources.json\"",
+  "media_source_registry": {
+    "path": "archive/whatsapp/+31-6-55954068/media-sources.json",
+    "sha256": "008782e8394bdb3224e3376670f0138f22a8da738600026b3d3141a29c8ab057"
+  }
 }

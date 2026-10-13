@@ -1,5 +1,5 @@
 WhatsApp archive: +31 6 55954068
-1,158 messages; 2026-09-23T06:40:13 through 2026-10-13T10:32:28. All timestamps are the exported local time; the source does not specify a timezone. All source sender labels are preserved. Media marked omitted is absent from the supplied ZIP.
+1,200 messages; 2026-09-23T06:40:13 through 2026-10-13T22:23:00. All timestamps are the exported local time; the source does not specify a timezone. All source sender labels are preserved. Media marked omitted is absent from the supplied ZIP.
 
 SOURCE NOTICE (undated)
 Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
@@ -298,6 +298,9 @@ Chip in mijn hoofd waardoor ik met een crisis zorgmachtiging werd opgenomen op d
 [2026-09-26 22:36:52] You (m000098)
 <document omitted> PrivateRecorder_20260926_195638Z.zip
 
+[2026-09-26 22:37:03] You (m000103)
+<document omitted> PrivateRecorder_20260926_194735Z.zip
+
 [2026-09-26 22:37:03] You (m000099)
 <document omitted> PrivateRecorder_20260926_194207Z.zip
 
@@ -309,9 +312,6 @@ Chip in mijn hoofd waardoor ik met een crisis zorgmachtiging werd opgenomen op d
 
 [2026-09-26 22:37:03] You (m000102)
 <document omitted> PrivateRecorder_20260926_201104Z.zip
-
-[2026-09-26 22:37:03] You (m000103)
-<document omitted> PrivateRecorder_20260926_194735Z.zip
 
 [2026-09-26 22:37:08] You (m000104)
 <document omitted> PrivateRecorder_20260926_194454Z.zip
@@ -3331,11 +3331,11 @@ https://www.google.com/search?q=kabbalah+binary+search+tree+log+encoded+polar+OU
 [2026-10-12 13:27:02] You (m001107)
 <image omitted>
 
-[2026-10-12 13:34:40] You (m001108)
-<document omitted> lower-case-phi-is-a-hoop-with-an-opening.pdf
-
 [2026-10-12 13:34:40] You (m001109)
 <document omitted> kabbalah-binary-search-tree-log-encoded-polar-OUT-of-spectral-gradients-based-on-geospatial-zones.pdf
+
+[2026-10-12 13:34:40] You (m001108)
+<document omitted> lower-case-phi-is-a-hoop-with-an-opening.pdf
 
 [2026-10-12 13:37:59] You (m001110)
 <document omitted> Klootwijk_Paradigm_Formalization.pdf
@@ -3483,3 +3483,137 @@ https://www.google.com/search?q=diff+force+CSG&client=ms-android-xiaomi-terr2-rs
 
 [2026-10-13 10:32:28] You (m001158)
 <image omitted>
+
+[2026-10-13 12:02:07] You (m001159)
+https://www.google.com/search?q=de+waag+nieuwmarkt+makerspace&client=ms-android-xiaomi-terr2-rso2&hs=K1nq&sca_esv=95a3924c91beb42b&sxsrf=APpeQntGdoIVhIcG5yn5Mwp34XS1e6C_fQ%3A1791885542437&ei=iwDOaqQbi5uL6A_43oKhCw&biw=375&bih=691&sclient=mobile-gws-wiz-serp&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpDyhqhJz-EL1EohYDSUG6u_7TBQFaykKSCI8ECDH-29gr0f9f3cZ1Yql2oc9vrmnG89ZnGbRsEj4xcaVT1fZIuaEb_qM&aep=10&ntc=1&mstk=AUtExfDrmu6V2JVHsUvpD-YY4Nn59d4QRlvAp332ouRzwWaT9ZN76fnRHoYmRvePbkE7jOcMn30u1ZkrghYGORTip77VfPqQ23LTU41S7w6h1El1VZH4ndPF3DqvuxvWHkZSubjFtcnzmlrkDtO8RI-P6gfX3xBKIoDHwHLdJk_5915zKI5oHeVZr7MUWCKWqsvwSkzb2PdOsWmpW5AYy8yAwGC41EqDUnmADdEWZAmLnBqYUqDYNR-dn9J6amWdBxwPxpHgm45D8dW3NH5S9sQeqfNCH09tAM0VEkr4Vwzo6cN5k9I0dwVG6M3KbbXN8_5a3my6T7AP-D_8CA&csuir=1&aioh=3&udm=50&mtid=NAHOaqeJAsDFi-gP4dvM2AI#lfId=ChxjMe
+
+[2026-10-13 15:27:09] You (m001160)
+<album message>
+
+[2026-10-13 15:27:10] You (m001161)
+<image omitted>
+
+[2026-10-13 15:27:10] You (m001162)
+<image omitted>
+
+[2026-10-13 15:27:10] You (m001163)
+<image omitted>
+
+[2026-10-13 19:53:41] You (m001164)
+<album message>
+
+[2026-10-13 19:53:41] You (m001165)
+<image omitted>
+
+[2026-10-13 19:53:41] You (m001166)
+<image omitted>
+
+[2026-10-13 19:53:41] You (m001167)
+<image omitted>
+
+[2026-10-13 19:56:24] You (m001168)
+<album message>
+
+[2026-10-13 19:56:24] You (m001169)
+<image omitted>
+
+[2026-10-13 19:56:24] You (m001170)
+<image omitted>
+
+[2026-10-13 19:56:25] You (m001171)
+<image omitted>
+
+[2026-10-13 19:56:25] You (m001172)
+<image omitted>
+
+[2026-10-13 19:59:35] You (m001173)
+<album message>
+
+[2026-10-13 19:59:35] You (m001174)
+<image omitted>
+
+[2026-10-13 19:59:35] You (m001175)
+<image omitted>
+
+[2026-10-13 19:59:35] You (m001176)
+<image omitted>
+
+[2026-10-13 19:59:36] You (m001177)
+<image omitted>
+
+[2026-10-13 20:00:44] You (m001178)
+<album message>
+
+[2026-10-13 20:00:44] You (m001179)
+<image omitted>
+
+[2026-10-13 20:00:45] You (m001180)
+<image omitted>
+
+[2026-10-13 20:00:45] You (m001181)
+<image omitted>
+
+[2026-10-13 20:00:45] You (m001182)
+<image omitted>
+
+[2026-10-13 20:00:46] You (m001183)
+<image omitted>
+
+[2026-10-13 20:00:46] You (m001184)
+<image omitted>
+
+[2026-10-13 20:12:11] You (m001185)
+<image omitted>
+
+[2026-10-13 20:20:35] You (m001186)
+<album message>
+
+[2026-10-13 20:20:36] You (m001187)
+<image omitted>
+
+[2026-10-13 20:20:36] You (m001188)
+<image omitted>
+
+[2026-10-13 20:20:39] You (m001189)
+<image omitted>
+
+[2026-10-13 20:20:39] You (m001190)
+<image omitted>
+
+[2026-10-13 20:51:20] You (m001191)
+<video omitted>
+
+SEPARATELY SUPPLIED VIDEO: media-transcripts/WhatsApp-Video-2026-10-13-at-20.51.20.txt (metadata: media-transcripts/WhatsApp-Video-2026-10-13-at-20.51.20.json)
+
+[2026-10-13 21:32:24] You (m001192)
+Heb ik je gezien .nl
+
+[2026-10-13 21:32:28] You (m001193)
+Crypto
+
+[2026-10-13 21:32:38] You (m001194)
+Blockchain sha256
+
+[2026-10-13 21:32:45] You (m001195)
+Pay2play
+
+[2026-10-13 21:32:53] You (m001196)
+En freemium entry
+
+[2026-10-13 21:55:28] You (m001197)
+<video omitted>
+
+SEPARATELY SUPPLIED VIDEO: media-transcripts/WhatsApp-Video-2026-10-13-at-21.55.28.txt (metadata: media-transcripts/WhatsApp-Video-2026-10-13-at-21.55.28.json)
+
+[2026-10-13 22:10:28] You (m001198)
+<video omitted> Slet boeken Amazon Prime Maria start saving saber lijntje voor Maria AC last question
+
+SEPARATELY SUPPLIED VIDEO: media-transcripts/WhatsApp-Video-2026-10-13-at-22.10.28.txt (metadata: media-transcripts/WhatsApp-Video-2026-10-13-at-22.10.28.json)
+
+[2026-10-13 22:22:16] You (m001199)
+https://www.reddit.com/r/nietdespeld/s/S0f2hGSYnO
+
+[2026-10-13 22:23:00] You (m001200)
+<image omitted>
+
+SEPARATELY SUPPLIED IMAGE: media-transcripts/image-2026-10-13-22-23-00.txt (metadata: media-transcripts/image-2026-10-13-22-23-00.json)

@@ -8,4 +8,5 @@ tmp/
 cookies*.txt
 archive/*/audio/
 output/archives/*.zip
+/WhatsApp Video *.mp4
 *.tmp

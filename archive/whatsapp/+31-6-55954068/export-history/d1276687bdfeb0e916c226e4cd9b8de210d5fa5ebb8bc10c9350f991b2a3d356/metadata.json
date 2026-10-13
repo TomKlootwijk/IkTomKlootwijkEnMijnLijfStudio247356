@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "archive_type": "WhatsApp paired text export",
+  "chat_label": "+31 6 55954068",
+  "export_date_raw": "October 13, 2026 at 11:21 AM",
+  "export_timestamp_local": "2026-10-13T11:21:00",
+  "export_timestamp_timezone": null,
+  "source_archive": {
+    "path": "+31 6 55954068.zip",
+    "bytes": 1040959,
+    "sha256": "d1276687bdfeb0e916c226e4cd9b8de210d5fa5ebb8bc10c9350f991b2a3d356",
+    "zip_comment_hex": "",
+    "members": [
+      {
+        "name": "chat.txt",
+        "bytes": 525475,
+        "sha256": "d7cf513d78ae19bbf7d667ff90936001ffb6ce6129be65e01b532d42d7f897f5",
+        "crc32": "cafa1c9a",
+        "compressed_bytes": 525475,
+        "compression_method": 0,
+        "zip_timestamp_local": "2026-10-13T11:21:04",
+        "zip_timestamp_timezone": null,
+        "zip_flag_bits": 0,
+        "zip_create_system": 0,
+        "zip_external_attributes": 0,
+        "zip_extra_hex": "",
+        "zip_comment_hex": ""
+      },
+      {
+        "name": "chat.md",
+        "bytes": 515280,
+        "sha256": "0046de21b591e9c03e0f48fa6aeba7923c766ab32364711e0274734ad1a8f274",
+        "crc32": "8ca883de",
+        "compressed_bytes": 515280,
+        "compression_method": 0,
+        "zip_timestamp_local": "2026-10-13T11:21:04",
+        "zip_timestamp_timezone": null,
+        "zip_flag_bits": 0,
+        "zip_create_system": 0,
+        "zip_external_attributes": 0,
+        "zip_extra_hex": "",
+        "zip_comment_hex": ""
+      }
+    ]
+  },
+  "canonical_message_source": "source/chat.txt",
+  "supplemental_metadata_source": "source/chat.md",
+  "archive_builder": {
+    "path": "scripts/archive_whatsapp.py",
+    "sha256": "dcbee8ce2ad034c55cb8086f9eca8953584aeef83ad9c31b43de202a88624878"
+  },
+  "source_notice": {
+    "text": "Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.\n",
+    "timestamp": null,
+    "source_line_start": 1
+  },
+  "message_count": 1158,
+  "sender_label_counts": {
+    "You": 1158
+  },
+  "date_range": {
+    "first": "2026-09-23T06:40:13",
+    "last": "2026-10-13T10:32:28"
+  },
+  "messages_by_date": {
+    "2026-09-23": 6,
+    "2026-09-24": 31,
+    "2026-09-25": 22,
+    "2026-09-26": 49,
+    "2026-09-27": 24,
+    "2026-09-28": 62,
+    "2026-09-29": 48,
+    "2026-09-30": 117,
+    "2026-10-01": 83,
+    "2026-10-02": 86,
+    "2026-10-03": 52,
+    "2026-10-04": 65,
+    "2026-10-05": 76,
+    "2026-10-06": 29,
+    "2026-10-07": 77,
+    "2026-10-08": 52,
+    "2026-10-09": 57,
+    "2026-10-10": 35,
+    "2026-10-11": 76,
+    "2026-10-12": 102,
+    "2026-10-13": 9
+  },
+  "timezone": null,
+  "timestamp_interpretation": "M/D/YY and 12-hour clock parsed from chat.txt as 20YY; no timezone conversion or offset assigned.",
+  "record_order": "Original export order; equal timestamps and exact duplicates retained.",
+  "same_timestamp_groups": 34,
+  "exact_duplicate_groups": 18,
+  "multiline_message_count": 2,
+  "link_occurrence_count": 604,
+  "unique_link_count": 598,
+  "links_by_host": {
+    "www.google.com": 514,
+    "youtu.be": 44,
+    "www.instagram.com": 20,
+    "notebooklm.link.google": 12,
+    "www.reddit.com": 5,
+    "share.google": 2,
+    "www.odido.nl": 1,
+    "mitsloan.mit.edu": 1,
+    "pdn.express": 1,
+    "www.rotary.nl": 1,
+    "thevillainsimulator.com": 1,
+    "tikkie.me": 1,
+    "github.com": 1
+  },
+  "link_extraction": "Unmodified, whitespace-delimited HTTP(S) URL tokens; no resolution, fetching, query rewriting, or deduplication of occurrences.",
+  "media_reference_count": 340,
+  "media_markers_by_kind": {
+    "document": 20,
+    "image": 198,
+    "audio": 95,
+    "album": 24,
+    "video": 3
+  },
+  "omitted_media_reference_count": 316,
+  "album_marker_count": 24,
+  "media_files_in_archive": 0,
+  "supplemental_reply_context_count": 2,
+  "limitations": [
+    "Completeness is relative to the two files in the supplied ZIP; messages absent from this export cannot be recovered from it.",
+    "Every exported sender label is You; no other participant identity is inferred from the chat label.",
+    "Omitted image, audio, document, and video bytes are absent, so no voice transcription, image OCR, or document text can be recovered from this ZIP.",
+    "Album markers have no included album contents or item counts.",
+    "Source timestamps and ZIP timestamps carry no timezone offset.",
+    "Two reply quotes are preserved from chat.md; their target message IDs are not specified by the export.",
+    "No delivery/read receipts, WhatsApp internal IDs, edit history, device identifiers, or attachment EXIF are supplied."
+  ],
+  "byte_offset_convention": "Zero-based, end-exclusive UTF-8 byte offsets in source/chat.txt; line numbers are one-based.",
+  "character_offset_convention": "Zero-based, end-exclusive Unicode code-point offsets in each message body.",
+  "reproduce": "python scripts/archive_whatsapp.py \"+31 6 55954068.zip\" --output \"archive/whatsapp/+31-6-55954068\""
+}
