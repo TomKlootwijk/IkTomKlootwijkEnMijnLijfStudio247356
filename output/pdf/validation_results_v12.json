@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-13",
+  "seed": 20261013,
+  "scope": "Formula checks and explicit counterexamples; no complete U or system benchmark supplied.",
+  "checks": [
+    {
+      "name": "binary_addresses",
+      "passed": true,
+      "nodes": 131071,
+      "max_depth": 16
+    },
+    {
+      "name": "sphere_roundtrip",
+      "passed": true,
+      "points": 100000,
+      "radius": 1,
+      "same_phase": true,
+      "max_surface_error_rad": 8.286516696510543e-11,
+      "max_sphere_squared_norm_residual": 4.440892098500626e-16
+    },
+    {
+      "name": "seam_conditioning_counterexample",
+      "passed": true,
+      "original_y": 1e-09,
+      "reconstructed_y": 0.0,
+      "meaning": "Double precision can round projected radius to R; retain residual or a better-conditioned chart."
+    },
+    {
+      "name": "poles_and_seam",
+      "passed": true,
+      "special_points": 6,
+      "seam_owner": 1
+    },
+    {
+      "name": "hadamard_exhaustive_N3",
+      "passed": true,
+      "input_C_matrices": 512,
+      "distinct_output_masks": 8,
+      "independent_output_bits": 3
+    },
+    {
+      "name": "hadamard_XOR",
+      "passed": true,
+      "random_pairs": 4096,
+      "N": 16
+    },
+    {
+      "name": "packed_bit_retrieval",
+      "passed": true,
+      "logical_bits": 257,
+      "words_64bit": 5
+    },
+    {
+      "name": "smooth_min_bound",
+      "passed": true,
+      "pairs": 100000,
+      "max_observed_displacement_per_h": 0.7069673215868213,
+      "analytic_upper_bound_per_h": 0.7071067811865475
+    },
+    {
+      "name": "angular_fold_and_seam_counterexample",
+      "passed": true,
+      "input_angles_rad": [
+        1.2265846054352556,
+        3.141592653589793,
+        5.056600701744331
+      ],
+      "output_angles_rad": [
+        3.141592653589793,
+        3.141592653589793,
+        3.141592653589793
+      ],
+      "seam_output_difference_rad": 2.2980970022965863,
+      "required_for_degree_one_periodicity_rad": 6.283185307179586
+    },
+    {
+      "name": "log_sine_scale_repetition",
+      "passed": true,
+      "radii": 10000,
+      "omega": 3.25,
+      "scale_ratio": 6.912198759648419,
+      "max_error": 3.497202527569243e-15
+    },
+    {
+      "name": "geyser_radial_inverse",
+      "passed": true,
+      "radii": 1000,
+      "max_error": 4.440892098500626e-16
+    },
+    {
+      "name": "equal_area_resolution_counterexample",
+      "passed": true,
+      "R": 1,
+      "depth": 20,
+      "belt_area": 5.992112452678286e-06,
+      "geodesic_diameter": 3.141592653589793,
+      "analytic_fact": "Area tends to zero while geodesic diameter remains pi*R."
+    },
+    {
+      "name": "feedback_cycle_counterexample",
+      "passed": true,
+      "orbit": [
+        0,
+        1,
+        0,
+        1,
+        0
+      ]
+    }
+  ],
+  "passed": 13,
+  "failed": 0,
+  "analytic_domain_finding": "If m=-1 and the sphere contains the Klein-derived solid, the union can be all R^3, with empty boundary; admissible-state validation is required."
+}
