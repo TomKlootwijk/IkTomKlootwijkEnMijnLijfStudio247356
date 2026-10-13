@@ -1,0 +1,43 @@
+{
+  "status": "passed",
+  "records_compared": 1158,
+  "identity_check": "Sequence, calendar date, minute timestamp, and sender match for every record.",
+  "body_check": "Every body matches after the documented media marker substitutions and removal of supplemental reply quotes.",
+  "marker_substitutions": {
+    "<image omitted>": "[Image]",
+    "<audio omitted>": "[Audio]",
+    "<document omitted>": "[Document]",
+    "<video omitted>": "[Video]",
+    "<album message>": "[album message]"
+  },
+  "supplemental_reply_context_count": 2,
+  "supplemental_records": [
+    {
+      "message_id": "m000573",
+      "reply_context": [
+        {
+          "sender": "You",
+          "quoted_text": "Vera Bergkamp",
+          "raw_markdown": "> _You: Vera Bergkamp_",
+          "source_file": "source/chat.md",
+          "source_line": 1193,
+          "replied_to_message_id": null
+        }
+      ]
+    },
+    {
+      "message_id": "m000935",
+      "reply_context": [
+        {
+          "sender": "You",
+          "quoted_text": "Pussy parade Ruud den daas met de konijn oortjes in het roze, en dan kunst therapie met gay sha jit sk Koen den das",
+          "raw_markdown": "> _You: Pussy parade Ruud den daas met de konijn oortjes in het roze, en dan kunst therapie met gay sha jit sk Koen den das_",
+          "source_file": "source/chat.md",
+          "source_line": 1947,
+          "replied_to_message_id": null
+        }
+      ]
+    }
+  ],
+  "unreconciled_records": 0
+}

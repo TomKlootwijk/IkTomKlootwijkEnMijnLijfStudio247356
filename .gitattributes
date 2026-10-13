@@ -2,6 +2,8 @@
 *.py text eol=lf
 *.ps1 text eol=lf
 *.json text eol=lf
+*.jsonl text eol=lf
+*.html text eol=lf
 *.md text eol=lf
 *.txt text eol=lf
 *.m3u8 text eol=lf

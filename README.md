@@ -1,5 +1,7 @@
 # YouTube playlist audio and transcript archive
 
+The repository also contains a [complete WhatsApp text archive](archive/whatsapp/+31-6-55954068/README.md), with 1,158 messages, exact exported date/time, full links, available metadata, and byte-identical source exports.
+
 Source playlist: [Chris the Hacker and Tom the Fag](https://www.youtube.com/playlist?list=PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v).
 
 The frozen playlist inventory contains **102 entries**. This archive contains **all 102 recordings**, about **18 hours 40 minutes**, in the original playlist order, with their original titles and timestamped machine transcripts.
@@ -60,3 +62,15 @@ Google Drive stores the same ZIP in consecutive parts, alongside `checksums.json
 OneDrive destination: `C:/Users/ietsm/OneDrive/Chris the Hacker and Tom the Fag/`.
 
 The delivery receipt records completed uploads and OneDrive Cloud Files synchronization checks. Authentication cookies and tokens are not included in the repository or archives.
+
+## WhatsApp chat archive
+
+Source: [`+31 6 55954068.zip`](+31%206%2055954068.zip). The [archive guide](archive/whatsapp/+31-6-55954068/README.md) links to HTML, Markdown, and plain text transcripts, structured JSONL messages, a full URL index, media references, source reconciliation, validation, and SHA-256 checksums.
+
+The supplied ZIP contains 1,158 messages across September 23–October 13, 2026, 604 link occurrences (598 unique URLs), and two quoted replies preserved from its Markdown export. Exact timestamps to the second, sender labels, multiline messages, and duplicates remain intact. The 316 omitted-media references and 24 album markers are inventoried; the ZIP contains no actual media. Source timestamps have no specified timezone.
+
+Rebuild from the repository root using Python's standard library:
+
+```powershell
+python scripts/archive_whatsapp.py "+31 6 55954068.zip" --output "archive/whatsapp/+31-6-55954068"
+```
