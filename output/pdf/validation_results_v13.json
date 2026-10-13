@@ -1,0 +1,192 @@
+{
+  "edition": "1.3",
+  "date": "2026-10-13",
+  "seed": 20261013,
+  "description": "Equation-level examples across geometry, physical accounting, graph/quantum adapters and distributed algebra.",
+  "checks": [
+    {
+      "name": "smooth_CSG_gradient",
+      "passed": true,
+      "samples": 20000,
+      "max_error": 4.462907821078943e-10
+    },
+    {
+      "name": "smooth_CSG_duality",
+      "passed": true,
+      "samples": 20000
+    },
+    {
+      "name": "regularized_self_difference",
+      "passed": true,
+      "samples": 20000
+    },
+    {
+      "name": "empty_full_distance",
+      "passed": true,
+      "empty_occupancy": 0,
+      "full_occupancy": 1
+    },
+    {
+      "name": "binary_equal_area_profile",
+      "passed": true,
+      "points": 20000,
+      "depth": 14,
+      "max_surface_error_rad": 0.12231798495594236,
+      "max_cell_radius_bound_rad": 0.14962521619915337,
+      "max_cell_area_residual": 1.1275702593849246e-17
+    },
+    {
+      "name": "profile_seam_poles",
+      "passed": true,
+      "points": 4
+    },
+    {
+      "name": "continuous_parameter_fit",
+      "passed": true,
+      "initial_loss": 0.48999999999999994,
+      "final_loss": 2.3218068557773255e-06,
+      "final_radius": 1.4984762523648,
+      "steps": 12
+    },
+    {
+      "name": "simultaneous_bit_update",
+      "passed": true,
+      "input_bits": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "output_bits": [
+        1,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "finite_volume_internal_flux",
+      "passed": true,
+      "total_before": 16.0,
+      "total_after": 16.0
+    },
+    {
+      "name": "spherical_shell_volume",
+      "passed": true,
+      "total_volume": 79.58701389094142,
+      "residual": 0.0
+    },
+    {
+      "name": "drag_power",
+      "passed": true,
+      "samples": 10000,
+      "max_residual": 3.552713678800501e-15
+    },
+    {
+      "name": "linear_drag_heat_balance",
+      "passed": true,
+      "kinetic_before": 5.25,
+      "kinetic_after": 3.9678646426425592,
+      "heat_gain": 1.2821353573574408
+    },
+    {
+      "name": "Coriolis_zero_work",
+      "passed": true,
+      "samples": 10000,
+      "max_residual": 1.9984014443252818e-15
+    },
+    {
+      "name": "optical_absorption_balance",
+      "passed": true,
+      "incident": 7.0,
+      "transmitted": 3.021973664003558,
+      "absorbed": 3.978026335996442
+    },
+    {
+      "name": "port_Hamiltonian_energy",
+      "passed": true,
+      "samples": 1000,
+      "max_residual": 8.881784197001252e-16
+    },
+    {
+      "name": "packed_tree_rank_select",
+      "passed": true,
+      "nodes": 5,
+      "shape_bits": 10
+    },
+    {
+      "name": "replica_join",
+      "passed": true,
+      "merge_orders": 6,
+      "distinct_ops": 4
+    },
+    {
+      "name": "graph_state_commutation",
+      "passed": true,
+      "graphs": 1024,
+      "qubits_per_graph": 12,
+      "generator_rank": 12
+    },
+    {
+      "name": "bent_channel_Walsh",
+      "passed": true,
+      "inputs": 16,
+      "Walsh_magnitudes": [
+        4
+      ],
+      "ones": 6
+    },
+    {
+      "name": "hyperbolic_focus_isometry",
+      "passed": true,
+      "pairs": 1000,
+      "max_distance_residual": 3.9968028886505635e-15
+    },
+    {
+      "name": "periodic_phase_adapter",
+      "passed": true,
+      "angles": 1000,
+      "max_seam_residual": 1.7763568394002505e-15,
+      "min_derivative": 0.6500001937148091
+    },
+    {
+      "name": "log_time_chain_rule",
+      "passed": true,
+      "samples": 1000
+    },
+    {
+      "name": "graph_diffusion_quadratic",
+      "passed": true,
+      "quadratic": 13.0,
+      "total_signal_derivative": 0.0
+    },
+    {
+      "name": "reaction_stoichiometric_balance",
+      "passed": true,
+      "reaction_columns": 3,
+      "total_amount_derivative": -9.71445146547012e-17
+    },
+    {
+      "name": "scale_patterned_thermal_channel",
+      "passed": true,
+      "radii": 10000,
+      "max_scale_residual": 3.1086244689504383e-15,
+      "min_entropy_production_density": 8.959353997567155e-08
+    },
+    {
+      "name": "barycentric_logpolar_inverse",
+      "passed": true,
+      "radii": 1000,
+      "max_radius_residual": 8.881784197001252e-16,
+      "max_turn_residual": 1.1102230246251565e-16
+    },
+    {
+      "name": "chamber_inverse",
+      "passed": true,
+      "radii": 1000,
+      "max_residual": 7.105427357601002e-15
+    }
+  ],
+  "passed": 27,
+  "failed": 0
+}
