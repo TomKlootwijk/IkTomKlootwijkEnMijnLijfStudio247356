@@ -1,6 +1,6 @@
 {
   "status": "passed",
-  "records_compared": 1200,
+  "records_compared": 1249,
   "identity_check": "Sequence, calendar date, minute timestamp, and sender match for every record.",
   "body_check": "Every body matches after the documented media marker substitutions and removal of supplemental reply quotes.",
   "marker_substitutions": {

@@ -1,6 +1,6 @@
 # YouTube playlist audio and transcript archive
 
-The repository also contains a [complete WhatsApp text archive](archive/whatsapp/+31-6-55954068/README.md), with 1,200 messages, exact exported date/time, full links, available metadata, byte-identical source exports, and transcriptions of separately supplied media.
+The repository also contains a [complete WhatsApp text archive](archive/whatsapp/+31-6-55954068/README.md), with 1,249 messages, exact exported date/time, full links, available metadata, byte-identical source exports, and transcriptions of separately supplied media.
 
 Source playlist: [Chris the Hacker and Tom the Fag](https://www.youtube.com/playlist?list=PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v).
 
@@ -67,7 +67,7 @@ The delivery receipt records completed uploads and OneDrive Cloud Files synchron
 
 Source: [`+31 6 55954068.zip`](+31%206%2055954068.zip). The [archive guide](archive/whatsapp/+31-6-55954068/README.md) links to HTML, Markdown, and plain text transcripts, structured JSONL messages, a full URL index, media references, source reconciliation, validation, and SHA-256 checksums.
 
-The updated ZIP contains 1,200 messages across September 23–October 13, 2026, through 22:23:00, 606 link occurrences (600 unique URLs), and two quoted replies preserved from its Markdown export. It adds 42 messages and retains every previous message, including duplicates and multiline text. Seven earlier document entries were reordered within identical timestamps by the export; their existing message IDs remain attached to the same content. The prior export is preserved in the archive's export history.
+The updated ZIP contains 1,249 messages across September 23–October 14, 2026, through 21:10:36, 651 link occurrences (645 unique URLs), and two quoted replies preserved from its Markdown export. This export adds 49 messages and retains all 1,200 previous messages, their existing IDs, duplicates, multiline text, and ordering. Prior exports are preserved in the archive's export history.
 
 The text ZIP inventories 345 omitted-media references and 30 album markers. Three separately supplied videos and one image now have [transcriptions and metadata](archive/whatsapp/+31-6-55954068/supplied-media.json), linked from their matching chat entries. The video audio was fully processed; one video has no reliably recognized speech and retains uncertainty information. The image transcription marks obscured text. Source timestamps have no specified timezone; filename-based media associations are recorded as candidates.
 
@@ -80,5 +80,5 @@ python scripts/restore_archive.py archive-bundles/whatsapp-media-2026-10-13/chec
 Rebuild from the repository root using Python's standard library:
 
 ```powershell
-python scripts/archive_whatsapp.py "+31 6 55954068.zip" --output "archive/whatsapp/+31-6-55954068" --previous-archive "archive/whatsapp/+31-6-55954068/export-history/d1276687bdfeb0e916c226e4cd9b8de210d5fa5ebb8bc10c9350f991b2a3d356" --media-sources "archive/whatsapp/+31-6-55954068/media-sources.json"
+python scripts/archive_whatsapp.py "+31 6 55954068.zip" --output "archive/whatsapp/+31-6-55954068" --previous-archive "archive/whatsapp/+31-6-55954068/export-history/ed6f2c812bbb8f6a2a0b4ff3b91c5ca2be586694f0d77f37ebe3b205d3e02556" --media-sources "archive/whatsapp/+31-6-55954068/media-sources.json"
 ```
