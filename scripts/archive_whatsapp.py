@@ -203,7 +203,8 @@ def enrich(records, previous=None):
     links, media = [], []
     for record in records:
         old = previous.get(record["id"], {})
-        old_links = old.get("links", [])
+        old_quote_links = {link_id for reply in old.get("reply_context", []) for link_id in reply.get("links", [])}
+        old_links = [link_id for link_id in old.get("links", []) if link_id not in old_quote_links]
         old_media = old.get("media_references", [])
         context = {"message_id": record["id"], "timestamp_local": record["timestamp_local"],
                    "timezone": None, "sender": record["sender"], "transcript_anchor": record["transcript_anchor"]}
@@ -218,6 +219,22 @@ def enrich(records, previous=None):
                     "body_character_start": occurrence.start(), "body_character_end_exclusive": occurrence.end()}
             links.append(link)
             record["links"].append(link["id"])
+        for reply_index, reply in enumerate(record.get("reply_context", [])):
+            old_replies = old.get("reply_context", [])
+            old_reply_ids = old_replies[reply_index].get("links", []) if reply_index < len(old_replies) else []
+            for i, occurrence in enumerate(URL.finditer(reply["quoted_text"])):
+                link_id = old_reply_ids[i] if i < len(old_reply_ids) else f"l{next_link:06d}"
+                if i >= len(old_reply_ids):
+                    next_link += 1
+                url = occurrence.group()
+                parsed = urlsplit(url)
+                link = {"id": link_id, **context, "url": url, "scheme": parsed.scheme, "host": parsed.hostname,
+                        "source_context": "quoted_reply", "reply_context_index": reply_index,
+                        "quoted_text_character_start": occurrence.start(), "quoted_text_character_end_exclusive": occurrence.end(),
+                        "source_file": reply["source_file"], "source_line": reply["source_line"]}
+                links.append(link)
+                record["links"].append(link_id)
+                reply.setdefault("links", []).append(link_id)
         for i, occurrence in enumerate(MARKER.finditer(record["body"])):
             marker = occurrence.group()
             kind = occurrence[1].split()[0]
@@ -379,7 +396,7 @@ def build(source, destination, previous_archive=None, media_sources=None):
     duplicates = Counter((r["timestamp_local"], r["sender"], r["body"]) for r in records)
     source_path = source.relative_to(Path.cwd()).as_posix()
     metadata = {
-        "schema_version": 2, "archive_type": "WhatsApp paired text export",
+        "schema_version": 3, "archive_type": "WhatsApp paired text export",
         **export_info, "export_timestamp_timezone": None,
         "source_archive": {"path": source_path, "bytes": source.stat().st_size,
                            "sha256": digest(source.read_bytes()), "zip_comment_hex": zip_comment, "members": members},
@@ -399,8 +416,10 @@ def build(source, destination, previous_archive=None, media_sources=None):
         "exact_duplicate_groups": sum(count > 1 for count in duplicates.values()),
         "multiline_message_count": sum("\n" in r["body"] for r in records),
         "link_occurrence_count": len(links), "unique_link_count": len({v["url"] for v in links}),
+        "message_body_link_occurrence_count": sum(v.get("source_context") != "quoted_reply" for v in links),
+        "quoted_reply_link_occurrence_count": sum(v.get("source_context") == "quoted_reply" for v in links),
         "links_by_host": dict(Counter(v["host"] for v in links).most_common()),
-        "link_extraction": "Unmodified, whitespace-delimited HTTP(S) URL tokens; no resolution, fetching, query rewriting, or deduplication of occurrences.",
+        "link_extraction": "Unmodified, whitespace-delimited HTTP(S) URL tokens from message bodies and supplemental quoted replies; no resolution, fetching, query rewriting, or deduplication of occurrences. Links without source_context are from message bodies; quoted_reply links specify their quote index and quoted-text offsets.",
         "media_reference_count": len(media), "media_markers_by_kind": dict(Counter(v["kind"] for v in media)),
         "omitted_media_reference_count": sum(v["status"] == "omitted_in_export" for v in media),
         "album_marker_count": sum(v["kind"] == "album" for v in media),
@@ -411,11 +430,11 @@ def build(source, destination, previous_archive=None, media_sources=None):
             "Omitted media bytes are absent from the text ZIP. Separately supplied media and their transcription limits are recorded in supplied-media.json.",
             "Album markers have no included album contents or item counts.",
             "Source timestamps and ZIP timestamps carry no timezone offset.",
-            "Two reply quotes are preserved from chat.md; their target message IDs are not specified by the export.",
+            f'{comparison["supplemental_reply_context_count"]} reply quotes are preserved from chat.md; their target message IDs are not specified by the export.',
             "No delivery/read receipts, WhatsApp internal IDs, edit history, device identifiers, or attachment EXIF are supplied.",
         ],
         "byte_offset_convention": "Zero-based, end-exclusive UTF-8 byte offsets in source/chat.txt; line numbers are one-based.",
-        "character_offset_convention": "Zero-based, end-exclusive Unicode code-point offsets in each message body.",
+        "character_offset_convention": "Zero-based, end-exclusive Unicode code-point offsets in the named message body or reply quoted_text.",
         "reproduce": f'python scripts/archive_whatsapp.py "{source_path}" --output "{destination.relative_to(Path.cwd()).as_posix()}"',
     }
     if previous_archive:
@@ -448,14 +467,14 @@ This is the complete text transcription of the supplied [{source.name}]({archive
 Open the [searchable HTML transcript](transcript.html) locally in a browser for clickable links, date navigation, and a permanent anchor for every message. A [Markdown transcript](transcript.md) and [plain text transcript](transcript.txt) are also included. The HTML is self-contained, runs no scripts, and loads no remote assets.
 
 - [messages.jsonl](messages.jsonl): one record per message, with exact local date/time to the second, sender, body, source line/byte spans, raw source record, SHA-256, link/media IDs, and reply context.
-- [links.jsonl](links.jsonl): **{len(links)} URL occurrences**, **{metadata["unique_link_count"]} unique URLs**, with exact full URLs, sender/time, body offsets, and message anchors. Repeated occurrences remain separate. Links were preserved without fetching them.
+- [links.jsonl](links.jsonl): **{len(links)} URL occurrences**, **{metadata["unique_link_count"]} unique URLs** ({metadata["message_body_link_occurrence_count"]} in message bodies; {metadata["quoted_reply_link_occurrence_count"]} in supplemental quoted replies), with exact full URLs, sender/time, body or quote offsets, and message anchors. Repeated occurrences remain separate. Links were preserved without fetching them.
 - [media-references.jsonl](media-references.jsonl): **{len(media)} placeholders** with original markers and descriptions: **{metadata["omitted_media_reference_count"]} omitted-media references** and **{metadata["album_marker_count"]} album markers**.
 - [metadata.json](metadata.json): source/export metadata, ZIP member information and hashes, daily counts, participants as labeled, date range, media/link counts, parsing conventions, and available-data limits.
 - [source-comparison.json](source-comparison.json): reconciliation of all messages in both exports, including the **{comparison["supplemental_reply_context_count"]} reply quotes** available only in Markdown.
 - [source/chat.txt](source/chat.txt) and [source/chat.md](source/chat.md): byte-identical originals extracted from the ZIP.
 - [validation.json](validation.json) and [checksums.json](checksums.json): completeness checks and SHA-256 checksums for every delivered archive file except the checksum manifest itself.
 
-The TXT export is the canonical message body/time source because it retains seconds. The Markdown export supplies the chat label, export time ({export_info["export_date_raw"]}), and two reply quotes. All {len(records):,} message identities and bodies reconcile after the documented placeholder substitutions and separate preservation of those quotes. The undated encryption notice is preserved separately without assigning it a fabricated timestamp.
+The TXT export is the canonical message body/time source because it retains seconds. The Markdown export supplies the chat label, export time ({export_info["export_date_raw"]}), and {comparison["supplemental_reply_context_count"]} reply quotes. All {len(records):,} message identities and bodies reconcile after the documented placeholder substitutions and separate preservation of those quotes. The undated encryption notice is preserved separately without assigning it a fabricated timestamp.
 
 The ZIP contains only these two text files. It includes **no actual media**: image ({metadata["media_markers_by_kind"].get("image", 0)}), audio ({metadata["media_markers_by_kind"].get("audio", 0)}), document ({metadata["media_markers_by_kind"].get("document", 0)}), and video ({metadata["media_markers_by_kind"].get("video", 0)}) references say omitted; {metadata["album_marker_count"]} album markers have no item contents. The absent voice recordings cannot be transcribed from this export. Separately supplied files are described below. Source timestamps have **no specified timezone**; no offset is assumed. Exported sender labels are all `You`; the phone-number chat label is not used to invent another sender. No WhatsApp internal message IDs or read/delivery receipts are available; `m000001` and similar IDs are local persistent identifiers.
 
@@ -468,7 +487,10 @@ Rebuild using Python 3.12+ and the standard library, from the repository root:
 The build fails if the paired exports do not reconcile, any record bytes are lost, source byte spans differ, or the ZIP fails its integrity check. Outputs are deterministic. `metadata.json.source_notice.text` followed by every `messages.jsonl` record's `source.raw_record` reproduces `source/chat.txt` exactly as UTF-8.
 '''
     if update:
-        guide += f'\nThis update adds **{update["added_message_count"]} messages** and retains all **{update["retained_message_count"]} previous messages**. The source reorders **{update["reordered_message_count"]} earlier document entries** within identical timestamps; their existing message, link, and media IDs remain attached to the same content. See [export-update.json](export-update.json). The [previous export snapshot]({previous_archive.relative_to(destination).as_posix()}/metadata.json) retains its original records and source bytes.\n'
+        guide += f'\nThis update adds **{update["added_message_count"]} messages** and retains all **{update["retained_message_count"]} previous messages**. '
+        if update["reordered_message_count"]:
+            guide += f'The source reorders **{update["reordered_message_count"]} earlier entries**. '
+        guide += f'Existing message, link, and media IDs remain attached to the same content. See [export-update.json](export-update.json). The [previous export snapshot]({previous_archive.relative_to(destination).as_posix()}/metadata.json) retains its original records and source bytes.\n'
     if supplied:
         guide += f'\n**{len(supplied)} separately supplied media files** have [text transcriptions and metadata](supplied-media.json), linked from their matching chat entries. Filename timestamps and media kinds establish candidate associations; the export contains no attachment hashes to prove those associations. Video transcripts retain machine confidence flags and suppressed candidates; the image transcription marks obscured text. [Restore the three original videos from verified chunks](../../../archive-bundles/whatsapp-media-2026-10-13/README.md).\n'
         guide += "\n" + "".join(f'- {item["original_file"]}: [transcription]({item["transcript_text"]}) · [metadata and QA]({item["transcript_json"]}) · [chat entry](transcript.html#{item["message_id"]})\n' for item in supplied)
@@ -479,6 +501,8 @@ The build fails if the paired exports do not reconcile, any record bytes are los
                   "source_byte_spans_match": True, "source_record_order_preserved": True,
                   "paired_export_comparison": comparison["status"], "message_count": len(records),
                   "link_occurrence_count": len(links), "unique_link_count": metadata["unique_link_count"],
+                  "message_body_link_occurrence_count": metadata["message_body_link_occurrence_count"],
+                  "quoted_reply_link_occurrence_count": metadata["quoted_reply_link_occurrence_count"],
                   "media_reference_count": len(media), "reply_context_count": comparison["supplemental_reply_context_count"],
                   "previous_message_ids_preserved": len(previous), "separately_supplied_media_count": len(supplied),
                   "supplied_media_transcript_source_hashes_match": True if supplied else None,

@@ -1,6 +1,6 @@
 {
   "status": "passed",
-  "records_compared": 1249,
+  "records_compared": 1311,
   "identity_check": "Sequence, calendar date, minute timestamp, and sender match for every record.",
   "body_check": "Every body matches after the documented media marker substitutions and removal of supplemental reply quotes.",
   "marker_substitutions": {
@@ -10,7 +10,7 @@
     "<video omitted>": "[Video]",
     "<album message>": "[album message]"
   },
-  "supplemental_reply_context_count": 2,
+  "supplemental_reply_context_count": 3,
   "supplemental_records": [
     {
       "message_id": "m000573",
@@ -35,6 +35,22 @@
           "source_file": "source/chat.md",
           "source_line": 1947,
           "replied_to_message_id": null
+        }
+      ]
+    },
+    {
+      "message_id": "m001307",
+      "reply_context": [
+        {
+          "sender": "You",
+          "quoted_text": "https://www.google.com/search?q=grabbelton&client=ms-android-xiaomi-terr2-rso2&hs=Htoq&sca_esv=c33e463457e396b0&sxsrf=APpeQnslgKRWHCLkSk0-8IwfX5mE-xViuw%3A1792086158636&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gKjm3rhh_G8jdZ2Q6tji4z8Mva6cfvBj5rpPch2IC955IbzrbwHf6tkbFbd-nuFdbKth9Y-58t5LtnYgTA4TWDFYCUNl4d7F9XBAwiEq2T2c7SNgrvMxYiRBXL4fnQnnTOewx28&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiXnJGXybyXAxWy1QIHHbQyGWwQ2J8OegQIEhAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfDjgQf_HzO6omsbaN9HSx35bhvlLUOgOL2uLcD67Cc4J-MgIuSeEzHp9_zi04iieCvx2JF7rLaTyyHt5zcOumPymUyx4OKGj1lhcZdONUY5pqwlWWHLSGGXkOS_ebtfIz5s9HrjR-wS_YpG8avhxhwbrZ7mTtVAMl8Q4HF5cWb3VYGNJFI4UlaUVvVD1K6051_sNlowYumPgaXySpJmWABUCNg50_vuMa1pZFcJyBVpphShIDWFkn0Gjt9DLkDrQsSLKXEOxQrQWbA7tKfB6l5_3nXYSlRTCbepmN09ooJGSLjN2ZsCVuYW1QkapDxnddS1XtmYBNCefQ&csuir=1&mtid=kBDRau9LzMmL6A-c-tuZCg&udm=50",
+          "raw_markdown": "> _You: https://www.google.com/search?q=grabbelton&client=ms-android-xiaomi-terr2-rso2&hs=Htoq&sca_esv=c33e463457e396b0&sxsrf=APpeQnslgKRWHCLkSk0-8IwfX5mE-xViuw%3A1792086158636&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gKjm3rhh_G8jdZ2Q6tji4z8Mva6cfvBj5rpPch2IC955IbzrbwHf6tkbFbd-nuFdbKth9Y-58t5LtnYgTA4TWDFYCUNl4d7F9XBAwiEq2T2c7SNgrvMxYiRBXL4fnQnnTOewx28&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiXnJGXybyXAxWy1QIHHbQyGWwQ2J8OegQIEhAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfDjgQf_HzO6omsbaN9HSx35bhvlLUOgOL2uLcD67Cc4J-MgIuSeEzHp9_zi04iieCvx2JF7rLaTyyHt5zcOumPymUyx4OKGj1lhcZdONUY5pqwlWWHLSGGXkOS_ebtfIz5s9HrjR-wS_YpG8avhxhwbrZ7mTtVAMl8Q4HF5cWb3VYGNJFI4UlaUVvVD1K6051_sNlowYumPgaXySpJmWABUCNg50_vuMa1pZFcJyBVpphShIDWFkn0Gjt9DLkDrQsSLKXEOxQrQWbA7tKfB6l5_3nXYSlRTCbepmN09ooJGSLjN2ZsCVuYW1QkapDxnddS1XtmYBNCefQ&csuir=1&mtid=kBDRau9LzMmL6A-c-tuZCg&udm=50_",
+          "source_file": "source/chat.md",
+          "source_line": 2717,
+          "replied_to_message_id": null,
+          "links": [
+            "l000673"
+          ]
         }
       ]
     }
