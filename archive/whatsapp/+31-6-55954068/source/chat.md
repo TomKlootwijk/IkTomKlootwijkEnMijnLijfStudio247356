@@ -1,5 +1,5 @@
 # WhatsApp Chat Export: +31 6 55954068
-Export date: October 20, 2026 at 5:17 PM
+Export date: October 20, 2026 at 10:03 PM
 
 ---
 
@@ -3200,3 +3200,19 @@ En synchroniseren van
 [4:08 PM] **You:** Hoe heet jij eigenlijk, coole tattoo en beterschap met jouw enkel
 
 [4:46 PM] **You:** [Video] de huisvleeeeg
+
+[8:38 PM] **You:** [Image]
+
+[8:38 PM] **You:** [Image]
+
+[8:55 PM] **You:** https://www.google.com/search?q=lying+in+wake+lefaitan&client=ms-android-xiaomi-terr2-rso2&hs=z6VB&sca_esv=34651f0857a3a838&sxsrf=APpeQnsKDPSFn4EBQtImOUQRBUzqOBIOqg%3A1792521372107&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwIgLtPdGtXl-1ukUntONsOMkLK8Wjg5QbsFQsyTdBlDyIWYhgxyDNTy0wPRmWscMhXPcoRl2IGiedJq-Ou7bktAThMu4NA9p70Yhev5koDcBW5-E_NLUvu30_BOJKw7r_p9-3Y2&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiVv4u9nsmXAxXCg_0HHSGmOyQQ2J8OegQIERAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfDy6E0-Y71SHbxjDqvroaeh_0dEDMhoHQxVidCEPi32ZLMnGx27Zo8GF9ASBgoa5-EO29x6Azb4Z_giAZ7ZD9jlKhwO1JFPSSlbr2WiAQSozsOd7Jq7Sz30hlX4j9hItvv2kWSQlUNrYWBoQpp1MP7bPqqj8OLEW_xn2KuvJm3ruidBbA2wIOcnBx1IaE8W6eSQkjiO8sioVOTp1AnkFbx5bM39fO6DytbQ_wS5GxZqgbg_bEuz6P7o83PGb3IvthWaBdEkNRSb0A&csuir=1&mtid=nbTXatnLMPGM9u8PiIePiAo&lns_mode=cvst&udm=50
+
+[9:35 PM] **You:** [Image]
+
+[10:01 PM] **You:** [Image] Remarkable voor hunzelf de G-man pakketjes afleveren en doorgeef vrouwen
+
+[10:01 PM] **You:** Remote control Al 4
+
+[10:02 PM] **You:** CAR lies ARC 4
+
+[10:02 PM] **You:** RC AR KINDEL

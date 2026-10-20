@@ -1,6 +1,6 @@
 # WhatsApp archive: +31 6 55954068
 
-1,538 messages; 2026-09-23T06:40:13 through 2026-10-20T16:46:14. All timestamps are the exported local time; the source does not specify a timezone. All source sender labels are preserved. Media marked omitted is absent from the supplied ZIP.
+1,546 messages; 2026-09-23T06:40:13 through 2026-10-20T22:02:26. All timestamps are the exported local time; the source does not specify a timezone. All source sender labels are preserved. Media marked omitted is absent from the supplied ZIP.
 
 [Archive metadata](metadata.json) · [All links](links.jsonl) · [Media references](media-references.jsonl) · [Source comparison](source-comparison.json)
 
@@ -9311,3 +9311,51 @@ Separately supplied image: [text transcription](media-transcripts/image-2026-10-
 > \<video omitted\> de huisvleeeeg
 
 [Open message](transcript.html#m001538) · Source: chat.txt lines 1543–1543
+
+### m001539 · 2026\-10\-20 20:38:07 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001539) · Source: chat.txt lines 1544–1544
+
+### m001540 · 2026\-10\-20 20:38:10 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001540) · Source: chat.txt lines 1545–1545
+
+### m001541 · 2026\-10\-20 20:55:56 · You
+
+> <https://www.google.com/search?q=lying+in+wake+lefaitan&client=ms-android-xiaomi-terr2-rso2&hs=z6VB&sca_esv=34651f0857a3a838&sxsrf=APpeQnsKDPSFn4EBQtImOUQRBUzqOBIOqg%3A1792521372107&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwIgLtPdGtXl-1ukUntONsOMkLK8Wjg5QbsFQsyTdBlDyIWYhgxyDNTy0wPRmWscMhXPcoRl2IGiedJq-Ou7bktAThMu4NA9p70Yhev5koDcBW5-E_NLUvu30_BOJKw7r_p9-3Y2&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiVv4u9nsmXAxXCg_0HHSGmOyQQ2J8OegQIERAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfDy6E0-Y71SHbxjDqvroaeh_0dEDMhoHQxVidCEPi32ZLMnGx27Zo8GF9ASBgoa5-EO29x6Azb4Z_giAZ7ZD9jlKhwO1JFPSSlbr2WiAQSozsOd7Jq7Sz30hlX4j9hItvv2kWSQlUNrYWBoQpp1MP7bPqqj8OLEW_xn2KuvJm3ruidBbA2wIOcnBx1IaE8W6eSQkjiO8sioVOTp1AnkFbx5bM39fO6DytbQ_wS5GxZqgbg_bEuz6P7o83PGb3IvthWaBdEkNRSb0A&csuir=1&mtid=nbTXatnLMPGM9u8PiIePiAo&lns_mode=cvst&udm=50>
+
+[Open message](transcript.html#m001541) · Source: chat.txt lines 1546–1546
+
+### m001542 · 2026\-10\-20 21:35:57 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001542) · Source: chat.txt lines 1547–1547
+
+### m001543 · 2026\-10\-20 22:01:20 · You
+
+> \<image omitted\> Remarkable voor hunzelf de G\-man pakketjes afleveren en doorgeef vrouwen
+
+[Open message](transcript.html#m001543) · Source: chat.txt lines 1548–1548
+
+### m001544 · 2026\-10\-20 22:01:42 · You
+
+> Remote control Al 4
+
+[Open message](transcript.html#m001544) · Source: chat.txt lines 1549–1549
+
+### m001545 · 2026\-10\-20 22:02:13 · You
+
+> CAR lies ARC 4
+
+[Open message](transcript.html#m001545) · Source: chat.txt lines 1550–1550
+
+### m001546 · 2026\-10\-20 22:02:26 · You
+
+> RC AR KINDEL
+
+[Open message](transcript.html#m001546) · Source: chat.txt lines 1551–1551
