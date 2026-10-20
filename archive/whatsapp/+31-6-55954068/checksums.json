@@ -2,18 +2,18 @@
   "algorithm": "SHA-256",
   "source_archive": {
     "path": "+31 6 55954068.zip",
-    "bytes": 1361415,
-    "sha256": "7f5ecbc6f1bd91b4f716ae8e35918f4d5428adb5fb6108d70dec458a0f09c46a",
+    "bytes": 1377793,
+    "sha256": "ae2027ca97588c80742e21f11bf1b6998b3cdfde28951318e2b2f0f989428056",
     "zip_comment_hex": "",
     "members": [
       {
         "name": "chat.txt",
-        "bytes": 686956,
-        "sha256": "6047bf2b3ea262810647dcff25fccb29b2cd1dc759ff4ca6ef310dc56cdb6fd6",
-        "crc32": "9bee2f18",
-        "compressed_bytes": 686956,
+        "bytes": 695269,
+        "sha256": "8d774c19beca0b507cc259dc8288509f5ad63c30122d630cac69eef96268f24b",
+        "crc32": "40e0a5c5",
+        "compressed_bytes": 695269,
         "compression_method": 0,
-        "zip_timestamp_local": "2026-10-20T07:25:08",
+        "zip_timestamp_local": "2026-10-20T17:17:52",
         "zip_timestamp_timezone": null,
         "zip_flag_bits": 0,
         "zip_create_system": 0,
@@ -23,12 +23,12 @@
       },
       {
         "name": "chat.md",
-        "bytes": 674255,
-        "sha256": "4a23d509ca402c031607a23488781c18b79e16e13fb2d2d88fed38ad24ad7df9",
-        "crc32": "54c9dcb4",
-        "compressed_bytes": 674255,
+        "bytes": 682320,
+        "sha256": "313628cc4daf34f6ade0fbee9fb7a89c19d6f7ae03219d57951942825c525d2d",
+        "crc32": "475bd30a",
+        "compressed_bytes": 682320,
         "compression_method": 0,
-        "zip_timestamp_local": "2026-10-20T07:25:08",
+        "zip_timestamp_local": "2026-10-20T17:17:52",
         "zip_timestamp_timezone": null,
         "zip_flag_bits": 0,
         "zip_create_system": 0,
@@ -80,6 +80,26 @@
       "sha256": "c867b4fdabe12ef4028baf3fa7677aeae146272626fe2686387046d73c941c02"
     },
     {
+      "path": "export-history/7f5ecbc6f1bd91b4f716ae8e35918f4d5428adb5fb6108d70dec458a0f09c46a/messages.jsonl",
+      "bytes": 3664699,
+      "sha256": "2f940fdfafeb2eb72868675fb82a805e6ce0ffcfb10db6f03cb179a0a5426bee"
+    },
+    {
+      "path": "export-history/7f5ecbc6f1bd91b4f716ae8e35918f4d5428adb5fb6108d70dec458a0f09c46a/metadata.json",
+      "bytes": 10337,
+      "sha256": "28771ccaf888f5fa0930090d4e340b2d87a7ba1b7a31437b15c5309c5e31b84a"
+    },
+    {
+      "path": "export-history/7f5ecbc6f1bd91b4f716ae8e35918f4d5428adb5fb6108d70dec458a0f09c46a/source/chat.md",
+      "bytes": 674255,
+      "sha256": "4a23d509ca402c031607a23488781c18b79e16e13fb2d2d88fed38ad24ad7df9"
+    },
+    {
+      "path": "export-history/7f5ecbc6f1bd91b4f716ae8e35918f4d5428adb5fb6108d70dec458a0f09c46a/source/chat.txt",
+      "bytes": 686956,
+      "sha256": "6047bf2b3ea262810647dcff25fccb29b2cd1dc759ff4ca6ef310dc56cdb6fd6"
+    },
+    {
       "path": "export-history/d1276687bdfeb0e916c226e4cd9b8de210d5fa5ebb8bc10c9350f991b2a3d356/messages.jsonl",
       "bytes": 2768405,
       "sha256": "af29480fd1d620cb26f3d774da682544cc9fcf2dd65133b01c088b870f506684"
@@ -121,18 +141,18 @@
     },
     {
       "path": "export-update.json",
-      "bytes": 3772,
-      "sha256": "7f20c5cff55d1cafaa08ac00a16b1c0a65297f1a6315fc311685a56e9f70c08f"
+      "bytes": 1056,
+      "sha256": "ade61beb2c3e27f31cd17c06784313a65f871d3c22034ff1890767f01c26bd9b"
     },
     {
       "path": "links.jsonl",
-      "bytes": 850066,
-      "sha256": "03cef546c60f47c391f25a2a12da5486b95491f6ad086450beab4c8499115744"
+      "bytes": 860273,
+      "sha256": "992aebdd3bb261811a15a64dc37f9368440b6fa53f5e230259f2d60b39e654c3"
     },
     {
       "path": "media-references.jsonl",
-      "bytes": 175713,
-      "sha256": "42bd39a75ed17dec5e1269bfc66096ffa1993f72468881c0c955168604f81d73"
+      "bytes": 179058,
+      "sha256": "f6fa710cfe043a0f4814b90da021555c0eb7aa7ae3292049bb0258f85cb583aa"
     },
     {
       "path": "media-sources.json",
@@ -157,7 +177,7 @@
     {
       "path": "media-transcripts/WhatsApp-Video-2026-10-13-at-20.51.20.json",
       "bytes": 36451,
-      "sha256": "f7ffdd68b0ae6301fd4e76fd320c4ed1e887013e3043a3e0e2efb1badb55517e"
+      "sha256": "bded8fc58139e60d0a2916b1fb0c82603ad12c5b40230c58bf260c69bd8fd6d8"
     },
     {
       "path": "media-transcripts/WhatsApp-Video-2026-10-13-at-20.51.20.txt",
@@ -167,7 +187,7 @@
     {
       "path": "media-transcripts/WhatsApp-Video-2026-10-13-at-21.55.28.json",
       "bytes": 10357,
-      "sha256": "08484fb86cbd7369ca423f72029c5100b72ff9ff849c96662ec96f94b9aab35e"
+      "sha256": "fffb513573407829abace249ee3e4159c853a9736c47a098539eb16d469b45fb"
     },
     {
       "path": "media-transcripts/WhatsApp-Video-2026-10-13-at-21.55.28.txt",
@@ -177,7 +197,7 @@
     {
       "path": "media-transcripts/WhatsApp-Video-2026-10-13-at-22.10.28.json",
       "bytes": 10493,
-      "sha256": "95b807f5241962dff1825c789b4a6ae0b39476ae255021d5cc0aba5f8c486fd9"
+      "sha256": "6aa7ba464e592a6c14fba7ebb040a4f0412bd50fbfeea9d8f965f0a4ee225d55"
     },
     {
       "path": "media-transcripts/WhatsApp-Video-2026-10-13-at-22.10.28.txt",
@@ -186,33 +206,33 @@
     },
     {
       "path": "messages.jsonl",
-      "bytes": 3664699,
-      "sha256": "2f940fdfafeb2eb72868675fb82a805e6ce0ffcfb10db6f03cb179a0a5426bee"
+      "bytes": 3711784,
+      "sha256": "cd32ba27797af0eae25b0b3c5af9282c58776fe38404c6075200e0861e82642c"
     },
     {
       "path": "metadata.json",
-      "bytes": 10337,
-      "sha256": "28771ccaf888f5fa0930090d4e340b2d87a7ba1b7a31437b15c5309c5e31b84a"
+      "bytes": 7260,
+      "sha256": "e1ea73751308f2a1fc669f2c70778cf6adcd73c65e0280dbd77e511ff04d995a"
     },
     {
       "path": "README.md",
-      "bytes": 5736,
-      "sha256": "18e10d7e8b23d729268473b1cd801a53fc72763e02579b668fbf7d314b8e9850"
+      "bytes": 5735,
+      "sha256": "9eb9289cb001e134125ed4f9b6de32dc2403b0d37cce36dd49bc96c308eaac56"
     },
     {
       "path": "source/chat.md",
-      "bytes": 674255,
-      "sha256": "4a23d509ca402c031607a23488781c18b79e16e13fb2d2d88fed38ad24ad7df9"
+      "bytes": 682320,
+      "sha256": "313628cc4daf34f6ade0fbee9fb7a89c19d6f7ae03219d57951942825c525d2d"
     },
     {
       "path": "source/chat.txt",
-      "bytes": 686956,
-      "sha256": "6047bf2b3ea262810647dcff25fccb29b2cd1dc759ff4ca6ef310dc56cdb6fd6"
+      "bytes": 695269,
+      "sha256": "8d774c19beca0b507cc259dc8288509f5ad63c30122d630cac69eef96268f24b"
     },
     {
       "path": "source-comparison.json",
       "bytes": 4098,
-      "sha256": "ddc0ce286adace52b2a3576aaf739d19d66828c8f5ce2d0ff76a1209c2e0b86c"
+      "sha256": "0fc3d138e48a2442441ac5e534d3bbe43dbb250294dc1c61b3fc6b785988dcf9"
     },
     {
       "path": "supplied-media.json",
@@ -221,23 +241,23 @@
     },
     {
       "path": "transcript.html",
-      "bytes": 1690463,
-      "sha256": "1f0c697e4c33aa5c1f9fc9ddaebf891e45fd6219154e690660cedff3c646ae35"
+      "bytes": 1711473,
+      "sha256": "78fd80819fedcbd144c03ed2303fc1289a80a7e98045973823ae122243985a07"
     },
     {
       "path": "transcript.md",
-      "bytes": 841350,
-      "sha256": "782fcd88152c3199b294949d14aa88fd2eff5be354fb30f235ef38f4ae0aae82"
+      "bytes": 851971,
+      "sha256": "185fe5bb126640bdfefdc32381ca706ec85992aa9448248a0c4d44bf01ff0107"
     },
     {
       "path": "transcript.txt",
-      "bytes": 703414,
-      "sha256": "6fe407df8d4ce680764060ef21080374f6ae45c7365df1b8d1fe7e35ad022849"
+      "bytes": 711924,
+      "sha256": "23a511576f97bcde1cd3aa9b85c8bb3132e2281ec7faca1667c5cc07c97efde9"
     },
     {
       "path": "validation.json",
       "bytes": 897,
-      "sha256": "57d2c8e109440ddddafdae511e9a049522a43854e5ad56acd0f6f1c0644a9e48"
+      "sha256": "778940cd5a25c690777006211dd9ba93c6e399360d295e79ec7db1a5634541e8"
     }
   ]
 }

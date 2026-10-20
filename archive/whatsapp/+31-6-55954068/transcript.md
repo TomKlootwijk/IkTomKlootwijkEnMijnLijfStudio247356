@@ -1,6 +1,6 @@
 # WhatsApp archive: +31 6 55954068
 
-1,515 messages; 2026-09-23T06:40:13 through 2026-10-20T07:23:22. All timestamps are the exported local time; the source does not specify a timezone. All source sender labels are preserved. Media marked omitted is absent from the supplied ZIP.
+1,538 messages; 2026-09-23T06:40:13 through 2026-10-20T16:46:14. All timestamps are the exported local time; the source does not specify a timezone. All source sender labels are preserved. Media marked omitted is absent from the supplied ZIP.
 
 [Archive metadata](metadata.json) · [All links](links.jsonl) · [Media references](media-references.jsonl) · [Source comparison](source-comparison.json)
 
@@ -9173,3 +9173,141 @@ Separately supplied image: [text transcription](media-transcripts/image-2026-10-
 > <https://www.google.com/search?q=personally+pleasing+aesthetics+%28no+autocorrect%29&client=ms-android-xiaomi-terr2-rso2&hs=QZqq&sca_esv=b9aa9d5decff392c&sxsrf=APpeQnt3S1EtprFFAZkajzWXS9VLlitk9A%3A1792473605726&ei=8_nWatHWCIvIi-gPlN_d6Ag&biw=375&bih=691&sclient=mobile-gws-wiz-serp&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7nymj7qwomXHj_SiILyyw7TcR3PVsX7LYP5lqUywwLYwse9eq2FeU_-NVh-70aseSA4lTx9cXY16UPdF4e2jlvrjfGwp&aep=10&ntc=1&mstk=AUtExfDgP_nouqGkgBZ3O6U-sZJi8bkzVmhcwH8lOtx6XJre1-d5xKo9vfr8Yr_wr2WS6j4WA9S6uWs2dKF90YMjJ6i_uuHzBy_37nfxJNPAQLgeP-FqGP4hkDyhGYszSdnoulo5x-MLOzHLPrkjE011Wmrvpl-wpIhTQciVfK17Smo5fkNbyS8Xlt4U8n_63tzEJCPnhh_EJBtRgGbKcnp-CM7HCsrEg3m3dBQLrHVl3ktYRFZx3344Y6agw5wUjRNRGn73qRFPH2RJP0Ego0LZ9BRZXHm0Ujv6Cl0NMNLMgigDJXfAzkrcCgmwfue6WIuYMVdwLpFIJOlj3Q&csuir=1&aioh=3&mtid=BvrWav_2A53ri-gPuY64qAs&udm=50#lfId=ChxjMe>
 
 [Open message](transcript.html#m001515) · Source: chat.txt lines 1520–1520
+
+### m001516 · 2026\-10\-20 07:57:27 · You
+
+> <https://www.instagram.com/reel/DetCIQngbFU/?obrf=c3prNGU1enBkaW52>
+
+[Open message](transcript.html#m001516) · Source: chat.txt lines 1521–1521
+
+### m001517 · 2026\-10\-20 07:59:17 · You
+
+> \<album message\>
+
+[Open message](transcript.html#m001517) · Source: chat.txt lines 1522–1522
+
+### m001518 · 2026\-10\-20 07:59:17 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001518) · Source: chat.txt lines 1523–1523
+
+### m001519 · 2026\-10\-20 07:59:17 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001519) · Source: chat.txt lines 1524–1524
+
+### m001520 · 2026\-10\-20 07:59:17 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001520) · Source: chat.txt lines 1525–1525
+
+### m001521 · 2026\-10\-20 10:22:35 · You
+
+> <https://www.google.com/search?q=chrono+spatiotemporal+hysteresis&client=ms-android-xiaomi-terr2-rso2&hs=2wVB&sca_esv=cbcfff1caab717ac&sxsrf=APpeQns84SyXB85jWkzTINY5GAuhhDfUHQ%3A1792484383362&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwIgLtPdGtXl-1ukUntONsOMkLK8Wjg5QbsFQsyTdBlDyIWYhgxyDNTy0wPRmWscMhXPcoRl2IGiedJq-Ou7bktAThMu4NA9p70Yhev5koDcBW5-E_NLUvu30_BOJKw7r_p9-3Y2&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjrvr3XlMiXAxUp9LsIHadNGG8Q2J8OegQIERAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfBkPJGs-wZW00pkUarpvtFZtLzJjBlgj5pV3THNuTrNtlXE4eY-S8wCSYG5tNKyiIU4nJ8ByNpMArhQNPZouhqQu65OiUCSJkZ8pYmtm7hJ7NUNFLMYi26HTWIWri2hTgf9W131nGVShKzcIW7uuz77QZP6nqcfu-uvQOhCD3YlDe77u6X9ZUDOuGKthC-JGMyoG9J5vlEvH-518nY9VrtOMNNZGwffBI5lvfknf_1nUHfTqwinbpzWm73Gx5mCjT61-orb0qs7GQ&csuir=1&mtid=ICTXavmOKdiE9u8PpsHjuAg&udm=50>
+
+[Open message](transcript.html#m001521) · Source: chat.txt lines 1526–1526
+
+### m001522 · 2026\-10\-20 10:22:40 · You
+
+> \<document omitted\> Architectural\_Specification\_Mandate\.docx
+
+[Open message](transcript.html#m001522) · Source: chat.txt lines 1527–1527
+
+### m001523 · 2026\-10\-20 10:44:08 · You
+
+> <https://www.google.com/search?q=so+I+%28Tom+Klootwijk+NL200678942+10-07-1990%29+have+an+idea+based+on+my+paradigm&client=ms-android-xiaomi-terr2-rso2&hs=yHBW&sca_esv=cbcfff1caab717ac&sxsrf=APpeQnuz_GPFK7qfIq5N3SS2X5qqzM3oBA%3A1792485456568&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UfVcuk_CN5lZ7ooDDWHK2Mvzz3zSAVajbtoCgDcY4ClkqSY2KMHBVEZtzZXhvZhOAYOei-ZwZNbTP-zA17u6NI3tEs6cG6hn81aUxnDhSOjSjwakoJQVHh0SeQ8h1zJd7wJVl3n&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwi4gZ3XmMiXAxUU3AIHHToXEPEQ2J8OegQIDRAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfBf5Pk797_eo24qNQZxp3jx7Lj8dtAwK0JuE7skA1LrgNaOTVfcqE0LHLSpnqHnIhqgvdf4mKbDzlPi-dlHwjmN-WLfGLxAeKyCCGVIsvQpxcqkGvCOgyDO8Rk9llyJXXIqN8K3evfgQAWGsihzlKf5wqyVu4BXhjgnO57Ano1bZVcBUYPzgBVx4qS0oODAJoPJKV2VKMwK6hcMz62FwurAOVHNJEK_9gnAS57ouRvVcXyUyGRYhjSNvMms81e7YGQN-pw8f38IdjPqU_B6q0Us97MunhX1o4TXgeDnK5A-Lulwyyl2L_uKvJNAOTEUD1oNFfZhFrDcxw&csuir=1&mtid=USjXasLyJuTBi-gP36-hIQ&lns_mode=cvst&udm=50>
+
+[Open message](transcript.html#m001523) · Source: chat.txt lines 1528–1528
+
+### m001524 · 2026\-10\-20 11:01:46 · You
+
+> <https://www.google.com/search?q=hypercube+tron&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ0MDhqMGo3qAIPsAIB&client=ms-android-xiaomi-terr2-rso2&sourceid=chrome-mobile&source=chrome.ob&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gKjm3rhh_G8jdZ2Q6tji4z8Mva6cfvBj5rpPch2IC955IbzrbwHf6tkbFbd-nuFdbKth9Y-58t5LtnYgTA4TWDFYCUNl4d7F9XBAwiEq2T2c7SNgrvMxYiRBXL4fnQnnTOewx28&aep=10&ntc=1&sxsrf=APpeQnvXG61WzwODIitcPMy5DXE51zxNIw%3A1792486084190&mstk=AUtExfDsFS78yD3z_caqG01QqB6hsiSF-qG4eFuIHrIvr7VTlrAfEAsOrpg4UNXRLwgyQMCMMdsLOwK6tCylVrRG9aQwVPKOsomfW0cPaF-na2x53G2A-oYr9iZWFDSnA19emS7IqxXjtBoafZfC6PVk4Z46ALd-OeQu9KLUUqPbg0aFXpyuaauHsEeVu8zvJoSj7GcgIaWiFI7eTvlAvUB4D8QOD6iFyOSdcErIGmlqYgDnoexkwgA47CLQBRaalD2QkjembZjJQgRwkYx2biqipNMVz3xSVTpBLUjjLg-sXuF9kIV5HCF0RXVdrf7o6QJEksFTK2t8upKh9A&csuir=1&aioh=3&mtid=xCrXau_sI766i-gP9YCCyQo&lns_mode=cvst&udm=50#lfId=ChxjMe>
+
+[Open message](transcript.html#m001524) · Source: chat.txt lines 1529–1529
+
+### m001525 · 2026\-10\-20 11:11:15 · You
+
+> <https://www.google.com/search?q=stemvork+cylinder+pons+kaarten+systeem+en+hefboom&client=ms-android-xiaomi-terr2-rso2&hs=rxVB&sca_esv=52bfc3f059da9228&sxsrf=APpeQnsoE46HAgftY9iB_dR9NVr1za6cEA%3A1792487402269&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UdFAe4qAwsQWVbrtprjzBSpnJQOWUbUFy0AZP2fc5_e7wQK9SpSaccWZEM8174slgzA7lL9Jp-FedBms3jKtDYRkzLfYMnDYMy5pBIIBgIQaS46ps0&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwi5lIH3n8iXAxVB9bsIHcz5OocQ2J8OegQIDxAE&mstk=AUtExfDcjGt78mkm7piTsU0ZFsif6kEoS2mrm7Wje0XRjJm9RnMdzE21A8YtW4GX5lWFArSaHMu_yLXcGzU7vdfz4Zxb54RSlqEQtPyfkJaH63HeI_IOpgRUW-tC_eDydju9JT_t1gbzPowvO4ReqOBhluxwY_tBf8y4CuTLlAhxiBp7GyBaGUUZfUodSBu4g4aDqq9TtRXh1IxdnARobbml7oj9ubsQkiDfBQWttFLnAtJYWp0YMgiF2GeQDPSDiNuuYWLgdrs8Z1N1cQ&csuir=1&mtid=6y_XaoeWKOn-7_UPq4alqAQ&udm=50>
+
+[Open message](transcript.html#m001525) · Source: chat.txt lines 1530–1530
+
+### m001526 · 2026\-10\-20 12:18:51 · You
+
+> <https://www.instagram.com/p/DehPZR1oqt2/?srtk=MWR3Z3B0dXJ2dWRyNw==>
+
+[Open message](transcript.html#m001526) · Source: chat.txt lines 1531–1531
+
+### m001527 · 2026\-10\-20 12:18:52 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001527) · Source: chat.txt lines 1532–1532
+
+### m001528 · 2026\-10\-20 12:34:31 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001528) · Source: chat.txt lines 1533–1533
+
+### m001529 · 2026\-10\-20 12:34:36 · You
+
+> <https://www.google.com/search?q=the+only+unbreakable+cryptographic+cypher&client=ms-android-xiaomi-terr2-rso2&hs=lJBW&sca_esv=feafabee12f6b14a&sxsrf=APpeQnuzkswLiNT6D6AcHkETVVuWCr-Mtw%3A1792492129588&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE-Dsslc-KGKq55jF_BVsFlBETcQE9jpeDgApPlcTya2OKW8vbKQTnU7tGyvk145UpLIa8TptZWselJhHRoitIQXc7GWwPUee9yYZFUBDfyJJNmKciYlOdkqHQk_xjIE35XbMrIKtaHGV_iw4nhvfZ7MJL-ir&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjAyJXFsciXAxU99QIHHaK0DWAQ2J8OegQIDhAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfBQEBVuaLZVHC0SUmlbw_HRjhl9GW8x53Cw3p5T3uNXlBGrfpZiK5bqjPqiyXuMX2a9cU9ycepzusFyT7q4A4rKkDCPL2SzKPSiyt-4eTqQP6ADJgPqhzgKZs9S4sGpvWa--qAJTa54Ss6PIpjfFnm2VyGNEycDLFUMgYYbm6ZmshutgyOMbew6w5deGFHHBMGVH2xoEUWVNhar3NghsWxTdqPYV8-mSPAZ8EjXEYaNXKTX58rXq4vQZg2jj4b2VoXhhB45czji9Q&csuir=1&mtid=Y0LXauRByon53w_cuO6ZDQ&lns_mode=cvst&udm=50>
+
+[Open message](transcript.html#m001529) · Source: chat.txt lines 1534–1534
+
+### m001530 · 2026\-10\-20 12:54:07 · You
+
+> <https://www.google.com/search?q=the+only+unbreakable+cryptographic+cypher&client=ms-android-xiaomi-terr2-rso2&hs=lJBW&sca_esv=feafabee12f6b14a&sxsrf=APpeQnuzkswLiNT6D6AcHkETVVuWCr-Mtw%3A1792492129588&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE-Dsslc-KGKq55jF_BVsFlBETcQE9jpeDgApPlcTya2OKW8vbKQTnU7tGyvk145UpLIa8TptZWselJhHRoitIQXc7GWwPUee9yYZFUBDfyJJNmKciYlOdkqHQk_xjIE35XbMrIKtaHGV_iw4nhvfZ7MJL-ir&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjAyJXFsciXAxU99QIHHaK0DWAQ2J8OegQIDhAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfA6oCKnDVS530bLm8jODzUDQAOBG4sZle3xNdicW1mS3lyAt6EVIJsuFkeR-NF8HRFzQ-YRtnTzrxdeOj7ofWoAm2Ym65QdhP2m4Xtk5m2-ykyEzc-jqqIovfEl9UHNGyawakM_E5oshJeuNrQqItZYlctAijYDMwDAHf0DWwhFrvORtB_VqoemxNM0qIynhvAYNEDipXOJ47YehJco5b-ci6uFe5hkHJozmtTHhui36fsxMmu726bmiY0oGqS-ekMl3s7jfTCp3g&csuir=1&mtid=Y0LXauRByon53w_cuO6ZDQ&lns_mode=cvst&udm=50>
+
+[Open message](transcript.html#m001530) · Source: chat.txt lines 1535–1535
+
+### m001531 · 2026\-10\-20 13:03:57 · You
+
+> <https://www.google.com/search?q=the+only+unbreakable+cryptographic+cypher&client=ms-android-xiaomi-terr2-rso2&hs=lJBW&sca_esv=feafabee12f6b14a&sxsrf=APpeQnuzkswLiNT6D6AcHkETVVuWCr-Mtw%3A1792492129588&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE-Dsslc-KGKq55jF_BVsFlBETcQE9jpeDgApPlcTya2OKW8vbKQTnU7tGyvk145UpLIa8TptZWselJhHRoitIQXc7GWwPUee9yYZFUBDfyJJNmKciYlOdkqHQk_xjIE35XbMrIKtaHGV_iw4nhvfZ7MJL-ir&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjAyJXFsciXAxU99QIHHaK0DWAQ2J8OegQIDhAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfDUyycwv8AnmFKuKT273KdA9yRJGdLzrLYpmbqRj41iQJhFPVAzD0gKj0ByvdfrrKdudXzBtc0vH_pAFQ54zlBnbX6sJZOvgpm9jwsNNj7N9-77uZtNF-Dy-OBbYSQpmkMyybkDfYIHsC1iBSMCsur8rN8tytiq7BRlfbjOaZkNNwh-npX8Zj-KHphmO4vFQQZYGs2pccHF6yI2FnJ7B6_BWuZPJ2E4MLsyhHGoiLrKjm82_jRIpDv3_VQxPzIbiRmK48yezA6dXQ&csuir=1&mtid=Y0LXauRByon53w_cuO6ZDQ&lns_mode=cvst&udm=50>
+
+[Open message](transcript.html#m001531) · Source: chat.txt lines 1536–1536
+
+### m001532 · 2026\-10\-20 15:08:35 · You
+
+> <https://www.google.com/search?q=shadows+are+like+cuastics+except+preparaat+1+lipids+preparaat+2+carbohydrates+biomechnical+biochemical+tau+tau+mu+mu+double+hadamard+products+atomic+clock+chemical+clock+prayernut+Rijksmuseum+mechnics+PHI&client=ms-android-xiaomi-terr2-rso2&hs=9LBW&sca_esv=aff93836cf73338d&sxsrf=APpeQnsflCY6kHO8trAkd1st1xwRI_PvOw%3A1792501006964&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832UV2GkpKEK36HumGR10Evz150YHLBZQrC7jm5_C-J-0f2Q2-5NUPD-TCpE8QyvxVIQ0CkdxfEAAqsZqW0D68D58P2afldorgANWKJGEiDXfIEJFp9eDzfr7CE0Ez67Lb-dbR5IJNrKdTr3Nj7fUU0R12K95Y&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiP9Z3O0siXAxXMhv0HHcsPJMoQ2J8OegQIEBAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfBDSoSeYU0LvcOIseZElJau1MvWUEhmkSDtRZSuzZkr4oqr3JJwrV1KND7ZMlHK9MHMFjyC4AKk84Aa2I6mjCoAo-sNeKaS5hW554xjAhGJg3Y6bMxerQSzvMUNBavMcGv4WWRtCZ5JmJ_ccKuWIaEssObP-rNpYg-JsKBY9CqJJXOrMlxk_Y9qalAUonEUr8QGekV5JNgXbD593_JcJ6Ra7ZMZlNvsfqDjNrOECKkjitXUvWvn8bQw0imvQN0SEldC2d5XPnG3KErvNebh4HB6K8kHROrYTrEWvgapfnP8s4etceNw9pBdUQpkwPMbCfZTR069NFUZLQ&csuir=1&mtid=EGXXaqSzDtuN9u8Pz9ThgQ4&udm=50>
+
+[Open message](transcript.html#m001532) · Source: chat.txt lines 1537–1537
+
+### m001533 · 2026\-10\-20 16:05:19 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001533) · Source: chat.txt lines 1538–1538
+
+### m001534 · 2026\-10\-20 16:06:18 · You
+
+> Sex?
+
+[Open message](transcript.html#m001534) · Source: chat.txt lines 1539–1539
+
+### m001535 · 2026\-10\-20 16:08:03 · You
+
+> Sorry, ik stond even the gluren, niet netjes
+
+[Open message](transcript.html#m001535) · Source: chat.txt lines 1540–1540
+
+### m001536 · 2026\-10\-20 16:08:06 · You
+
+> Van mij
+
+[Open message](transcript.html#m001536) · Source: chat.txt lines 1541–1541
+
+### m001537 · 2026\-10\-20 16:08:33 · You
+
+> Hoe heet jij eigenlijk, coole tattoo en beterschap met jouw enkel
+
+[Open message](transcript.html#m001537) · Source: chat.txt lines 1542–1542
+
+### m001538 · 2026\-10\-20 16:46:14 · You
+
+> \<video omitted\> de huisvleeeeg
+
+[Open message](transcript.html#m001538) · Source: chat.txt lines 1543–1543
