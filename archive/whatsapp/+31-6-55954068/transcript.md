@@ -1,6 +1,6 @@
 # WhatsApp archive: +31 6 55954068
 
-1,546 messages; 2026-09-23T06:40:13 through 2026-10-20T22:02:26. All timestamps are the exported local time; the source does not specify a timezone. All source sender labels are preserved. Media marked omitted is absent from the supplied ZIP.
+1,569 messages; 2026-09-23T06:40:13 through 2026-10-21T18:16:58. All timestamps are the exported local time; the source does not specify a timezone. All source sender labels are preserved. Media marked omitted is absent from the supplied ZIP.
 
 [Archive metadata](metadata.json) · [All links](links.jsonl) · [Media references](media-references.jsonl) · [Source comparison](source-comparison.json)
 
@@ -9359,3 +9359,143 @@ Separately supplied image: [text transcription](media-transcripts/image-2026-10-
 > RC AR KINDEL
 
 [Open message](transcript.html#m001546) · Source: chat.txt lines 1551–1551
+
+## 2026-10-21
+
+### m001547 · 2026\-10\-21 06:10:32 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001547) · Source: chat.txt lines 1552–1552
+
+### m001548 · 2026\-10\-21 07:49:53 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001548) · Source: chat.txt lines 1553–1553
+
+### m001549 · 2026\-10\-21 08:43:18 · You
+
+> <https://www.google.com/search?q=spectral+rainbow+%F0%9F%8C%88+quad+arch+frequency+bands+2.5ghz+5ghz+bluetooth+diff+CSG+synthesizer+spiderweb+topoloogij+%27T&client=ms-android-xiaomi-terr2-rso2&hs=nHWB&sca_esv=882e2611175d5c4b&sxsrf=APpeQnvgUgc3fkbp5keUgDFUG3WGNq0Rrw%3A1792561618426&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLzR4RIindJxFrmQWQ1WCYgKz-fVa4QKWHA2SIXwumHXdsgWSwSRthiGglnOkse4JRc34j7qjIs9Sy84JN3GFvDnekCLzlbxtIC9CtCm-BfUlFK6x6EsqZJ8yUCyZqK5nLpHfuCj&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjE6YO0tMqXAxV9Q_4FHZeMLIkQ2J8OegQIDhAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfBz8nhPumLjVopJ7uODW7_9u8Oehg-oywhvaidbFvIBCX_4UhBOYr8UFNxuW0PTMeBscvqXh3e3jH74LnyjLANEySyABSQYpIeMejW0kxIDB6NMz73OWTEH2-s5w6QhmBFQq-LwozAE-IfL8r4o-1GjBw8Y36ceNOKM5QH65XKFpfEGSSaYvxiXYAteGTKrxHU5tL6ZcaPMMx9lXPLjIU_MKMPu5yXm3wpdahe4gOE6Pe5G8SKX8ua1ETRTZqtnk0jPKsEwZ1WHnUKp48bmiKCD1AACu7HPfGPVistDi62ImgrisNh7CntaGICIVdfGAi3Zlv0r5lUE1Q&csuir=1&mtid=01HYavXKM-LWi-gPw7HJ0AQ&lns_mode=cvst&elids=CIDb9Oay56bLpwEQARgBIhCdDUatm1wDEeDoRV2XJTE9MoEBIgJyYSggQnMKLmxmZS1kdW1teTozZDM4MWYwOS00ZjAxLTQzM2QtOGI0Yy00ZGUzNDU1NzkxYzQSQQo_L2Jucy9yYS9ib3JnL3JhL2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzg2WgQKAnJhOIjXt8-1ypcDUABqCmltYWdlL2pwZWc&udm=50>
+
+[Open message](transcript.html#m001549) · Source: chat.txt lines 1554–1554
+
+### m001550 · 2026\-10\-21 08:54:59 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001550) · Source: chat.txt lines 1555–1555
+
+### m001551 · 2026\-10\-21 09:08:34 · You
+
+> <https://www.google.com/search?q=spectral+rainbow+%F0%9F%8C%88+quad+arch+frequency+bands+2.5ghz+5ghz+bluetooth+diff+CSG+synthesizer+spiderweb+topoloogij+%27T&client=ms-android-xiaomi-terr2-rso2&hs=nHWB&sca_esv=882e2611175d5c4b&sxsrf=APpeQnvgUgc3fkbp5keUgDFUG3WGNq0Rrw%3A1792561618426&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLzR4RIindJxFrmQWQ1WCYgKz-fVa4QKWHA2SIXwumHXdsgWSwSRthiGglnOkse4JRc34j7qjIs9Sy84JN3GFvDnekCLzlbxtIC9CtCm-BfUlFK6x6EsqZJ8yUCyZqK5nLpHfuCj&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjE6YO0tMqXAxV9Q_4FHZeMLIkQ2J8OegQIDhAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfCl0PyarWz-3QNL9Ntckuy7dA4P_NtgNZ9VfdM1mpvULPe_6xHCy-bVb4W6og--sx2VD1o5AxBO2w7FLBBz4QoydCRMMMZbBQ_Ap046jDa5LNyiYXT38obPh3h-kSk0nW66OcwOh-fq4bPvUBClER_dw1EhdSm8V52WSBv150HEdmutRhcigwOjJcqKdJWKF3k_epZBk5ERb9ca5MOBjxgrKwgfVwCd0reHS9uuqKeAyB1D5XXkTuOHbnykwbz0LhB8n_Xgjw_HWh5wSOd6p9HQ2vKvj1JJ5cf78BM1PK8a9kp03j7-QBAhtn0Lyi4hlrHT-uWYrTyhJQ&csuir=1&mtid=01HYavXKM-LWi-gPw7HJ0AQ&lns_mode=cvst&elids=CIDb9Oay56bLpwEQARgBIhCdDUatm1wDEeDoRV2XJTE9MoEBIgJyYSggQnMKLmxmZS1kdW1teTozZDM4MWYwOS00ZjAxLTQzM2QtOGI0Yy00ZGUzNDU1NzkxYzQSQQo_L2Jucy9yYS9ib3JnL3JhL2Jucy9sZW5zLWZyb250ZW5kLWFwaS9wcm9kLmxlbnMtZnJvbnRlbmQtYXBpLzg2WgQKAnJhOIjXt8-1ypcDUABqCmltYWdlL2pwZWc&udm=50>
+
+[Open message](transcript.html#m001551) · Source: chat.txt lines 1556–1556
+
+### m001552 · 2026\-10\-21 09:37:31 · You
+
+> <https://www.google.com/search?q=post+hawk+justification&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDY3NTZqMGo3qAIPsAIB&client=ms-android-xiaomi-terr2-rso2&sourceid=chrome-mobile&source=chrome.ob&ie=UTF-8&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832a9BVCEiB2iPJNekNderQwJGZIG7YID1eBGNWasq2rzBIURiSCrdR156KVg_RXap7vnQU6QWmnWBznGVLK1G8Rykll-s04_elOQbRleKreNqN6HKk20ZyZ-d8SXGwXAN8EIvObbF33JhfJkDoGbxHTj31od_&aep=10&ntc=1&sxsrf=APpeQnv0kAqbzJPhvecc3sxvgNl5Ot30wg%3A1792566847064&mq=Rosie+goggles+tinted+focus+group+prism+NASA+aliens+foreign+threat+actors+assymetric+infiltration+of+goverment+and+society+and+institutions&ved=2ahUKEwj9-rLxx8qXAxVsZv4FHeivC8YQ7tASegQIAhAP&mstk=AUtExfAw_OA1ZHQB-g34qcUBfaI8fHY9JinuyHf9MNBZfHKTDIg3-mvgyYmUXeZ0g_TvoLojCQvlNUDtEnRmo1yf2S44hOCuu5dZEw1WnBH-UpncC1FPxrTnr9ewl2ZcqpVlFjORgtkUI0LHegFY6l4e9usQ1m75us_w-FoxfNgdIlUWscSNvyo-mhM6nb_TJ9HPH9o-9aWL_vycOJl3Te_5MOGju_ea6Qy8TW01mTVqgoBp7zKe2Hz-1NLcykziiV5AXNo4NsZSgoyhllwXQq-t-R0KNeIsXawo9QBTsTIEx2v8ZZoB6Kmhu7Zqp7NILtYjrV_D30q-9Z3GVw&csuir=1&mtid=gWbYauv0MZrqi-gP1Lqh4QE&udm=50>
+
+[Open message](transcript.html#m001552) · Source: chat.txt lines 1557–1557
+
+### m001553 · 2026\-10\-21 09:57:09 · You
+
+> \<image omitted\> Opaalstraat Regenboog groep Koenders den daas oppaallaan 0 palen 1 president predikaat Koninklijk J\.I\.T\. verzuring
+
+[Open message](transcript.html#m001553) · Source: chat.txt lines 1558–1558
+
+### m001554 · 2026\-10\-21 11:24:12 · You
+
+> Sowieso
+
+[Open message](transcript.html#m001554) · Source: chat.txt lines 1559–1559
+
+### m001555 · 2026\-10\-21 11:24:16 · You
+
+> Grote wegspelen
+
+[Open message](transcript.html#m001555) · Source: chat.txt lines 1560–1560
+
+### m001556 · 2026\-10\-21 12:31:25 · You
+
+> <https://www.google.com/search?q=virgin+suicide&client=ms-android-xiaomi-terr2-rso2&hs=f1qq&sca_esv=c12fc4d47e39017d&sxsrf=APpeQnse7BagfuynwTHJ24x8xehET_eMXg%3A1792578652894&udm=50&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UdFAe4qAwsQWVbrtprjzBSpD5WmxHV9GQVdPkL5dutr9Tsk9Psqv8-BeuxQCSKzxuGpkDeZ8iXI-CcjRzWQgvHa7UDv7gTcjy-XfyZymi1rYZAPBLe-_W1YsnfcpDzTRDqEt_20&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwj7u9ju88qXAxVOgP0HHYhMJlkQ2J8OegQIDRAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfDl1FQ6Nhs50tV27qSeJhvDFGuHl_Xea4tzlU8H_F15Qm-zqdXSLNPfwEMWOzZP6iPn6iTCX3Y1HHCiJtpA4hAhKjQUsgSoqPqRY_fRu-oR3-aQSxWUEWTDmYs4gQ_yHxf4ODzQj22Db0t6RPvjMSux2_0JmoGo0jlq14UWM76XphfuByQOw7MF4inaKBb7tsraiMmmvAnfJDyukuc95G1uA6et2Daczl0eCE4Y6tfcMR17ELVpIlN-qUxRIRgKoLOYM8QcJvRrs3ZbifmDaBttpgNe2rneeRDTDnQu2wP2ZVETMLkQYOMR3vvQsCxdqJbnksfG39Mf5w&csuir=1&mtid=XpTYavrJNMr_7_UPv5KZyAE>
+
+[Open message](transcript.html#m001556) · Source: chat.txt lines 1561–1561
+
+### m001557 · 2026\-10\-21 12:54:42 · You
+
+> \<document omitted\> Tom\_Klootwijk\_XD\-TAU\_Architectural\_Paradigm\_v1\.5\_Complete\_Specification\.pdf
+
+[Open message](transcript.html#m001557) · Source: chat.txt lines 1562–1562
+
+### m001558 · 2026\-10\-21 13:46:19 · You
+
+> <https://www.reddit.com/r/thenetherlands/s/ZW8NlfurLQ>
+
+[Open message](transcript.html#m001558) · Source: chat.txt lines 1563–1563
+
+### m001559 · 2026\-10\-21 13:47:17 · You
+
+> Daarom redteam ik mijn eigen XD\-TAU architectuur padadigma
+
+[Open message](transcript.html#m001559) · Source: chat.txt lines 1564–1564
+
+### m001560 · 2026\-10\-21 13:47:43 · You
+
+> Ik kan het natuurlijk niet in verkeerde handen laten vallen
+
+[Open message](transcript.html#m001560) · Source: chat.txt lines 1565–1565
+
+### m001561 · 2026\-10\-21 13:48:43 · You
+
+> \<image omitted\>
+
+[Open message](transcript.html#m001561) · Source: chat.txt lines 1566–1566
+
+### m001562 · 2026\-10\-21 14:07:27 · You
+
+> <https://www.google.com/search?q=omelette+du+fromage+dexters+laboratory&client=ms-android-xiaomi-terr2-rso2&hs=tNWB&sca_esv=06e88915fa4d4c07&sxsrf=APpeQnvy5f9sQD7lR78s8T70YGKvuu_QbA%3A1792584280641&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLzR4RIindJxFrmQWQ1WCYgKdh4SxzhRaOVvt3n87StoAMoDgDvBnjZ4Njf4yAaLs3QhOmFAyDpw9_i3qcRrE3hq_HfYRuhUIW2IGakVmpMJ6tRNQeh__uTkxGdva2OaNUe00HhT&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiS6JvqiMuXAxVDhP0HHVjPKlAQ2J8OegQIDxAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfBZ5RLV7olB8i2qhH-AcffjualJ07X0Ca_apN4SBi68jdvKb_sYhqi9Omvbk8ZiwXYxeJda87rCvpEoRKYOD1KxsQ4WuV3nz7A7zSzrhRTaYDcvhZvOO5dnVR9JQy81xUZoowMzmoSVmA5dZZjthWS6le3TN6IVvADrV_pT37LTmxiMCOkeXJr-rY5HtcAaxd_KTvEtD_01RyXgU5ToV0rejhUyXb7fBkl7A89O8MtKSfZ50NSVKSpEZGiuPQ_epXPmSN16OD4etw&csuir=1&mtid=WarYapvsPJn97_UPzaDwoQ0&udm=50>
+
+[Open message](transcript.html#m001562) · Source: chat.txt lines 1567–1567
+
+### m001563 · 2026\-10\-21 14:32:52 · You
+
+> \<document omitted\> Google\-Search\_wincester\-hansie\-2e\-anekkey\-de\-key\-63\-amlm\-kutje\_20261021\-1432\.pdf
+
+[Open message](transcript.html#m001563) · Source: chat.txt lines 1568–1568
+
+### m001564 · 2026\-10\-21 16:40:43 · You
+
+> <https://www.google.com/search?q=waarom+is+ballast+nodig+bij+een+hijskraan+om+tau+tau+op+te+tillen+dus+balast+mu+mu&client=ms-android-xiaomi-terr2-rso2&hs=h5qq&sca_esv=a3f5dec736f5e351&sxsrf=APpeQnsd_XbC7zzaricmX_Cd0kHRPksVUA%3A1792593627847&udm=50&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiP6KfTq8uXAxV89gIHHXbhDqgQ2J8OegQIEhAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfDppMl8rQl659OH8uCX-1SGQgg6kue68yJOH4AUk88YSCbRwK6b4a9U6p3_xDbFCKchXZz6eLkNzlW1HIoTAoWI1EUhB3_jFvkp1vuFDa3ywVAd-OfDz_Lgtuhvv24FlQA9-phlULyhAVOJdxSxiB6bjn4DAX1oFRI&csuir=1&mtid=3c7YaqXNBYSli-gP58jV4Aw>
+
+[Open message](transcript.html#m001564) · Source: chat.txt lines 1569–1569
+
+### m001565 · 2026\-10\-21 17:06:54 · You
+
+> <https://www.google.com/search?q=cylinder+beter+dan+sphere+voor+kunstmatige+baarmoeder+want+waterpas+luchtdicht+door+zwaartekracht+beweegt+het+linear&client=ms-android-xiaomi-terr2-rso2&hs=SQWB&sca_esv=a3f5dec736f5e351&sxsrf=APpeQnuwCp5ekIgARHTIIs3Y51_1UWf2Zw%3A1792593817791&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiMlPGtrMuXAxX6h_0HHQnDGPwQ2J8OegQIEhAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfCqTBaHm28XA0C1snECy0A1E2WIeCZ5IAReSLkgOwuTZST9dZQ963--rqlypJXzqRocSwSvtbK6knOEwz1-bkVQAdWmpvpoi-6b2Hjmk9LUJUs2lHednYg47QGLTBNbOBHudvQsEYAspWpDwyNJeKN9fh48Nk8v4zoKxFJHaF2A1t5tGmIJvtWElUiC4c2xEa7w1UCkURqk8Rb8oQ3EUlx6Wi_f3oGdKuOMIyX7Fo1SG5SCoDG5HpWrH5wszYHufAfIvkHHMrQGGjWDnAqc_ssHPIuQ9Bvy_1wdDKPmBiJHr9OlSIJ6Ex3841k_5cZPXmp7TYShngUYQg&csuir=1&mtid=m8_YavSZB9aH9u8Ps4uH4As&udm=50>
+
+[Open message](transcript.html#m001565) · Source: chat.txt lines 1570–1570
+
+### m001566 · 2026\-10\-21 17:26:27 · You
+
+> <https://www.google.com/search?q=cylinder+beter+dan+sphere+voor+kunstmatige+baarmoeder+want+waterpas+luchtdicht+door+zwaartekracht+beweegt+het+linear&client=ms-android-xiaomi-terr2-rso2&hs=SQWB&sca_esv=a3f5dec736f5e351&sxsrf=APpeQnuwCp5ekIgARHTIIs3Y51_1UWf2Zw%3A1792593817791&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwiMlPGtrMuXAxX6h_0HHQnDGPwQ2J8OegQIEhAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfCAEuE3hErBFwFX92YJxkXGswuhvGpeV6d3SeD-RgC80y_J_L5VNfgq461TaOgMVPD7Dn4NepvgLVPrquxuj472D4iJsPFa9BvsVgpKMXTVVOpFsrNjtiMkxj6Pba528W8-CrJi2SB7Xlp6MaXe3UNaNeduoQWrTxGAFuifJUqIA3wQMWaK7iO9xguTrXERctZk8_lt05XFc7InU7rfL3oq4kUFW_mUqraN1LLAoPJOxm0zJJJYzNcbCoUp8s-NAinXvl4RNLJcXgeCrS4Wpp-8o_WvjhHAFOc8cI8mqgVf7qjVus9qBpAWtJ2nZwANEDmOTZoL1IWFHw&csuir=1&mtid=m8_YavSZB9aH9u8Ps4uH4As&lns_mode=cvst&udm=50>
+
+[Open message](transcript.html#m001566) · Source: chat.txt lines 1571–1571
+
+### m001567 · 2026\-10\-21 17:49:37 · You
+
+> <https://www.google.com/search?q=vuurwerk+matje+dominoday+mus+https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dcylinder%2Bbeter%2Bdan%2Bsphere%2Bvoor%2Bkunstmatige%2Bbaarmoeder%2Bwant%2Bwaterpas%2Bluchtdicht%2Bdoor%2Bzwaartekracht%2Bbeweegt%2Bhet%2Blinear%26client%3Dms-android-xiaomi-terr2-rso2%26hs%3DSQWB%26sca_esv%3Da3f5dec736f5e351%26sxsrf%3DAPpeQnuwCp5ekIgARHTIIs3Y51_1UWf2Zw%253A1792593817791%26source%3Dchrome.ob%26fbs%3DABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE%26vsint%3D%26aep%3D1%26ntc%3D1%26cs%3D1%26sa%3DX%26ved%3D2ahUKEwiMlPGtrMuXAxX6h_0HHQnDGPwQ2J8OegQIEhAE%26biw%3D375%26bih%3D691%26dpr%3D3.25%26mstk%3DAUtExfCAEuE3hErBFwFX92YJxkXGswuhvGpeV6d3SeD-RgC80y_J_L5VNfgq461TaOgMVPD7Dn4NepvgLVPrquxuj472D4iJsPFa9BvsVgpKMXTVVOpFsrNjtiMkxj6Pba528W8-CrJi2SB7Xlp6MaXe3UNaNeduoQWrTxGAFuifJUqIA3wQMWaK7iO9xguTrXERctZk8_lt05XFc7InU7rfL3oq4kUFW_mUqraN1LLAoPJOxm0zJJJYzNcbCoUp8s-NAinXvl4RNLJcXgeCrS4Wpp-8o_WvjhHAFOc8cI8mqgVf7qjVus9qBpAWtJ2nZwANEDmOTZoL1IWFHw%26csuir%3D1%26mtid%3Dm8_YavSZB9aH9u8Ps4uH4As%26lns_mode%3Dcvst%26udm%3D50&client=ms-android-xiaomi-terr2-rso2&hs=NRWB&sca_esv=c3f904480c8b8eff&sxsrf=APpeQntCngxzzIj4suUO_NYuQvj3SCmLrA%3A1792597204830&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cSpkWkfSwsmpNIrD_OQ-UcmyBIoY9IF5p0JFyekixmZSe3iXeoc7dEPEHXxQvlUcTLXl0JcNeJl5YkRNy8EhG5tWibaj1Gde7NIOaYNFn8yjWZYHtsAur77hoolvlzEc1usfdY&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjXz_n8uMuXAxUcg_0HHSG7FRIQ2J8OegQIDRAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfC-gJFpn8_64g4OcOUpZojNsC2yqhGXdaL1x2A7zQjlmHeZ2WNYkQXMNzDnZ9-WC3Rl_0eTmVQwFt4aPyWDgBuqvA3iRsBu1Z9iRfxNTepE9nZW-eMlTz4FSiNfggeQRIX8cHWPeTqzV3cStkGo4dQe-V87BCMYe0kzgSdHmZb9I3WmRI8E1sQgfQE-zgfl3WiE07kWCRfl0iLYrQF3-G7xGnmPakHFc7AoKgy8qZrpafV-nXHQI_m-Rsc-oE0FsYJ-lf9OxUmxXQ&csuir=1&mtid=1tzYar25F6jg7_UPqpeFqAY&udm=50>
+
+[Open message](transcript.html#m001567) · Source: chat.txt lines 1572–1572
+
+### m001568 · 2026\-10\-21 18:09:22 · You
+
+> <https://www.google.com/search?q=wa+wh+40k+exact+geformaliseerd&client=ms-android-xiaomi-terr2-rso2&hs=q6qq&sca_esv=c3f904480c8b8eff&sxsrf=APpeQns9ClhuQdbCSatL_Pk9sCIdly6WGg%3A1792597911460&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cbFrr0jGOmUDa5Wr8dJBxFZwNmZYJJS8DnCDRKlzSIL3qT6HTwQpKPI5zpsWMwXyrRK7nJOz-X1bamXcYuYTOTRQNkvTV-GrSB37T5H0QflI5aE-odLVybqNEZ_FueNXCSc-bcXxqll9OymfleXXHo6H9gQukYJnj7OpAlZSNWduYFvC8&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwig9fLNu8uXAxVc0AIHHdqmIKgQ2J8OegQIERAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfB9tH6rH5Zx4nnQhs1GsPL5xFXPgxul4BB5CGF0-6KbQ8vbMDMDWifN5BDZ0-1pV3xGBNpC0Ap2S8FBa4HOAYSjEkaVkUIjVnJ6UmqSQVblAj-jFi1uiE03yyIfECDxCSCTg5npNh9upDy94Az9WXhp_7edVZwgj9FC4W1a38xCwaeT1qDHnBL_GL1aGb0EQ-omCHJmiDRADouVEvokbEVl0fDyFXZc6jHDbA58qCX0wmVw1tSXtzOSwgr9bWCu5Fpky4Dwph0OJBxkbvxQyJJH292P7PmXY1ZOW62xWEo240g5f6ZEyMnQD_rxm9hbRPryWSkyzfi0vw&csuir=1&mtid=od_YauraFsqI9u8P0rzMkQ4&udm=50>
+
+[Open message](transcript.html#m001568) · Source: chat.txt lines 1573–1573
+
+### m001569 · 2026\-10\-21 18:16:58 · You
+
+> <https://www.google.com/search?q=wa+wh+40k+exact+geformaliseerd&client=ms-android-xiaomi-terr2-rso2&hs=q6qq&sca_esv=c3f904480c8b8eff&sxsrf=APpeQns9ClhuQdbCSatL_Pk9sCIdly6WGg%3A1792597911460&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cbFrr0jGOmUDa5Wr8dJBxFZwNmZYJJS8DnCDRKlzSIL3qT6HTwQpKPI5zpsWMwXyrRK7nJOz-X1bamXcYuYTOTRQNkvTV-GrSB37T5H0QflI5aE-odLVybqNEZ_FueNXCSc-bcXxqll9OymfleXXHo6H9gQukYJnj7OpAlZSNWduYFvC8&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwig9fLNu8uXAxVc0AIHHdqmIKgQ2J8OegQIERAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfDiYSYQd4T5oH8geS_u3DeA7FhwYpINiByQ-Nd8g-epeWvU1my88clwft1jxFM1JQSoNCXOvsGgFM-sT8ktWQndNgqlRAGgmI6qMl9D_fGqZ_YnXUOQdGnIg59xi6wgQTXwS0H-LDXtxxyBZjUvrKjvHvLHE-s5ZKqmDSbeDNaRmEGKrxq8ia9xzclZk__2OFKcqRKu7q6oxlwX86pXNVQEdCEKe1l-C7K5pCFxEwt8cLbqfLkYq84_OcqjAyLe-ETV3fJUB3HQtMKDTeLhtcvk_NG5jsVLeeOHwviaML38UgCBWaBy89ki6cXI4btNl_q1_Fu3ARoWIA&csuir=1&mtid=od_YauraFsqI9u8P0rzMkQ4&udm=50&lns_mode=cvst>
+
+[Open message](transcript.html#m001569) · Source: chat.txt lines 1574–1574
