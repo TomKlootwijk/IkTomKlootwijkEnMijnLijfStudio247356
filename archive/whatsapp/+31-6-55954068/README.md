@@ -1,30 +1,30 @@
 # WhatsApp chat archive: +31 6 55954068
 
-This is the complete text transcription of the supplied [+31 6 55954068.zip](../../../%2B31%206%2055954068.zip), containing **1,569 messages** from **2026-09-23 06:40:13** through **2026-10-21 18:16:58** across **29 dates**. Original sender labels, spelling, Unicode, multiline bodies, repeated timestamps, duplicate records, full URLs, and media placeholders are preserved.
+This is the complete text transcription of the supplied [+31 6 55954068.zip](../../../%2B31%206%2055954068.zip), containing **1,599 messages** from **2026-09-23 06:40:13** through **2026-10-22 05:56:42** across **30 dates**. Original sender labels, spelling, Unicode, multiline bodies, repeated timestamps, duplicate records, full URLs, and media placeholders are preserved.
 
 Open the [searchable HTML transcript](transcript.html) locally in a browser for clickable links, date navigation, and a permanent anchor for every message. A [Markdown transcript](transcript.md) and [plain text transcript](transcript.txt) are also included. The HTML is self-contained, runs no scripts, and loads no remote assets.
 
 - [messages.jsonl](messages.jsonl): one record per message, with exact local date/time to the second, sender, body, source line/byte spans, raw source record, SHA-256, link/media IDs, and reply context.
-- [links.jsonl](links.jsonl): **814 URL occurrences**, **806 unique URLs** (813 in message bodies; 1 in supplemental quoted replies), with exact full URLs, sender/time, body or quote offsets, and message anchors. Repeated occurrences remain separate. Links were preserved without fetching them.
-- [media-references.jsonl](media-references.jsonl): **483 placeholders** with original markers and descriptions: **439 omitted-media references** and **44 album markers**.
+- [links.jsonl](links.jsonl): **829 URL occurrences**, **821 unique URLs** (828 in message bodies; 1 in supplemental quoted replies), with exact full URLs, sender/time, body or quote offsets, and message anchors. Repeated occurrences remain separate. Links were preserved without fetching them.
+- [media-references.jsonl](media-references.jsonl): **494 placeholders** with original markers and descriptions: **448 omitted-media references** and **46 album markers**.
 - [metadata.json](metadata.json): source/export metadata, ZIP member information and hashes, daily counts, participants as labeled, date range, media/link counts, parsing conventions, and available-data limits.
 - [source-comparison.json](source-comparison.json): reconciliation of all messages in both exports, including the **4 reply quotes** available only in Markdown.
 - [source/chat.txt](source/chat.txt) and [source/chat.md](source/chat.md): byte-identical originals extracted from the ZIP.
 - [validation.json](validation.json) and [checksums.json](checksums.json): completeness checks and SHA-256 checksums for every delivered archive file except the checksum manifest itself.
 
-The TXT export is the canonical message body/time source because it retains seconds. The Markdown export supplies the chat label, export time (October 21, 2026 at 6:18 PM), and 4 reply quotes. All 1,569 message identities and bodies reconcile after the documented placeholder substitutions and separate preservation of those quotes. The undated encryption notice is preserved separately without assigning it a fabricated timestamp.
+The TXT export is the canonical message body/time source because it retains seconds. The Markdown export supplies the chat label, export time (October 22, 2026 at 6:23 AM), and 4 reply quotes. All 1,599 message identities and bodies reconcile after the documented placeholder substitutions and separate preservation of those quotes. The undated encryption notice is preserved separately without assigning it a fabricated timestamp.
 
-The ZIP contains only these two text files. It includes **no actual media**: image (297), audio (96), document (39), and video (7) references say omitted; 44 album markers have no item contents. The absent voice recordings cannot be transcribed from this export. Separately supplied files are described below. Source timestamps have **no specified timezone**; no offset is assumed. Exported sender labels are all `You`; the phone-number chat label is not used to invent another sender. No WhatsApp internal message IDs or read/delivery receipts are available; `m000001` and similar IDs are local persistent identifiers.
+The ZIP contains only these two text files. It includes **no actual media**: image (306), audio (96), document (39), and video (7) references say omitted; 46 album markers have no item contents. The absent voice recordings cannot be transcribed from this export. Separately supplied files are described below. Source timestamps have **no specified timezone**; no offset is assumed. Exported sender labels are all `You`; the phone-number chat label is not used to invent another sender. No WhatsApp internal message IDs or read/delivery receipts are available; `m000001` and similar IDs are local persistent identifiers.
 
 Rebuild using Python 3.12+ and the standard library, from the repository root:
 
 ```powershell
-python scripts/archive_whatsapp.py "+31 6 55954068.zip" --output "archive/whatsapp/+31-6-55954068" --previous-archive "archive/whatsapp/+31-6-55954068/export-history/8f30c032d0a14e861730d5918dff2dabbcdaf2362fd726ed0e2f563fb8613af9" --media-sources "archive/whatsapp/+31-6-55954068/media-sources.json"
+python scripts/archive_whatsapp.py "+31 6 55954068.zip" --output "archive/whatsapp/+31-6-55954068" --previous-archive "archive/whatsapp/+31-6-55954068/export-history/04c715415e02e98406b2051ca45236331d5337f1959b387fece0be0906533036" --media-sources "archive/whatsapp/+31-6-55954068/media-sources.json"
 ```
 
 The build fails if the paired exports do not reconcile, any record bytes are lost, source byte spans differ, or the ZIP fails its integrity check. Outputs are deterministic. `metadata.json.source_notice.text` followed by every `messages.jsonl` record's `source.raw_record` reproduces `source/chat.txt` exactly as UTF-8.
 
-This update adds **23 messages** and retains all **1546 previous messages**. Existing message, link, and media IDs remain attached to the same content. See [export-update.json](export-update.json). The [previous export snapshot](export-history/8f30c032d0a14e861730d5918dff2dabbcdaf2362fd726ed0e2f563fb8613af9/metadata.json) retains its original records and source bytes.
+This update adds **30 messages** and retains all **1569 previous messages**. Existing message, link, and media IDs remain attached to the same content. See [export-update.json](export-update.json). The [previous export snapshot](export-history/04c715415e02e98406b2051ca45236331d5337f1959b387fece0be0906533036/metadata.json) retains its original records and source bytes.
 
 **4 separately supplied media files** have [text transcriptions and metadata](supplied-media.json), linked from their matching chat entries. Filename timestamps and media kinds establish candidate associations; the export contains no attachment hashes to prove those associations. Video transcripts retain machine confidence flags and suppressed candidates; the image transcription marks obscured text. [Restore the three original videos from verified chunks](../../../archive-bundles/whatsapp-media-2026-10-13/README.md).
 
