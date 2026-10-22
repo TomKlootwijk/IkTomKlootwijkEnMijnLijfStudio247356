@@ -1,6 +1,6 @@
 # WhatsApp archive: +31 6 55954068
 
-1,599 messages; 2026-09-23T06:40:13 through 2026-10-22T05:56:42. All timestamps are the exported local time; the source does not specify a timezone. All source sender labels are preserved. Media marked omitted is absent from the supplied ZIP.
+1,603 messages; 2026-09-23T06:40:13 through 2026-10-22T06:41:20. All timestamps are the exported local time; the source does not specify a timezone. All source sender labels are preserved. Media marked omitted is absent from the supplied ZIP.
 
 [Archive metadata](metadata.json) · [All links](links.jsonl) · [Media references](media-references.jsonl) · [Source comparison](source-comparison.json)
 
@@ -9681,3 +9681,27 @@ Separately supplied image: [text transcription](media-transcripts/image-2026-10-
 > <https://www.instagram.com/reel/DeueXhbjWBu/?mdxt=azAzczZvYm5vNTcz>
 
 [Open message](transcript.html#m001599) · Source: chat.txt lines 1604–1604
+
+### m001600 · 2026\-10\-22 06:38:21 · You
+
+> Maria startseva was voor mij mijn wederhelft
+
+[Open message](transcript.html#m001600) · Source: chat.txt lines 1605–1605
+
+### m001601 · 2026\-10\-22 06:38:29 · You
+
+> Maarja aids en gay stuff
+
+[Open message](transcript.html#m001601) · Source: chat.txt lines 1606–1606
+
+### m001602 · 2026\-10\-22 06:38:33 · You
+
+> Dus nee
+
+[Open message](transcript.html#m001602) · Source: chat.txt lines 1607–1607
+
+### m001603 · 2026\-10\-22 06:41:20 · You
+
+> <https://www.google.com/search?q=0+sum+game+theory+foresight+specialist+en+ik+hindsight+hindenburg+game+technology+game+design+en+creatieve+technologist&client=ms-android-xiaomi-terr2-rso2&hs=ayBW&sca_esv=319c8d9d6011a834&sxsrf=APpeQnvuUbA_oD2K_ct2jwvG5_D3Q1w7SQ%3A1792643979702&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832UV2GkpKEK36HumGR10Evz2DVjeRA8KXMlyPEiG8NJ3gVv7pM6Pnvf-EDDyTD4ykKRjQtBxsKa4XaVt_PnSQtGoct8qygQSWu2Smb3gTrNMfaDvJEMlNKxBKfn2z_WTpD5UfJ1K9f2RexrFx716KV5I9G-Z9&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjUgfmc58yXAxVDhf0HHWo5BR0Q2J8OegQIEBAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfA9meePgiG3K6m7IqtKXExTYzpBYDveAMvYA1J9wSidLkU695x3XQhWCxsBJqPj8Sm5IhhiSxeC3tPbi-fZaUes2pfFHV5p_TLl9ofo7UsXkmnJ6iwgUrQifIAZCfCNon8lCPiunD7ZhVVK5mA2X_4OG-P3qwd9AU85cTpeGBV2YMf5ZsW2BUg1bRNC-u6vIToHDc2Y7ePo9pLp1uLHXJtE1INiq_49cqHLh76fqRUGxjZ9V9YBO8W9FlQgJwDUkjIDu2l3bEws3VrawuqHBKfSaj2d-eMSW-T9bHRD3JMoJtX_wekCb58oelLU80PSgtR_6asdlPwaxA&csuir=1&mtid=m5PZavS3LsjIi-gPu_aDuAs&udm=50>
+
+[Open message](transcript.html#m001603) · Source: chat.txt lines 1608–1608

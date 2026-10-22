@@ -1,5 +1,5 @@
 # WhatsApp Chat Export: +31 6 55954068
-Export date: October 22, 2026 at 6:23 AM
+Export date: October 22, 2026 at 6:45 AM
 
 ---
 
@@ -3330,3 +3330,11 @@ En synchroniseren van
 [5:53 AM] **You:** https://youtu.be/Wvfb3_aLbVg?is=LTK7-xl_PCSyPKtd lipid machine used as processors it was me us them divide et imp orator neerlandicus niet op Rene roads dual gayt paden
 
 [5:56 AM] **You:** https://www.instagram.com/reel/DeueXhbjWBu/?mdxt=azAzczZvYm5vNTcz
+
+[6:38 AM] **You:** Maria startseva was voor mij mijn wederhelft
+
+[6:38 AM] **You:** Maarja aids en gay stuff
+
+[6:38 AM] **You:** Dus nee
+
+[6:41 AM] **You:** https://www.google.com/search?q=0+sum+game+theory+foresight+specialist+en+ik+hindsight+hindenburg+game+technology+game+design+en+creatieve+technologist&client=ms-android-xiaomi-terr2-rso2&hs=ayBW&sca_esv=319c8d9d6011a834&sxsrf=APpeQnvuUbA_oD2K_ct2jwvG5_D3Q1w7SQ%3A1792643979702&source=chrome.ob&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832UV2GkpKEK36HumGR10Evz2DVjeRA8KXMlyPEiG8NJ3gVv7pM6Pnvf-EDDyTD4ykKRjQtBxsKa4XaVt_PnSQtGoct8qygQSWu2Smb3gTrNMfaDvJEMlNKxBKfn2z_WTpD5UfJ1K9f2RexrFx716KV5I9G-Z9&vsint=&aep=1&ntc=1&cs=1&sa=X&ved=2ahUKEwjUgfmc58yXAxVDhf0HHWo5BR0Q2J8OegQIEBAE&biw=375&bih=691&dpr=3.25&mstk=AUtExfA9meePgiG3K6m7IqtKXExTYzpBYDveAMvYA1J9wSidLkU695x3XQhWCxsBJqPj8Sm5IhhiSxeC3tPbi-fZaUes2pfFHV5p_TLl9ofo7UsXkmnJ6iwgUrQifIAZCfCNon8lCPiunD7ZhVVK5mA2X_4OG-P3qwd9AU85cTpeGBV2YMf5ZsW2BUg1bRNC-u6vIToHDc2Y7ePo9pLp1uLHXJtE1INiq_49cqHLh76fqRUGxjZ9V9YBO8W9FlQgJwDUkjIDu2l3bEws3VrawuqHBKfSaj2d-eMSW-T9bHRD3JMoJtX_wekCb58oelLU80PSgtR_6asdlPwaxA&csuir=1&mtid=m5PZavS3LsjIi-gPu_aDuAs&udm=50
