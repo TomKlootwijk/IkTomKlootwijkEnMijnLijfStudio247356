@@ -1,6 +1,6 @@
 {
   "status": "passed",
-  "records_compared": 1603,
+  "records_compared": 1707,
   "identity_check": "Sequence, calendar date, minute timestamp, and sender match for every record.",
   "body_check": "Every body matches after the documented media marker substitutions and removal of supplemental reply quotes.",
   "marker_substitutions": {
@@ -10,7 +10,7 @@
     "<video omitted>": "[Video]",
     "<album message>": "[album message]"
   },
-  "supplemental_reply_context_count": 4,
+  "supplemental_reply_context_count": 5,
   "supplemental_records": [
     {
       "message_id": "m000573",
@@ -63,6 +63,19 @@
           "raw_markdown": "> _You: Ragnarok online forcefield aura meten proeven voelen en streamen en mengen en flow fields miasma_",
           "source_file": "source/chat.md",
           "source_line": 2869,
+          "replied_to_message_id": null
+        }
+      ]
+    },
+    {
+      "message_id": "m001685",
+      "reply_context": [
+        {
+          "sender": "You",
+          "quoted_text": "Image",
+          "raw_markdown": "> _You: Image_",
+          "source_file": "source/chat.md",
+          "source_line": 3509,
           "replied_to_message_id": null
         }
       ]

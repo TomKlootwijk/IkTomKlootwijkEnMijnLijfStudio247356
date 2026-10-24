@@ -1,6 +1,6 @@
 # YouTube playlist audio and transcript archive
 
-The repository also contains a [complete WhatsApp text archive](archive/whatsapp/+31-6-55954068/README.md), with 1,603 messages, exact exported date/time, full links, available metadata, byte-identical source exports, and transcriptions of separately supplied media.
+The repository also contains a [complete WhatsApp text archive](archive/whatsapp/+31-6-55954068/README.md), with 1,707 messages, exact exported date/time, full links, available metadata, byte-identical source exports, and transcriptions of separately supplied media.
 
 Source playlist: [Chris the Hacker and Tom the Fag](https://www.youtube.com/playlist?list=PLyIdTztuBW5ieppWuuOPSBXmxX1mN_w5v).
 
@@ -67,9 +67,9 @@ The delivery receipt records completed uploads and OneDrive Cloud Files synchron
 
 Source: [`+31 6 55954068.zip`](+31%206%2055954068.zip). The [archive guide](archive/whatsapp/+31-6-55954068/README.md) links to HTML, Markdown, and plain text transcripts, structured JSONL messages, a full URL index, media references, source reconciliation, validation, and SHA-256 checksums.
 
-The updated ZIP contains 1,603 messages across September 23–October 22, 2026, through 06:41:20, and four quoted replies preserved from its Markdown export. The link index contains 830 occurrences (822 unique URLs): 829 in message bodies and one in a quoted reply. This export adds four messages and retains all 1,599 previous messages, their existing IDs, duplicates, multiline text, and ordering. Prior exports are preserved in the archive's export history.
+The updated ZIP contains 1,707 messages across September 23–October 24, 2026, through 14:56:43, and five quoted replies preserved from its Markdown export. The link index contains 876 occurrences (868 unique URLs): 875 in message bodies and one in a quoted reply. This export adds 104 messages and retains all 1,603 previous messages, their existing IDs, duplicates, multiline text, and ordering. Prior exports are preserved in the archive's export history.
 
-The text ZIP inventories 448 omitted-media references and 46 album markers. Three separately supplied videos and one image have [transcriptions and metadata](archive/whatsapp/+31-6-55954068/supplied-media.json), linked from their matching chat entries. The video audio was fully processed; one video has no reliably recognized speech and retains uncertainty information. The image transcription marks obscured text. Source timestamps have no specified timezone; filename-based media associations are recorded as candidates.
+The text ZIP inventories 470 omitted-media references and 50 album markers. Three separately supplied videos and one image have [transcriptions and metadata](archive/whatsapp/+31-6-55954068/supplied-media.json), linked from their matching chat entries. The video audio was fully processed; one video has no reliably recognized speech and retains uncertainty information. The image transcription marks obscured text. Source timestamps have no specified timezone; filename-based media associations are recorded as candidates.
 
 The three original videos are preserved in [four verified ZIP chunks](archive-bundles/whatsapp-media-2026-10-13/README.md), each at most 80 MiB. Their original working copies and the complete local ZIP are ignored by Git. Restore and verify them with:
 
@@ -80,5 +80,5 @@ python scripts/restore_archive.py archive-bundles/whatsapp-media-2026-10-13/chec
 Rebuild from the repository root using Python's standard library:
 
 ```powershell
-python scripts/archive_whatsapp.py "+31 6 55954068.zip" --output "archive/whatsapp/+31-6-55954068" --previous-archive "archive/whatsapp/+31-6-55954068/export-history/58892403486782fce97d58200b6965cab3c4f40a3a4871c9303990aed0144451" --media-sources "archive/whatsapp/+31-6-55954068/media-sources.json"
+python scripts/archive_whatsapp.py "+31 6 55954068.zip" --output "archive/whatsapp/+31-6-55954068" --previous-archive "archive/whatsapp/+31-6-55954068/export-history/1abda6917c4dff299bfcfcae668d13376b0bc20ca5f11e30e2469e4c88f69549" --media-sources "archive/whatsapp/+31-6-55954068/media-sources.json"
 ```
